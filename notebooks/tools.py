@@ -7,6 +7,41 @@ import pathlib
 import math
 import copy
 import numpy
+import shutil
+import sh
+
+epsilon = 0.0001
+
+def ffmpeg_run(command):
+    for line in sh.ffmpeg(command,  _err_to_out=True, _iter=True, _out_bufsize=1000):
+        print(line)
+
+def to_gif_impl(src, width, dest, src_frame_rate = None):
+
+    palette = "%s_palette.png" % dest
+
+    filters = ""
+    if width != None:
+        filters += "scale=%s:-1:flags=lanczos," % width
+    command = ["-vf", filters + "palettegen"]
+    command = ["-i", src, "-y"] + command + [palette]
+    print(" ".join(command))
+
+    ffmpeg_run(command)
+
+    command2 = ["-lavfi", filters + "paletteuse=dither=none"]
+
+    if src_frame_rate != None:
+        fr_command2 = ["-framerate", str(src_frame_rate)]
+    else:
+        fr_command2 = []
+
+    command2 = fr_command2 + ["-i", src, "-i", palette, "-y"] + command2 + [dest]
+
+
+    print(" ".join(command2))
+
+    ffmpeg_run(command2)
 
 class DataProvider:
     def __init__(self):
@@ -29,7 +64,6 @@ class DataProvider:
 
             import matplotlib.pyplot as plt
             import pandas as pd
-
 
             filename = "data/ecdc/" + date + ".xlsx"
 
@@ -100,7 +134,7 @@ class DataProcessor:
         for v in values_for_china:
             d = datetime.datetime.fromisoformat(v["date"]) + datetime.timedelta(days = -self.offset + self.china_italy_offset)
             d = d.isoformat()[:10]
-            mapping_for_china[d] = v[data_type] + 1
+            mapping_for_china[d] = v[data_type] + epsilon
         return mapping_for_china
         
     def analyze_data(self, x, y):
@@ -142,7 +176,7 @@ class DataProcessor:
         dates = [(datetime.datetime.fromisoformat(v["date"]) - start_time).days + self.offset for v in values]
         
         if china_comparison:
-            y = [v[data_type]/mapping_for_china.get(v["date"][:10], 1) for v in values]        
+            y = [v[data_type]/mapping_for_china.get(v["date"][:10], epsilon) for v in values]
         else:
             y = [v[data_type] for v in values]
 
@@ -248,8 +282,7 @@ class CountryGraph:
 
 #                 linestyle='dotted')
 
-    def plot(self, ax = None):
-        clip = 0
+    def plot(self, clip = 0):
         dates, values = self.dp.get_data(self.china_comparison)
         assert(len(dates) == len(values))
         dates = dates[:len(dates) - clip]
@@ -261,8 +294,7 @@ class CountryGraph:
         offset = self.offset
         if offset != 0:
             label += " (%+d days)" % (offset)
-        ax = ax or plt
-        ax.plot(dates,
+        plt.plot(dates,
                 values,
                 label = label,
                 ** self.plot_kwargs)
@@ -305,7 +337,7 @@ class MultiCountryGraph:
                 raise Exception("Too many countries to plot")
 
         
-    def plot_(self, filename = None):
+    def plot_(self, filename = None, clip = 0):
         if filename != None:     
             matplotlib.use("Agg")  # Prevent showing stuff
             dpi = 160
@@ -338,7 +370,7 @@ class MultiCountryGraph:
                              self.china_comparison,                             
                              plot_kwargs,
                              draw_reference = draw_reference)
-            g.plot(None)
+            g.plot(clip = clip)
             self.country_graphs.append(g)
             
         if self.growth_reference:
@@ -362,13 +394,34 @@ class MultiCountryGraph:
         if filename is not None:
             fig.savefig(filename)           
             
-    def plot(self, filename = None):
+    def plot(self, filename = None, clip = 0):
         try:
             backend_ =  matplotlib.get_backend() 
-            self.plot_(filename)
+            self.plot_(filename, clip = clip)
         finally:
-            matplotlib.use(backend_) # Reset backend        
-        
+            matplotlib.use(backend_) # Reset backend
+
+    def movie(self, movie_filename):
+        max_back = 15
+
+        try:
+            shutil.rmtree("temp_dir")
+        except:
+            pass
+
+        pathlib.Path("temp_dir").mkdir()
+
+        for index in range(max_back):
+            clip = max_back - index - 1
+            self.plot(filename = "temp_dir/deaths_back_%03d.png" % index, clip=clip)
+
+        for i in range(5):
+            self.plot(filename = "temp_dir/deaths_back_%03d.png" % (max_back + i), clip=0)
+
+        path = pathlib.Path("output.gif")
+        to_gif_impl("temp_dir/deaths_back_%03d.png", None, str(path), 2)
+        path.rename(movie_filename)
+
     def growth_reference_plot(self):
         china_italy_offset = 37
         reference_shift = dict(deaths=china_italy_offset + 12.5,
@@ -380,6 +433,8 @@ class MultiCountryGraph:
         plt.plot([max(1, 2**((x + shift) / time_base)) for x in range(0, 78)],
                  label="Doubling every %02.2f days" % time_base,       
                  linestyle='dotted')
+
+
 
 data_provider = DataProvider()
 
@@ -404,7 +459,7 @@ if True:
 
 for c in all_countries:
     print(c)
-    for dt in ["cases", "deaths"]:
+    for dt in ["deaths", "cases"]:
         countries = ["China", "Italy", "South_Korea"]
         references = [c]
         if c not in countries:
@@ -419,6 +474,7 @@ for c in all_countries:
                               china_comparison = False,
                               growth_reference = len(references) == 0)
         dest_file_name = root / "countries" / c / ("%s_%s_%s.png" % (data_date, c, dt))
-
         g.plot(dest_file_name)
 
+        dest_file_name = root / "countries" / c / ("%s_%s_%s.gif" % (data_date, c, dt))
+        g.movie(dest_file_name)
