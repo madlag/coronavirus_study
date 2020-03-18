@@ -211,7 +211,9 @@ class CountryGraph:
                  data_type = "deaths",
                  china_comparison = False, 
                  plot_kwargs = None,
-                 draw_reference = False):
+                 draw_reference = False,
+                 start = 40,
+                 end = 80):
         self.data_provider = data_provider
         self.country_info_store = country_info_store
         self.country = country
@@ -221,14 +223,18 @@ class CountryGraph:
         self.plot_kwargs = plot_kwargs or {}
         self.country_info = self.country_info_store.get_country_info(self.country)
         self.offset = int(self.country_info["shift"])
+        self.start = start
+        self.end = end
+
         self.dp = DataProcessor(self.data_provider, self.country, self.data_type, offset = - self.offset)
         self.draw_reference = draw_reference
+
 
     def growth_reference_plot(self):
         time_base = self.country_info["trend_time_base"]
         shift = self.country_info["trend_base_shift"]
-        print(self.country, time_base, shift)
-        dates = [x for x in range(40, 80)]
+
+        dates = [x for x in range(self.start, self.end)]
         data = [max(1, 2 ** ((x + shift) / time_base)) for x in dates]
 
         while data[-1] > 5000:
@@ -237,7 +243,7 @@ class CountryGraph:
 
         plt.plot(dates,
                  data,
-                 label="Doubling every %02.2f days" % (time_base),
+                 label="%s: doubling every %02.2f days" % (self.country, time_base),
                  linestyle='dotted')
 
 #                 linestyle='dotted')
@@ -272,6 +278,7 @@ class MultiCountryGraph:
                  data_provider,
                  country_info_store,
                  countries = ["Italy", "France"],
+                 reference_for_countries = None,
                  sort_countries_by_offset = True,
                  log_axis = True,
                  data_type = "deaths",
@@ -281,6 +288,7 @@ class MultiCountryGraph:
         self.data_provider = data_provider
         self.country_info_store = country_info_store
         self.countries = countries
+        self.reference_for_countries = reference_for_countries or []
         if sort_countries_by_offset:
             self.countries.sort(key = lambda x : country_info_store.get_country_info(x)["shift"])
 
@@ -306,9 +314,10 @@ class MultiCountryGraph:
             
         fig=plt.figure(figsize=(12, 8), dpi=dpi, facecolor='w', edgecolor='k')
 
-        draw_reference = len(self.countries) == 1
         self.country_graphs = []
         for i, country in enumerate(self.countries):
+            draw_reference = len(self.countries) == 1
+
             marker = self.markers[i] if self.visually_impaired else None                
             linewidth = 3 if marker == None else 1
 
@@ -316,7 +325,11 @@ class MultiCountryGraph:
                                linestyle=None,
                                markersize=7, 
                                marker = marker)
-            
+
+            if country in self.reference_for_countries:
+                draw_reference = True
+            draw_reference = draw_reference and self.data_type == "deaths"
+
             g = CountryGraph(self.data_provider,
                              self.country_info_store,
                              country,
@@ -324,7 +337,7 @@ class MultiCountryGraph:
                              self.data_type, 
                              self.china_comparison,                             
                              plot_kwargs,
-                             draw_reference)
+                             draw_reference = draw_reference)
             g.plot(None)
             self.country_graphs.append(g)
             
@@ -332,15 +345,19 @@ class MultiCountryGraph:
             self.growth_reference_plot()
             
         _ = plt.legend()
-        title = "%s by country over time.\n" % self.data_type.capitalize()
+        data_date = self.data_provider.data_date
+        title = "%s by country over time, %s data from ECDC.\n" % (self.data_type.capitalize(), data_date)
+        title += "Dates are shifted for each country to facilitate comparison."
         if self.log_axis:
             title += "Logarithmic scale.\n"
-        title += "Dates are shifted for each country to facilitate comparison."
+
         plt.title(title,
                   fontdict = {'fontweight' : "bold", 'verticalalignment': 'baseline'})
         plt.xlabel("Days since 01-01-2020 for Italy (use offset for other countries).\n Produced by https://github.com/madlag/coronavirus_study/")
         plt.ylabel(self.data_type)
-        plt.xlim(40, 120)
+
+        data_type_offset = 0 if self.data_type == "deaths" else - 14
+        plt.xlim(40 + data_type_offset, 120 + data_type_offset)
         
         if filename is not None:
             fig.savefig(filename)           
@@ -367,6 +384,13 @@ class MultiCountryGraph:
 data_provider = DataProvider()
 
 country_info_store = CountryInfoStore(data_provider, debug = True)
+all_countries = country_info_store.countries
+data_date = data_provider.data_date
+
+root = pathlib.Path("graphs/%s" % (data_date))
+if not root.exists():
+    root.mkdir(parents= True)
+
 
 if True:
     g = MultiCountryGraph(data_provider,
@@ -376,66 +400,25 @@ if True:
                           data_type = "deaths",
                           visually_impaired = False,
                           china_comparison = False)
-    g.plot("test.png")
+    g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
 
-countries = country_info_store.countries
-data_date = data_provider.data_date
-
-for c in countries:
+for c in all_countries:
     print(c)
     for dt in ["cases", "deaths"]:
         countries = ["China", "Italy", "South_Korea"]
+        references = [c]
         if c not in countries:
             countries.append(c)
         g = MultiCountryGraph(data_provider,
                               country_info_store,
                               countries,
+                              reference_for_countries = references,
                               log_axis = True,
                               data_type = dt,
-                              visually_impaired = False,
-                              china_comparison = False)
-        root = pathlib.Path("graphs/%s/%s" % (data_date, c))
-        if not root.exists():
-            root.mkdir(parents= True)
+                              visually_impaired = True,
+                              china_comparison = False,
+                              growth_reference = len(references) == 0)
+        dest_file_name = root / "countries" / c / ("%s_%s_%s.png" % (data_date, c, dt))
 
-        dest_file_name = root / ("%s_%s_%s.png" % (data_date, c, dt))
         g.plot(dest_file_name)
 
-
-# # Notes on number of deaths
-# 
-# ## Time offsets
-# China obviously came first.
-# Italy and South Korea almost at the same time, 36 days later.
-# Then France and USA are roughly 9 days behind Italy and South Korea.
-# It's important to note this, as you can tell somehow what will happen to you by looking at the previous countries.
-# 
-# ## South Korea
-# From the graphics, it looks like *South Korea* is doing quite well to limit the number of deaths.
-# It looks like too that there was at least two steps in the growth, one stabilizing at 12 deaths, and a second growth stabilizing at 44.
-# 
-# ## Italy
-# The curve for *Italy* is much more worrying : no inflection is visible right now, the growth is still exponential.
-# 
-# ## United States
-# It's a bit early to be sure of anything, but the curve clearly follow an exponential growth right now
-# 
-# ## France
-# A first cluster appeared early, explaining the early start, and a second wave has started. Right now it's difficult to judge of the trend.
-# 
-# 
-
-# In[73]:
-
-
-
-# # Notes on numbers of cases
-# 
-# We are using there the same time shifts we used for the deaths.
-# It's apparent that the different curves are slightly separated (but on a logarithmic scale it can means a bit more).
-# My interpretation is that the testing policies of the different countries can be different, so you may have to compensate for this (South Korea and Italy did a lot of tests).
-# 
-# 
-# 
-# 
-# 
