@@ -51,6 +51,7 @@ class DataProvider:
     def prepare_data_from_ecdc(self):
         for i in range(10):
             d = (datetime.datetime.now().date() - datetime.timedelta(days=i))
+            print(d)
             try:
                 self.prepare_data_from_ecdc_(d.isoformat())
                 self.data_date = d
@@ -69,6 +70,7 @@ class DataProvider:
 
             if not pathlib.Path(filename).exists():
                 url = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-%s.xlsx" % date
+
                 data = urllib.request.urlopen(url).read()
                 f = open(filename, "wb")
                 f.write(data)
@@ -117,7 +119,7 @@ class DataProcessor:
                  china_italy_offset = 37,
                  new_daily_points = None,
                  min_deaths = 5,
-                 max_deaths = 500):
+                 max_deaths = 500000):
         self.data_provider = data_provider
         self.country = country
         self.data_type = data_type
@@ -137,16 +139,26 @@ class DataProcessor:
             mapping_for_china[d] = v[data_type] + epsilon
         return mapping_for_china
         
-    def analyze_data(self, x, y):
-        assert(len(x) == len(y))
-        filtered = ([],[])
+    def analyze_data(self, x0, y0):
+        x = x0
+        y = y0
 
         time_to_min_deaths = None
-        for i, xx in enumerate(x) :
+        for i, xx in enumerate(x):
             yy = y[i]
             if yy > self.min_deaths:
                 if time_to_min_deaths is None:
                     time_to_min_deaths = xx
+
+        x = x0[-10:]
+        y = y0[-10:]
+
+        assert(len(x) == len(y))
+        filtered = ([],[])
+
+        for i, xx in enumerate(x) :
+            yy = y[i]
+            if yy > self.min_deaths:
                 if yy < self.max_deaths:
                     filtered[0].append(xx)
                     filtered[1].append(math.log2(yy))
@@ -247,7 +259,7 @@ class CountryGraph:
                  plot_kwargs = None,
                  draw_reference = False,
                  start = 40,
-                 end = 80):
+                 end = 160):
         self.data_provider = data_provider
         self.country_info_store = country_info_store
         self.country = country
@@ -473,8 +485,10 @@ for c in all_countries:
                               visually_impaired = True,
                               china_comparison = False,
                               growth_reference = len(references) == 0)
-        dest_file_name = root / "countries" / c / ("%s_%s_%s.png" % (data_date, c, dt))
+        dest_dir = root / "countries" / c
+        dest_dir.mkdir(parents = True, exist_ok=True)
+        dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
         g.plot(dest_file_name)
 
-        dest_file_name = root / "countries" / c / ("%s_%s_%s.gif" % (data_date, c, dt))
+        dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
         g.movie(dest_file_name)
