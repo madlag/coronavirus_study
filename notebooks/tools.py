@@ -459,36 +459,46 @@ if not root.exists():
     root.mkdir(parents= True)
 
 main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_of_America"]
-if True:
-    g = MultiCountryGraph(data_provider,
-                          country_info_store,
-                           main_chart_countries,
-                          log_axis = True,
-                          data_type = "deaths",
-                          visually_impaired = False,
-                          china_comparison = False)
-    g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
 
-for c in all_countries:
-    print(c)
-    for dt in ["deaths", "cases"]:
-        countries = ["China", "Italy", "South_Korea"]
-        references = [c]
-        if c not in countries:
-            countries.append(c)
+step = 2
+
+if step <= 0:
+    if True:
         g = MultiCountryGraph(data_provider,
                               country_info_store,
-                              countries,
-                              reference_for_countries = references,
+                               main_chart_countries,
                               log_axis = True,
-                              data_type = dt,
-                              visually_impaired = True,
-                              china_comparison = False,
-                              growth_reference = len(references) == 0)
-        dest_dir = root / "countries" / c
-        dest_dir.mkdir(parents = True, exist_ok=True)
-        dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
-        g.plot(dest_file_name)
+                              data_type = "deaths",
+                              visually_impaired = False,
+                              china_comparison = False)
+        g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
 
-        dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
-        g.movie(dest_file_name)
+if step <= 1:
+    for c in all_countries:
+        print(c)
+        for dt in ["deaths", "cases"]:
+            countries = ["China", "Italy", "South_Korea"]
+            references = [c]
+            if c not in countries:
+                countries.append(c)
+            g = MultiCountryGraph(data_provider,
+                                  country_info_store,
+                                  countries,
+                                  reference_for_countries = references,
+                                  log_axis = True,
+                                  data_type = dt,
+                                  visually_impaired = True,
+                                  china_comparison = False,
+                                  growth_reference = len(references) == 0)
+            dest_dir = root / "countries" / c
+            dest_dir.mkdir(parents = True, exist_ok=True)
+            dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
+            g.plot(dest_file_name)
+
+            dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
+            g.movie(dest_file_name)
+
+if step <= 2:
+    import create_pages
+
+    create_pages.create_pages(data_date, main_chart_countries, all_countries)

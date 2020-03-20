@@ -1,8 +1,9 @@
 ##  COVID-19 {{ date }} report
+Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
-![Chart for {{main_chart_countries}}](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/{{date}}/{{date}}_main_comparison.png "Logo Title Text 1")
+![Covid-19 Chart for {{main_chart_countries}}]({{url_prefix}}_main_comparison.png "Covid-19 Chart for {{main_chart_countries}}")
 
 {% for country in countries %}
- <li><a href="{{country.name}}">{{country.name }}</a></li>
+ <li><a href="{{country.path}}">{{country.name }}</a></li>
 {% endfor %}
