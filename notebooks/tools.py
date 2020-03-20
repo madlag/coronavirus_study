@@ -458,11 +458,11 @@ root = pathlib.Path("graphs/%s" % (data_date))
 if not root.exists():
     root.mkdir(parents= True)
 
-
+main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_of_America"]
 if True:
     g = MultiCountryGraph(data_provider,
                           country_info_store,
-                          ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_of_America"],
+                           main_chart_countries,
                           log_axis = True,
                           data_type = "deaths",
                           visually_impaired = False,
