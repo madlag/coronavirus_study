@@ -1,4 +1,4 @@
-## Congo Spread comparison 
+## Congo Covid-19 status comparison 
 
 Congo
 

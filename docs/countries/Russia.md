@@ -1,4 +1,4 @@
-## Russia Spread comparison 
+## Russia Covid-19 status comparison 
 
 Russia
 

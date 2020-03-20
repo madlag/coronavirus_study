@@ -1,4 +1,4 @@
-## Lithuania Spread comparison 
+## Lithuania Covid-19 status comparison 
 
 Lithuania
 

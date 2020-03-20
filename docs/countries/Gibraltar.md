@@ -1,4 +1,4 @@
-## Gibraltar Spread comparison 
+## Gibraltar Covid-19 status comparison 
 
 Gibraltar
 

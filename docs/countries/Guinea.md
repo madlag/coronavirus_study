@@ -1,4 +1,4 @@
-## Guinea Spread comparison 
+## Guinea Covid-19 status comparison 
 
 Guinea
 

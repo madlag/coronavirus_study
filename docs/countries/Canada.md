@@ -1,4 +1,4 @@
-## Canada Spread comparison 
+## Canada Covid-19 status comparison 
 
 Canada covid-19 deaths are currently doubling each 6.21 days (observed average doubling time is 2.2 days across countries).
 

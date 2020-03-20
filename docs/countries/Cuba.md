@@ -1,4 +1,4 @@
-## Cuba Spread comparison 
+## Cuba Covid-19 status comparison 
 
 Cuba
 

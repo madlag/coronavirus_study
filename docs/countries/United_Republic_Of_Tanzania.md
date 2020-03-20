@@ -1,4 +1,4 @@
-## United Republic Of Tanzania Spread comparison 
+## United Republic Of Tanzania Covid-19 status comparison 
 
 United Republic Of Tanzania
 

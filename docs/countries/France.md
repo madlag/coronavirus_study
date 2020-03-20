@@ -1,4 +1,4 @@
-## France Spread comparison 
+## France Covid-19 status comparison 
 
 France covid-19 deaths are currently doubling each 2.81 days (observed average doubling time is 2.2 days across countries).
 

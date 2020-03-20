@@ -1,4 +1,4 @@
-## Ireland Spread comparison 
+## Ireland Covid-19 status comparison 
 
 Ireland
 

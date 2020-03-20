@@ -1,4 +1,4 @@
-## Namibia Spread comparison 
+## Namibia Covid-19 status comparison 
 
 Namibia
 

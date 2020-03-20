@@ -1,4 +1,4 @@
-## Sudan Spread comparison 
+## Sudan Covid-19 status comparison 
 
 Sudan
 

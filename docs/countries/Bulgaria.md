@@ -1,4 +1,4 @@
-## Bulgaria Spread comparison 
+## Bulgaria Covid-19 status comparison 
 
 Bulgaria
 

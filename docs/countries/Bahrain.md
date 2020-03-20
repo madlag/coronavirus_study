@@ -1,4 +1,4 @@
-## Bahrain Spread comparison 
+## Bahrain Covid-19 status comparison 
 
 Bahrain
 

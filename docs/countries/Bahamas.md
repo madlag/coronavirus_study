@@ -1,4 +1,4 @@
-## Bahamas Spread comparison 
+## Bahamas Covid-19 status comparison 
 
 Bahamas
 

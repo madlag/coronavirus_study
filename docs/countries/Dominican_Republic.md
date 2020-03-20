@@ -1,4 +1,4 @@
-## Dominican Republic Spread comparison 
+## Dominican Republic Covid-19 status comparison 
 
 Dominican Republic
 

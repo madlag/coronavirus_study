@@ -1,4 +1,4 @@
-## Slovakia Spread comparison 
+## Slovakia Covid-19 status comparison 
 
 Slovakia
 

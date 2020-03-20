@@ -1,4 +1,4 @@
-## Finland Spread comparison 
+## Finland Covid-19 status comparison 
 
 Finland
 

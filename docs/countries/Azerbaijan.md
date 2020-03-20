@@ -1,4 +1,4 @@
-## Azerbaijan Spread comparison 
+## Azerbaijan Covid-19 status comparison 
 
 Azerbaijan
 

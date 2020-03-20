@@ -1,4 +1,4 @@
-## Oman Spread comparison 
+## Oman Covid-19 status comparison 
 
 Oman
 

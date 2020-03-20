@@ -1,4 +1,4 @@
-## Guernsey Spread comparison 
+## Guernsey Covid-19 status comparison 
 
 Guernsey
 

@@ -1,4 +1,4 @@
-## Czech Republic Spread comparison 
+## Czech Republic Covid-19 status comparison 
 
 Czech Republic
 

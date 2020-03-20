@@ -1,4 +1,4 @@
-## Kosovo Spread comparison 
+## Kosovo Covid-19 status comparison 
 
 Kosovo
 

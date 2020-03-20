@@ -1,4 +1,4 @@
-## Holy See Spread comparison 
+## Holy See Covid-19 status comparison 
 
 Holy See
 

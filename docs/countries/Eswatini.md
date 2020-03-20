@@ -1,4 +1,4 @@
-## Eswatini Spread comparison 
+## Eswatini Covid-19 status comparison 
 
 Eswatini
 

@@ -1,4 +1,4 @@
-## Moldova Spread comparison 
+## Moldova Covid-19 status comparison 
 
 Moldova
 

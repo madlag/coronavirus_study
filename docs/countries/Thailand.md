@@ -1,4 +1,4 @@
-## Thailand Spread comparison 
+## Thailand Covid-19 status comparison 
 
 Thailand
 

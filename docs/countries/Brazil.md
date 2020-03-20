@@ -1,4 +1,4 @@
-## Brazil Spread comparison 
+## Brazil Covid-19 status comparison 
 
 Brazil
 

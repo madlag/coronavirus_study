@@ -1,4 +1,4 @@
-## Belarus Spread comparison 
+## Belarus Covid-19 status comparison 
 
 Belarus
 

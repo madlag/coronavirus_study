@@ -1,4 +1,4 @@
-## Gabon Spread comparison 
+## Gabon Covid-19 status comparison 
 
 Gabon
 

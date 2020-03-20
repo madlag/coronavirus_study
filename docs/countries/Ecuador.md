@@ -1,4 +1,4 @@
-## Ecuador Spread comparison 
+## Ecuador Covid-19 status comparison 
 
 Ecuador
 

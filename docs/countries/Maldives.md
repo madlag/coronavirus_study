@@ -1,4 +1,4 @@
-## Maldives Spread comparison 
+## Maldives Covid-19 status comparison 
 
 Maldives
 

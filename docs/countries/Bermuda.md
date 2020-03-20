@@ -1,4 +1,4 @@
-## Bermuda Spread comparison 
+## Bermuda Covid-19 status comparison 
 
 Bermuda
 

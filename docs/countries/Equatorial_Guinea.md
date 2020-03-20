@@ -1,4 +1,4 @@
-## Equatorial Guinea Spread comparison 
+## Equatorial Guinea Covid-19 status comparison 
 
 Equatorial Guinea
 

@@ -1,4 +1,4 @@
-## Kazakhstan Spread comparison 
+## Kazakhstan Covid-19 status comparison 
 
 Kazakhstan
 

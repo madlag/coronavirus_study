@@ -1,4 +1,4 @@
-## Seychelles Spread comparison 
+## Seychelles Covid-19 status comparison 
 
 Seychelles
 

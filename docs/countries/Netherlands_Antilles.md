@@ -1,4 +1,4 @@
-## Netherlands Antilles Spread comparison 
+## Netherlands Antilles Covid-19 status comparison 
 
 Netherlands Antilles
 

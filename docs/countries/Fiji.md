@@ -1,4 +1,4 @@
-## Fiji Spread comparison 
+## Fiji Covid-19 status comparison 
 
 Fiji
 

@@ -1,4 +1,4 @@
-## Guatemala Spread comparison 
+## Guatemala Covid-19 status comparison 
 
 Guatemala
 

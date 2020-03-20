@@ -1,4 +1,4 @@
-## Uruguay Spread comparison 
+## Uruguay Covid-19 status comparison 
 
 Uruguay
 

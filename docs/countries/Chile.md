@@ -1,4 +1,4 @@
-## Chile Spread comparison 
+## Chile Covid-19 status comparison 
 
 Chile
 

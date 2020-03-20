@@ -1,4 +1,4 @@
-## Togo Spread comparison 
+## Togo Covid-19 status comparison 
 
 Togo
 

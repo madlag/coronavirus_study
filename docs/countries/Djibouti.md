@@ -1,4 +1,4 @@
-## Djibouti Spread comparison 
+## Djibouti Covid-19 status comparison 
 
 Djibouti
 

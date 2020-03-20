@@ -1,4 +1,4 @@
-## El Salvador Spread comparison 
+## El Salvador Covid-19 status comparison 
 
 El Salvador
 

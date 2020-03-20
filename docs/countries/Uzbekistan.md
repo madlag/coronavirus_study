@@ -1,4 +1,4 @@
-## Uzbekistan Spread comparison 
+## Uzbekistan Covid-19 status comparison 
 
 Uzbekistan
 

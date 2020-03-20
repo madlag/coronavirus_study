@@ -1,4 +1,4 @@
-## Switzerland Spread comparison 
+## Switzerland Covid-19 status comparison 
 
 Switzerland covid-19 deaths are currently doubling each 3.07 days (observed average doubling time is 2.2 days across countries).
 

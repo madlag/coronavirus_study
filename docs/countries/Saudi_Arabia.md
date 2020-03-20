@@ -1,4 +1,4 @@
-## Saudi Arabia Spread comparison 
+## Saudi Arabia Covid-19 status comparison 
 
 Saudi Arabia
 

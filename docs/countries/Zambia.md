@@ -1,4 +1,4 @@
-## Zambia Spread comparison 
+## Zambia Covid-19 status comparison 
 
 Zambia
 

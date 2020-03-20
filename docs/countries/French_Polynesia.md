@@ -1,4 +1,4 @@
-## French Polynesia Spread comparison 
+## French Polynesia Covid-19 status comparison 
 
 French Polynesia
 

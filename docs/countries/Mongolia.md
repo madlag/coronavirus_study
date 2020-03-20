@@ -1,4 +1,4 @@
-## Mongolia Spread comparison 
+## Mongolia Covid-19 status comparison 
 
 Mongolia
 

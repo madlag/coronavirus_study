@@ -1,4 +1,4 @@
-## Indonesia Spread comparison 
+## Indonesia Covid-19 status comparison 
 
 Indonesia
 

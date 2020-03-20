@@ -1,4 +1,4 @@
-## India Spread comparison 
+## India Covid-19 status comparison 
 
 India
 

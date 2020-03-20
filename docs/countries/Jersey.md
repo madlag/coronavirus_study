@@ -1,4 +1,4 @@
-## Jersey Spread comparison 
+## Jersey Covid-19 status comparison 
 
 Jersey
 

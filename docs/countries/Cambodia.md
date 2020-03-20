@@ -1,4 +1,4 @@
-## Cambodia Spread comparison 
+## Cambodia Covid-19 status comparison 
 
 Cambodia
 

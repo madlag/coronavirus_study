@@ -1,4 +1,4 @@
-## Afghanistan Spread comparison 
+## Afghanistan Covid-19 status comparison 
 
 Afghanistan
 

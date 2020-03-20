@@ -1,4 +1,4 @@
-## Belgium Spread comparison 
+## Belgium Covid-19 status comparison 
 
 Belgium
 

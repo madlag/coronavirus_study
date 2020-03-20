@@ -1,4 +1,4 @@
-## Mauritius Spread comparison 
+## Mauritius Covid-19 status comparison 
 
 Mauritius
 

@@ -1,4 +1,4 @@
-## Sri Lanka Spread comparison 
+## Sri Lanka Covid-19 status comparison 
 
 Sri Lanka
 

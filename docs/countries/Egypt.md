@@ -1,4 +1,4 @@
-## Egypt Spread comparison 
+## Egypt Covid-19 status comparison 
 
 Egypt
 

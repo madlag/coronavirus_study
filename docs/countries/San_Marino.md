@@ -1,4 +1,4 @@
-## San Marino Spread comparison 
+## San Marino Covid-19 status comparison 
 
 San Marino covid-19 deaths are currently doubling each 3.79 days (observed average doubling time is 2.2 days across countries).
 

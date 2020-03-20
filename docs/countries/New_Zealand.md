@@ -1,4 +1,4 @@
-## New Zealand Spread comparison 
+## New Zealand Covid-19 status comparison 
 
 New Zealand
 

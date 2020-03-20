@@ -1,4 +1,4 @@
-## Cyprus Spread comparison 
+## Cyprus Covid-19 status comparison 
 
 Cyprus
 

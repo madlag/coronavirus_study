@@ -1,4 +1,4 @@
-## Burkina Faso Spread comparison 
+## Burkina Faso Covid-19 status comparison 
 
 Burkina Faso
 

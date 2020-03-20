@@ -1,4 +1,4 @@
-## Morocco Spread comparison 
+## Morocco Covid-19 status comparison 
 
 Morocco
 

@@ -1,4 +1,4 @@
-## Australia Spread comparison 
+## Australia Covid-19 status comparison 
 
 Australia
 

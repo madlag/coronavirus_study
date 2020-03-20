@@ -1,4 +1,4 @@
-## Taiwan Spread comparison 
+## Taiwan Covid-19 status comparison 
 
 Taiwan
 

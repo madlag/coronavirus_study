@@ -1,4 +1,4 @@
-## North Macedonia Spread comparison 
+## North Macedonia Covid-19 status comparison 
 
 North Macedonia
 

@@ -1,4 +1,4 @@
-## Honduras Spread comparison 
+## Honduras Covid-19 status comparison 
 
 Honduras
 

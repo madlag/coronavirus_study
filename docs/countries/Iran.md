@@ -1,4 +1,4 @@
-## Iran Spread comparison 
+## Iran Covid-19 status comparison 
 
 Iran covid-19 deaths are currently doubling each 4.18 days (observed average doubling time is 2.2 days across countries).
 

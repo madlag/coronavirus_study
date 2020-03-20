@@ -1,4 +1,4 @@
-## Bhutan Spread comparison 
+## Bhutan Covid-19 status comparison 
 
 Bhutan
 

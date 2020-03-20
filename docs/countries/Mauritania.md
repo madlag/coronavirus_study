@@ -1,4 +1,4 @@
-## Mauritania Spread comparison 
+## Mauritania Covid-19 status comparison 
 
 Mauritania
 

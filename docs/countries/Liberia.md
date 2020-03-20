@@ -1,4 +1,4 @@
-## Liberia Spread comparison 
+## Liberia Covid-19 status comparison 
 
 Liberia
 

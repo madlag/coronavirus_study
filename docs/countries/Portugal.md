@@ -1,4 +1,4 @@
-## Portugal Spread comparison 
+## Portugal Covid-19 status comparison 
 
 Portugal
 

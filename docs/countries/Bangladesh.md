@@ -1,4 +1,4 @@
-## Bangladesh Spread comparison 
+## Bangladesh Covid-19 status comparison 
 
 Bangladesh
 

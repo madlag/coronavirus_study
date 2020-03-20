@@ -1,4 +1,4 @@
-## Tunisia Spread comparison 
+## Tunisia Covid-19 status comparison 
 
 Tunisia
 

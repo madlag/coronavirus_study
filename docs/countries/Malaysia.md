@@ -1,4 +1,4 @@
-## Malaysia Spread comparison 
+## Malaysia Covid-19 status comparison 
 
 Malaysia
 

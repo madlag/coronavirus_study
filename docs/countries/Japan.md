@@ -1,4 +1,4 @@
-## Japan Spread comparison 
+## Japan Covid-19 status comparison 
 
 Japan covid-19 deaths are currently doubling each 6.89 days (observed average doubling time is 2.2 days across countries).
 

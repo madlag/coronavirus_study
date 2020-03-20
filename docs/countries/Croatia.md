@@ -1,4 +1,4 @@
-## Croatia Spread comparison 
+## Croatia Covid-19 status comparison 
 
 Croatia
 

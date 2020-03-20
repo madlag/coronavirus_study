@@ -1,4 +1,4 @@
-## Ghana Spread comparison 
+## Ghana Covid-19 status comparison 
 
 Ghana
 

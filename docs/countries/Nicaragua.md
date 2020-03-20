@@ -1,4 +1,4 @@
-## Nicaragua Spread comparison 
+## Nicaragua Covid-19 status comparison 
 
 Nicaragua
 

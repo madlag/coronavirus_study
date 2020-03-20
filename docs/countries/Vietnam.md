@@ -1,4 +1,4 @@
-## Vietnam Spread comparison 
+## Vietnam Covid-19 status comparison 
 
 Vietnam
 

@@ -1,4 +1,4 @@
-## Argentina Spread comparison 
+## Argentina Covid-19 status comparison 
 
 Argentina
 

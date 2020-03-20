@@ -1,4 +1,4 @@
-## Bosnia And Herzegovina Spread comparison 
+## Bosnia And Herzegovina Covid-19 status comparison 
 
 Bosnia And Herzegovina
 

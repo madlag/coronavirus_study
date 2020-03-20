@@ -1,4 +1,4 @@
-## Costa Rica Spread comparison 
+## Costa Rica Covid-19 status comparison 
 
 Costa Rica
 

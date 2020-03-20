@@ -1,4 +1,4 @@
-## Mexico Spread comparison 
+## Mexico Covid-19 status comparison 
 
 Mexico
 

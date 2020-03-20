@@ -1,4 +1,4 @@
-## Colombia Spread comparison 
+## Colombia Covid-19 status comparison 
 
 Colombia
 

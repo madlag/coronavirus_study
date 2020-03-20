@@ -1,4 +1,4 @@
-## Nigeria Spread comparison 
+## Nigeria Covid-19 status comparison 
 
 Nigeria
 

@@ -1,4 +1,4 @@
-## Saint Vincent And The Grenadines Spread comparison 
+## Saint Vincent And The Grenadines Covid-19 status comparison 
 
 Saint Vincent And The Grenadines
 

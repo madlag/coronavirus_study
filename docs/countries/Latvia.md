@@ -1,4 +1,4 @@
-## Latvia Spread comparison 
+## Latvia Covid-19 status comparison 
 
 Latvia
 

@@ -1,4 +1,4 @@
-## Nepal Spread comparison 
+## Nepal Covid-19 status comparison 
 
 Nepal
 

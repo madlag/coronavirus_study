@@ -1,4 +1,4 @@
-## Greenland Spread comparison 
+## Greenland Covid-19 status comparison 
 
 Greenland
 

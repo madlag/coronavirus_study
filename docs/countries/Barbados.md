@@ -1,4 +1,4 @@
-## Barbados Spread comparison 
+## Barbados Covid-19 status comparison 
 
 Barbados
 

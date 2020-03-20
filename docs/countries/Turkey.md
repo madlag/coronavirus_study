@@ -1,4 +1,4 @@
-## Turkey Spread comparison 
+## Turkey Covid-19 status comparison 
 
 Turkey
 

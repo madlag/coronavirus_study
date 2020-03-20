@@ -1,4 +1,4 @@
-## Lebanon Spread comparison 
+## Lebanon Covid-19 status comparison 
 
 Lebanon
 

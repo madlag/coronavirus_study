@@ -1,4 +1,4 @@
-## Hungary Spread comparison 
+## Hungary Covid-19 status comparison 
 
 Hungary
 

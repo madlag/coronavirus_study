@@ -1,4 +1,4 @@
-## Qatar Spread comparison 
+## Qatar Covid-19 status comparison 
 
 Qatar
 

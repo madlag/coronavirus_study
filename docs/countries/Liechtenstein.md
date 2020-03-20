@@ -1,4 +1,4 @@
-## Liechtenstein Spread comparison 
+## Liechtenstein Covid-19 status comparison 
 
 Liechtenstein
 

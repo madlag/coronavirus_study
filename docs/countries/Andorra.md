@@ -1,4 +1,4 @@
-## Andorra Spread comparison 
+## Andorra Covid-19 status comparison 
 
 Andorra
 

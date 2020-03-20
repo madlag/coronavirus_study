@@ -1,4 +1,4 @@
-## Slovenia Spread comparison 
+## Slovenia Covid-19 status comparison 
 
 Slovenia
 

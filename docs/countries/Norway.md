@@ -1,4 +1,4 @@
-## Norway Spread comparison 
+## Norway Covid-19 status comparison 
 
 Norway
 

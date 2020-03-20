@@ -1,4 +1,4 @@
-## Israel Spread comparison 
+## Israel Covid-19 status comparison 
 
 Israel
 

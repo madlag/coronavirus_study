@@ -1,4 +1,4 @@
-## Guam Spread comparison 
+## Guam Covid-19 status comparison 
 
 Guam
 

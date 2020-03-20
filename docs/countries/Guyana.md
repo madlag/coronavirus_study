@@ -1,4 +1,4 @@
-## Guyana Spread comparison 
+## Guyana Covid-19 status comparison 
 
 Guyana
 

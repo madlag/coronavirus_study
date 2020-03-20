@@ -1,4 +1,4 @@
-## Cote Divoire Spread comparison 
+## Cote Divoire Covid-19 status comparison 
 
 Cote Divoire
 

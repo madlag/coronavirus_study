@@ -1,4 +1,4 @@
-## Palestine Spread comparison 
+## Palestine Covid-19 status comparison 
 
 Palestine
 

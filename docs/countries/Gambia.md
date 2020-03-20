@@ -1,4 +1,4 @@
-## Gambia Spread comparison 
+## Gambia Covid-19 status comparison 
 
 Gambia
 

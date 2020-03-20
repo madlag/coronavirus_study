@@ -1,4 +1,4 @@
-## South Africa Spread comparison 
+## South Africa Covid-19 status comparison 
 
 South Africa
 

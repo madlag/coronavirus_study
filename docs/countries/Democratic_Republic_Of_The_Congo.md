@@ -1,4 +1,4 @@
-## Democratic Republic Of The Congo Spread comparison 
+## Democratic Republic Of The Congo Covid-19 status comparison 
 
 Democratic Republic Of The Congo
 

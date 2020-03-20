@@ -1,4 +1,4 @@
-## Montenegro Spread comparison 
+## Montenegro Covid-19 status comparison 
 
 Montenegro
 

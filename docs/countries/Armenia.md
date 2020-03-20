@@ -1,4 +1,4 @@
-## Armenia Spread comparison 
+## Armenia Covid-19 status comparison 
 
 Armenia
 

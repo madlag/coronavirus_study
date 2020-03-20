@@ -1,4 +1,4 @@
-## Greece Spread comparison 
+## Greece Covid-19 status comparison 
 
 Greece
 

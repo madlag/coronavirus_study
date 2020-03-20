@@ -1,4 +1,4 @@
-## Poland Spread comparison 
+## Poland Covid-19 status comparison 
 
 Poland
 

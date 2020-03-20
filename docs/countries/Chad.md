@@ -1,4 +1,4 @@
-## Chad Spread comparison 
+## Chad Covid-19 status comparison 
 
 Chad
 

@@ -1,4 +1,4 @@
-## Suriname Spread comparison 
+## Suriname Covid-19 status comparison 
 
 Suriname
 

@@ -1,4 +1,4 @@
-## Paraguay Spread comparison 
+## Paraguay Covid-19 status comparison 
 
 Paraguay
 

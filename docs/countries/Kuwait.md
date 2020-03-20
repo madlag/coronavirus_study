@@ -1,4 +1,4 @@
-## Kuwait Spread comparison 
+## Kuwait Covid-19 status comparison 
 
 Kuwait
 

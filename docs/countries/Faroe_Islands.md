@@ -1,4 +1,4 @@
-## Faroe Islands Spread comparison 
+## Faroe Islands Covid-19 status comparison 
 
 Faroe Islands
 

@@ -1,4 +1,4 @@
-## United Arab Emirates Spread comparison 
+## United Arab Emirates Covid-19 status comparison 
 
 United Arab Emirates
 

@@ -1,4 +1,4 @@
-## Senegal Spread comparison 
+## Senegal Covid-19 status comparison 
 
 Senegal
 

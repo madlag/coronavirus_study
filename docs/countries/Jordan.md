@@ -1,4 +1,4 @@
-## Jordan Spread comparison 
+## Jordan Covid-19 status comparison 
 
 Jordan
 

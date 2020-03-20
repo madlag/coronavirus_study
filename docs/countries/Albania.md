@@ -1,4 +1,4 @@
-## Albania Spread comparison 
+## Albania Covid-19 status comparison 
 
 Albania
 

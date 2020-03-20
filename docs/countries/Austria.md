@@ -1,4 +1,4 @@
-## Austria Spread comparison 
+## Austria Covid-19 status comparison 
 
 Austria
 

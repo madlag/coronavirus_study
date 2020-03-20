@@ -1,4 +1,4 @@
-## Haiti Spread comparison 
+## Haiti Covid-19 status comparison 
 
 Haiti
 

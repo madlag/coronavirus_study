@@ -1,4 +1,4 @@
-## Jamaica Spread comparison 
+## Jamaica Covid-19 status comparison 
 
 Jamaica
 

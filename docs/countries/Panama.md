@@ -1,4 +1,4 @@
-## Panama Spread comparison 
+## Panama Covid-19 status comparison 
 
 Panama
 

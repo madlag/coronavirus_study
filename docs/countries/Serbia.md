@@ -1,4 +1,4 @@
-## Serbia Spread comparison 
+## Serbia Covid-19 status comparison 
 
 Serbia
 

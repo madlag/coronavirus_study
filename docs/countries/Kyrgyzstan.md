@@ -1,4 +1,4 @@
-## Kyrgyzstan Spread comparison 
+## Kyrgyzstan Covid-19 status comparison 
 
 Kyrgyzstan
 

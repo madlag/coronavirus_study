@@ -1,4 +1,4 @@
-## Cameroon Spread comparison 
+## Cameroon Covid-19 status comparison 
 
 Cameroon
 

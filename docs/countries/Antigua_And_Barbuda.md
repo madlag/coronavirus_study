@@ -1,4 +1,4 @@
-## Antigua And Barbuda Spread comparison 
+## Antigua And Barbuda Covid-19 status comparison 
 
 Antigua And Barbuda
 

@@ -1,4 +1,4 @@
-## Singapore Spread comparison 
+## Singapore Covid-19 status comparison 
 
 Singapore
 

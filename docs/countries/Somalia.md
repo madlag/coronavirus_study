@@ -1,4 +1,4 @@
-## Somalia Spread comparison 
+## Somalia Covid-19 status comparison 
 
 Somalia
 

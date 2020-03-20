@@ -1,4 +1,4 @@
-## Central African Republic Spread comparison 
+## Central African Republic Covid-19 status comparison 
 
 Central African Republic
 

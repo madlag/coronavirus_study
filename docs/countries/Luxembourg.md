@@ -1,4 +1,4 @@
-## Luxembourg Spread comparison 
+## Luxembourg Covid-19 status comparison 
 
 Luxembourg
 

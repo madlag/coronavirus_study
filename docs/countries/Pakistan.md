@@ -1,4 +1,4 @@
-## Pakistan Spread comparison 
+## Pakistan Covid-19 status comparison 
 
 Pakistan
 

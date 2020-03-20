@@ -1,4 +1,4 @@
-## Georgia Spread comparison 
+## Georgia Covid-19 status comparison 
 
 Georgia
 

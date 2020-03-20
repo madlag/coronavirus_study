@@ -1,4 +1,4 @@
-## Bolivia Spread comparison 
+## Bolivia Covid-19 status comparison 
 
 Bolivia
 

@@ -1,4 +1,4 @@
-## Brunei Darussalam Spread comparison 
+## Brunei Darussalam Covid-19 status comparison 
 
 Brunei Darussalam
 

@@ -1,4 +1,4 @@
-## Benin Spread comparison 
+## Benin Covid-19 status comparison 
 
 Benin
 

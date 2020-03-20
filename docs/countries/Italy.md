@@ -1,4 +1,4 @@
-## Italy Spread comparison 
+## Italy Covid-19 status comparison 
 
 Italy covid-19 deaths are currently doubling each 3.75 days (observed average doubling time is 2.2 days across countries).
 

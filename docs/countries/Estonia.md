@@ -1,4 +1,4 @@
-## Estonia Spread comparison 
+## Estonia Covid-19 status comparison 
 
 Estonia
 

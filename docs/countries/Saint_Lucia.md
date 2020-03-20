@@ -1,4 +1,4 @@
-## Saint Lucia Spread comparison 
+## Saint Lucia Covid-19 status comparison 
 
 Saint Lucia
 

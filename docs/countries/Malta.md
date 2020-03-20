@@ -1,4 +1,4 @@
-## Malta Spread comparison 
+## Malta Covid-19 status comparison 
 
 Malta
 

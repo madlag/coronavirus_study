@@ -1,4 +1,4 @@
-## Cayman Islands Spread comparison 
+## Cayman Islands Covid-19 status comparison 
 
 Cayman Islands
 

@@ -1,4 +1,4 @@
-## Venezuela Spread comparison 
+## Venezuela Covid-19 status comparison 
 
 Venezuela
 

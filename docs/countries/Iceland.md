@@ -1,4 +1,4 @@
-## Iceland Spread comparison 
+## Iceland Covid-19 status comparison 
 
 Iceland
 

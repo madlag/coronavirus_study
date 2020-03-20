@@ -1,4 +1,4 @@
-## United Kingdom Spread comparison 
+## United Kingdom Covid-19 status comparison 
 
 United Kingdom covid-19 deaths are currently doubling each 1.81 days (observed average doubling time is 2.2 days across countries).
 

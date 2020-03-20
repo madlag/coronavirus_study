@@ -1,4 +1,4 @@
-## Denmark Spread comparison 
+## Denmark Covid-19 status comparison 
 
 Denmark
 

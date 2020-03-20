@@ -1,4 +1,4 @@
-## Peru Spread comparison 
+## Peru Covid-19 status comparison 
 
 Peru
 

@@ -1,4 +1,4 @@
-## Kenya Spread comparison 
+## Kenya Covid-19 status comparison 
 
 Kenya
 

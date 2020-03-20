@@ -1,4 +1,4 @@
-## Rwanda Spread comparison 
+## Rwanda Covid-19 status comparison 
 
 Rwanda
 

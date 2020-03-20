@@ -1,4 +1,4 @@
-## Ethiopia Spread comparison 
+## Ethiopia Covid-19 status comparison 
 
 Ethiopia
 

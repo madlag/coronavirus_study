@@ -1,4 +1,4 @@
-## Algeria Spread comparison 
+## Algeria Covid-19 status comparison 
 
 Algeria
 

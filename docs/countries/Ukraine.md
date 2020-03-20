@@ -1,4 +1,4 @@
-## Ukraine Spread comparison 
+## Ukraine Covid-19 status comparison 
 
 Ukraine
 

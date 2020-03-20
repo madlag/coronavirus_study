@@ -1,4 +1,4 @@
-## Sweden Spread comparison 
+## Sweden Covid-19 status comparison 
 
 Sweden covid-19 deaths are currently doubling each 5.36 days (observed average doubling time is 2.2 days across countries).
 

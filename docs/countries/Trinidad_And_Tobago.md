@@ -1,4 +1,4 @@
-## Trinidad And Tobago Spread comparison 
+## Trinidad And Tobago Covid-19 status comparison 
 
 Trinidad And Tobago
 

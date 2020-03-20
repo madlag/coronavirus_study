@@ -1,4 +1,4 @@
-## Romania Spread comparison 
+## Romania Covid-19 status comparison 
 
 Romania
 

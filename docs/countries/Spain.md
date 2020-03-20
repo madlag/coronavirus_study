@@ -1,4 +1,4 @@
-## Spain Spread comparison 
+## Spain Covid-19 status comparison 
 
 Spain covid-19 deaths are currently doubling each 1.97 days (observed average doubling time is 2.2 days across countries).
 
