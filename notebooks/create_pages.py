@@ -1,8 +1,10 @@
 import jinja2
 
+jloader=jinja2.FileSystemLoader(searchpath=".")
+jenv = jinja2.Environment(loader=jloader, undefined=jinja2.StrictUndefined)
+
 def apply_template(template_file_name, information, output_file_name):
-    template_text = open(template_file_name).read()
-    template = jinja2.Template(template_text)
+    template = jenv.get_template(template_file_name)
     output = template.render(**information)
     outfile = open(output_file_name, "w")
     outfile.write(output)
@@ -21,10 +23,33 @@ def create_pages(date, main_chart_countries, countries):
 
     apply_template("README.template.md", information, "../docs/README.md")
 
-    for c in countries:
+    for c, country_information in countries.items():
+        most_impacted = country_information["most_impacted"]
+        if most_impacted:
+            growth_rate = "%02.2f" % country_information["trend_time_base"]
+            sections = (("animated", "gif"), ("static", "png"))
+        else:
+            growth_rate = None
+            sections = (("static", "png"),)
+
+        deaths = country_information["deaths"]
+        data_types = ["cases"]
+        if deaths > 0:
+            data_types.append("deaths")
+
+        chart_sections = {}
+        for data_type in data_types:
+            chart_sections[data_type] = []
+            for chart_type, chart_suffix in sections:
+                chart_sections[data_type].append(dict(data_type=data_type, chart_type=chart_type, chart_suffix=chart_suffix))
+
         country_information = dict(date=date,
-                                   country=dict(name=hr_cname(c)),
-                                   url_prefix="%s/%s/countries/%s/%s_%s" % (global_url_prefix, date, c, date, c))
+                                   country=dict(name=hr_cname(c),
+                                                growth_rate = growth_rate,
+                                                chart_sections=chart_sections,
+                                                most_impacted = most_impacted),
+                                   url_prefix="%s/%s/countries/%s/%s_%s" % (global_url_prefix, date, c, date, c),
+                                   )
         apply_template("country.template.md",
                        country_information,
                        "../docs/countries/%s.md" % c)

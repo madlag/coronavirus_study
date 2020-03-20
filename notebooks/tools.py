@@ -14,7 +14,8 @@ epsilon = 0.0001
 
 def ffmpeg_run(command):
     for line in sh.ffmpeg(command,  _err_to_out=True, _iter=True, _out_bufsize=1000):
-        print(line)
+        pass
+        #print(line)
 
 def to_gif_impl(src, width, dest, src_frame_rate = None):
 
@@ -25,7 +26,6 @@ def to_gif_impl(src, width, dest, src_frame_rate = None):
         filters += "scale=%s:-1:flags=lanczos," % width
     command = ["-vf", filters + "palettegen"]
     command = ["-i", src, "-y"] + command + [palette]
-    print(" ".join(command))
 
     ffmpeg_run(command)
 
@@ -38,8 +38,6 @@ def to_gif_impl(src, width, dest, src_frame_rate = None):
 
     command2 = fr_command2 + ["-i", src, "-i", palette, "-y"] + command2 + [dest]
 
-
-    print(" ".join(command2))
 
     ffmpeg_run(command2)
 
@@ -58,6 +56,12 @@ class DataProvider:
                 break
             except urllib.error.HTTPError as e:
                 continue
+
+    @staticmethod
+    def normalize_country_name(country):
+        country = country.split("_")
+        country = "_".join([c.capitalize() for c in country])
+        return country
 
     def prepare_data_from_ecdc_(self, date):
         if self.country_data == None:
@@ -79,6 +83,8 @@ class DataProvider:
             df = pd.read_excel(filename)
             for i in range(df.shape[0]):
                 country = str(df["Countries and territories"][i])
+                country = self.normalize_country_name(country)
+
                 date = str(df["DateRep"][i])
                 cases = int(df["Cases"][i])
                 try:
@@ -143,12 +149,12 @@ class DataProcessor:
         x = x0
         y = y0
 
-        time_to_min_deaths = None
+        # Default is around 20 of March
+        time_to_min_deaths = 80
         for i, xx in enumerate(x):
             yy = y[i]
-            if yy > self.min_deaths:
-                if time_to_min_deaths is None:
-                    time_to_min_deaths = xx
+            if yy <= self.min_deaths:
+                time_to_min_deaths = xx
 
         x = x0[-10:]
         y = y0[-10:]
@@ -164,8 +170,7 @@ class DataProcessor:
                     filtered[1].append(math.log2(yy))
                 
         if len(filtered[0]) <= 2:
-            self.regression = None
-            return
+            return None,  time_to_min_deaths, len(filtered[0])
         
         coeff = numpy.polyfit(*filtered, 1)
         
@@ -206,36 +211,35 @@ class CountryInfoStore:
         countries = self.data_provider.get_data().keys()
 
         valid_countries = {}
-
-        black_list = ["Cases_on_an_international_conveyance_Japan"]
+        self.most_impacted_countries = {}
 
         for c in countries:
-            if c in black_list:
-                continue
             dp = DataProcessor(self.data_provider, c, offset = 0)
             x,y = dp.get_data()
-            regression  = dp.analyze_data(x, y)
+            regression, time_to_min_deaths, data_points_count = dp.analyze_data(x, y)
 
+            info = dict(country=c,
+                        deaths=y[-1],
+                        shift=time_to_min_deaths,
+                       )
             if regression is not None:
-                (a,b), time_to_min_deaths, data_points_count = regression
-                #print(c, data_points_count)
-                print(c, time_to_min_deaths)
+                self.most_impacted_countries[c] = True
+                (a,b) = regression
 
                 time_base = 1/a
                 shift = b * time_base
-                print(c, shift)
-                valid_countries[c] = dict(country=c,
-                                          deaths=y[-1],
-                                          shift = time_to_min_deaths,
-                                          trend_base_shift=shift,
-                                          trend_time_base=time_base)
+                info.update(dict(
+                            trend_base_shift=shift,
+                            trend_time_base=time_base))
+
+
+            valid_countries[c] = info
 
         italy_shift = valid_countries["Italy"]["shift"]
         for k,v in valid_countries.items():
             v["shift"] = round(v["shift"] - italy_shift)
-            print(v, italy_shift)
-            v["trend_base_shift"] += v["shift"]
-            print(v)
+            if "trend_base_shift" in v:
+                v["trend_base_shift"] += v["shift"]
 
         self.countries = valid_countries
         if self.debug:
@@ -267,11 +271,10 @@ class CountryGraph:
         self.data_type = data_type
         self.china_comparison = china_comparison        
         self.plot_kwargs = plot_kwargs or {}
-        self.country_info = self.country_info_store.get_country_info(self.country)
-        self.offset = int(self.country_info["shift"])
         self.start = start
         self.end = end
-
+        self.country_info = self.country_info_store.get_country_info(self.country)
+        self.offset = int(self.country_info["shift"])
         self.dp = DataProcessor(self.data_provider, self.country, self.data_type, offset = - self.offset)
         self.draw_reference = draw_reference
 
@@ -323,7 +326,6 @@ class MultiCountryGraph:
                  country_info_store,
                  countries = ["Italy", "France"],
                  reference_for_countries = None,
-                 sort_countries_by_offset = True,
                  log_axis = True,
                  data_type = "deaths",
                  china_comparison = False, 
@@ -333,8 +335,6 @@ class MultiCountryGraph:
         self.country_info_store = country_info_store
         self.countries = countries
         self.reference_for_countries = reference_for_countries or []
-        if sort_countries_by_offset:
-            self.countries.sort(key = lambda x : country_info_store.get_country_info(x)["shift"])
 
         self.log_axis = log_axis
         self.data_type = data_type
@@ -450,37 +450,46 @@ class MultiCountryGraph:
 
 data_provider = DataProvider()
 
-country_info_store = CountryInfoStore(data_provider, debug = True)
-all_countries = country_info_store.countries
+country_info_store = CountryInfoStore(data_provider, debug = False)
+all_countries = [c for c in data_provider.country_data.keys() if data_provider.country_data[c][-1]["cases"] > 0]
+
+most_impacted_countries = country_info_store.most_impacted_countries
 data_date = data_provider.data_date
 
 root = pathlib.Path("graphs/%s" % (data_date))
 if not root.exists():
     root.mkdir(parents= True)
 
-main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_of_America"]
+main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
 step = 2
 
 if step <= 0:
-    if True:
-        g = MultiCountryGraph(data_provider,
-                              country_info_store,
-                               main_chart_countries,
-                              log_axis = True,
-                              data_type = "deaths",
-                              visually_impaired = False,
-                              china_comparison = False)
-        g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
+    g = MultiCountryGraph(data_provider,
+                          country_info_store,
+                           main_chart_countries,
+                          log_axis = True,
+                          data_type = "deaths",
+                          visually_impaired = False,
+                          china_comparison = False)
+    g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
 
 if step <= 1:
     for c in all_countries:
         print(c)
         for dt in ["deaths", "cases"]:
+            if country_info_store.get_country_info(c)["deaths"] == 0 and dt == "deaths":
+                continue
             countries = ["China", "Italy", "South_Korea"]
-            references = [c]
+            references = []
+
             if c not in countries:
                 countries.append(c)
+            if c in most_impacted_countries:
+                references.append(c)
+
+            growth_reference = (len(references) == 0) or c not in most_impacted_countries
+
             g = MultiCountryGraph(data_provider,
                                   country_info_store,
                                   countries,
@@ -489,16 +498,23 @@ if step <= 1:
                                   data_type = dt,
                                   visually_impaired = True,
                                   china_comparison = False,
-                                  growth_reference = len(references) == 0)
+                                  growth_reference = growth_reference)
             dest_dir = root / "countries" / c
             dest_dir.mkdir(parents = True, exist_ok=True)
             dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
             g.plot(dest_file_name)
 
             dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
-            g.movie(dest_file_name)
+
+            if c in most_impacted_countries:
+                g.movie(dest_file_name)
 
 if step <= 2:
     import create_pages
 
-    create_pages.create_pages(data_date, main_chart_countries, all_countries)
+    all_countries_information = {}
+    for c in all_countries:
+        all_countries_information[c] = copy.deepcopy(country_info_store.countries[c])
+        all_countries_information[c]["most_impacted"] = c in most_impacted_countries
+
+    create_pages.create_pages(data_date, main_chart_countries, all_countries_information)
