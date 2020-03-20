@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Switzerland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Switzerland/2020-03-20_Switzerland_deaths.gif "Switzerland covid-19 cases animated chart")   
+![Switzerland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Switzerland/2020-03-20_Switzerland_cases.gif "Switzerland covid-19 cases animated chart")   
  
 #### Static
-![Switzerland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Switzerland/2020-03-20_Switzerland_deaths.png "Switzerland covid-19 cases static chart")   
+![Switzerland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Switzerland/2020-03-20_Switzerland_cases.png "Switzerland covid-19 cases static chart")   
 

@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![United Kingdom covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Kingdom/2020-03-20_United_Kingdom_deaths.gif "United Kingdom covid-19 cases animated chart")   
+![United Kingdom covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Kingdom/2020-03-20_United_Kingdom_cases.gif "United Kingdom covid-19 cases animated chart")   
  
 #### Static
-![United Kingdom covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Kingdom/2020-03-20_United_Kingdom_deaths.png "United Kingdom covid-19 cases static chart")   
+![United Kingdom covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Kingdom/2020-03-20_United_Kingdom_cases.png "United Kingdom covid-19 cases static chart")   
 

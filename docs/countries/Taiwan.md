@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Taiwan/2020-03-20_Taiwan_deaths.png "Taiwan covid-19 cases static chart")   
+![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Taiwan/2020-03-20_Taiwan_cases.png "Taiwan covid-19 cases static chart")   
 

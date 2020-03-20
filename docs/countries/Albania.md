@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Albania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Albania/2020-03-20_Albania_deaths.png "Albania covid-19 cases static chart")   
+![Albania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Albania/2020-03-20_Albania_cases.png "Albania covid-19 cases static chart")   
 

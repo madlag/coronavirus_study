@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![South Korea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/South_Korea/2020-03-20_South_Korea_deaths.gif "South Korea covid-19 cases animated chart")   
+![South Korea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/South_Korea/2020-03-20_South_Korea_cases.gif "South Korea covid-19 cases animated chart")   
  
 #### Static
-![South Korea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/South_Korea/2020-03-20_South_Korea_deaths.png "South Korea covid-19 cases static chart")   
+![South Korea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/South_Korea/2020-03-20_South_Korea_cases.png "South Korea covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![United Arab Emirates covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Arab_Emirates/2020-03-20_United_Arab_Emirates_deaths.png "United Arab Emirates covid-19 cases static chart")   
+![United Arab Emirates covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/United_Arab_Emirates/2020-03-20_United_Arab_Emirates_cases.png "United Arab Emirates covid-19 cases static chart")   
 

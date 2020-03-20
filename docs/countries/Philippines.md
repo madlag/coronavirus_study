@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Philippines covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Philippines/2020-03-20_Philippines_deaths.gif "Philippines covid-19 cases animated chart")   
+![Philippines covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Philippines/2020-03-20_Philippines_cases.gif "Philippines covid-19 cases animated chart")   
  
 #### Static
-![Philippines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Philippines/2020-03-20_Philippines_deaths.png "Philippines covid-19 cases static chart")   
+![Philippines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Philippines/2020-03-20_Philippines_cases.png "Philippines covid-19 cases static chart")   
 

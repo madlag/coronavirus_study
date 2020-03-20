@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.gif "Spain covid-19 cases animated chart")   
+![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_cases.gif "Spain covid-19 cases animated chart")   
  
 #### Static
-![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.png "Spain covid-19 cases static chart")   
+![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_cases.png "Spain covid-19 cases static chart")   
 

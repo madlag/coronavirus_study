@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Luxembourg/2020-03-20_Luxembourg_deaths.png "Luxembourg covid-19 cases static chart")   
+![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Luxembourg/2020-03-20_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
 

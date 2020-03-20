@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Guyana/2020-03-20_Guyana_deaths.png "Guyana covid-19 cases static chart")   
+![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Guyana/2020-03-20_Guyana_cases.png "Guyana covid-19 cases static chart")   
 

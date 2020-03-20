@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.gif "Japan covid-19 cases animated chart")   
+![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_cases.gif "Japan covid-19 cases animated chart")   
  
 #### Static
-![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.png "Japan covid-19 cases static chart")   
+![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_cases.png "Japan covid-19 cases static chart")   
 

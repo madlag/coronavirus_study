@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Lithuania/2020-03-20_Lithuania_deaths.png "Lithuania covid-19 cases static chart")   
+![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Lithuania/2020-03-20_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
 

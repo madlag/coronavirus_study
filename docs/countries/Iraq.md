@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Iraq covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iraq/2020-03-20_Iraq_deaths.gif "Iraq covid-19 cases animated chart")   
+![Iraq covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iraq/2020-03-20_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
  
 #### Static
-![Iraq covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iraq/2020-03-20_Iraq_deaths.png "Iraq covid-19 cases static chart")   
+![Iraq covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iraq/2020-03-20_Iraq_cases.png "Iraq covid-19 cases static chart")   
 

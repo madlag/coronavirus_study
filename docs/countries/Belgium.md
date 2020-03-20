@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Belgium covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Belgium/2020-03-20_Belgium_deaths.png "Belgium covid-19 cases static chart")   
+![Belgium covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Belgium/2020-03-20_Belgium_cases.png "Belgium covid-19 cases static chart")   
 

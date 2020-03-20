@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Uzbekistan/2020-03-20_Uzbekistan_deaths.png "Uzbekistan covid-19 cases static chart")   
+![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Uzbekistan/2020-03-20_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
 

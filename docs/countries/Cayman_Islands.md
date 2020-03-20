@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Cayman Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Cayman_Islands/2020-03-20_Cayman_Islands_deaths.png "Cayman Islands covid-19 cases static chart")   
+![Cayman Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Cayman_Islands/2020-03-20_Cayman_Islands_cases.png "Cayman Islands covid-19 cases static chart")   
 

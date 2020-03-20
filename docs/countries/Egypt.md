@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_deaths.png "Egypt covid-19 cases static chart")   
+![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_cases.png "Egypt covid-19 cases static chart")   
 

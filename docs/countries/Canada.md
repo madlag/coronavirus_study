@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Canada covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Canada/2020-03-20_Canada_deaths.gif "Canada covid-19 cases animated chart")   
+![Canada covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Canada/2020-03-20_Canada_cases.gif "Canada covid-19 cases animated chart")   
  
 #### Static
-![Canada covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Canada/2020-03-20_Canada_deaths.png "Canada covid-19 cases static chart")   
+![Canada covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Canada/2020-03-20_Canada_cases.png "Canada covid-19 cases static chart")   
 

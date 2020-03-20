@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Burkina_Faso/2020-03-20_Burkina_Faso_deaths.png "Burkina Faso covid-19 cases static chart")   
+![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Burkina_Faso/2020-03-20_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
 

@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Austria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Austria/2020-03-20_Austria_deaths.png "Austria covid-19 cases static chart")   
+![Austria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Austria/2020-03-20_Austria_cases.png "Austria covid-19 cases static chart")   
 

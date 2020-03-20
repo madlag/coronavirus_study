@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Turkey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Turkey/2020-03-20_Turkey_deaths.png "Turkey covid-19 cases static chart")   
+![Turkey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Turkey/2020-03-20_Turkey_cases.png "Turkey covid-19 cases static chart")   
 

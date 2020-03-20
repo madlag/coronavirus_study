@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Senegal/2020-03-20_Senegal_deaths.png "Senegal covid-19 cases static chart")   
+![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Senegal/2020-03-20_Senegal_cases.png "Senegal covid-19 cases static chart")   
 

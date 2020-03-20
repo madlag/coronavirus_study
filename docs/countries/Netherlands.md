@@ -30,8 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Animated
-![Netherlands covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Netherlands/2020-03-20_Netherlands_deaths.gif "Netherlands covid-19 cases animated chart")   
+![Netherlands covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Netherlands/2020-03-20_Netherlands_cases.gif "Netherlands covid-19 cases animated chart")   
  
 #### Static
-![Netherlands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Netherlands/2020-03-20_Netherlands_deaths.png "Netherlands covid-19 cases static chart")   
+![Netherlands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Netherlands/2020-03-20_Netherlands_cases.png "Netherlands covid-19 cases static chart")   
 

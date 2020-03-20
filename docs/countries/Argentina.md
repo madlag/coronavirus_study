@@ -27,5 +27,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Argentina/2020-03-20_Argentina_deaths.png "Argentina covid-19 cases static chart")   
+![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Argentina/2020-03-20_Argentina_cases.png "Argentina covid-19 cases static chart")   
 
