@@ -10,13 +10,6 @@ UK is starting after other countries, so death count is smaller, but growth is e
 
 France is following quite accurately Italy.
 
-United States and Germany death numbers are quite surprising.
-
-For both countries, cases are growing as fast as other countries, but deaths are not.
-
-It’s been said that Germany is not counting deaths with comorbidities like other countries, that could explain this.
-Another explanation would be a very agressive testing of cases, like South Korea.
-
 
 ![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/2020-03-20_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
