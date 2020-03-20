@@ -4,7 +4,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Spread comparison 
 ![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/2020-03-20_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Mostly Affected Countries
+### Most Affected Countries as of 2020-03-20
 
 [Canada](countries/Canada)
 
