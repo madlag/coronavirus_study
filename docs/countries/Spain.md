@@ -17,15 +17,6 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Animated
-![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.gif "Spain covid-19 cases animated chart")   
- 
-#### Static
-![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.png "Spain covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Animated
@@ -33,4 +24,13 @@ The only important thing to look at in those charts is the slope of the curve : 
  
 #### Static
 ![Spain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.png "Spain covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Animated
+![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.gif "Spain covid-19 cases animated chart")   
+ 
+#### Static
+![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Spain/2020-03-20_Spain_deaths.png "Spain covid-19 cases static chart")   
 

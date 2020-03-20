@@ -17,14 +17,14 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Static
-![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Malaysia/2020-03-20_Malaysia_deaths.png "Malaysia covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Static
 ![Malaysia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Malaysia/2020-03-20_Malaysia_deaths.png "Malaysia covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Static
+![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Malaysia/2020-03-20_Malaysia_deaths.png "Malaysia covid-19 cases static chart")   
 

@@ -17,15 +17,6 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Animated
-![China covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/China/2020-03-20_China_deaths.gif "China covid-19 cases animated chart")   
- 
-#### Static
-![China covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/China/2020-03-20_China_deaths.png "China covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Animated
@@ -33,4 +24,13 @@ The only important thing to look at in those charts is the slope of the curve : 
  
 #### Static
 ![China covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/China/2020-03-20_China_deaths.png "China covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Animated
+![China covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/China/2020-03-20_China_deaths.gif "China covid-19 cases animated chart")   
+ 
+#### Static
+![China covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/China/2020-03-20_China_deaths.png "China covid-19 cases static chart")   
 

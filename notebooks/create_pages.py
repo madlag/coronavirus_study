@@ -38,7 +38,7 @@ def create_pages(date, main_chart_countries, countries):
         deaths = country_information["deaths"]
         data_types = ["cases"]
         if deaths > 0:
-            data_types.append("deaths")
+            data_types = ["deaths", "cases"]
 
         chart_sections = {}
         for data_type in data_types:

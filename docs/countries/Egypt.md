@@ -17,14 +17,14 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Static
-![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_deaths.png "Egypt covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Static
 ![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Static
+![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_deaths.png "Egypt covid-19 cases static chart")   
 

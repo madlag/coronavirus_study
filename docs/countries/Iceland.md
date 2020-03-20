@@ -17,14 +17,14 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Static
-![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iceland/2020-03-20_Iceland_deaths.png "Iceland covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Static
 ![Iceland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iceland/2020-03-20_Iceland_deaths.png "Iceland covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Static
+![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Iceland/2020-03-20_Iceland_deaths.png "Iceland covid-19 cases static chart")   
 

@@ -17,15 +17,6 @@ The only important thing to look at in those charts is the slope of the curve : 
 
 
  
-### Cases over time
- 
-#### Animated
-![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.gif "Japan covid-19 cases animated chart")   
- 
-#### Static
-![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.png "Japan covid-19 cases static chart")   
-
- 
 ### Deaths over time
  
 #### Animated
@@ -33,4 +24,13 @@ The only important thing to look at in those charts is the slope of the curve : 
  
 #### Static
 ![Japan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.png "Japan covid-19 deaths static chart")   
+
+ 
+### Cases over time
+ 
+#### Animated
+![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.gif "Japan covid-19 cases animated chart")   
+ 
+#### Static
+![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Japan/2020-03-20_Japan_deaths.png "Japan covid-19 cases static chart")   
 
