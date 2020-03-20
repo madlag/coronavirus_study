@@ -4,336 +4,337 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Spread comparison 
 ![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/2020-03-20_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### By Country
+### Mostly Affected Countries
 
-[Afghanistan](Afghanistan)
+[Canada](countries/Canada)
 
-[Albania](Albania)
+[China](countries/China)
 
-[Algeria](Algeria)
+[France](countries/France)
 
-[Andorra](Andorra)
+[Germany](countries/Germany)
 
-[Antigua And Barbuda](Antigua_And_Barbuda)
+[Iran](countries/Iran)
 
-[Argentina](Argentina)
+[Iraq](countries/Iraq)
 
-[Armenia](Armenia)
+[Italy](countries/Italy)
 
-[Australia](Australia)
+[Japan](countries/Japan)
 
-[Austria](Austria)
+[Netherlands](countries/Netherlands)
 
-[Azerbaijan](Azerbaijan)
+[Philippines](countries/Philippines)
 
-[Bahamas](Bahamas)
+[San Marino](countries/San_Marino)
 
-[Bahrain](Bahrain)
+[South Korea](countries/South_Korea)
 
-[Bangladesh](Bangladesh)
+[Spain](countries/Spain)
 
-[Barbados](Barbados)
+[Sweden](countries/Sweden)
 
-[Belarus](Belarus)
+[Switzerland](countries/Switzerland)
 
-[Belgium](Belgium)
+[United Kingdom](countries/United_Kingdom)
 
-[Benin](Benin)
+[United States Of America](countries/United_States_Of_America)
 
-[Bermuda](Bermuda)
 
-[Bhutan](Bhutan)
+### Other Affected Countries
 
-[Bolivia](Bolivia)
+[Afghanistan](countries/Afghanistan)
 
-[Bosnia And Herzegovina](Bosnia_And_Herzegovina)
+[Albania](countries/Albania)
 
-[Brazil](Brazil)
+[Algeria](countries/Algeria)
 
-[Brunei Darussalam](Brunei_Darussalam)
+[Andorra](countries/Andorra)
 
-[Bulgaria](Bulgaria)
+[Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
-[Burkina Faso](Burkina_Faso)
+[Argentina](countries/Argentina)
 
-[Cambodia](Cambodia)
+[Armenia](countries/Armenia)
 
-[Cameroon](Cameroon)
+[Australia](countries/Australia)
 
-[Canada](Canada)
+[Austria](countries/Austria)
 
-[Cases On An International Conveyance Japan](Cases_On_An_International_Conveyance_Japan)
+[Azerbaijan](countries/Azerbaijan)
 
-[Cayman Islands](Cayman_Islands)
+[Bahamas](countries/Bahamas)
 
-[Central African Republic](Central_African_Republic)
+[Bahrain](countries/Bahrain)
 
-[Chad](Chad)
+[Bangladesh](countries/Bangladesh)
 
-[Chile](Chile)
+[Barbados](countries/Barbados)
 
-[China](China)
+[Belarus](countries/Belarus)
 
-[Colombia](Colombia)
+[Belgium](countries/Belgium)
 
-[Congo](Congo)
+[Benin](countries/Benin)
 
-[Costa Rica](Costa_Rica)
+[Bermuda](countries/Bermuda)
 
-[Cote Divoire](Cote_Divoire)
+[Bhutan](countries/Bhutan)
 
-[Croatia](Croatia)
+[Bolivia](countries/Bolivia)
 
-[Cuba](Cuba)
+[Bosnia And Herzegovina](countries/Bosnia_And_Herzegovina)
 
-[Cyprus](Cyprus)
+[Brazil](countries/Brazil)
 
-[Czech Republic](Czech_Republic)
+[Brunei Darussalam](countries/Brunei_Darussalam)
 
-[Democratic Republic Of The Congo](Democratic_Republic_Of_The_Congo)
+[Bulgaria](countries/Bulgaria)
 
-[Denmark](Denmark)
+[Burkina Faso](countries/Burkina_Faso)
 
-[Djibouti](Djibouti)
+[Cambodia](countries/Cambodia)
 
-[Dominican Republic](Dominican_Republic)
+[Cameroon](countries/Cameroon)
 
-[Ecuador](Ecuador)
+[Cayman Islands](countries/Cayman_Islands)
 
-[Egypt](Egypt)
+[Central African Republic](countries/Central_African_Republic)
 
-[El Salvador](El_Salvador)
+[Chad](countries/Chad)
 
-[Equatorial Guinea](Equatorial_Guinea)
+[Chile](countries/Chile)
 
-[Estonia](Estonia)
+[Colombia](countries/Colombia)
 
-[Eswatini](Eswatini)
+[Congo](countries/Congo)
 
-[Ethiopia](Ethiopia)
+[Costa Rica](countries/Costa_Rica)
 
-[Faroe Islands](Faroe_Islands)
+[Cote Divoire](countries/Cote_Divoire)
 
-[Fiji](Fiji)
+[Croatia](countries/Croatia)
 
-[Finland](Finland)
+[Cuba](countries/Cuba)
 
-[France](France)
+[Cyprus](countries/Cyprus)
 
-[French Polynesia](French_Polynesia)
+[Czech Republic](countries/Czech_Republic)
 
-[Gabon](Gabon)
+[Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
-[Gambia](Gambia)
+[Denmark](countries/Denmark)
 
-[Georgia](Georgia)
+[Djibouti](countries/Djibouti)
 
-[Germany](Germany)
+[Dominican Republic](countries/Dominican_Republic)
 
-[Ghana](Ghana)
+[Ecuador](countries/Ecuador)
 
-[Gibraltar](Gibraltar)
+[Egypt](countries/Egypt)
 
-[Greece](Greece)
+[El Salvador](countries/El_Salvador)
 
-[Greenland](Greenland)
+[Equatorial Guinea](countries/Equatorial_Guinea)
 
-[Guam](Guam)
+[Estonia](countries/Estonia)
 
-[Guatemala](Guatemala)
+[Eswatini](countries/Eswatini)
 
-[Guernsey](Guernsey)
+[Ethiopia](countries/Ethiopia)
 
-[Guinea](Guinea)
+[Faroe Islands](countries/Faroe_Islands)
 
-[Guyana](Guyana)
+[Fiji](countries/Fiji)
 
-[Haiti](Haiti)
+[Finland](countries/Finland)
 
-[Holy See](Holy_See)
+[French Polynesia](countries/French_Polynesia)
 
-[Honduras](Honduras)
+[Gabon](countries/Gabon)
 
-[Hungary](Hungary)
+[Gambia](countries/Gambia)
 
-[Iceland](Iceland)
+[Georgia](countries/Georgia)
 
-[India](India)
+[Ghana](countries/Ghana)
 
-[Indonesia](Indonesia)
+[Gibraltar](countries/Gibraltar)
 
-[Iran](Iran)
+[Greece](countries/Greece)
 
-[Iraq](Iraq)
+[Greenland](countries/Greenland)
 
-[Ireland](Ireland)
+[Guam](countries/Guam)
 
-[Israel](Israel)
+[Guatemala](countries/Guatemala)
 
-[Italy](Italy)
+[Guernsey](countries/Guernsey)
 
-[Jamaica](Jamaica)
+[Guinea](countries/Guinea)
 
-[Japan](Japan)
+[Guyana](countries/Guyana)
 
-[Jersey](Jersey)
+[Haiti](countries/Haiti)
 
-[Jordan](Jordan)
+[Holy See](countries/Holy_See)
 
-[Kazakhstan](Kazakhstan)
+[Honduras](countries/Honduras)
 
-[Kenya](Kenya)
+[Hungary](countries/Hungary)
 
-[Kosovo](Kosovo)
+[Iceland](countries/Iceland)
 
-[Kuwait](Kuwait)
+[India](countries/India)
 
-[Kyrgyzstan](Kyrgyzstan)
+[Indonesia](countries/Indonesia)
 
-[Latvia](Latvia)
+[Ireland](countries/Ireland)
 
-[Lebanon](Lebanon)
+[Israel](countries/Israel)
 
-[Liberia](Liberia)
+[Jamaica](countries/Jamaica)
 
-[Liechtenstein](Liechtenstein)
+[Jersey](countries/Jersey)
 
-[Lithuania](Lithuania)
+[Jordan](countries/Jordan)
 
-[Luxembourg](Luxembourg)
+[Kazakhstan](countries/Kazakhstan)
 
-[Malaysia](Malaysia)
+[Kenya](countries/Kenya)
 
-[Maldives](Maldives)
+[Kosovo](countries/Kosovo)
 
-[Malta](Malta)
+[Kuwait](countries/Kuwait)
 
-[Mauritania](Mauritania)
+[Kyrgyzstan](countries/Kyrgyzstan)
 
-[Mauritius](Mauritius)
+[Latvia](countries/Latvia)
 
-[Mexico](Mexico)
+[Lebanon](countries/Lebanon)
 
-[Moldova](Moldova)
+[Liberia](countries/Liberia)
 
-[Monaco](Monaco)
+[Liechtenstein](countries/Liechtenstein)
 
-[Mongolia](Mongolia)
+[Lithuania](countries/Lithuania)
 
-[Montenegro](Montenegro)
+[Luxembourg](countries/Luxembourg)
 
-[Morocco](Morocco)
+[Malaysia](countries/Malaysia)
 
-[Namibia](Namibia)
+[Maldives](countries/Maldives)
 
-[Nepal](Nepal)
+[Malta](countries/Malta)
 
-[Netherlands](Netherlands)
+[Mauritania](countries/Mauritania)
 
-[Netherlands Antilles](Netherlands_Antilles)
+[Mauritius](countries/Mauritius)
 
-[New Zealand](New_Zealand)
+[Mexico](countries/Mexico)
 
-[Nicaragua](Nicaragua)
+[Moldova](countries/Moldova)
 
-[Nigeria](Nigeria)
+[Monaco](countries/Monaco)
 
-[North Macedonia](North_Macedonia)
+[Mongolia](countries/Mongolia)
 
-[Norway](Norway)
+[Montenegro](countries/Montenegro)
 
-[Oman](Oman)
+[Morocco](countries/Morocco)
 
-[Pakistan](Pakistan)
+[Namibia](countries/Namibia)
 
-[Palestine](Palestine)
+[Nepal](countries/Nepal)
 
-[Panama](Panama)
+[Netherlands Antilles](countries/Netherlands_Antilles)
 
-[Paraguay](Paraguay)
+[New Zealand](countries/New_Zealand)
 
-[Peru](Peru)
+[Nicaragua](countries/Nicaragua)
 
-[Philippines](Philippines)
+[Nigeria](countries/Nigeria)
 
-[Poland](Poland)
+[North Macedonia](countries/North_Macedonia)
 
-[Portugal](Portugal)
+[Norway](countries/Norway)
 
-[Qatar](Qatar)
+[Oman](countries/Oman)
 
-[Romania](Romania)
+[Pakistan](countries/Pakistan)
 
-[Russia](Russia)
+[Palestine](countries/Palestine)
 
-[Rwanda](Rwanda)
+[Panama](countries/Panama)
 
-[Saint Lucia](Saint_Lucia)
+[Paraguay](countries/Paraguay)
 
-[Saint Vincent And The Grenadines](Saint_Vincent_And_The_Grenadines)
+[Peru](countries/Peru)
 
-[San Marino](San_Marino)
+[Poland](countries/Poland)
 
-[Saudi Arabia](Saudi_Arabia)
+[Portugal](countries/Portugal)
 
-[Senegal](Senegal)
+[Qatar](countries/Qatar)
 
-[Serbia](Serbia)
+[Romania](countries/Romania)
 
-[Seychelles](Seychelles)
+[Russia](countries/Russia)
 
-[Singapore](Singapore)
+[Rwanda](countries/Rwanda)
 
-[Slovakia](Slovakia)
+[Saint Lucia](countries/Saint_Lucia)
 
-[Slovenia](Slovenia)
+[Saint Vincent And The Grenadines](countries/Saint_Vincent_And_The_Grenadines)
 
-[Somalia](Somalia)
+[Saudi Arabia](countries/Saudi_Arabia)
 
-[South Africa](South_Africa)
+[Senegal](countries/Senegal)
 
-[South Korea](South_Korea)
+[Serbia](countries/Serbia)
 
-[Spain](Spain)
+[Seychelles](countries/Seychelles)
 
-[Sri Lanka](Sri_Lanka)
+[Singapore](countries/Singapore)
 
-[Sudan](Sudan)
+[Slovakia](countries/Slovakia)
 
-[Suriname](Suriname)
+[Slovenia](countries/Slovenia)
 
-[Sweden](Sweden)
+[Somalia](countries/Somalia)
 
-[Switzerland](Switzerland)
+[South Africa](countries/South_Africa)
 
-[Taiwan](Taiwan)
+[Sri Lanka](countries/Sri_Lanka)
 
-[Thailand](Thailand)
+[Sudan](countries/Sudan)
 
-[Togo](Togo)
+[Suriname](countries/Suriname)
 
-[Trinidad And Tobago](Trinidad_And_Tobago)
+[Taiwan](countries/Taiwan)
 
-[Tunisia](Tunisia)
+[Thailand](countries/Thailand)
 
-[Turkey](Turkey)
+[Togo](countries/Togo)
 
-[Ukraine](Ukraine)
+[Trinidad And Tobago](countries/Trinidad_And_Tobago)
 
-[United Arab Emirates](United_Arab_Emirates)
+[Tunisia](countries/Tunisia)
 
-[United Kingdom](United_Kingdom)
+[Turkey](countries/Turkey)
 
-[United Republic Of Tanzania](United_Republic_Of_Tanzania)
+[Ukraine](countries/Ukraine)
 
-[United States Of America](United_States_Of_America)
+[United Arab Emirates](countries/United_Arab_Emirates)
 
-[Uruguay](Uruguay)
+[United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
 
-[Uzbekistan](Uzbekistan)
+[Uruguay](countries/Uruguay)
 
-[Venezuela](Venezuela)
+[Uzbekistan](countries/Uzbekistan)
 
-[Vietnam](Vietnam)
+[Venezuela](countries/Venezuela)
 
-[Zambia](Zambia)
+[Vietnam](countries/Vietnam)
+
+[Zambia](countries/Zambia)

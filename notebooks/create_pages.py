@@ -15,9 +15,12 @@ def hr_cname(c):
 
 def create_pages(date, main_chart_countries, countries):
     global_url_prefix = "https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs"
-    countries_data = [dict(name=hr_cname(c), path=c) for c in countries]
+    blacklist = ["Cases_On_An_International_Conveyance_Japan"]
+    most_impacted_countries_data = [dict(name=hr_cname(c), path=c) for c,info in countries.items() if info["most_impacted"] and c not in blacklist]
+    other_countries_data = [dict(name=hr_cname(c), path=c) for c,info in countries.items() if not info["most_impacted"]]
     information = dict(date=date,
-                       countries=countries_data,
+                       most_impacted_countries_data=most_impacted_countries_data,
+                       other_countries_data=other_countries_data,
                        main_chart_countries=", ".join([hr_cname(c) for c in main_chart_countries]),
                        url_prefix="%s/%s/%s" % (global_url_prefix, date, date))
 
