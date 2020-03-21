@@ -462,7 +462,7 @@ if not root.exists():
 
 main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
-step = 0
+step = 2
 
 if step <= 0:
     g = MultiCountryGraph(data_provider,
