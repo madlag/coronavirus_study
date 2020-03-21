@@ -1,6 +1,6 @@
 ## Egypt Covid-19 status comparison 
 
-Egypt
+Egypt covid-19 deaths are currently doubling each 8.99 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Egypt covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Egypt/2020-03-21_Egypt_deaths.gif "Egypt covid-19 deaths animated chart")   
+ 
 #### Static
-![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
+![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Egypt/2020-03-21_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Egypt covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Egypt/2020-03-21_Egypt_cases.gif "Egypt covid-19 cases animated chart")   
+ 
 #### Static
-![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Egypt/2020-03-20_Egypt_cases.png "Egypt covid-19 cases static chart")   
+![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Egypt/2020-03-21_Egypt_cases.png "Egypt covid-19 cases static chart")   
 

@@ -462,7 +462,7 @@ if not root.exists():
 
 main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
-step = 2
+step = 0
 
 if step <= 0:
     g = MultiCountryGraph(data_provider,
@@ -510,7 +510,12 @@ if step <= 1:
                 g.movie(dest_file_name)
 
 if step <= 2:
+    print(len(all_countries))
     import create_pages
+
+    us_data = data_provider.get_data_for_country("United_States_Of_America")[0]
+    for d in us_data:
+        print(d)
 
     all_countries_information = {}
     for c in all_countries:

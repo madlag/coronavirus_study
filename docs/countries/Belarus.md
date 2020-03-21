@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Belarus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Belarus/2020-03-20_Belarus_cases.png "Belarus covid-19 cases static chart")   
+![Belarus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Belarus/2020-03-21_Belarus_cases.png "Belarus covid-19 cases static chart")   
 

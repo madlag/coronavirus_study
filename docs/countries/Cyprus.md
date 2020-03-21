@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Cyprus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Cyprus/2020-03-20_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
+![Cyprus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Cyprus/2020-03-21_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
 

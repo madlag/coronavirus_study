@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Moldova covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Moldova/2020-03-20_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
+![Moldova covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Moldova/2020-03-21_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Moldova covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Moldova/2020-03-20_Moldova_cases.png "Moldova covid-19 cases static chart")   
+![Moldova covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Moldova/2020-03-21_Moldova_cases.png "Moldova covid-19 cases static chart")   
 

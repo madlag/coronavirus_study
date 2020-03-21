@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Chad/2020-03-20_Chad_cases.png "Chad covid-19 cases static chart")   
+![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Chad/2020-03-21_Chad_cases.png "Chad covid-19 cases static chart")   
 

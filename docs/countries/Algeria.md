@@ -1,6 +1,6 @@
 ## Algeria Covid-19 status comparison 
 
-Algeria
+Algeria covid-19 deaths are currently doubling each 2.71 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Algeria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Algeria/2020-03-21_Algeria_deaths.gif "Algeria covid-19 deaths animated chart")   
+ 
 #### Static
-![Algeria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Algeria/2020-03-20_Algeria_deaths.png "Algeria covid-19 deaths static chart")   
+![Algeria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Algeria/2020-03-21_Algeria_deaths.png "Algeria covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Algeria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Algeria/2020-03-21_Algeria_cases.gif "Algeria covid-19 cases animated chart")   
+ 
 #### Static
-![Algeria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Algeria/2020-03-20_Algeria_cases.png "Algeria covid-19 cases static chart")   
+![Algeria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Algeria/2020-03-21_Algeria_cases.png "Algeria covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Gibraltar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Gibraltar/2020-03-20_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
+![Gibraltar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Gibraltar/2020-03-21_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
 

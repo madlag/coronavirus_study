@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Azerbaijan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Azerbaijan/2020-03-21_Azerbaijan_deaths.png "Azerbaijan covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Azerbaijan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/countries/Azerbaijan/2020-03-20_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
+![Azerbaijan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Azerbaijan/2020-03-21_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
 

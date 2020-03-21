@@ -1,4 +1,4 @@
-##  COVID-19 2020-03-20 report
+##  COVID-19 2020-03-21 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,13 +11,21 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-20/2020-03-20_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/2020-03-21_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-03-20
+### Most Affected Countries as of 2020-03-21
+
+[Algeria](countries/Algeria)
+
+[Australia](countries/Australia)
+
+[Belgium](countries/Belgium)
 
 [Canada](countries/Canada)
 
 [China](countries/China)
+
+[Egypt](countries/Egypt)
 
 [France](countries/France)
 
@@ -56,8 +64,6 @@ France is following quite accurately Italy.
 
 [Albania](countries/Albania)
 
-[Algeria](countries/Algeria)
-
 [Andorra](countries/Andorra)
 
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
@@ -65,8 +71,6 @@ France is following quite accurately Italy.
 [Argentina](countries/Argentina)
 
 [Armenia](countries/Armenia)
-
-[Australia](countries/Australia)
 
 [Austria](countries/Austria)
 
@@ -81,8 +85,6 @@ France is following quite accurately Italy.
 [Barbados](countries/Barbados)
 
 [Belarus](countries/Belarus)
-
-[Belgium](countries/Belgium)
 
 [Benin](countries/Benin)
 
@@ -105,6 +107,8 @@ France is following quite accurately Italy.
 [Cambodia](countries/Cambodia)
 
 [Cameroon](countries/Cameroon)
+
+[Cape Verde](countries/Cape_Verde)
 
 [Cayman Islands](countries/Cayman_Islands)
 
@@ -139,8 +143,6 @@ France is following quite accurately Italy.
 [Dominican Republic](countries/Dominican_Republic)
 
 [Ecuador](countries/Ecuador)
-
-[Egypt](countries/Egypt)
 
 [El Salvador](countries/El_Salvador)
 
@@ -200,6 +202,8 @@ France is following quite accurately Italy.
 
 [Ireland](countries/Ireland)
 
+[Isle Of Man](countries/Isle_Of_Man)
+
 [Israel](countries/Israel)
 
 [Jamaica](countries/Jamaica)
@@ -230,6 +234,8 @@ France is following quite accurately Italy.
 
 [Luxembourg](countries/Luxembourg)
 
+[Madagascar](countries/Madagascar)
+
 [Malaysia](countries/Malaysia)
 
 [Maldives](countries/Maldives)
@@ -250,6 +256,8 @@ France is following quite accurately Italy.
 
 [Montenegro](countries/Montenegro)
 
+[Montserrat](countries/Montserrat)
+
 [Morocco](countries/Morocco)
 
 [Namibia](countries/Namibia)
@@ -258,9 +266,13 @@ France is following quite accurately Italy.
 
 [Netherlands Antilles](countries/Netherlands_Antilles)
 
+[New Caledonia](countries/New_Caledonia)
+
 [New Zealand](countries/New_Zealand)
 
 [Nicaragua](countries/Nicaragua)
+
+[Niger](countries/Niger)
 
 [Nigeria](countries/Nigeria)
 
@@ -275,6 +287,8 @@ France is following quite accurately Italy.
 [Palestine](countries/Palestine)
 
 [Panama](countries/Panama)
+
+[Papua New Guinea](countries/Papua_New_Guinea)
 
 [Paraguay](countries/Paraguay)
 
@@ -347,3 +361,5 @@ France is following quite accurately Italy.
 [Vietnam](countries/Vietnam)
 
 [Zambia](countries/Zambia)
+
+[Zimbabwe](countries/Zimbabwe)
