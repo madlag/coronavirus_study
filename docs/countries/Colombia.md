@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Colombia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Colombia/2020-03-22_Colombia_deaths.png "Colombia covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Colombia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Colombia/2020-03-21_Colombia_cases.png "Colombia covid-19 cases static chart")   
+![Colombia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Colombia/2020-03-22_Colombia_cases.png "Colombia covid-19 cases static chart")   
 

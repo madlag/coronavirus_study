@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Democratic Republic Of The Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Democratic_Republic_Of_The_Congo/2020-03-22_Democratic_Republic_Of_The_Congo_deaths.png "Democratic Republic Of The Congo covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Democratic Republic Of The Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Democratic_Republic_Of_The_Congo/2020-03-21_Democratic_Republic_Of_The_Congo_cases.png "Democratic Republic Of The Congo covid-19 cases static chart")   
+![Democratic Republic Of The Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Democratic_Republic_Of_The_Congo/2020-03-22_Democratic_Republic_Of_The_Congo_cases.png "Democratic Republic Of The Congo covid-19 cases static chart")   
 

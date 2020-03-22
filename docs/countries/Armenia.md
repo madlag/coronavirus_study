@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Armenia/2020-03-21_Armenia_cases.png "Armenia covid-19 cases static chart")   
+![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Armenia/2020-03-22_Armenia_cases.png "Armenia covid-19 cases static chart")   
 

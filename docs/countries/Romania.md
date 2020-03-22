@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Romania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Romania/2020-03-21_Romania_cases.png "Romania covid-19 cases static chart")   
+![Romania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Romania/2020-03-22_Romania_cases.png "Romania covid-19 cases static chart")   
 

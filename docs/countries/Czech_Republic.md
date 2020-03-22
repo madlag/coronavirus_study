@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Czech_Republic/2020-03-21_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
+![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Czech_Republic/2020-03-22_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
 

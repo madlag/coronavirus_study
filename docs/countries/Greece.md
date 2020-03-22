@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Greece/2020-03-21_Greece_deaths.png "Greece covid-19 deaths static chart")   
+![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Greece/2020-03-22_Greece_deaths.png "Greece covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Greece/2020-03-21_Greece_cases.png "Greece covid-19 cases static chart")   
+![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Greece/2020-03-22_Greece_cases.png "Greece covid-19 cases static chart")   
 

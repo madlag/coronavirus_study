@@ -1,4 +1,4 @@
-##  COVID-19 2020-03-21 report
+##  COVID-19 2020-03-22 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,25 +11,33 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/2020-03-21_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/2020-03-22_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-03-21
+### Most Affected Countries as of 2020-03-22
 
 [Algeria](countries/Algeria)
 
 [Australia](countries/Australia)
 
+[Austria](countries/Austria)
+
 [Belgium](countries/Belgium)
+
+[Brazil](countries/Brazil)
 
 [Canada](countries/Canada)
 
 [China](countries/China)
+
+[Denmark](countries/Denmark)
 
 [Egypt](countries/Egypt)
 
 [France](countries/France)
 
 [Germany](countries/Germany)
+
+[Indonesia](countries/Indonesia)
 
 [Iran](countries/Iran)
 
@@ -40,6 +48,8 @@ France is following quite accurately Italy.
 [Japan](countries/Japan)
 
 [Netherlands](countries/Netherlands)
+
+[Norway](countries/Norway)
 
 [Philippines](countries/Philippines)
 
@@ -66,13 +76,13 @@ France is following quite accurately Italy.
 
 [Andorra](countries/Andorra)
 
+[Angola](countries/Angola)
+
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
 [Argentina](countries/Argentina)
 
 [Armenia](countries/Armenia)
-
-[Austria](countries/Austria)
 
 [Azerbaijan](countries/Azerbaijan)
 
@@ -95,8 +105,6 @@ France is following quite accurately Italy.
 [Bolivia](countries/Bolivia)
 
 [Bosnia And Herzegovina](countries/Bosnia_And_Herzegovina)
-
-[Brazil](countries/Brazil)
 
 [Brunei Darussalam](countries/Brunei_Darussalam)
 
@@ -136,8 +144,6 @@ France is following quite accurately Italy.
 
 [Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
-[Denmark](countries/Denmark)
-
 [Djibouti](countries/Djibouti)
 
 [Dominican Republic](countries/Dominican_Republic)
@@ -147,6 +153,8 @@ France is following quite accurately Italy.
 [El Salvador](countries/El_Salvador)
 
 [Equatorial Guinea](countries/Equatorial_Guinea)
+
+[Eritrea](countries/Eritrea)
 
 [Estonia](countries/Estonia)
 
@@ -197,8 +205,6 @@ France is following quite accurately Italy.
 [Iceland](countries/Iceland)
 
 [India](countries/India)
-
-[Indonesia](countries/Indonesia)
 
 [Ireland](countries/Ireland)
 
@@ -278,8 +284,6 @@ France is following quite accurately Italy.
 
 [North Macedonia](countries/North_Macedonia)
 
-[Norway](countries/Norway)
-
 [Oman](countries/Oman)
 
 [Pakistan](countries/Pakistan)
@@ -338,6 +342,8 @@ France is following quite accurately Italy.
 
 [Thailand](countries/Thailand)
 
+[Timor Leste](countries/Timor_Leste)
+
 [Togo](countries/Togo)
 
 [Trinidad And Tobago](countries/Trinidad_And_Tobago)
@@ -345,6 +351,8 @@ France is following quite accurately Italy.
 [Tunisia](countries/Tunisia)
 
 [Turkey](countries/Turkey)
+
+[Uganda](countries/Uganda)
 
 [Ukraine](countries/Ukraine)
 

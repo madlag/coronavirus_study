@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-21/countries/Chile/2020-03-21_Chile_cases.png "Chile covid-19 cases static chart")   
+![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Chile/2020-03-22_Chile_cases.png "Chile covid-19 cases static chart")   
 
