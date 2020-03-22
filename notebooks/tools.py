@@ -155,6 +155,8 @@ class DataProcessor:
             yy = y[i]
             if yy <= self.min_deaths:
                 time_to_min_deaths = xx
+            if yy == self.min_deaths:
+                break
 
         x = x0[-10:]
         y = y0[-10:]
@@ -462,7 +464,7 @@ if not root.exists():
 
 main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
-step = 2
+step = 0
 
 if step <= 0:
     g = MultiCountryGraph(data_provider,
