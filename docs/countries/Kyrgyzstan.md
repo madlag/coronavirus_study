@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Kyrgyzstan/2020-03-22_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
+![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Kyrgyzstan/2020-03-23_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
 

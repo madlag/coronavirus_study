@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Jamaica/2020-03-22_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
+![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Jamaica/2020-03-23_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
 

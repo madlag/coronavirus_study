@@ -1,6 +1,6 @@
 ## Greece Covid-19 status comparison 
 
-Greece
+Greece covid-19 deaths are currently doubling each 2.21 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Greece covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Greece/2020-03-23_Greece_deaths.gif "Greece covid-19 deaths animated chart")   
+ 
 #### Static
-![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Greece/2020-03-22_Greece_deaths.png "Greece covid-19 deaths static chart")   
+![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Greece/2020-03-23_Greece_deaths.png "Greece covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Greece covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Greece/2020-03-23_Greece_cases.gif "Greece covid-19 cases animated chart")   
+ 
 #### Static
-![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Greece/2020-03-22_Greece_cases.png "Greece covid-19 cases static chart")   
+![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Greece/2020-03-23_Greece_cases.png "Greece covid-19 cases static chart")   
 

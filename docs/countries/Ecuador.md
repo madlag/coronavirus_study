@@ -1,6 +1,6 @@
 ## Ecuador Covid-19 status comparison 
 
-Ecuador
+Ecuador covid-19 deaths are currently doubling each 2.00 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Ecuador covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Ecuador/2020-03-23_Ecuador_deaths.gif "Ecuador covid-19 deaths animated chart")   
+ 
 #### Static
-![Ecuador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Ecuador/2020-03-22_Ecuador_deaths.png "Ecuador covid-19 deaths static chart")   
+![Ecuador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Ecuador/2020-03-23_Ecuador_deaths.png "Ecuador covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Ecuador covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Ecuador/2020-03-23_Ecuador_cases.gif "Ecuador covid-19 cases animated chart")   
+ 
 #### Static
-![Ecuador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Ecuador/2020-03-22_Ecuador_cases.png "Ecuador covid-19 cases static chart")   
+![Ecuador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Ecuador/2020-03-23_Ecuador_cases.png "Ecuador covid-19 cases static chart")   
 

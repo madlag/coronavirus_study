@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Peru/2020-03-22_Peru_deaths.png "Peru covid-19 deaths static chart")   
+![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Peru/2020-03-23_Peru_deaths.png "Peru covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Peru/2020-03-22_Peru_cases.png "Peru covid-19 cases static chart")   
+![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Peru/2020-03-23_Peru_cases.png "Peru covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Palestine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-22/countries/Palestine/2020-03-22_Palestine_cases.png "Palestine covid-19 cases static chart")   
+![Palestine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Palestine/2020-03-23_Palestine_cases.png "Palestine covid-19 cases static chart")   
 
