@@ -1,4 +1,4 @@
-##  COVID-19 2020-03-23 report
+##  COVID-19 2020-03-24 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,9 +11,9 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/2020-03-23_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/2020-03-24_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-03-23
+### Most Affected Countries as of 2020-03-24
 
 [Algeria](countries/Algeria)
 
@@ -50,6 +50,8 @@ France is following quite accurately Italy.
 [Italy](countries/Italy)
 
 [Japan](countries/Japan)
+
+[Luxembourg](countries/Luxembourg)
 
 [Netherlands](countries/Netherlands)
 
@@ -103,6 +105,8 @@ France is following quite accurately Italy.
 [Barbados](countries/Barbados)
 
 [Belarus](countries/Belarus)
+
+[Belize](countries/Belize)
 
 [Benin](countries/Benin)
 
@@ -246,8 +250,6 @@ France is following quite accurately Italy.
 
 [Lithuania](countries/Lithuania)
 
-[Luxembourg](countries/Luxembourg)
-
 [Madagascar](countries/Madagascar)
 
 [Malaysia](countries/Malaysia)
@@ -275,6 +277,8 @@ France is following quite accurately Italy.
 [Morocco](countries/Morocco)
 
 [Mozambique](countries/Mozambique)
+
+[Myanmar](countries/Myanmar)
 
 [Namibia](countries/Namibia)
 
@@ -367,6 +371,8 @@ France is following quite accurately Italy.
 [United Arab Emirates](countries/United_Arab_Emirates)
 
 [United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
+
+[United States Virgin Islands](countries/United_States_Virgin_Islands)
 
 [Uruguay](countries/Uruguay)
 

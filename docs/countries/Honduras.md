@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Honduras covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Honduras/2020-03-23_Honduras_cases.png "Honduras covid-19 cases static chart")   
+![Honduras covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Honduras/2020-03-24_Honduras_cases.png "Honduras covid-19 cases static chart")   
 

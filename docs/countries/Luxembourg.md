@@ -1,6 +1,6 @@
 ## Luxembourg Covid-19 status comparison 
 
-Luxembourg
+Luxembourg covid-19 deaths are currently doubling each 1817243479778950.75 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Luxembourg covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Luxembourg/2020-03-24_Luxembourg_deaths.gif "Luxembourg covid-19 deaths animated chart")   
+ 
 #### Static
-![Luxembourg covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Luxembourg/2020-03-23_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
+![Luxembourg covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Luxembourg/2020-03-24_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Luxembourg covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Luxembourg/2020-03-24_Luxembourg_cases.gif "Luxembourg covid-19 cases animated chart")   
+ 
 #### Static
-![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Luxembourg/2020-03-23_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
+![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Luxembourg/2020-03-24_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
 

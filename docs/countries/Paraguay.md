@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Paraguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Paraguay/2020-03-23_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
+![Paraguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Paraguay/2020-03-24_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Paraguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Paraguay/2020-03-23_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
+![Paraguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Paraguay/2020-03-24_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
 

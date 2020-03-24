@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Malaysia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Malaysia/2020-03-23_Malaysia_deaths.png "Malaysia covid-19 deaths static chart")   
+![Malaysia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Malaysia/2020-03-24_Malaysia_deaths.png "Malaysia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Malaysia/2020-03-23_Malaysia_cases.png "Malaysia covid-19 cases static chart")   
+![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Malaysia/2020-03-24_Malaysia_cases.png "Malaysia covid-19 cases static chart")   
 

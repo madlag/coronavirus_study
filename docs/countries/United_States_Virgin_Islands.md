@@ -1,6 +1,6 @@
-## Ethiopia Covid-19 status comparison 
+## United States Virgin Islands Covid-19 status comparison 
 
-Ethiopia
+United States Virgin Islands
 
 
 
@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Ethiopia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Ethiopia/2020-03-24_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
+![United States Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/United_States_Virgin_Islands/2020-03-24_United_States_Virgin_Islands_cases.png "United States Virgin Islands covid-19 cases static chart")   
 

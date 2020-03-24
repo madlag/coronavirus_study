@@ -1,6 +1,6 @@
-## Ethiopia Covid-19 status comparison 
+## Belize Covid-19 status comparison 
 
-Ethiopia
+Belize
 
 
 
@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Ethiopia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Ethiopia/2020-03-24_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
+![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Belize/2020-03-24_Belize_cases.png "Belize covid-19 cases static chart")   
 

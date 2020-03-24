@@ -288,7 +288,7 @@ class CountryGraph:
         dates = [x for x in range(self.start, self.end)]
         data = [max(1, 2 ** ((x + shift) / time_base)) for x in dates]
 
-        while data[-1] > 5000:
+        while data[-1] > 7500:
             data = data[:-1]
             dates = dates[:-1]
 

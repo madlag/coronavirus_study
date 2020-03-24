@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Isle Of Man covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Isle_Of_Man/2020-03-23_Isle_Of_Man_cases.png "Isle Of Man covid-19 cases static chart")   
+![Isle Of Man covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Isle_Of_Man/2020-03-24_Isle_Of_Man_cases.png "Isle Of Man covid-19 cases static chart")   
 

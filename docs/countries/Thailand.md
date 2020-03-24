@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Thailand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Thailand/2020-03-23_Thailand_deaths.png "Thailand covid-19 deaths static chart")   
+![Thailand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Thailand/2020-03-24_Thailand_deaths.png "Thailand covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Thailand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Thailand/2020-03-23_Thailand_cases.png "Thailand covid-19 cases static chart")   
+![Thailand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Thailand/2020-03-24_Thailand_cases.png "Thailand covid-19 cases static chart")   
 

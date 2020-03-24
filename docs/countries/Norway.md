@@ -1,6 +1,6 @@
 ## Norway Covid-19 status comparison 
 
-Norway covid-19 deaths are currently doubling each 14.99 days (observed average doubling time is 2.2 days across countries).
+Norway covid-19 deaths are currently doubling each 12.05 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Norway covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Norway/2020-03-23_Norway_deaths.gif "Norway covid-19 deaths animated chart")   
+![Norway covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Norway/2020-03-24_Norway_deaths.gif "Norway covid-19 deaths animated chart")   
  
 #### Static
-![Norway covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Norway/2020-03-23_Norway_deaths.png "Norway covid-19 deaths static chart")   
+![Norway covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Norway/2020-03-24_Norway_deaths.png "Norway covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Norway covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Norway/2020-03-23_Norway_cases.gif "Norway covid-19 cases animated chart")   
+![Norway covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Norway/2020-03-24_Norway_cases.gif "Norway covid-19 cases animated chart")   
  
 #### Static
-![Norway covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-23/countries/Norway/2020-03-23_Norway_cases.png "Norway covid-19 cases static chart")   
+![Norway covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Norway/2020-03-24_Norway_cases.png "Norway covid-19 cases static chart")   
 
