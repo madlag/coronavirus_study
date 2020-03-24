@@ -444,7 +444,7 @@ class MultiCountryGraph:
         shift =  - reference_shift[self.data_type]
         time_base = reference_time_base
 
-        plt.plot([max(1, 2**((x + shift) / time_base)) for x in range(0, 78)],
+        plt.plot([max(1, 2**((x + shift) / time_base)) for x in range(0, 80)],
                  label="Doubling every %02.2f days" % time_base,       
                  linestyle='dotted')
 
