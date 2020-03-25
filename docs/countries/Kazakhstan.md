@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Kazakhstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Kazakhstan/2020-03-24_Kazakhstan_cases.png "Kazakhstan covid-19 cases static chart")   
+![Kazakhstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Kazakhstan/2020-03-25_Kazakhstan_cases.png "Kazakhstan covid-19 cases static chart")   
 

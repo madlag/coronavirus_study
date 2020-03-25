@@ -1,6 +1,6 @@
-## Rwanda Covid-19 status comparison 
+## Libya Covid-19 status comparison 
 
-Rwanda
+Libya
 
 
 
@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Rwanda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Rwanda/2020-03-25_Rwanda_cases.png "Rwanda covid-19 cases static chart")   
+![Libya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Libya/2020-03-25_Libya_cases.png "Libya covid-19 cases static chart")   
 

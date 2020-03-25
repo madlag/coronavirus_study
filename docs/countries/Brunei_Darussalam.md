@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Brunei Darussalam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Brunei_Darussalam/2020-03-24_Brunei_Darussalam_cases.png "Brunei Darussalam covid-19 cases static chart")   
+![Brunei Darussalam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Brunei_Darussalam/2020-03-25_Brunei_Darussalam_cases.png "Brunei Darussalam covid-19 cases static chart")   
 

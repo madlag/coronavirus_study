@@ -1,6 +1,6 @@
 ## Turkey Covid-19 status comparison 
 
-Turkey covid-19 deaths are currently doubling each 1.51 days (observed average doubling time is 2.2 days across countries).
+Turkey covid-19 deaths are currently doubling each 1.85 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Turkey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Turkey/2020-03-24_Turkey_deaths.gif "Turkey covid-19 deaths animated chart")   
+![Turkey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Turkey/2020-03-25_Turkey_deaths.gif "Turkey covid-19 deaths animated chart")   
  
 #### Static
-![Turkey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Turkey/2020-03-24_Turkey_deaths.png "Turkey covid-19 deaths static chart")   
+![Turkey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Turkey/2020-03-25_Turkey_deaths.png "Turkey covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Turkey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Turkey/2020-03-24_Turkey_cases.gif "Turkey covid-19 cases animated chart")   
+![Turkey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Turkey/2020-03-25_Turkey_cases.gif "Turkey covid-19 cases animated chart")   
  
 #### Static
-![Turkey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Turkey/2020-03-24_Turkey_cases.png "Turkey covid-19 cases static chart")   
+![Turkey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Turkey/2020-03-25_Turkey_cases.png "Turkey covid-19 cases static chart")   
 

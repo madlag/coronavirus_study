@@ -1,6 +1,6 @@
 ## Hungary Covid-19 status comparison 
 
-Hungary
+Hungary covid-19 deaths are currently doubling each 3.89 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Hungary covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Hungary/2020-03-25_Hungary_deaths.gif "Hungary covid-19 deaths animated chart")   
+ 
 #### Static
-![Hungary covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Hungary/2020-03-24_Hungary_deaths.png "Hungary covid-19 deaths static chart")   
+![Hungary covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Hungary/2020-03-25_Hungary_deaths.png "Hungary covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Hungary covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Hungary/2020-03-25_Hungary_cases.gif "Hungary covid-19 cases animated chart")   
+ 
 #### Static
-![Hungary covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Hungary/2020-03-24_Hungary_cases.png "Hungary covid-19 cases static chart")   
+![Hungary covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Hungary/2020-03-25_Hungary_cases.png "Hungary covid-19 cases static chart")   
 

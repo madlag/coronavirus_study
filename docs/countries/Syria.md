@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Syria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Syria/2020-03-24_Syria_cases.png "Syria covid-19 cases static chart")   
+![Syria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Syria/2020-03-25_Syria_cases.png "Syria covid-19 cases static chart")   
 

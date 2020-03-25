@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/North_Macedonia/2020-03-24_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
+![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/North_Macedonia/2020-03-25_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/North_Macedonia/2020-03-24_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
+![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/North_Macedonia/2020-03-25_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
 

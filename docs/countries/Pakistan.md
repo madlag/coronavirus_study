@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Pakistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Pakistan/2020-03-24_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
+![Pakistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Pakistan/2020-03-25_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Pakistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Pakistan/2020-03-24_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
+![Pakistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Pakistan/2020-03-25_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
 

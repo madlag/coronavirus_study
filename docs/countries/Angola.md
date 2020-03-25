@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Angola covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Angola/2020-03-24_Angola_cases.png "Angola covid-19 cases static chart")   
+![Angola covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Angola/2020-03-25_Angola_cases.png "Angola covid-19 cases static chart")   
 

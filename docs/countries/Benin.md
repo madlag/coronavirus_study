@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Benin covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-24/countries/Benin/2020-03-24_Benin_cases.png "Benin covid-19 cases static chart")   
+![Benin covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-25/countries/Benin/2020-03-25_Benin_cases.png "Benin covid-19 cases static chart")   
 
