@@ -288,10 +288,6 @@ class CountryGraph:
         dates = [x for x in range(self.start, self.end)]
         data = [max(1, 2 ** ((x + shift) / time_base)) for x in dates]
 
-        while data[-1] > 7500:
-            data = data[:-1]
-            dates = dates[:-1]
-
         plt.plot(dates,
                  data,
                  label="%s: doubling every %02.2f days" % (self.country, time_base),
@@ -302,6 +298,7 @@ class CountryGraph:
     def plot(self, clip = 0):
         dates, values = self.dp.get_data(self.china_comparison)
         assert(len(dates) == len(values))
+        max_data = max(values)
         dates = dates[:len(dates) - clip]
         values = values[:len(values) - clip]
         
@@ -318,8 +315,7 @@ class CountryGraph:
 
         if self.draw_reference:
             self.growth_reference_plot()
-
-
+        return max_data
 
 
 class MultiCountryGraph:
@@ -361,6 +357,7 @@ class MultiCountryGraph:
         fig=plt.figure(figsize=(12, 8), dpi=dpi, facecolor='w', edgecolor='k')
 
         self.country_graphs = []
+        max_data = 0
         for i, country in enumerate(self.countries):
             draw_reference = len(self.countries) == 1
 
@@ -384,7 +381,8 @@ class MultiCountryGraph:
                              self.china_comparison,                             
                              plot_kwargs,
                              draw_reference = draw_reference)
-            g.plot(clip = clip)
+            c_max_data = g.plot(clip = clip)
+            max_data = max(max_data, c_max_data)
             self.country_graphs.append(g)
             
         if self.growth_reference:
@@ -404,7 +402,8 @@ class MultiCountryGraph:
 
         data_type_offset = 0 if self.data_type == "deaths" else - 14
         plt.xlim(40 + data_type_offset, 120 + data_type_offset)
-        
+        plt.ylim(0.5, max_data * 1.2)
+
         if filename is not None:
             fig.savefig(filename)           
             
