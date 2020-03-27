@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Monaco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Monaco/2020-03-26_Monaco_cases.png "Monaco covid-19 cases static chart")   
+![Monaco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Monaco/2020-03-27_Monaco_cases.png "Monaco covid-19 cases static chart")   
 

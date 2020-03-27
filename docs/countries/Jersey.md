@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Jersey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Jersey/2020-03-27_Jersey_deaths.png "Jersey covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Jersey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Jersey/2020-03-26_Jersey_cases.png "Jersey covid-19 cases static chart")   
+![Jersey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Jersey/2020-03-27_Jersey_cases.png "Jersey covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Sri_Lanka/2020-03-26_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
+![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Sri_Lanka/2020-03-27_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
 

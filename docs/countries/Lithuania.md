@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Lithuania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Lithuania/2020-03-26_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
+![Lithuania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Lithuania/2020-03-27_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Lithuania/2020-03-26_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
+![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Lithuania/2020-03-27_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
 

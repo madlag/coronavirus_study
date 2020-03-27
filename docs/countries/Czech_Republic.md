@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Czech Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Czech_Republic/2020-03-26_Czech_Republic_deaths.png "Czech Republic covid-19 deaths static chart")   
+![Czech Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Czech_Republic/2020-03-27_Czech_Republic_deaths.png "Czech Republic covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Czech_Republic/2020-03-26_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
+![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Czech_Republic/2020-03-27_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
 

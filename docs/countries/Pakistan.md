@@ -1,6 +1,6 @@
 ## Pakistan Covid-19 status comparison 
 
-Pakistan covid-19 deaths are currently doubling each 4.82 days (observed average doubling time is 2.2 days across countries).
+Pakistan covid-19 deaths are currently doubling each 5.13 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Pakistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Pakistan/2020-03-26_Pakistan_deaths.gif "Pakistan covid-19 deaths animated chart")   
+![Pakistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Pakistan/2020-03-27_Pakistan_deaths.gif "Pakistan covid-19 deaths animated chart")   
  
 #### Static
-![Pakistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Pakistan/2020-03-26_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
+![Pakistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Pakistan/2020-03-27_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Pakistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Pakistan/2020-03-26_Pakistan_cases.gif "Pakistan covid-19 cases animated chart")   
+![Pakistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Pakistan/2020-03-27_Pakistan_cases.gif "Pakistan covid-19 cases animated chart")   
  
 #### Static
-![Pakistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Pakistan/2020-03-26_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
+![Pakistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Pakistan/2020-03-27_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
 

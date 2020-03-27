@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Saint Lucia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Saint_Lucia/2020-03-26_Saint_Lucia_cases.png "Saint Lucia covid-19 cases static chart")   
+![Saint Lucia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Saint_Lucia/2020-03-27_Saint_Lucia_cases.png "Saint Lucia covid-19 cases static chart")   
 

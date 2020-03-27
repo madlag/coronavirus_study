@@ -1,6 +1,6 @@
 ## United States Of America Covid-19 status comparison 
 
-United States Of America covid-19 deaths are currently doubling each 2.42 days (observed average doubling time is 2.2 days across countries).
+United States Of America covid-19 deaths are currently doubling each 2.43 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![United States Of America covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_States_Of_America/2020-03-26_United_States_Of_America_deaths.gif "United States Of America covid-19 deaths animated chart")   
+![United States Of America covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_States_Of_America/2020-03-27_United_States_Of_America_deaths.gif "United States Of America covid-19 deaths animated chart")   
  
 #### Static
-![United States Of America covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_States_Of_America/2020-03-26_United_States_Of_America_deaths.png "United States Of America covid-19 deaths static chart")   
+![United States Of America covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_States_Of_America/2020-03-27_United_States_Of_America_deaths.png "United States Of America covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![United States Of America covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_States_Of_America/2020-03-26_United_States_Of_America_cases.gif "United States Of America covid-19 cases animated chart")   
+![United States Of America covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_States_Of_America/2020-03-27_United_States_Of_America_cases.gif "United States Of America covid-19 cases animated chart")   
  
 #### Static
-![United States Of America covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_States_Of_America/2020-03-26_United_States_Of_America_cases.png "United States Of America covid-19 cases static chart")   
+![United States Of America covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_States_Of_America/2020-03-27_United_States_Of_America_cases.png "United States Of America covid-19 cases static chart")   
 

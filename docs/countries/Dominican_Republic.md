@@ -1,6 +1,6 @@
 ## Dominican Republic Covid-19 status comparison 
 
-Dominican Republic
+Dominican Republic covid-19 deaths are currently doubling each 2.71 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Dominican Republic covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Dominican_Republic/2020-03-27_Dominican_Republic_deaths.gif "Dominican Republic covid-19 deaths animated chart")   
+ 
 #### Static
-![Dominican Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Dominican_Republic/2020-03-26_Dominican_Republic_deaths.png "Dominican Republic covid-19 deaths static chart")   
+![Dominican Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Dominican_Republic/2020-03-27_Dominican_Republic_deaths.png "Dominican Republic covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Dominican Republic covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Dominican_Republic/2020-03-27_Dominican_Republic_cases.gif "Dominican Republic covid-19 cases animated chart")   
+ 
 #### Static
-![Dominican Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Dominican_Republic/2020-03-26_Dominican_Republic_cases.png "Dominican Republic covid-19 cases static chart")   
+![Dominican Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Dominican_Republic/2020-03-27_Dominican_Republic_cases.png "Dominican Republic covid-19 cases static chart")   
 

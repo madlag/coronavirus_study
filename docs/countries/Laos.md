@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Laos covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Laos/2020-03-26_Laos_cases.png "Laos covid-19 cases static chart")   
+![Laos covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Laos/2020-03-27_Laos_cases.png "Laos covid-19 cases static chart")   
 

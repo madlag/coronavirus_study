@@ -1,6 +1,6 @@
 ## Australia Covid-19 status comparison 
 
-Australia covid-19 deaths are currently doubling each 16.87 days (observed average doubling time is 2.2 days across countries).
+Australia covid-19 deaths are currently doubling each 9.85 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Australia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Australia/2020-03-26_Australia_deaths.gif "Australia covid-19 deaths animated chart")   
+![Australia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Australia/2020-03-27_Australia_deaths.gif "Australia covid-19 deaths animated chart")   
  
 #### Static
-![Australia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Australia/2020-03-26_Australia_deaths.png "Australia covid-19 deaths static chart")   
+![Australia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Australia/2020-03-27_Australia_deaths.png "Australia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Australia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Australia/2020-03-26_Australia_cases.gif "Australia covid-19 cases animated chart")   
+![Australia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Australia/2020-03-27_Australia_cases.gif "Australia covid-19 cases animated chart")   
  
 #### Static
-![Australia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Australia/2020-03-26_Australia_cases.png "Australia covid-19 cases static chart")   
+![Australia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Australia/2020-03-27_Australia_cases.png "Australia covid-19 cases static chart")   
 

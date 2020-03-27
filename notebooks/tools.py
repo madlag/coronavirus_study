@@ -81,14 +81,18 @@ class DataProvider:
                 f.close()
 
             df = pd.read_excel(filename)
+
+            #for a in df:
+            #    print(a)
+
             for i in range(df.shape[0]):
-                country = str(df["Countries and territories"][i])
+                country = str(df["countriesAndTerritories"][i])
                 country = self.normalize_country_name(country)
 
-                date = str(df["DateRep"][i])
-                cases = int(df["Cases"][i])
+                date = str(df["dateRep"][i])
+                cases = int(df["cases"][i])
                 try:
-                    deaths = int(df["Deaths"][i])
+                    deaths = int(df["deaths"][i])
                 except Exception as e:
                     deaths = 0
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Curaçao covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Curaçao/2020-03-26_Curaçao_deaths.png "Curaçao covid-19 deaths static chart")   
+![Curaçao covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Curaçao/2020-03-27_Curaçao_deaths.png "Curaçao covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Curaçao covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Curaçao/2020-03-26_Curaçao_cases.png "Curaçao covid-19 cases static chart")   
+![Curaçao covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Curaçao/2020-03-27_Curaçao_cases.png "Curaçao covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![United Republic Of Tanzania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_Republic_Of_Tanzania/2020-03-26_United_Republic_Of_Tanzania_cases.png "United Republic Of Tanzania covid-19 cases static chart")   
+![United Republic Of Tanzania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_Republic_Of_Tanzania/2020-03-27_United_Republic_Of_Tanzania_cases.png "United Republic Of Tanzania covid-19 cases static chart")   
 

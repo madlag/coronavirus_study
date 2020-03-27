@@ -1,6 +1,6 @@
 ## Panama Covid-19 status comparison 
 
-Panama covid-19 deaths are currently doubling each 13651455764565408.00 days (observed average doubling time is 2.2 days across countries).
+Panama covid-19 deaths are currently doubling each 5.70 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Panama covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Panama/2020-03-26_Panama_deaths.gif "Panama covid-19 deaths animated chart")   
+![Panama covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Panama/2020-03-27_Panama_deaths.gif "Panama covid-19 deaths animated chart")   
  
 #### Static
-![Panama covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Panama/2020-03-26_Panama_deaths.png "Panama covid-19 deaths static chart")   
+![Panama covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Panama/2020-03-27_Panama_deaths.png "Panama covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Panama covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Panama/2020-03-26_Panama_cases.gif "Panama covid-19 cases animated chart")   
+![Panama covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Panama/2020-03-27_Panama_cases.gif "Panama covid-19 cases animated chart")   
  
 #### Static
-![Panama covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Panama/2020-03-26_Panama_cases.png "Panama covid-19 cases static chart")   
+![Panama covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Panama/2020-03-27_Panama_cases.png "Panama covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Fiji covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Fiji/2020-03-26_Fiji_cases.png "Fiji covid-19 cases static chart")   
+![Fiji covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Fiji/2020-03-27_Fiji_cases.png "Fiji covid-19 cases static chart")   
 

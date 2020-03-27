@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Turks And Caicos Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Turks_And_Caicos_Islands/2020-03-26_Turks_And_Caicos_Islands_cases.png "Turks And Caicos Islands covid-19 cases static chart")   
+![Turks And Caicos Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Turks_And_Caicos_Islands/2020-03-27_Turks_And_Caicos_Islands_cases.png "Turks And Caicos Islands covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Zambia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Zambia/2020-03-26_Zambia_cases.png "Zambia covid-19 cases static chart")   
+![Zambia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Zambia/2020-03-27_Zambia_cases.png "Zambia covid-19 cases static chart")   
 

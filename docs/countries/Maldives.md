@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Maldives covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Maldives/2020-03-26_Maldives_cases.png "Maldives covid-19 cases static chart")   
+![Maldives covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Maldives/2020-03-27_Maldives_cases.png "Maldives covid-19 cases static chart")   
 

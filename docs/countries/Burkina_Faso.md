@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Burkina Faso covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Burkina_Faso/2020-03-26_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
+![Burkina Faso covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Burkina_Faso/2020-03-27_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Burkina_Faso/2020-03-26_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
+![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Burkina_Faso/2020-03-27_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
 

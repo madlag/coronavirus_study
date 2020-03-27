@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Chile covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Chile/2020-03-26_Chile_deaths.png "Chile covid-19 deaths static chart")   
+![Chile covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Chile/2020-03-27_Chile_deaths.png "Chile covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Chile/2020-03-26_Chile_cases.png "Chile covid-19 cases static chart")   
+![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Chile/2020-03-27_Chile_cases.png "Chile covid-19 cases static chart")   
 

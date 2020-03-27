@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Cape Verde covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Cape_Verde/2020-03-26_Cape_Verde_deaths.png "Cape Verde covid-19 deaths static chart")   
+![Cape Verde covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Cape_Verde/2020-03-27_Cape_Verde_deaths.png "Cape Verde covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Cape Verde covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Cape_Verde/2020-03-26_Cape_Verde_cases.png "Cape Verde covid-19 cases static chart")   
+![Cape Verde covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Cape_Verde/2020-03-27_Cape_Verde_cases.png "Cape Verde covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Brazil Covid-19 status comparison 
 
-Brazil covid-19 deaths are currently doubling each 1.89 days (observed average doubling time is 2.2 days across countries).
+Brazil covid-19 deaths are currently doubling each 1.99 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Brazil covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Brazil/2020-03-26_Brazil_deaths.gif "Brazil covid-19 deaths animated chart")   
+![Brazil covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Brazil/2020-03-27_Brazil_deaths.gif "Brazil covid-19 deaths animated chart")   
  
 #### Static
-![Brazil covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Brazil/2020-03-26_Brazil_deaths.png "Brazil covid-19 deaths static chart")   
+![Brazil covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Brazil/2020-03-27_Brazil_deaths.png "Brazil covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Brazil covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Brazil/2020-03-26_Brazil_cases.gif "Brazil covid-19 cases animated chart")   
+![Brazil covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Brazil/2020-03-27_Brazil_cases.gif "Brazil covid-19 cases animated chart")   
  
 #### Static
-![Brazil covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Brazil/2020-03-26_Brazil_cases.png "Brazil covid-19 cases static chart")   
+![Brazil covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Brazil/2020-03-27_Brazil_cases.png "Brazil covid-19 cases static chart")   
 

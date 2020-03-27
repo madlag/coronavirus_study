@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/New_Zealand/2020-03-26_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
+![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/New_Zealand/2020-03-27_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
 

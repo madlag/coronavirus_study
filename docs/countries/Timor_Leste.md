@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Timor Leste covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Timor_Leste/2020-03-26_Timor_Leste_cases.png "Timor Leste covid-19 cases static chart")   
+![Timor Leste covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Timor_Leste/2020-03-27_Timor_Leste_cases.png "Timor Leste covid-19 cases static chart")   
 

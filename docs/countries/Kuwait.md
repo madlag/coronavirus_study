@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Kuwait/2020-03-26_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
+![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Kuwait/2020-03-27_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
 

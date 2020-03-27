@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Bhutan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Bhutan/2020-03-26_Bhutan_cases.png "Bhutan covid-19 cases static chart")   
+![Bhutan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Bhutan/2020-03-27_Bhutan_cases.png "Bhutan covid-19 cases static chart")   
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Lebanon covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Lebanon/2020-03-26_Lebanon_deaths.png "Lebanon covid-19 deaths static chart")   
+![Lebanon covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Lebanon/2020-03-27_Lebanon_deaths.png "Lebanon covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Lebanon covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Lebanon/2020-03-26_Lebanon_cases.png "Lebanon covid-19 cases static chart")   
+![Lebanon covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Lebanon/2020-03-27_Lebanon_cases.png "Lebanon covid-19 cases static chart")   
 

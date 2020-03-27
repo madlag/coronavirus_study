@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Nicaragua covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Nicaragua/2020-03-26_Nicaragua_cases.png "Nicaragua covid-19 cases static chart")   
+![Nicaragua covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Nicaragua/2020-03-27_Nicaragua_cases.png "Nicaragua covid-19 cases static chart")   
 

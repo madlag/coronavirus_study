@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Trinidad And Tobago covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Trinidad_And_Tobago/2020-03-26_Trinidad_And_Tobago_deaths.png "Trinidad And Tobago covid-19 deaths static chart")   
+![Trinidad And Tobago covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Trinidad_And_Tobago/2020-03-27_Trinidad_And_Tobago_deaths.png "Trinidad And Tobago covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Trinidad And Tobago covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Trinidad_And_Tobago/2020-03-26_Trinidad_And_Tobago_cases.png "Trinidad And Tobago covid-19 cases static chart")   
+![Trinidad And Tobago covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Trinidad_And_Tobago/2020-03-27_Trinidad_And_Tobago_cases.png "Trinidad And Tobago covid-19 cases static chart")   
 

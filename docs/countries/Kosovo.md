@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Kosovo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Kosovo/2020-03-26_Kosovo_deaths.png "Kosovo covid-19 deaths static chart")   
+![Kosovo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Kosovo/2020-03-27_Kosovo_deaths.png "Kosovo covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Kosovo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Kosovo/2020-03-26_Kosovo_cases.png "Kosovo covid-19 cases static chart")   
+![Kosovo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Kosovo/2020-03-27_Kosovo_cases.png "Kosovo covid-19 cases static chart")   
 

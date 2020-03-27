@@ -1,6 +1,6 @@
 ## Peru Covid-19 status comparison 
 
-Peru
+Peru covid-19 deaths are currently doubling each 5.52 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Peru covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Peru/2020-03-27_Peru_deaths.gif "Peru covid-19 deaths animated chart")   
+ 
 #### Static
-![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Peru/2020-03-26_Peru_deaths.png "Peru covid-19 deaths static chart")   
+![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Peru/2020-03-27_Peru_deaths.png "Peru covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Peru covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Peru/2020-03-27_Peru_cases.gif "Peru covid-19 cases animated chart")   
+ 
 #### Static
-![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Peru/2020-03-26_Peru_cases.png "Peru covid-19 cases static chart")   
+![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Peru/2020-03-27_Peru_cases.png "Peru covid-19 cases static chart")   
 

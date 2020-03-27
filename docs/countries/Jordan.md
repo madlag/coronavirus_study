@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Jordan/2020-03-26_Jordan_cases.png "Jordan covid-19 cases static chart")   
+![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Jordan/2020-03-27_Jordan_cases.png "Jordan covid-19 cases static chart")   
 

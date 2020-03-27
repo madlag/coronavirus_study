@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Guernsey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Guernsey/2020-03-26_Guernsey_cases.png "Guernsey covid-19 cases static chart")   
+![Guernsey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Guernsey/2020-03-27_Guernsey_cases.png "Guernsey covid-19 cases static chart")   
 

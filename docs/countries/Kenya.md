@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Kenya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Kenya/2020-03-27_Kenya_deaths.png "Kenya covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Kenya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Kenya/2020-03-26_Kenya_cases.png "Kenya covid-19 cases static chart")   
+![Kenya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Kenya/2020-03-27_Kenya_cases.png "Kenya covid-19 cases static chart")   
 

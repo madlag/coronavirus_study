@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Slovenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Slovenia/2020-03-26_Slovenia_deaths.png "Slovenia covid-19 deaths static chart")   
+![Slovenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Slovenia/2020-03-27_Slovenia_deaths.png "Slovenia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Slovenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Slovenia/2020-03-26_Slovenia_cases.png "Slovenia covid-19 cases static chart")   
+![Slovenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Slovenia/2020-03-27_Slovenia_cases.png "Slovenia covid-19 cases static chart")   
 

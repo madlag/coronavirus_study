@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Tunisia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Tunisia/2020-03-26_Tunisia_deaths.png "Tunisia covid-19 deaths static chart")   
+![Tunisia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Tunisia/2020-03-27_Tunisia_deaths.png "Tunisia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Tunisia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/Tunisia/2020-03-26_Tunisia_cases.png "Tunisia covid-19 cases static chart")   
+![Tunisia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Tunisia/2020-03-27_Tunisia_cases.png "Tunisia covid-19 cases static chart")   
 

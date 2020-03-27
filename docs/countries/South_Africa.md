@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![South Africa covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/South_Africa/2020-03-27_South_Africa_deaths.png "South Africa covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![South Africa covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/South_Africa/2020-03-26_South_Africa_cases.png "South Africa covid-19 cases static chart")   
+![South Africa covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/South_Africa/2020-03-27_South_Africa_cases.png "South Africa covid-19 cases static chart")   
 

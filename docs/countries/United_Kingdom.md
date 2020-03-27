@@ -1,6 +1,6 @@
 ## United Kingdom Covid-19 status comparison 
 
-United Kingdom covid-19 deaths are currently doubling each 2.85 days (observed average doubling time is 2.2 days across countries).
+United Kingdom covid-19 deaths are currently doubling each 2.98 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![United Kingdom covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_Kingdom/2020-03-26_United_Kingdom_deaths.gif "United Kingdom covid-19 deaths animated chart")   
+![United Kingdom covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_Kingdom/2020-03-27_United_Kingdom_deaths.gif "United Kingdom covid-19 deaths animated chart")   
  
 #### Static
-![United Kingdom covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_Kingdom/2020-03-26_United_Kingdom_deaths.png "United Kingdom covid-19 deaths static chart")   
+![United Kingdom covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_Kingdom/2020-03-27_United_Kingdom_deaths.png "United Kingdom covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![United Kingdom covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_Kingdom/2020-03-26_United_Kingdom_cases.gif "United Kingdom covid-19 cases animated chart")   
+![United Kingdom covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_Kingdom/2020-03-27_United_Kingdom_cases.gif "United Kingdom covid-19 cases animated chart")   
  
 #### Static
-![United Kingdom covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-26/countries/United_Kingdom/2020-03-26_United_Kingdom_cases.png "United Kingdom covid-19 cases static chart")   
+![United Kingdom covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/United_Kingdom/2020-03-27_United_Kingdom_cases.png "United Kingdom covid-19 cases static chart")   
 
