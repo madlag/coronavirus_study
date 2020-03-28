@@ -1,4 +1,4 @@
-##  COVID-19 2020-03-27 report
+##  COVID-19 2020-03-28 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,9 +11,9 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/2020-03-27_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/2020-03-28_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-03-27
+### Most Affected Countries as of 2020-03-28
 
 [Argentina](countries/Argentina)
 
@@ -30,6 +30,8 @@ France is following quite accurately Italy.
 [Canada](countries/Canada)
 
 [China](countries/China)
+
+[Czech Republic](countries/Czech_Republic)
 
 [Denmark](countries/Denmark)
 
@@ -64,6 +66,8 @@ France is following quite accurately Italy.
 [Luxembourg](countries/Luxembourg)
 
 [Malaysia](countries/Malaysia)
+
+[Morocco](countries/Morocco)
 
 [Netherlands](countries/Netherlands)
 
@@ -179,8 +183,6 @@ France is following quite accurately Italy.
 [Curaçao](countries/Curaçao)
 
 [Cyprus](countries/Cyprus)
-
-[Czech Republic](countries/Czech_Republic)
 
 [Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
@@ -300,8 +302,6 @@ France is following quite accurately Italy.
 
 [Montserrat](countries/Montserrat)
 
-[Morocco](countries/Morocco)
-
 [Mozambique](countries/Mozambique)
 
 [Myanmar](countries/Myanmar)
@@ -329,6 +329,8 @@ France is following quite accurately Italy.
 [Papua New Guinea](countries/Papua_New_Guinea)
 
 [Paraguay](countries/Paraguay)
+
+[Puerto Rico](countries/Puerto_Rico)
 
 [Qatar](countries/Qatar)
 

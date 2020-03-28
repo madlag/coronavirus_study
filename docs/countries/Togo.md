@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Togo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Togo/2020-03-28_Togo_deaths.png "Togo covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Togo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-27/countries/Togo/2020-03-27_Togo_cases.png "Togo covid-19 cases static chart")   
+![Togo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Togo/2020-03-28_Togo_cases.png "Togo covid-19 cases static chart")   
 
