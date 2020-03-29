@@ -74,7 +74,6 @@ class DataProvider:
 
             if not pathlib.Path(filename).exists():
                 url = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-%s.xlsx" % date
-
                 data = urllib.request.urlopen(url).read()
                 f = open(filename, "wb")
                 f.write(data)

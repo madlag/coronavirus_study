@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Seychelles covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Seychelles/2020-03-28_Seychelles_cases.png "Seychelles covid-19 cases static chart")   
+![Seychelles covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Seychelles/2020-03-29_Seychelles_cases.png "Seychelles covid-19 cases static chart")   
 

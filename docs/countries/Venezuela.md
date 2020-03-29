@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Venezuela covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Venezuela/2020-03-28_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
+![Venezuela covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Venezuela/2020-03-29_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Venezuela covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Venezuela/2020-03-28_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
+![Venezuela covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Venezuela/2020-03-29_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Czech Republic Covid-19 status comparison 
 
-Czech Republic covid-19 deaths are currently doubling each 3.42 days (observed average doubling time is 2.2 days across countries).
+Czech Republic covid-19 deaths are currently doubling each 3.81 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Czech Republic covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Czech_Republic/2020-03-28_Czech_Republic_deaths.gif "Czech Republic covid-19 deaths animated chart")   
+![Czech Republic covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Czech_Republic/2020-03-29_Czech_Republic_deaths.gif "Czech Republic covid-19 deaths animated chart")   
  
 #### Static
-![Czech Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Czech_Republic/2020-03-28_Czech_Republic_deaths.png "Czech Republic covid-19 deaths static chart")   
+![Czech Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Czech_Republic/2020-03-29_Czech_Republic_deaths.png "Czech Republic covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Czech Republic covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Czech_Republic/2020-03-28_Czech_Republic_cases.gif "Czech Republic covid-19 cases animated chart")   
+![Czech Republic covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Czech_Republic/2020-03-29_Czech_Republic_cases.gif "Czech Republic covid-19 cases animated chart")   
  
 #### Static
-![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Czech_Republic/2020-03-28_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
+![Czech Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Czech_Republic/2020-03-29_Czech_Republic_cases.png "Czech Republic covid-19 cases static chart")   
 

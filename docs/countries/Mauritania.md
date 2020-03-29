@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Mauritania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Mauritania/2020-03-28_Mauritania_cases.png "Mauritania covid-19 cases static chart")   
+![Mauritania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Mauritania/2020-03-29_Mauritania_cases.png "Mauritania covid-19 cases static chart")   
 

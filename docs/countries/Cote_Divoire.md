@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Cote_Divoire/2020-03-28_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
+![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Cote_Divoire/2020-03-29_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
 

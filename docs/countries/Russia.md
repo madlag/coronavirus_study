@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Russia/2020-03-28_Russia_deaths.png "Russia covid-19 deaths static chart")   
+![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Russia/2020-03-29_Russia_deaths.png "Russia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-28/countries/Russia/2020-03-28_Russia_cases.png "Russia covid-19 cases static chart")   
+![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Russia/2020-03-29_Russia_cases.png "Russia covid-19 cases static chart")   
 
