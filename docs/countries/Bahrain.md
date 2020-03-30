@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Bahrain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Bahrain/2020-03-29_Bahrain_deaths.png "Bahrain covid-19 deaths static chart")   
+![Bahrain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Bahrain/2020-03-30_Bahrain_deaths.png "Bahrain covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Bahrain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Bahrain/2020-03-29_Bahrain_cases.png "Bahrain covid-19 cases static chart")   
+![Bahrain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Bahrain/2020-03-30_Bahrain_cases.png "Bahrain covid-19 cases static chart")   
 

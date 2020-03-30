@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Puerto Rico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Puerto_Rico/2020-03-29_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
+![Puerto Rico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Puerto_Rico/2020-03-30_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Puerto Rico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Puerto_Rico/2020-03-29_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
+![Puerto Rico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Puerto_Rico/2020-03-30_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
 

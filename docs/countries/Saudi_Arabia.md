@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Saudi Arabia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Saudi_Arabia/2020-03-29_Saudi_Arabia_deaths.png "Saudi Arabia covid-19 deaths static chart")   
+![Saudi Arabia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Saudi_Arabia/2020-03-30_Saudi_Arabia_deaths.png "Saudi Arabia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Saudi Arabia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Saudi_Arabia/2020-03-29_Saudi_Arabia_cases.png "Saudi Arabia covid-19 cases static chart")   
+![Saudi Arabia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Saudi_Arabia/2020-03-30_Saudi_Arabia_cases.png "Saudi Arabia covid-19 cases static chart")   
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Andorra covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Andorra/2020-03-29_Andorra_deaths.png "Andorra covid-19 deaths static chart")   
+![Andorra covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Andorra/2020-03-30_Andorra_deaths.png "Andorra covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Andorra covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-29/countries/Andorra/2020-03-29_Andorra_cases.png "Andorra covid-19 cases static chart")   
+![Andorra covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Andorra/2020-03-30_Andorra_cases.png "Andorra covid-19 cases static chart")   
 
