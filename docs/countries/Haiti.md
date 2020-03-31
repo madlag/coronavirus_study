@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Haiti/2020-03-30_Haiti_cases.png "Haiti covid-19 cases static chart")   
+![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Haiti/2020-03-31_Haiti_cases.png "Haiti covid-19 cases static chart")   
 

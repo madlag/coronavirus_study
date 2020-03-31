@@ -1,6 +1,6 @@
 ## Ukraine Covid-19 status comparison 
 
-Ukraine
+Ukraine covid-19 deaths are currently doubling each 4.35 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Ukraine covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ukraine/2020-03-31_Ukraine_deaths.gif "Ukraine covid-19 deaths animated chart")   
+ 
 #### Static
-![Ukraine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ukraine/2020-03-30_Ukraine_deaths.png "Ukraine covid-19 deaths static chart")   
+![Ukraine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ukraine/2020-03-31_Ukraine_deaths.png "Ukraine covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Ukraine covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ukraine/2020-03-31_Ukraine_cases.gif "Ukraine covid-19 cases animated chart")   
+ 
 #### Static
-![Ukraine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ukraine/2020-03-30_Ukraine_cases.png "Ukraine covid-19 cases static chart")   
+![Ukraine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ukraine/2020-03-31_Ukraine_cases.png "Ukraine covid-19 cases static chart")   
 

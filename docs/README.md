@@ -1,4 +1,4 @@
-##  COVID-19 2020-03-30 report
+##  COVID-19 2020-03-31 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,9 +11,9 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/2020-03-30_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/2020-03-31_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-03-30
+### Most Affected Countries as of 2020-03-31
 
 [Albania](countries/Albania)
 
@@ -29,13 +29,21 @@ France is following quite accurately Italy.
 
 [Brazil](countries/Brazil)
 
+[Bulgaria](countries/Bulgaria)
+
+[Burkina Faso](countries/Burkina_Faso)
+
 [Canada](countries/Canada)
+
+[Chile](countries/Chile)
 
 [China](countries/China)
 
 [Colombia](countries/Colombia)
 
 [Czech Republic](countries/Czech_Republic)
+
+[Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
 [Denmark](countries/Denmark)
 
@@ -72,6 +80,8 @@ France is following quite accurately Italy.
 [Japan](countries/Japan)
 
 [Lebanon](countries/Lebanon)
+
+[Lithuania](countries/Lithuania)
 
 [Luxembourg](countries/Luxembourg)
 
@@ -113,9 +123,13 @@ France is following quite accurately Italy.
 
 [Switzerland](countries/Switzerland)
 
+[Thailand](countries/Thailand)
+
 [Tunisia](countries/Tunisia)
 
 [Turkey](countries/Turkey)
+
+[Ukraine](countries/Ukraine)
 
 [United Kingdom](countries/United_Kingdom)
 
@@ -130,9 +144,9 @@ France is following quite accurately Italy.
 
 [Andorra](countries/Andorra)
 
-[Antigua And Barbuda](countries/Antigua_And_Barbuda)
-
 [Anguilla](countries/Anguilla)
+
+[Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
 [Armenia](countries/Armenia)
 
@@ -166,10 +180,6 @@ France is following quite accurately Italy.
 
 [Brunei Darussalam](countries/Brunei_Darussalam)
 
-[Bulgaria](countries/Bulgaria)
-
-[Burkina Faso](countries/Burkina_Faso)
-
 [Cambodia](countries/Cambodia)
 
 [Cameroon](countries/Cameroon)
@@ -181,8 +191,6 @@ France is following quite accurately Italy.
 [Central African Republic](countries/Central_African_Republic)
 
 [Chad](countries/Chad)
-
-[Chile](countries/Chile)
 
 [Congo](countries/Congo)
 
@@ -197,8 +205,6 @@ France is following quite accurately Italy.
 [Curacao](countries/Curacao)
 
 [Cyprus](countries/Cyprus)
-
-[Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
 [Djibouti](countries/Djibouti)
 
@@ -284,8 +290,6 @@ France is following quite accurately Italy.
 
 [Liechtenstein](countries/Liechtenstein)
 
-[Lithuania](countries/Lithuania)
-
 [Madagascar](countries/Madagascar)
 
 [Maldives](countries/Maldives)
@@ -328,6 +332,8 @@ France is following quite accurately Italy.
 
 [North Macedonia](countries/North_Macedonia)
 
+[Northern Mariana Islands](countries/Northern_Mariana_Islands)
+
 [Oman](countries/Oman)
 
 [Palestine](countries/Palestine)
@@ -366,6 +372,8 @@ France is following quite accurately Italy.
 
 [South Africa](countries/South_Africa)
 
+[South Sudan](countries/South_Sudan)
+
 [Sri Lanka](countries/Sri_Lanka)
 
 [Sudan](countries/Sudan)
@@ -376,8 +384,6 @@ France is following quite accurately Italy.
 
 [Taiwan](countries/Taiwan)
 
-[Thailand](countries/Thailand)
-
 [Timor Leste](countries/Timor_Leste)
 
 [Togo](countries/Togo)
@@ -387,8 +393,6 @@ France is following quite accurately Italy.
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 
 [Uganda](countries/Uganda)
-
-[Ukraine](countries/Ukraine)
 
 [United Arab Emirates](countries/United_Arab_Emirates)
 

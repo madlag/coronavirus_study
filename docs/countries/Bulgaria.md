@@ -1,6 +1,6 @@
 ## Bulgaria Covid-19 status comparison 
 
-Bulgaria
+Bulgaria covid-19 deaths are currently doubling each 10.38 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Bulgaria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bulgaria/2020-03-31_Bulgaria_deaths.gif "Bulgaria covid-19 deaths animated chart")   
+ 
 #### Static
-![Bulgaria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Bulgaria/2020-03-30_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
+![Bulgaria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bulgaria/2020-03-31_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Bulgaria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bulgaria/2020-03-31_Bulgaria_cases.gif "Bulgaria covid-19 cases animated chart")   
+ 
 #### Static
-![Bulgaria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Bulgaria/2020-03-30_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
+![Bulgaria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bulgaria/2020-03-31_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
 

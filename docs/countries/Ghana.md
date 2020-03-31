@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Ghana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ghana/2020-03-30_Ghana_deaths.png "Ghana covid-19 deaths static chart")   
+![Ghana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ghana/2020-03-31_Ghana_deaths.png "Ghana covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Ghana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ghana/2020-03-30_Ghana_cases.png "Ghana covid-19 cases static chart")   
+![Ghana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ghana/2020-03-31_Ghana_cases.png "Ghana covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Bermuda/2020-03-30_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
+![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bermuda/2020-03-31_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
 

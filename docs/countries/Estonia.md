@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Estonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Estonia/2020-03-30_Estonia_deaths.png "Estonia covid-19 deaths static chart")   
+![Estonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Estonia/2020-03-31_Estonia_deaths.png "Estonia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Estonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Estonia/2020-03-30_Estonia_cases.png "Estonia covid-19 cases static chart")   
+![Estonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Estonia/2020-03-31_Estonia_cases.png "Estonia covid-19 cases static chart")   
 

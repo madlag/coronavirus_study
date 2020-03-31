@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Sint_Maarten/2020-03-30_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
+![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Sint_Maarten/2020-03-31_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
 

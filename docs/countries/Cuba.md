@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Cuba covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Cuba/2020-03-30_Cuba_deaths.png "Cuba covid-19 deaths static chart")   
+![Cuba covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Cuba/2020-03-31_Cuba_deaths.png "Cuba covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Cuba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Cuba/2020-03-30_Cuba_cases.png "Cuba covid-19 cases static chart")   
+![Cuba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Cuba/2020-03-31_Cuba_cases.png "Cuba covid-19 cases static chart")   
 

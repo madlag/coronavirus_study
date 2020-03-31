@@ -1,6 +1,6 @@
 ## Ireland Covid-19 status comparison 
 
-Ireland covid-19 deaths are currently doubling each 1.89 days (observed average doubling time is 2.2 days across countries).
+Ireland covid-19 deaths are currently doubling each 2.00 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Ireland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ireland/2020-03-30_Ireland_deaths.gif "Ireland covid-19 deaths animated chart")   
+![Ireland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ireland/2020-03-31_Ireland_deaths.gif "Ireland covid-19 deaths animated chart")   
  
 #### Static
-![Ireland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ireland/2020-03-30_Ireland_deaths.png "Ireland covid-19 deaths static chart")   
+![Ireland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ireland/2020-03-31_Ireland_deaths.png "Ireland covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Ireland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ireland/2020-03-30_Ireland_cases.gif "Ireland covid-19 cases animated chart")   
+![Ireland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ireland/2020-03-31_Ireland_cases.gif "Ireland covid-19 cases animated chart")   
  
 #### Static
-![Ireland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-30/countries/Ireland/2020-03-30_Ireland_cases.png "Ireland covid-19 cases static chart")   
+![Ireland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Ireland/2020-03-31_Ireland_cases.png "Ireland covid-19 cases static chart")   
 
