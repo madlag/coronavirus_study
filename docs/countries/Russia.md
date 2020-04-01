@@ -1,6 +1,6 @@
 ## Russia Covid-19 status comparison 
 
-Russia
+Russia covid-19 deaths are currently doubling each 1.84 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Russia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Russia/2020-04-01_Russia_deaths.gif "Russia covid-19 deaths animated chart")   
+ 
 #### Static
-![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Russia/2020-03-31_Russia_deaths.png "Russia covid-19 deaths static chart")   
+![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Russia/2020-04-01_Russia_deaths.png "Russia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Russia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Russia/2020-04-01_Russia_cases.gif "Russia covid-19 cases animated chart")   
+ 
 #### Static
-![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Russia/2020-03-31_Russia_cases.png "Russia covid-19 cases static chart")   
+![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Russia/2020-04-01_Russia_cases.png "Russia covid-19 cases static chart")   
 

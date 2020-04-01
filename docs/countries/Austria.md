@@ -1,6 +1,6 @@
 ## Austria Covid-19 status comparison 
 
-Austria covid-19 deaths are currently doubling each 2.65 days (observed average doubling time is 2.2 days across countries).
+Austria covid-19 deaths are currently doubling each 3.13 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Austria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Austria/2020-03-31_Austria_deaths.gif "Austria covid-19 deaths animated chart")   
+![Austria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Austria/2020-04-01_Austria_deaths.gif "Austria covid-19 deaths animated chart")   
  
 #### Static
-![Austria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Austria/2020-03-31_Austria_deaths.png "Austria covid-19 deaths static chart")   
+![Austria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Austria/2020-04-01_Austria_deaths.png "Austria covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Austria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Austria/2020-03-31_Austria_cases.gif "Austria covid-19 cases animated chart")   
+![Austria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Austria/2020-04-01_Austria_cases.gif "Austria covid-19 cases animated chart")   
  
 #### Static
-![Austria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Austria/2020-03-31_Austria_cases.png "Austria covid-19 cases static chart")   
+![Austria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Austria/2020-04-01_Austria_cases.png "Austria covid-19 cases static chart")   
 

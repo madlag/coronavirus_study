@@ -1,6 +1,6 @@
 ## Israel Covid-19 status comparison 
 
-Israel covid-19 deaths are currently doubling each 3.62 days (observed average doubling time is 2.2 days across countries).
+Israel covid-19 deaths are currently doubling each 3.79 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Israel covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Israel/2020-03-31_Israel_deaths.gif "Israel covid-19 deaths animated chart")   
+![Israel covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Israel/2020-04-01_Israel_deaths.gif "Israel covid-19 deaths animated chart")   
  
 #### Static
-![Israel covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Israel/2020-03-31_Israel_deaths.png "Israel covid-19 deaths static chart")   
+![Israel covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Israel/2020-04-01_Israel_deaths.png "Israel covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Israel covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Israel/2020-03-31_Israel_cases.gif "Israel covid-19 cases animated chart")   
+![Israel covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Israel/2020-04-01_Israel_cases.gif "Israel covid-19 cases animated chart")   
  
 #### Static
-![Israel covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Israel/2020-03-31_Israel_cases.png "Israel covid-19 cases static chart")   
+![Israel covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Israel/2020-04-01_Israel_cases.png "Israel covid-19 cases static chart")   
 

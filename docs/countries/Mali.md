@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Mali covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mali/2020-04-01_Mali_deaths.png "Mali covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Mali covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Mali/2020-03-31_Mali_cases.png "Mali covid-19 cases static chart")   
+![Mali covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mali/2020-04-01_Mali_cases.png "Mali covid-19 cases static chart")   
 

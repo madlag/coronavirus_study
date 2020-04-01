@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Bolivia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bolivia/2020-03-31_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
+![Bolivia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bolivia/2020-04-01_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Bolivia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Bolivia/2020-03-31_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
+![Bolivia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bolivia/2020-04-01_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
 

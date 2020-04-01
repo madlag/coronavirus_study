@@ -1,6 +1,6 @@
 ## Croatia Covid-19 status comparison 
 
-Croatia
+Croatia covid-19 deaths are currently doubling each -1532905225874463.00 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Croatia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Croatia/2020-04-01_Croatia_deaths.gif "Croatia covid-19 deaths animated chart")   
+ 
 #### Static
-![Croatia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Croatia/2020-03-31_Croatia_deaths.png "Croatia covid-19 deaths static chart")   
+![Croatia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Croatia/2020-04-01_Croatia_deaths.png "Croatia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Croatia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Croatia/2020-04-01_Croatia_cases.gif "Croatia covid-19 cases animated chart")   
+ 
 #### Static
-![Croatia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Croatia/2020-03-31_Croatia_cases.png "Croatia covid-19 cases static chart")   
+![Croatia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Croatia/2020-04-01_Croatia_cases.png "Croatia covid-19 cases static chart")   
 

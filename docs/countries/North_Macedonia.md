@@ -1,6 +1,6 @@
 ## North Macedonia Covid-19 status comparison 
 
-North Macedonia
+North Macedonia covid-19 deaths are currently doubling each 3.42 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![North Macedonia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/North_Macedonia/2020-04-01_North_Macedonia_deaths.gif "North Macedonia covid-19 deaths animated chart")   
+ 
 #### Static
-![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/North_Macedonia/2020-03-31_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
+![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/North_Macedonia/2020-04-01_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![North Macedonia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/North_Macedonia/2020-04-01_North_Macedonia_cases.gif "North Macedonia covid-19 cases animated chart")   
+ 
 #### Static
-![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/North_Macedonia/2020-03-31_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
+![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/North_Macedonia/2020-04-01_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
 

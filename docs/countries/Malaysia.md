@@ -1,6 +1,6 @@
 ## Malaysia Covid-19 status comparison 
 
-Malaysia covid-19 deaths are currently doubling each 4.43 days (observed average doubling time is 2.2 days across countries).
+Malaysia covid-19 deaths are currently doubling each 4.80 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Malaysia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Malaysia/2020-03-31_Malaysia_deaths.gif "Malaysia covid-19 deaths animated chart")   
+![Malaysia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Malaysia/2020-04-01_Malaysia_deaths.gif "Malaysia covid-19 deaths animated chart")   
  
 #### Static
-![Malaysia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Malaysia/2020-03-31_Malaysia_deaths.png "Malaysia covid-19 deaths static chart")   
+![Malaysia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Malaysia/2020-04-01_Malaysia_deaths.png "Malaysia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Malaysia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Malaysia/2020-03-31_Malaysia_cases.gif "Malaysia covid-19 cases animated chart")   
+![Malaysia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Malaysia/2020-04-01_Malaysia_cases.gif "Malaysia covid-19 cases animated chart")   
  
 #### Static
-![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-03-31/countries/Malaysia/2020-03-31_Malaysia_cases.png "Malaysia covid-19 cases static chart")   
+![Malaysia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Malaysia/2020-04-01_Malaysia_cases.png "Malaysia covid-19 cases static chart")   
 
