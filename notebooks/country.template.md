@@ -1,6 +1,6 @@
 ## {{country.name}} Covid-19 status comparison 
 {% if country.most_impacted %}
-{{country.name}} covid-19 deaths are currently doubling each {{country.growth_rate}} days (observed average doubling time is 2.2 days across countries).
+{{country.name}} covid-19 deaths are currently doubling each {{country.growth_rate}} days (observed initial average doubling time is 2.2 days across countries).
 {% else %}
 {{country.name}}
 {% endif %}

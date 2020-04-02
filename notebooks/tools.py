@@ -451,79 +451,76 @@ class MultiCountryGraph:
                  linestyle='dotted')
 
 
+if __name__ == "__main__":
+    data_provider = DataProvider()
 
-data_provider = DataProvider()
+    country_info_store = CountryInfoStore(data_provider, debug = False)
+    all_countries = [c for c in data_provider.country_data.keys() if data_provider.country_data[c][-1]["cases"] > 0]
 
-country_info_store = CountryInfoStore(data_provider, debug = False)
-all_countries = [c for c in data_provider.country_data.keys() if data_provider.country_data[c][-1]["cases"] > 0]
+    most_impacted_countries = country_info_store.most_impacted_countries
+    data_date = data_provider.data_date
 
-most_impacted_countries = country_info_store.most_impacted_countries
-data_date = data_provider.data_date
+    root = pathlib.Path("graphs/%s" % (data_date))
+    if not root.exists():
+        root.mkdir(parents= True)
 
-root = pathlib.Path("graphs/%s" % (data_date))
-if not root.exists():
-    root.mkdir(parents= True)
+    main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
-main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
+    step = 2
 
-step = 0
+    if step <= 0:
+        g = MultiCountryGraph(data_provider,
+                              country_info_store,
+                               main_chart_countries,
+                              log_axis = True,
+                              data_type = "deaths",
+                              visually_impaired = False,
+                              china_comparison = False)
+        g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
 
-if step <= 0:
-    g = MultiCountryGraph(data_provider,
-                          country_info_store,
-                           main_chart_countries,
-                          log_axis = True,
-                          data_type = "deaths",
-                          visually_impaired = False,
-                          china_comparison = False)
-    g.plot(root/("%s_%s.png" % (data_date, "main_comparison")))
+    if step <= 1:
+        for c in all_countries:
+            print(c)
+            for dt in ["deaths", "cases"]:
+                if country_info_store.get_country_info(c)["deaths"] == 0 and dt == "deaths":
+                    continue
+                countries = ["China", "Italy", "South_Korea"]
+                references = []
 
-if step <= 1:
-    for c in all_countries:
-        print(c)
-        for dt in ["deaths", "cases"]:
-            if country_info_store.get_country_info(c)["deaths"] == 0 and dt == "deaths":
-                continue
-            countries = ["China", "Italy", "South_Korea"]
-            references = []
+                if c not in countries:
+                    countries.append(c)
+                if c in most_impacted_countries:
+                    references.append(c)
 
-            if c not in countries:
-                countries.append(c)
-            if c in most_impacted_countries:
-                references.append(c)
+                growth_reference = (len(references) == 0) or c not in most_impacted_countries
 
-            growth_reference = (len(references) == 0) or c not in most_impacted_countries
+                g = MultiCountryGraph(data_provider,
+                                      country_info_store,
+                                      countries,
+                                      reference_for_countries = references,
+                                      log_axis = True,
+                                      data_type = dt,
+                                      visually_impaired = True,
+                                      china_comparison = False,
+                                      growth_reference = growth_reference)
+                dest_dir = root / "countries" / c
+                dest_dir.mkdir(parents = True, exist_ok=True)
+                dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
+                g.plot(dest_file_name)
 
-            g = MultiCountryGraph(data_provider,
-                                  country_info_store,
-                                  countries,
-                                  reference_for_countries = references,
-                                  log_axis = True,
-                                  data_type = dt,
-                                  visually_impaired = True,
-                                  china_comparison = False,
-                                  growth_reference = growth_reference)
-            dest_dir = root / "countries" / c
-            dest_dir.mkdir(parents = True, exist_ok=True)
-            dest_file_name = dest_dir / ("%s_%s_%s.png" % (data_date, c, dt))
-            g.plot(dest_file_name)
+                dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
 
-            dest_file_name = dest_dir / ("%s_%s_%s.gif" % (data_date, c, dt))
+                if c in most_impacted_countries:
+                    g.movie(dest_file_name)
 
-            if c in most_impacted_countries:
-                g.movie(dest_file_name)
+    if step <= 2:
+        print("Country count :", len(all_countries))
+        import create_pages
 
-if step <= 2:
-    print(len(all_countries))
-    import create_pages
 
-    us_data = data_provider.get_data_for_country("United_States_Of_America")[0]
-    for d in us_data:
-        print(d)
+        all_countries_information = {}
+        for c in all_countries:
+            all_countries_information[c] = copy.deepcopy(country_info_store.countries[c])
+            all_countries_information[c]["most_impacted"] = c in most_impacted_countries
 
-    all_countries_information = {}
-    for c in all_countries:
-        all_countries_information[c] = copy.deepcopy(country_info_store.countries[c])
-        all_countries_information[c]["most_impacted"] = c in most_impacted_countries
-
-    create_pages.create_pages(data_date, main_chart_countries, all_countries_information)
+        create_pages.create_pages(data_date, main_chart_countries, all_countries_information)
