@@ -1,6 +1,6 @@
 ## Mexico Covid-19 status comparison 
 
-Mexico covid-19 deaths are currently doubling each 2.64 days (observed average doubling time is 2.2 days across countries).
+Mexico covid-19 deaths are currently doubling each 2.81 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Mexico covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mexico/2020-04-01_Mexico_deaths.gif "Mexico covid-19 deaths animated chart")   
+![Mexico covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Mexico/2020-04-02_Mexico_deaths.gif "Mexico covid-19 deaths animated chart")   
  
 #### Static
-![Mexico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mexico/2020-04-01_Mexico_deaths.png "Mexico covid-19 deaths static chart")   
+![Mexico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Mexico/2020-04-02_Mexico_deaths.png "Mexico covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Mexico covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mexico/2020-04-01_Mexico_cases.gif "Mexico covid-19 cases animated chart")   
+![Mexico covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Mexico/2020-04-02_Mexico_cases.gif "Mexico covid-19 cases animated chart")   
  
 #### Static
-![Mexico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Mexico/2020-04-01_Mexico_cases.png "Mexico covid-19 cases static chart")   
+![Mexico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Mexico/2020-04-02_Mexico_cases.png "Mexico covid-19 cases static chart")   
 

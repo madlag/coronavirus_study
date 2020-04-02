@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Belize/2020-04-01_Belize_cases.png "Belize covid-19 cases static chart")   
+![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Belize/2020-04-02_Belize_cases.png "Belize covid-19 cases static chart")   
 

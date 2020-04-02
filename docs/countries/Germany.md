@@ -1,6 +1,6 @@
 ## Germany Covid-19 status comparison 
 
-Germany covid-19 deaths are currently doubling each 3.09 days (observed average doubling time is 2.2 days across countries).
+Germany covid-19 deaths are currently doubling each 3.19 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Germany covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Germany/2020-04-01_Germany_deaths.gif "Germany covid-19 deaths animated chart")   
+![Germany covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Germany/2020-04-02_Germany_deaths.gif "Germany covid-19 deaths animated chart")   
  
 #### Static
-![Germany covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Germany/2020-04-01_Germany_deaths.png "Germany covid-19 deaths static chart")   
+![Germany covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Germany/2020-04-02_Germany_deaths.png "Germany covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Germany covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Germany/2020-04-01_Germany_cases.gif "Germany covid-19 cases animated chart")   
+![Germany covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Germany/2020-04-02_Germany_cases.gif "Germany covid-19 cases animated chart")   
  
 #### Static
-![Germany covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Germany/2020-04-01_Germany_cases.png "Germany covid-19 cases static chart")   
+![Germany covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Germany/2020-04-02_Germany_cases.png "Germany covid-19 cases static chart")   
 

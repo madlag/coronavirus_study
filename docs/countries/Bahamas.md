@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Bahamas covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bahamas/2020-04-02_Bahamas_deaths.png "Bahamas covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Bahamas covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bahamas/2020-04-01_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
+![Bahamas covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bahamas/2020-04-02_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
 

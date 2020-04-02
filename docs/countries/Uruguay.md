@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Uruguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Uruguay/2020-04-01_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
+![Uruguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Uruguay/2020-04-02_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Uruguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Uruguay/2020-04-01_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
+![Uruguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Uruguay/2020-04-02_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
 

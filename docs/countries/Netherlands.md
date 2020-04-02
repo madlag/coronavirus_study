@@ -1,6 +1,6 @@
 ## Netherlands Covid-19 status comparison 
 
-Netherlands covid-19 deaths are currently doubling each 3.49 days (observed average doubling time is 2.2 days across countries).
+Netherlands covid-19 deaths are currently doubling each 3.70 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Netherlands covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Netherlands/2020-04-01_Netherlands_deaths.gif "Netherlands covid-19 deaths animated chart")   
+![Netherlands covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Netherlands/2020-04-02_Netherlands_deaths.gif "Netherlands covid-19 deaths animated chart")   
  
 #### Static
-![Netherlands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Netherlands/2020-04-01_Netherlands_deaths.png "Netherlands covid-19 deaths static chart")   
+![Netherlands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Netherlands/2020-04-02_Netherlands_deaths.png "Netherlands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Netherlands covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Netherlands/2020-04-01_Netherlands_cases.gif "Netherlands covid-19 cases animated chart")   
+![Netherlands covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Netherlands/2020-04-02_Netherlands_cases.gif "Netherlands covid-19 cases animated chart")   
  
 #### Static
-![Netherlands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Netherlands/2020-04-01_Netherlands_cases.png "Netherlands covid-19 cases static chart")   
+![Netherlands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Netherlands/2020-04-02_Netherlands_cases.png "Netherlands covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Bolivia Covid-19 status comparison 
 
-Bolivia
+Bolivia covid-19 deaths are currently doubling each 4.82 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Bolivia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bolivia/2020-04-02_Bolivia_deaths.gif "Bolivia covid-19 deaths animated chart")   
+ 
 #### Static
-![Bolivia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bolivia/2020-04-01_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
+![Bolivia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bolivia/2020-04-02_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Bolivia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bolivia/2020-04-02_Bolivia_cases.gif "Bolivia covid-19 cases animated chart")   
+ 
 #### Static
-![Bolivia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bolivia/2020-04-01_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
+![Bolivia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bolivia/2020-04-02_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
 

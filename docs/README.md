@@ -1,4 +1,4 @@
-##  COVID-19 2020-04-01 report
+##  COVID-19 2020-04-02 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 ### Spread comparison 
@@ -11,9 +11,9 @@ UK is starting after other countries, so death count is smaller, but growth is e
 France is following quite accurately Italy.
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/2020-04-01_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/2020-04-02_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-01
+### Most Affected Countries as of 2020-04-02
 
 [Albania](countries/Albania)
 
@@ -28,6 +28,8 @@ France is following quite accurately Italy.
 [Austria](countries/Austria)
 
 [Belgium](countries/Belgium)
+
+[Bolivia](countries/Bolivia)
 
 [Bosnia And Herzegovina](countries/Bosnia_And_Herzegovina)
 
@@ -68,6 +70,8 @@ France is following quite accurately Italy.
 [Germany](countries/Germany)
 
 [Greece](countries/Greece)
+
+[Honduras](countries/Honduras)
 
 [Hungary](countries/Hungary)
 
@@ -116,6 +120,8 @@ France is following quite accurately Italy.
 [Poland](countries/Poland)
 
 [Portugal](countries/Portugal)
+
+[Puerto Rico](countries/Puerto_Rico)
 
 [Romania](countries/Romania)
 
@@ -184,7 +190,7 @@ France is following quite accurately Italy.
 
 [Bhutan](countries/Bhutan)
 
-[Bolivia](countries/Bolivia)
+[Bonaire](countries/Bonaire)
 
 [Botswana](countries/Botswana)
 
@@ -214,7 +220,7 @@ France is following quite accurately Italy.
 
 [Cuba](countries/Cuba)
 
-[Curaçao](countries/Curaçao)
+[Curaã§ao](countries/Curaã§ao)
 
 [Djibouti](countries/Djibouti)
 
@@ -267,8 +273,6 @@ France is following quite accurately Italy.
 [Haiti](countries/Haiti)
 
 [Holy See](countries/Holy_See)
-
-[Honduras](countries/Honduras)
 
 [Iceland](countries/Iceland)
 
@@ -350,11 +354,11 @@ France is following quite accurately Italy.
 
 [Paraguay](countries/Paraguay)
 
-[Puerto Rico](countries/Puerto_Rico)
-
 [Qatar](countries/Qatar)
 
 [Rwanda](countries/Rwanda)
+
+[Saint Barthelemy](countries/Saint_Barthelemy)
 
 [Saint Kitts And Nevis](countries/Saint_Kitts_And_Nevis)
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Bangladesh covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bangladesh/2020-04-01_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
+![Bangladesh covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bangladesh/2020-04-02_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Bangladesh covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Bangladesh/2020-04-01_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
+![Bangladesh covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Bangladesh/2020-04-02_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
 

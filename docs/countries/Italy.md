@@ -1,6 +1,6 @@
 ## Italy Covid-19 status comparison 
 
-Italy covid-19 deaths are currently doubling each 7.54 days (observed average doubling time is 2.2 days across countries).
+Italy covid-19 deaths are currently doubling each 8.02 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Italy covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Italy/2020-04-01_Italy_deaths.gif "Italy covid-19 deaths animated chart")   
+![Italy covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Italy/2020-04-02_Italy_deaths.gif "Italy covid-19 deaths animated chart")   
  
 #### Static
-![Italy covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Italy/2020-04-01_Italy_deaths.png "Italy covid-19 deaths static chart")   
+![Italy covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Italy/2020-04-02_Italy_deaths.png "Italy covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Italy covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Italy/2020-04-01_Italy_cases.gif "Italy covid-19 cases animated chart")   
+![Italy covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Italy/2020-04-02_Italy_cases.gif "Italy covid-19 cases animated chart")   
  
 #### Static
-![Italy covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Italy/2020-04-01_Italy_cases.png "Italy covid-19 cases static chart")   
+![Italy covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Italy/2020-04-02_Italy_cases.png "Italy covid-19 cases static chart")   
 

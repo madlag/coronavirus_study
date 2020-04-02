@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Iceland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Iceland/2020-04-01_Iceland_deaths.png "Iceland covid-19 deaths static chart")   
+![Iceland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Iceland/2020-04-02_Iceland_deaths.png "Iceland covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Iceland/2020-04-01_Iceland_cases.png "Iceland covid-19 cases static chart")   
+![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Iceland/2020-04-02_Iceland_cases.png "Iceland covid-19 cases static chart")   
 

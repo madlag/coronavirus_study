@@ -1,6 +1,6 @@
 ## Burkina Faso Covid-19 status comparison 
 
-Burkina Faso covid-19 deaths are currently doubling each 6.02 days (observed average doubling time is 2.2 days across countries).
+Burkina Faso covid-19 deaths are currently doubling each 5.92 days (observed average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Burkina Faso covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Burkina_Faso/2020-04-01_Burkina_Faso_deaths.gif "Burkina Faso covid-19 deaths animated chart")   
+![Burkina Faso covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Burkina_Faso/2020-04-02_Burkina_Faso_deaths.gif "Burkina Faso covid-19 deaths animated chart")   
  
 #### Static
-![Burkina Faso covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Burkina_Faso/2020-04-01_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
+![Burkina Faso covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Burkina_Faso/2020-04-02_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Burkina Faso covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Burkina_Faso/2020-04-01_Burkina_Faso_cases.gif "Burkina Faso covid-19 cases animated chart")   
+![Burkina Faso covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Burkina_Faso/2020-04-02_Burkina_Faso_cases.gif "Burkina Faso covid-19 cases animated chart")   
  
 #### Static
-![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-01/countries/Burkina_Faso/2020-04-01_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
+![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Burkina_Faso/2020-04-02_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
 
