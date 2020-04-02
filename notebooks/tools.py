@@ -18,28 +18,32 @@ def ffmpeg_run(command):
         #print(line)
 
 def to_gif_impl(src, width, dest, src_frame_rate = None):
+    try:
+        palette = "%s_palette.png" % dest
 
-    palette = "%s_palette.png" % dest
+        filters = ""
+        if width != None:
+            filters += "scale=%s:-1:flags=lanczos," % width
+        command = ["-vf", filters + "palettegen"]
+        command = ["-i", src, "-y"] + command + [palette]
 
-    filters = ""
-    if width != None:
-        filters += "scale=%s:-1:flags=lanczos," % width
-    command = ["-vf", filters + "palettegen"]
-    command = ["-i", src, "-y"] + command + [palette]
+        ffmpeg_run(command)
 
-    ffmpeg_run(command)
+        command2 = ["-lavfi", filters + "paletteuse=dither=none"]
 
-    command2 = ["-lavfi", filters + "paletteuse=dither=none"]
+        if src_frame_rate != None:
+            fr_command2 = ["-framerate", str(src_frame_rate)]
+        else:
+            fr_command2 = []
 
-    if src_frame_rate != None:
-        fr_command2 = ["-framerate", str(src_frame_rate)]
-    else:
-        fr_command2 = []
+        command2 = fr_command2 + ["-i", src, "-i", palette, "-y"] + command2 + [dest]
 
-    command2 = fr_command2 + ["-i", src, "-i", palette, "-y"] + command2 + [dest]
-
-
-    ffmpeg_run(command2)
+        ffmpeg_run(command2)
+    finally:
+        try:
+            pathlib.Path(palette).unlink()
+        except:
+            pass
 
 class DataProvider:
     def __init__(self):
@@ -417,26 +421,38 @@ class MultiCountryGraph:
         finally:
             matplotlib.use(backend_) # Reset backend
 
-    def movie(self, movie_filename):
+    def movie_(self, temp_dir, movie_filename):
         max_back = 15
-
-        try:
-            shutil.rmtree("temp_dir")
-        except:
-            pass
-
-        pathlib.Path("temp_dir").mkdir()
 
         for index in range(max_back):
             clip = max_back - index - 1
-            self.plot(filename = "temp_dir/deaths_back_%03d.png" % index, clip=clip)
+            self.plot(filename = "%s/deaths_back_%03d.png" % (temp_dir, index), clip=clip)
 
         for i in range(5):
-            self.plot(filename = "temp_dir/deaths_back_%03d.png" % (max_back + i), clip=0)
+            self.plot(filename = "%s/deaths_back_%03d.png" % (temp_dir, max_back + i), clip=0)
 
         path = pathlib.Path("output.gif")
-        to_gif_impl("temp_dir/deaths_back_%03d.png", None, str(path), 2)
-        path.rename(movie_filename)
+        try:
+            to_gif_impl(temp_dir + "/deaths_back_%03d.png", None, str(path), 2)
+            path.rename(movie_filename)
+        finally:
+            try:
+                path.unlink()
+            except:
+                pass
+
+    def rmdir(self, d):
+        if pathlib.Path(d).exists():
+            shutil.rmtree(d)
+
+    def movie(self, movie_filename):
+        try:
+            temp_dir = "temp_dir"
+            self.rmdir(temp_dir)
+            pathlib.Path(temp_dir).mkdir()
+            self.movie_(temp_dir, movie_filename)
+        finally:
+            self.rmdir(temp_dir)
 
     def growth_reference_plot(self):
         china_italy_offset = 37
@@ -466,7 +482,7 @@ if __name__ == "__main__":
 
     main_chart_countries =   ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]
 
-    step = 2
+    step = 0
 
     if step <= 0:
         g = MultiCountryGraph(data_provider,

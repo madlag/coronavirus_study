@@ -1,4 +1,4 @@
-##  COVID-19 2020-04-02 report
+##  COVID-19 reports
 
 If you are looking for a "human browsable" version of the data, you can find it [there](https://madlag.github.io/coronavirus_study/).
 
