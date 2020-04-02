@@ -1,6 +1,6 @@
 ## Luxembourg Covid-19 status comparison 
 
-Luxembourg covid-19 deaths are currently doubling each 4.27 days (observed average doubling time is 2.2 days across countries).
+Luxembourg covid-19 deaths are currently doubling each 4.27 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,15 +1,6 @@
 ##  COVID-19 2020-04-02 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
-### Spread comparison 
-Coronavirus is spreading differently in different countries.
-
-Spain is very concerning, it takes less than two days for death count to double. Faster than Italy.
-
-UK is starting after other countries, so death count is smaller, but growth is even faster than Spain.
-
-France is following quite accurately Italy.
-
 
 ![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/2020-04-02_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 

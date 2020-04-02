@@ -1,6 +1,6 @@
 ## China Covid-19 status comparison 
 
-China covid-19 deaths are currently doubling each 613.42 days (observed average doubling time is 2.2 days across countries).
+China covid-19 deaths are currently doubling each 613.42 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

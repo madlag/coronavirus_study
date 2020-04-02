@@ -1,6 +1,6 @@
 ## Thailand Covid-19 status comparison 
 
-Thailand covid-19 deaths are currently doubling each 3.98 days (observed average doubling time is 2.2 days across countries).
+Thailand covid-19 deaths are currently doubling each 3.98 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

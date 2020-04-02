@@ -1,6 +1,6 @@
 ## South Korea Covid-19 status comparison 
 
-South Korea covid-19 deaths are currently doubling each 17.83 days (observed average doubling time is 2.2 days across countries).
+South Korea covid-19 deaths are currently doubling each 17.83 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

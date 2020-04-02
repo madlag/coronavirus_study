@@ -1,6 +1,6 @@
 ## Iraq Covid-19 status comparison 
 
-Iraq covid-19 deaths are currently doubling each 8.10 days (observed average doubling time is 2.2 days across countries).
+Iraq covid-19 deaths are currently doubling each 8.10 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

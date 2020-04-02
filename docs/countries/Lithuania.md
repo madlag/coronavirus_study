@@ -1,6 +1,6 @@
 ## Lithuania Covid-19 status comparison 
 
-Lithuania covid-19 deaths are currently doubling each 25.95 days (observed average doubling time is 2.2 days across countries).
+Lithuania covid-19 deaths are currently doubling each 25.95 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

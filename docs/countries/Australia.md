@@ -1,6 +1,6 @@
 ## Australia Covid-19 status comparison 
 
-Australia covid-19 deaths are currently doubling each 5.80 days (observed average doubling time is 2.2 days across countries).
+Australia covid-19 deaths are currently doubling each 5.80 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

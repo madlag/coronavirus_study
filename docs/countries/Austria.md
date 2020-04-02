@@ -1,6 +1,6 @@
 ## Austria Covid-19 status comparison 
 
-Austria covid-19 deaths are currently doubling each 3.43 days (observed average doubling time is 2.2 days across countries).
+Austria covid-19 deaths are currently doubling each 3.43 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

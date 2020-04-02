@@ -1,6 +1,6 @@
 ## Argentina Covid-19 status comparison 
 
-Argentina covid-19 deaths are currently doubling each 3.64 days (observed average doubling time is 2.2 days across countries).
+Argentina covid-19 deaths are currently doubling each 3.64 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

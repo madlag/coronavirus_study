@@ -1,6 +1,6 @@
 ## Puerto Rico Covid-19 status comparison 
 
-Puerto Rico covid-19 deaths are currently doubling each 2.29 days (observed average doubling time is 2.2 days across countries).
+Puerto Rico covid-19 deaths are currently doubling each 2.29 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

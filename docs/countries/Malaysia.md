@@ -1,6 +1,6 @@
 ## Malaysia Covid-19 status comparison 
 
-Malaysia covid-19 deaths are currently doubling each 5.35 days (observed average doubling time is 2.2 days across countries).
+Malaysia covid-19 deaths are currently doubling each 5.35 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

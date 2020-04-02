@@ -1,6 +1,6 @@
 ## Slovenia Covid-19 status comparison 
 
-Slovenia covid-19 deaths are currently doubling each 6.63 days (observed average doubling time is 2.2 days across countries).
+Slovenia covid-19 deaths are currently doubling each 6.63 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

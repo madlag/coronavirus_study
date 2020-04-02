@@ -1,6 +1,6 @@
 ## Chile Covid-19 status comparison 
 
-Chile covid-19 deaths are currently doubling each 2.77 days (observed average doubling time is 2.2 days across countries).
+Chile covid-19 deaths are currently doubling each 2.77 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Netherlands Covid-19 status comparison 
 
-Netherlands covid-19 deaths are currently doubling each 3.70 days (observed average doubling time is 2.2 days across countries).
+Netherlands covid-19 deaths are currently doubling each 3.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

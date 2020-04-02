@@ -1,6 +1,6 @@
 ## Tunisia Covid-19 status comparison 
 
-Tunisia covid-19 deaths are currently doubling each 6.43 days (observed average doubling time is 2.2 days across countries).
+Tunisia covid-19 deaths are currently doubling each 6.43 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

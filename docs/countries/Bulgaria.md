@@ -1,6 +1,6 @@
 ## Bulgaria Covid-19 status comparison 
 
-Bulgaria covid-19 deaths are currently doubling each 9.72 days (observed average doubling time is 2.2 days across countries).
+Bulgaria covid-19 deaths are currently doubling each 9.72 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

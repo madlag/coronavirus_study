@@ -1,6 +1,6 @@
 ## Denmark Covid-19 status comparison 
 
-Denmark covid-19 deaths are currently doubling each 4.33 days (observed average doubling time is 2.2 days across countries).
+Denmark covid-19 deaths are currently doubling each 4.33 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

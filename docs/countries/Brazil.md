@@ -1,6 +1,6 @@
 ## Brazil Covid-19 status comparison 
 
-Brazil covid-19 deaths are currently doubling each 3.27 days (observed average doubling time is 2.2 days across countries).
+Brazil covid-19 deaths are currently doubling each 3.27 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

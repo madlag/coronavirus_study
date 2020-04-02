@@ -1,6 +1,6 @@
 ## United States Of America Covid-19 status comparison 
 
-United States Of America covid-19 deaths are currently doubling each 2.96 days (observed average doubling time is 2.2 days across countries).
+United States Of America covid-19 deaths are currently doubling each 2.96 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
