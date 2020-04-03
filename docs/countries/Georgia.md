@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Georgia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Georgia/2020-04-02_Georgia_cases.png "Georgia covid-19 cases static chart")   
+![Georgia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Georgia/2020-04-03_Georgia_cases.png "Georgia covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## South Korea Covid-19 status comparison 
 
-South Korea covid-19 deaths are currently doubling each 17.83 days (observed initial average doubling time is 2.2 days across countries).
+South Korea covid-19 deaths are currently doubling each 19.40 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![South Korea covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/South_Korea/2020-04-02_South_Korea_deaths.gif "South Korea covid-19 deaths animated chart")   
+![South Korea covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/South_Korea/2020-04-03_South_Korea_deaths.gif "South Korea covid-19 deaths animated chart")   
  
 #### Static
-![South Korea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/South_Korea/2020-04-02_South_Korea_deaths.png "South Korea covid-19 deaths static chart")   
+![South Korea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/South_Korea/2020-04-03_South_Korea_deaths.png "South Korea covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![South Korea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/South_Korea/2020-04-02_South_Korea_cases.gif "South Korea covid-19 cases animated chart")   
+![South Korea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/South_Korea/2020-04-03_South_Korea_cases.gif "South Korea covid-19 cases animated chart")   
  
 #### Static
-![South Korea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/South_Korea/2020-04-02_South_Korea_cases.png "South Korea covid-19 cases static chart")   
+![South Korea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/South_Korea/2020-04-03_South_Korea_cases.png "South Korea covid-19 cases static chart")   
 

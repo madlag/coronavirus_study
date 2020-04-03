@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Suriname covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Suriname/2020-04-02_Suriname_cases.png "Suriname covid-19 cases static chart")   
+![Suriname covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Suriname/2020-04-03_Suriname_cases.png "Suriname covid-19 cases static chart")   
 

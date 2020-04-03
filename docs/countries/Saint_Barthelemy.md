@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Saint Barthelemy covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Saint_Barthelemy/2020-04-02_Saint_Barthelemy_cases.png "Saint Barthelemy covid-19 cases static chart")   
+![Saint Barthelemy covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Saint_Barthelemy/2020-04-03_Saint_Barthelemy_cases.png "Saint Barthelemy covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Barbados covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Barbados/2020-04-02_Barbados_cases.png "Barbados covid-19 cases static chart")   
+![Barbados covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Barbados/2020-04-03_Barbados_cases.png "Barbados covid-19 cases static chart")   
 

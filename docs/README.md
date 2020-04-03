@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-02 report
+##  COVID-19 2020-04-03 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/2020-04-02_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/2020-04-03_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-02
+### Most Affected Countries as of 2020-04-03
 
 [Albania](countries/Albania)
 
@@ -30,6 +30,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Burkina Faso](countries/Burkina_Faso)
 
+[Cameroon](countries/Cameroon)
+
 [Canada](countries/Canada)
 
 [Chile](countries/Chile)
@@ -39,6 +41,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Colombia](countries/Colombia)
 
 [Croatia](countries/Croatia)
+
+[Cuba](countries/Cuba)
 
 [Cyprus](countries/Cyprus)
 
@@ -142,6 +146,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Ukraine](countries/Ukraine)
 
+[United Arab Emirates](countries/United_Arab_Emirates)
+
 [United Kingdom](countries/United_Kingdom)
 
 [United States Of America](countries/United_States_Of_America)
@@ -181,7 +187,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Bhutan](countries/Bhutan)
 
-[Bonaire](countries/Bonaire)
+[Bonaire, saint eustatius and saba](countries/Bonaire, saint eustatius and saba)
 
 [Botswana](countries/Botswana)
 
@@ -192,8 +198,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Burundi](countries/Burundi)
 
 [Cambodia](countries/Cambodia)
-
-[Cameroon](countries/Cameroon)
 
 [Cape Verde](countries/Cape_Verde)
 
@@ -208,8 +212,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Costa Rica](countries/Costa_Rica)
 
 [Cote Divoire](countries/Cote_Divoire)
-
-[Cuba](countries/Cuba)
 
 [Curaã§ao](countries/Curaã§ao)
 
@@ -297,6 +299,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Madagascar](countries/Madagascar)
 
+[Malawi](countries/Malawi)
+
 [Maldives](countries/Maldives)
 
 [Mali](countries/Mali)
@@ -373,8 +377,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [South Africa](countries/South_Africa)
 
-[South Sudan](countries/South_Sudan)
-
 [Sri Lanka](countries/Sri_Lanka)
 
 [Sudan](countries/Sudan)
@@ -394,8 +396,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 
 [Uganda](countries/Uganda)
-
-[United Arab Emirates](countries/United_Arab_Emirates)
 
 [United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
 

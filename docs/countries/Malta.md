@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Malta covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-02/countries/Malta/2020-04-02_Malta_cases.png "Malta covid-19 cases static chart")   
+![Malta covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Malta/2020-04-03_Malta_cases.png "Malta covid-19 cases static chart")   
 
