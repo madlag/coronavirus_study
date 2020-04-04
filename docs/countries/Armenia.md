@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Armenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Armenia/2020-04-03_Armenia_deaths.png "Armenia covid-19 deaths static chart")   
+![Armenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Armenia/2020-04-04_Armenia_deaths.png "Armenia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Armenia/2020-04-03_Armenia_cases.png "Armenia covid-19 cases static chart")   
+![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Armenia/2020-04-04_Armenia_cases.png "Armenia covid-19 cases static chart")   
 

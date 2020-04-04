@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/New_Zealand/2020-04-03_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
+![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/New_Zealand/2020-04-04_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/New_Zealand/2020-04-03_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
+![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/New_Zealand/2020-04-04_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
 

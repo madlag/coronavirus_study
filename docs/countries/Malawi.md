@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Malawi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Malawi/2020-04-03_Malawi_cases.png "Malawi covid-19 cases static chart")   
+![Malawi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Malawi/2020-04-04_Malawi_cases.png "Malawi covid-19 cases static chart")   
 

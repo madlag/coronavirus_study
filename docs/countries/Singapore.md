@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Singapore covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Singapore/2020-04-03_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
+![Singapore covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Singapore/2020-04-04_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Singapore covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Singapore/2020-04-03_Singapore_cases.png "Singapore covid-19 cases static chart")   
+![Singapore covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Singapore/2020-04-04_Singapore_cases.png "Singapore covid-19 cases static chart")   
 

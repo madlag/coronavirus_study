@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Jordan/2020-04-03_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
+![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Jordan/2020-04-04_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Jordan/2020-04-03_Jordan_cases.png "Jordan covid-19 cases static chart")   
+![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Jordan/2020-04-04_Jordan_cases.png "Jordan covid-19 cases static chart")   
 

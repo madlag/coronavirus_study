@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Burundi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Burundi/2020-04-03_Burundi_cases.png "Burundi covid-19 cases static chart")   
+![Burundi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Burundi/2020-04-04_Burundi_cases.png "Burundi covid-19 cases static chart")   
 

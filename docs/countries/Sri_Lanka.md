@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Sri Lanka covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Sri_Lanka/2020-04-03_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
+![Sri Lanka covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Sri_Lanka/2020-04-04_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Sri_Lanka/2020-04-03_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
+![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Sri_Lanka/2020-04-04_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
 

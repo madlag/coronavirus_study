@@ -1,6 +1,6 @@
 ## Democratic Republic Of The Congo Covid-19 status comparison 
 
-Democratic Republic Of The Congo covid-19 deaths are currently doubling each 6.09 days (observed initial average doubling time is 2.2 days across countries).
+Democratic Republic Of The Congo covid-19 deaths are currently doubling each 5.93 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Democratic Republic Of The Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Democratic_Republic_Of_The_Congo/2020-04-03_Democratic_Republic_Of_The_Congo_deaths.gif "Democratic Republic Of The Congo covid-19 deaths animated chart")   
+![Democratic Republic Of The Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Democratic_Republic_Of_The_Congo/2020-04-04_Democratic_Republic_Of_The_Congo_deaths.gif "Democratic Republic Of The Congo covid-19 deaths animated chart")   
  
 #### Static
-![Democratic Republic Of The Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Democratic_Republic_Of_The_Congo/2020-04-03_Democratic_Republic_Of_The_Congo_deaths.png "Democratic Republic Of The Congo covid-19 deaths static chart")   
+![Democratic Republic Of The Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Democratic_Republic_Of_The_Congo/2020-04-04_Democratic_Republic_Of_The_Congo_deaths.png "Democratic Republic Of The Congo covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Democratic Republic Of The Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Democratic_Republic_Of_The_Congo/2020-04-03_Democratic_Republic_Of_The_Congo_cases.gif "Democratic Republic Of The Congo covid-19 cases animated chart")   
+![Democratic Republic Of The Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Democratic_Republic_Of_The_Congo/2020-04-04_Democratic_Republic_Of_The_Congo_cases.gif "Democratic Republic Of The Congo covid-19 cases animated chart")   
  
 #### Static
-![Democratic Republic Of The Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Democratic_Republic_Of_The_Congo/2020-04-03_Democratic_Republic_Of_The_Congo_cases.png "Democratic Republic Of The Congo covid-19 cases static chart")   
+![Democratic Republic Of The Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Democratic_Republic_Of_The_Congo/2020-04-04_Democratic_Republic_Of_The_Congo_cases.png "Democratic Republic Of The Congo covid-19 cases static chart")   
 

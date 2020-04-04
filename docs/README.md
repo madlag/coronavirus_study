@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-03 report
+##  COVID-19 2020-04-04 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/2020-04-03_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/2020-04-04_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-03
+### Most Affected Countries as of 2020-04-04
 
 [Albania](countries/Albania)
 
@@ -17,6 +17,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Australia](countries/Australia)
 
 [Austria](countries/Austria)
+
+[Bangladesh](countries/Bangladesh)
 
 [Belgium](countries/Belgium)
 
@@ -173,8 +175,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Bahrain](countries/Bahrain)
 
-[Bangladesh](countries/Bangladesh)
-
 [Barbados](countries/Barbados)
 
 [Belarus](countries/Belarus)
@@ -230,6 +230,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Eswatini](countries/Eswatini)
 
 [Ethiopia](countries/Ethiopia)
+
+[Falkland Islands (malvinas)](countries/Falkland_Islands_(malvinas))
 
 [Faroe Islands](countries/Faroe_Islands)
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Ethiopia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-03/countries/Ethiopia/2020-04-03_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
+![Ethiopia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Ethiopia/2020-04-04_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
 
