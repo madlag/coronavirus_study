@@ -1,6 +1,6 @@
 ## Luxembourg Covid-19 status comparison 
 
-Luxembourg covid-19 deaths are currently doubling each 4.63 days (observed initial average doubling time is 2.2 days across countries).
+Luxembourg covid-19 deaths are currently doubling each 5.78 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Luxembourg covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Luxembourg/2020-04-04_Luxembourg_deaths.gif "Luxembourg covid-19 deaths animated chart")   
+![Luxembourg covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Luxembourg/2020-04-05_Luxembourg_deaths.gif "Luxembourg covid-19 deaths animated chart")   
  
 #### Static
-![Luxembourg covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Luxembourg/2020-04-04_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
+![Luxembourg covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Luxembourg/2020-04-05_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Luxembourg covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Luxembourg/2020-04-04_Luxembourg_cases.gif "Luxembourg covid-19 cases animated chart")   
+![Luxembourg covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Luxembourg/2020-04-05_Luxembourg_cases.gif "Luxembourg covid-19 cases animated chart")   
  
 #### Static
-![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Luxembourg/2020-04-04_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
+![Luxembourg covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Luxembourg/2020-04-05_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
 

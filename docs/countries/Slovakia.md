@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Slovakia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Slovakia/2020-04-04_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
+![Slovakia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Slovakia/2020-04-05_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
 

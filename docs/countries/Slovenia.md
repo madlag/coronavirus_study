@@ -1,6 +1,6 @@
 ## Slovenia Covid-19 status comparison 
 
-Slovenia covid-19 deaths are currently doubling each 6.09 days (observed initial average doubling time is 2.2 days across countries).
+Slovenia covid-19 deaths are currently doubling each 5.92 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Slovenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Slovenia/2020-04-04_Slovenia_deaths.gif "Slovenia covid-19 deaths animated chart")   
+![Slovenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Slovenia/2020-04-05_Slovenia_deaths.gif "Slovenia covid-19 deaths animated chart")   
  
 #### Static
-![Slovenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Slovenia/2020-04-04_Slovenia_deaths.png "Slovenia covid-19 deaths static chart")   
+![Slovenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Slovenia/2020-04-05_Slovenia_deaths.png "Slovenia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Slovenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Slovenia/2020-04-04_Slovenia_cases.gif "Slovenia covid-19 cases animated chart")   
+![Slovenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Slovenia/2020-04-05_Slovenia_cases.gif "Slovenia covid-19 cases animated chart")   
  
 #### Static
-![Slovenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Slovenia/2020-04-04_Slovenia_cases.png "Slovenia covid-19 cases static chart")   
+![Slovenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Slovenia/2020-04-05_Slovenia_cases.png "Slovenia covid-19 cases static chart")   
 

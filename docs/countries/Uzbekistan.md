@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Uzbekistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Uzbekistan/2020-04-04_Uzbekistan_deaths.png "Uzbekistan covid-19 deaths static chart")   
+![Uzbekistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Uzbekistan/2020-04-05_Uzbekistan_deaths.png "Uzbekistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/countries/Uzbekistan/2020-04-04_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
+![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Uzbekistan/2020-04-05_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
 

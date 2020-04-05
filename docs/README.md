@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-04 report
+##  COVID-19 2020-04-05 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-04/2020-04-04_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/2020-04-05_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-04
+### Most Affected Countries as of 2020-04-05
 
 [Albania](countries/Albania)
 
@@ -60,6 +60,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Egypt](countries/Egypt)
 
+[Estonia](countries/Estonia)
+
 [Finland](countries/Finland)
 
 [France](countries/France)
@@ -96,7 +98,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Malaysia](countries/Malaysia)
 
+[Mauritius](countries/Mauritius)
+
 [Mexico](countries/Mexico)
+
+[Moldova](countries/Moldova)
 
 [Morocco](countries/Morocco)
 
@@ -141,6 +147,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Switzerland](countries/Switzerland)
 
 [Thailand](countries/Thailand)
+
+[Trinidad And Tobago](countries/Trinidad_And_Tobago)
 
 [Tunisia](countries/Tunisia)
 
@@ -224,8 +232,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Equatorial Guinea](countries/Equatorial_Guinea)
 
 [Eritrea](countries/Eritrea)
-
-[Estonia](countries/Estonia)
 
 [Eswatini](countries/Eswatini)
 
@@ -311,10 +317,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Mauritania](countries/Mauritania)
 
-[Mauritius](countries/Mauritius)
-
-[Moldova](countries/Moldova)
-
 [Monaco](countries/Monaco)
 
 [Mongolia](countries/Mongolia)
@@ -392,8 +394,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Timor Leste](countries/Timor_Leste)
 
 [Togo](countries/Togo)
-
-[Trinidad And Tobago](countries/Trinidad_And_Tobago)
 
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 
