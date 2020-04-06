@@ -1,6 +1,6 @@
 ## Croatia Covid-19 status comparison 
 
-Croatia covid-19 deaths are currently doubling each 6.91 days (observed initial average doubling time is 2.2 days across countries).
+Croatia covid-19 deaths are currently doubling each 5.34 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Croatia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Croatia/2020-04-05_Croatia_deaths.gif "Croatia covid-19 deaths animated chart")   
+![Croatia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Croatia/2020-04-06_Croatia_deaths.gif "Croatia covid-19 deaths animated chart")   
  
 #### Static
-![Croatia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Croatia/2020-04-05_Croatia_deaths.png "Croatia covid-19 deaths static chart")   
+![Croatia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Croatia/2020-04-06_Croatia_deaths.png "Croatia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Croatia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Croatia/2020-04-05_Croatia_cases.gif "Croatia covid-19 cases animated chart")   
+![Croatia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Croatia/2020-04-06_Croatia_cases.gif "Croatia covid-19 cases animated chart")   
  
 #### Static
-![Croatia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Croatia/2020-04-05_Croatia_cases.png "Croatia covid-19 cases static chart")   
+![Croatia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Croatia/2020-04-06_Croatia_cases.png "Croatia covid-19 cases static chart")   
 

@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-05 report
+##  COVID-19 2020-04-06 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/2020-04-05_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/2020-04-06_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-05
+### Most Affected Countries as of 2020-04-06
 
 [Albania](countries/Albania)
 
@@ -13,6 +13,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Algeria](countries/Algeria)
 
 [Argentina](countries/Argentina)
+
+[Armenia](countries/Armenia)
 
 [Australia](countries/Australia)
 
@@ -138,6 +140,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Slovenia](countries/Slovenia)
 
+[South Africa](countries/South_Africa)
+
 [South Korea](countries/South_Korea)
 
 [Spain](countries/Spain)
@@ -172,8 +176,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Anguilla](countries/Anguilla)
 
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
-
-[Armenia](countries/Armenia)
 
 [Aruba](countries/Aruba)
 
@@ -379,7 +381,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Somalia](countries/Somalia)
 
-[South Africa](countries/South_Africa)
+[South Sudan](countries/South_Sudan)
 
 [Sri Lanka](countries/Sri_Lanka)
 

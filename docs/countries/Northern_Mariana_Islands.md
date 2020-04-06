@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Northern Mariana Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Northern_Mariana_Islands/2020-04-05_Northern_Mariana_Islands_deaths.png "Northern Mariana Islands covid-19 deaths static chart")   
+![Northern Mariana Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Northern_Mariana_Islands/2020-04-06_Northern_Mariana_Islands_deaths.png "Northern Mariana Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Northern Mariana Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Northern_Mariana_Islands/2020-04-05_Northern_Mariana_Islands_cases.png "Northern Mariana Islands covid-19 cases static chart")   
+![Northern Mariana Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Northern_Mariana_Islands/2020-04-06_Northern_Mariana_Islands_cases.png "Northern Mariana Islands covid-19 cases static chart")   
 

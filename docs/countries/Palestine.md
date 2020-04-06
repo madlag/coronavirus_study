@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Palestine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Palestine/2020-04-05_Palestine_deaths.png "Palestine covid-19 deaths static chart")   
+![Palestine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Palestine/2020-04-06_Palestine_deaths.png "Palestine covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Palestine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-05/countries/Palestine/2020-04-05_Palestine_cases.png "Palestine covid-19 cases static chart")   
+![Palestine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Palestine/2020-04-06_Palestine_cases.png "Palestine covid-19 cases static chart")   
 
