@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Aruba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Aruba/2020-04-06_Aruba_cases.png "Aruba covid-19 cases static chart")   
+![Aruba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Aruba/2020-04-07_Aruba_cases.png "Aruba covid-19 cases static chart")   
 

@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-06 report
+##  COVID-19 2020-04-07 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/2020-04-06_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/2020-04-07_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-06
+### Most Affected Countries as of 2020-04-07
 
 [Albania](countries/Albania)
 
@@ -50,7 +50,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Cyprus](countries/Cyprus)
 
-[Czech Republic](countries/Czech_Republic)
+[Czechia](countries/Czechia)
 
 [Democratic Republic Of The Congo](countries/Democratic_Republic_Of_The_Congo)
 
@@ -137,6 +137,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Saudi Arabia](countries/Saudi_Arabia)
 
 [Serbia](countries/Serbia)
+
+[Singapore](countries/Singapore)
 
 [Slovenia](countries/Slovenia)
 
@@ -359,8 +361,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Rwanda](countries/Rwanda)
 
-[Saint Barthelemy](countries/Saint_Barthelemy)
-
 [Saint Kitts And Nevis](countries/Saint_Kitts_And_Nevis)
 
 [Saint Lucia](countries/Saint_Lucia)
@@ -372,8 +372,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Seychelles](countries/Seychelles)
 
 [Sierra Leone](countries/Sierra_Leone)
-
-[Singapore](countries/Singapore)
 
 [Sint Maarten](countries/Sint_Maarten)
 

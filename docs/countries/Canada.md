@@ -1,6 +1,6 @@
 ## Canada Covid-19 status comparison 
 
-Canada covid-19 deaths are currently doubling each 3.64 days (observed initial average doubling time is 2.2 days across countries).
+Canada covid-19 deaths are currently doubling each 3.48 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Canada covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Canada/2020-04-06_Canada_deaths.gif "Canada covid-19 deaths animated chart")   
+![Canada covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Canada/2020-04-07_Canada_deaths.gif "Canada covid-19 deaths animated chart")   
  
 #### Static
-![Canada covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Canada/2020-04-06_Canada_deaths.png "Canada covid-19 deaths static chart")   
+![Canada covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Canada/2020-04-07_Canada_deaths.png "Canada covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Canada covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Canada/2020-04-06_Canada_cases.gif "Canada covid-19 cases animated chart")   
+![Canada covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Canada/2020-04-07_Canada_cases.gif "Canada covid-19 cases animated chart")   
  
 #### Static
-![Canada covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Canada/2020-04-06_Canada_cases.png "Canada covid-19 cases static chart")   
+![Canada covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Canada/2020-04-07_Canada_cases.png "Canada covid-19 cases static chart")   
 

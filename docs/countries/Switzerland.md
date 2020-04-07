@@ -1,6 +1,6 @@
 ## Switzerland Covid-19 status comparison 
 
-Switzerland covid-19 deaths are currently doubling each 4.58 days (observed initial average doubling time is 2.2 days across countries).
+Switzerland covid-19 deaths are currently doubling each 6.51 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Switzerland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Switzerland/2020-04-06_Switzerland_deaths.gif "Switzerland covid-19 deaths animated chart")   
+![Switzerland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Switzerland/2020-04-07_Switzerland_deaths.gif "Switzerland covid-19 deaths animated chart")   
  
 #### Static
-![Switzerland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Switzerland/2020-04-06_Switzerland_deaths.png "Switzerland covid-19 deaths static chart")   
+![Switzerland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Switzerland/2020-04-07_Switzerland_deaths.png "Switzerland covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Switzerland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Switzerland/2020-04-06_Switzerland_cases.gif "Switzerland covid-19 cases animated chart")   
+![Switzerland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Switzerland/2020-04-07_Switzerland_cases.gif "Switzerland covid-19 cases animated chart")   
  
 #### Static
-![Switzerland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-06/countries/Switzerland/2020-04-06_Switzerland_cases.png "Switzerland covid-19 cases static chart")   
+![Switzerland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Switzerland/2020-04-07_Switzerland_cases.png "Switzerland covid-19 cases static chart")   
 
