@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Monaco covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Monaco/2020-04-07_Monaco_deaths.png "Monaco covid-19 deaths static chart")   
+![Monaco covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Monaco/2020-04-08_Monaco_deaths.png "Monaco covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Monaco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Monaco/2020-04-07_Monaco_cases.png "Monaco covid-19 cases static chart")   
+![Monaco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Monaco/2020-04-08_Monaco_cases.png "Monaco covid-19 cases static chart")   
 

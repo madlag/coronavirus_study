@@ -1,6 +1,6 @@
 ## Belarus Covid-19 status comparison 
 
-Belarus
+Belarus covid-19 deaths are currently doubling each 2.86 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Belarus covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Belarus/2020-04-08_Belarus_deaths.gif "Belarus covid-19 deaths animated chart")   
+ 
 #### Static
-![Belarus covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Belarus/2020-04-07_Belarus_deaths.png "Belarus covid-19 deaths static chart")   
+![Belarus covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Belarus/2020-04-08_Belarus_deaths.png "Belarus covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Belarus covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Belarus/2020-04-08_Belarus_cases.gif "Belarus covid-19 cases animated chart")   
+ 
 #### Static
-![Belarus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Belarus/2020-04-07_Belarus_cases.png "Belarus covid-19 cases static chart")   
+![Belarus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Belarus/2020-04-08_Belarus_cases.png "Belarus covid-19 cases static chart")   
 

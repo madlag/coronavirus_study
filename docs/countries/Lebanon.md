@@ -1,6 +1,6 @@
 ## Lebanon Covid-19 status comparison 
 
-Lebanon covid-19 deaths are currently doubling each 7.51 days (observed initial average doubling time is 2.2 days across countries).
+Lebanon covid-19 deaths are currently doubling each 9.02 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Lebanon covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Lebanon/2020-04-07_Lebanon_deaths.gif "Lebanon covid-19 deaths animated chart")   
+![Lebanon covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Lebanon/2020-04-08_Lebanon_deaths.gif "Lebanon covid-19 deaths animated chart")   
  
 #### Static
-![Lebanon covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Lebanon/2020-04-07_Lebanon_deaths.png "Lebanon covid-19 deaths static chart")   
+![Lebanon covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Lebanon/2020-04-08_Lebanon_deaths.png "Lebanon covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Lebanon covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Lebanon/2020-04-07_Lebanon_cases.gif "Lebanon covid-19 cases animated chart")   
+![Lebanon covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Lebanon/2020-04-08_Lebanon_cases.gif "Lebanon covid-19 cases animated chart")   
  
 #### Static
-![Lebanon covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/Lebanon/2020-04-07_Lebanon_cases.png "Lebanon covid-19 cases static chart")   
+![Lebanon covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Lebanon/2020-04-08_Lebanon_cases.png "Lebanon covid-19 cases static chart")   
 

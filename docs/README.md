@@ -1,10 +1,12 @@
-##  COVID-19 2020-04-07 report
+##  COVID-19 2020-04-08 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/2020-04-07_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/2020-04-08_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-07
+### Most Affected Countries as of 2020-04-08
+
+[Afghanistan](countries/Afghanistan)
 
 [Albania](countries/Albania)
 
@@ -20,7 +22,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Austria](countries/Austria)
 
+[Azerbaijan](countries/Azerbaijan)
+
 [Bangladesh](countries/Bangladesh)
+
+[Belarus](countries/Belarus)
 
 [Belgium](countries/Belgium)
 
@@ -110,6 +116,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Netherlands](countries/Netherlands)
 
+[Niger](countries/Niger)
+
 [North Macedonia](countries/North_Macedonia)
 
 [Norway](countries/Norway)
@@ -168,10 +176,10 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [United States Of America](countries/United_States_Of_America)
 
+[Uruguay](countries/Uruguay)
+
 
 ### Other Affected Countries
-
-[Afghanistan](countries/Afghanistan)
 
 [Angola](countries/Angola)
 
@@ -181,15 +189,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Aruba](countries/Aruba)
 
-[Azerbaijan](countries/Azerbaijan)
-
 [Bahamas](countries/Bahamas)
 
 [Bahrain](countries/Bahrain)
 
 [Barbados](countries/Barbados)
-
-[Belarus](countries/Belarus)
 
 [Belize](countries/Belize)
 
@@ -343,8 +347,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Nicaragua](countries/Nicaragua)
 
-[Niger](countries/Niger)
-
 [Nigeria](countries/Nigeria)
 
 [Northern Mariana Islands](countries/Northern_Mariana_Islands)
@@ -402,8 +404,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
 
 [United States Virgin Islands](countries/United_States_Virgin_Islands)
-
-[Uruguay](countries/Uruguay)
 
 [Uzbekistan](countries/Uzbekistan)
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![El Salvador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/El_Salvador/2020-04-07_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
+![El Salvador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/El_Salvador/2020-04-08_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![El Salvador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-07/countries/El_Salvador/2020-04-07_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
+![El Salvador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/El_Salvador/2020-04-08_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
 
