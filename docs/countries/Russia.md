@@ -1,6 +1,6 @@
 ## Russia Covid-19 status comparison 
 
-Russia covid-19 deaths are currently doubling each 3.23 days (observed initial average doubling time is 2.2 days across countries).
+Russia covid-19 deaths are currently doubling each 3.82 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Russia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Russia/2020-04-08_Russia_deaths.gif "Russia covid-19 deaths animated chart")   
+![Russia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Russia/2020-04-09_Russia_deaths.gif "Russia covid-19 deaths animated chart")   
  
 #### Static
-![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Russia/2020-04-08_Russia_deaths.png "Russia covid-19 deaths static chart")   
+![Russia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Russia/2020-04-09_Russia_deaths.png "Russia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Russia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Russia/2020-04-08_Russia_cases.gif "Russia covid-19 cases animated chart")   
+![Russia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Russia/2020-04-09_Russia_cases.gif "Russia covid-19 cases animated chart")   
  
 #### Static
-![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Russia/2020-04-08_Russia_cases.png "Russia covid-19 cases static chart")   
+![Russia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Russia/2020-04-09_Russia_cases.png "Russia covid-19 cases static chart")   
 

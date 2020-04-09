@@ -1,6 +1,6 @@
 ## Jordan Covid-19 status comparison 
 
-Jordan
+Jordan covid-19 deaths are currently doubling each -4777949638376290.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Jordan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Jordan/2020-04-09_Jordan_deaths.gif "Jordan covid-19 deaths animated chart")   
+ 
 #### Static
-![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Jordan/2020-04-08_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
+![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Jordan/2020-04-09_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Jordan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Jordan/2020-04-09_Jordan_cases.gif "Jordan covid-19 cases animated chart")   
+ 
 #### Static
-![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Jordan/2020-04-08_Jordan_cases.png "Jordan covid-19 cases static chart")   
+![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Jordan/2020-04-09_Jordan_cases.png "Jordan covid-19 cases static chart")   
 

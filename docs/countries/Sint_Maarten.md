@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Sint Maarten covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Sint_Maarten/2020-04-08_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
+![Sint Maarten covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Sint_Maarten/2020-04-09_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Sint_Maarten/2020-04-08_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
+![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Sint_Maarten/2020-04-09_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
 

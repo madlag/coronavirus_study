@@ -1,6 +1,6 @@
 ## Chile Covid-19 status comparison 
 
-Chile covid-19 deaths are currently doubling each 3.36 days (observed initial average doubling time is 2.2 days across countries).
+Chile covid-19 deaths are currently doubling each 3.65 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Chile covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Chile/2020-04-08_Chile_deaths.gif "Chile covid-19 deaths animated chart")   
+![Chile covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Chile/2020-04-09_Chile_deaths.gif "Chile covid-19 deaths animated chart")   
  
 #### Static
-![Chile covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Chile/2020-04-08_Chile_deaths.png "Chile covid-19 deaths static chart")   
+![Chile covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Chile/2020-04-09_Chile_deaths.png "Chile covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Chile covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Chile/2020-04-08_Chile_cases.gif "Chile covid-19 cases animated chart")   
+![Chile covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Chile/2020-04-09_Chile_cases.gif "Chile covid-19 cases animated chart")   
  
 #### Static
-![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Chile/2020-04-08_Chile_cases.png "Chile covid-19 cases static chart")   
+![Chile covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Chile/2020-04-09_Chile_cases.png "Chile covid-19 cases static chart")   
 

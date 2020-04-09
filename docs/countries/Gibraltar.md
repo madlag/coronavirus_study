@@ -18,14 +18,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
-### Deaths over time
- 
-#### Static
-![Gibraltar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Gibraltar/2020-04-08_Gibraltar_deaths.png "Gibraltar covid-19 deaths static chart")   
-
- 
 ### Cases over time
  
 #### Static
-![Gibraltar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/countries/Gibraltar/2020-04-08_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
+![Gibraltar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Gibraltar/2020-04-09_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
 

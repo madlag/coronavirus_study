@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-08 report
+##  COVID-19 2020-04-09 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-08/2020-04-08_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/2020-04-09_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-08
+### Most Affected Countries as of 2020-04-09
 
 [Afghanistan](countries/Afghanistan)
 
@@ -82,6 +82,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Hungary](countries/Hungary)
 
+[Iceland](countries/Iceland)
+
 [India](countries/India)
 
 [Indonesia](countries/Indonesia)
@@ -97,6 +99,10 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Italy](countries/Italy)
 
 [Japan](countries/Japan)
+
+[Jordan](countries/Jordan)
+
+[Kazakhstan](countries/Kazakhstan)
 
 [Lebanon](countries/Lebanon)
 
@@ -283,17 +289,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Holy See](countries/Holy_See)
 
-[Iceland](countries/Iceland)
-
 [Isle Of Man](countries/Isle_Of_Man)
 
 [Jamaica](countries/Jamaica)
 
 [Jersey](countries/Jersey)
-
-[Jordan](countries/Jordan)
-
-[Kazakhstan](countries/Kazakhstan)
 
 [Kenya](countries/Kenya)
 
@@ -368,6 +368,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Saint Lucia](countries/Saint_Lucia)
 
 [Saint Vincent And The Grenadines](countries/Saint_Vincent_And_The_Grenadines)
+
+[Sao Tome And Principe](countries/Sao_Tome_And_Principe)
 
 [Senegal](countries/Senegal)
 
