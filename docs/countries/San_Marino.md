@@ -1,6 +1,6 @@
 ## San Marino Covid-19 status comparison 
 
-San Marino covid-19 deaths are currently doubling each 19.46 days (observed initial average doubling time is 2.2 days across countries).
+San Marino covid-19 deaths are currently doubling each 23.26 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![San Marino covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/San_Marino/2020-04-09_San_Marino_deaths.gif "San Marino covid-19 deaths animated chart")   
+![San Marino covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/San_Marino/2020-04-10_San_Marino_deaths.gif "San Marino covid-19 deaths animated chart")   
  
 #### Static
-![San Marino covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/San_Marino/2020-04-09_San_Marino_deaths.png "San Marino covid-19 deaths static chart")   
+![San Marino covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/San_Marino/2020-04-10_San_Marino_deaths.png "San Marino covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![San Marino covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/San_Marino/2020-04-09_San_Marino_cases.gif "San Marino covid-19 cases animated chart")   
+![San Marino covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/San_Marino/2020-04-10_San_Marino_cases.gif "San Marino covid-19 cases animated chart")   
  
 #### Static
-![San Marino covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/San_Marino/2020-04-09_San_Marino_cases.png "San Marino covid-19 cases static chart")   
+![San Marino covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/San_Marino/2020-04-10_San_Marino_cases.png "San Marino covid-19 cases static chart")   
 

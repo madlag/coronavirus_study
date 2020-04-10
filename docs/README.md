@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-09 report
+##  COVID-19 2020-04-10 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/2020-04-09_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/2020-04-10_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-09
+### Most Affected Countries as of 2020-04-10
 
 [Afghanistan](countries/Afghanistan)
 
@@ -23,6 +23,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Austria](countries/Austria)
 
 [Azerbaijan](countries/Azerbaijan)
+
+[Bahamas](countries/Bahamas)
 
 [Bangladesh](countries/Bangladesh)
 
@@ -104,6 +106,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Kazakhstan](countries/Kazakhstan)
 
+[Kenya](countries/Kenya)
+
 [Lebanon](countries/Lebanon)
 
 [Lithuania](countries/Lithuania)
@@ -124,6 +128,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Niger](countries/Niger)
 
+[Nigeria](countries/Nigeria)
+
 [North Macedonia](countries/North_Macedonia)
 
 [Norway](countries/Norway)
@@ -142,6 +148,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Puerto Rico](countries/Puerto_Rico)
 
+[Qatar](countries/Qatar)
+
 [Romania](countries/Romania)
 
 [Russia](countries/Russia)
@@ -154,6 +162,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Singapore](countries/Singapore)
 
+[Sint Maarten](countries/Sint_Maarten)
+
 [Slovenia](countries/Slovenia)
 
 [South Africa](countries/South_Africa)
@@ -161,6 +171,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [South Korea](countries/South_Korea)
 
 [Spain](countries/Spain)
+
+[Sri Lanka](countries/Sri_Lanka)
 
 [Sweden](countries/Sweden)
 
@@ -184,6 +196,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Uruguay](countries/Uruguay)
 
+[Venezuela](countries/Venezuela)
+
 
 ### Other Affected Countries
 
@@ -194,8 +208,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
 [Aruba](countries/Aruba)
-
-[Bahamas](countries/Bahamas)
 
 [Bahrain](countries/Bahrain)
 
@@ -295,8 +307,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Jersey](countries/Jersey)
 
-[Kenya](countries/Kenya)
-
 [Kosovo](countries/Kosovo)
 
 [Kuwait](countries/Kuwait)
@@ -347,8 +357,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Nicaragua](countries/Nicaragua)
 
-[Nigeria](countries/Nigeria)
-
 [Northern Mariana Islands](countries/Northern_Mariana_Islands)
 
 [Oman](countries/Oman)
@@ -358,8 +366,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Papua New Guinea](countries/Papua_New_Guinea)
 
 [Paraguay](countries/Paraguay)
-
-[Qatar](countries/Qatar)
 
 [Rwanda](countries/Rwanda)
 
@@ -377,15 +383,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Sierra Leone](countries/Sierra_Leone)
 
-[Sint Maarten](countries/Sint_Maarten)
-
 [Slovakia](countries/Slovakia)
 
 [Somalia](countries/Somalia)
 
 [South Sudan](countries/South_Sudan)
-
-[Sri Lanka](countries/Sri_Lanka)
 
 [Sudan](countries/Sudan)
 
@@ -409,9 +411,9 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Uzbekistan](countries/Uzbekistan)
 
-[Venezuela](countries/Venezuela)
-
 [Vietnam](countries/Vietnam)
+
+[Yemen](countries/Yemen)
 
 [Zambia](countries/Zambia)
 

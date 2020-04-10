@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Libya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Libya/2020-04-09_Libya_deaths.png "Libya covid-19 deaths static chart")   
+![Libya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Libya/2020-04-10_Libya_deaths.png "Libya covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Libya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-09/countries/Libya/2020-04-09_Libya_cases.png "Libya covid-19 cases static chart")   
+![Libya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Libya/2020-04-10_Libya_cases.png "Libya covid-19 cases static chart")   
 
