@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Kuwait covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Kuwait/2020-04-10_Kuwait_deaths.png "Kuwait covid-19 deaths static chart")   
+![Kuwait covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Kuwait/2020-04-11_Kuwait_deaths.png "Kuwait covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Kuwait/2020-04-10_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
+![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Kuwait/2020-04-11_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
 

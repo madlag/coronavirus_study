@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![French Polynesia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/French_Polynesia/2020-04-10_French_Polynesia_cases.png "French Polynesia covid-19 cases static chart")   
+![French Polynesia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/French_Polynesia/2020-04-11_French_Polynesia_cases.png "French Polynesia covid-19 cases static chart")   
 

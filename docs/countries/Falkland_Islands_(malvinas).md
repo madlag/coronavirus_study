@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Falkland Islands (malvinas) covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Falkland_Islands_(malvinas)/2020-04-10_Falkland_Islands_(malvinas)_cases.png "Falkland Islands (malvinas) covid-19 cases static chart")   
+![Falkland Islands (malvinas) covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Falkland_Islands_(malvinas)/2020-04-11_Falkland_Islands_(malvinas)_cases.png "Falkland Islands (malvinas) covid-19 cases static chart")   
 

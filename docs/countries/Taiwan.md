@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Taiwan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Taiwan/2020-04-10_Taiwan_deaths.png "Taiwan covid-19 deaths static chart")   
+![Taiwan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Taiwan/2020-04-11_Taiwan_deaths.png "Taiwan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Taiwan/2020-04-10_Taiwan_cases.png "Taiwan covid-19 cases static chart")   
+![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Taiwan/2020-04-11_Taiwan_cases.png "Taiwan covid-19 cases static chart")   
 

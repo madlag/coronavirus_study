@@ -1,18 +1,18 @@
-##  COVID-19 2020-04-10 report
+##  COVID-19 2020-04-11 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/2020-04-10_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/2020-04-11_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-10
+### Most Affected Countries as of 2020-04-11
 
 [Afghanistan](countries/Afghanistan)
 
 [Albania](countries/Albania)
 
-[Andorra](countries/Andorra)
-
 [Algeria](countries/Algeria)
+
+[Andorra](countries/Andorra)
 
 [Argentina](countries/Argentina)
 
@@ -78,7 +78,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Germany](countries/Germany)
 
+[Ghana](countries/Ghana)
+
 [Greece](countries/Greece)
+
+[Guyana](countries/Guyana)
 
 [Honduras](countries/Honduras)
 
@@ -115,6 +119,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Luxembourg](countries/Luxembourg)
 
 [Malaysia](countries/Malaysia)
+
+[Mali](countries/Mali)
 
 [Mauritius](countries/Mauritius)
 
@@ -277,8 +283,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Georgia](countries/Georgia)
 
-[Ghana](countries/Ghana)
-
 [Gibraltar](countries/Gibraltar)
 
 [Greenland](countries/Greenland)
@@ -294,8 +298,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Guinea](countries/Guinea)
 
 [Guinea Bissau](countries/Guinea_Bissau)
-
-[Guyana](countries/Guyana)
 
 [Haiti](countries/Haiti)
 
@@ -328,8 +330,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Malawi](countries/Malawi)
 
 [Maldives](countries/Maldives)
-
-[Mali](countries/Mali)
 
 [Malta](countries/Malta)
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Cote_Divoire/2020-04-10_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
+![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Cote_Divoire/2020-04-11_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Cote_Divoire/2020-04-10_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
+![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Cote_Divoire/2020-04-11_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
 

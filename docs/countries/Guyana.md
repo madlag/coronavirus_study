@@ -1,6 +1,6 @@
 ## Guyana Covid-19 status comparison 
 
-Guyana
+Guyana covid-19 deaths are currently doubling each -3545783355757379.50 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Guyana covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Guyana/2020-04-11_Guyana_deaths.gif "Guyana covid-19 deaths animated chart")   
+ 
 #### Static
-![Guyana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Guyana/2020-04-10_Guyana_deaths.png "Guyana covid-19 deaths static chart")   
+![Guyana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Guyana/2020-04-11_Guyana_deaths.png "Guyana covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Guyana covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Guyana/2020-04-11_Guyana_cases.gif "Guyana covid-19 cases animated chart")   
+ 
 #### Static
-![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Guyana/2020-04-10_Guyana_cases.png "Guyana covid-19 cases static chart")   
+![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Guyana/2020-04-11_Guyana_cases.png "Guyana covid-19 cases static chart")   
 

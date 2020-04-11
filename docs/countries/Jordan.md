@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Jordan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Jordan/2020-04-10_Jordan_deaths.gif "Jordan covid-19 deaths animated chart")   
+![Jordan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Jordan/2020-04-11_Jordan_deaths.gif "Jordan covid-19 deaths animated chart")   
  
 #### Static
-![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Jordan/2020-04-10_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
+![Jordan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Jordan/2020-04-11_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Jordan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Jordan/2020-04-10_Jordan_cases.gif "Jordan covid-19 cases animated chart")   
+![Jordan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Jordan/2020-04-11_Jordan_cases.gif "Jordan covid-19 cases animated chart")   
  
 #### Static
-![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Jordan/2020-04-10_Jordan_cases.png "Jordan covid-19 cases static chart")   
+![Jordan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Jordan/2020-04-11_Jordan_cases.png "Jordan covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Mali Covid-19 status comparison 
 
-Mali
+Mali covid-19 deaths are currently doubling each -2867913008333174.50 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Mali covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Mali/2020-04-11_Mali_deaths.gif "Mali covid-19 deaths animated chart")   
+ 
 #### Static
-![Mali covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Mali/2020-04-10_Mali_deaths.png "Mali covid-19 deaths static chart")   
+![Mali covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Mali/2020-04-11_Mali_deaths.png "Mali covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Mali covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Mali/2020-04-11_Mali_cases.gif "Mali covid-19 cases animated chart")   
+ 
 #### Static
-![Mali covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-10/countries/Mali/2020-04-10_Mali_cases.png "Mali covid-19 cases static chart")   
+![Mali covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Mali/2020-04-11_Mali_cases.png "Mali covid-19 cases static chart")   
 
