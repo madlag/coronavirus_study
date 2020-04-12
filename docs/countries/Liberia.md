@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Liberia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Liberia/2020-04-11_Liberia_deaths.png "Liberia covid-19 deaths static chart")   
+![Liberia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Liberia/2020-04-12_Liberia_deaths.png "Liberia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Liberia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Liberia/2020-04-11_Liberia_cases.png "Liberia covid-19 cases static chart")   
+![Liberia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Liberia/2020-04-12_Liberia_cases.png "Liberia covid-19 cases static chart")   
 

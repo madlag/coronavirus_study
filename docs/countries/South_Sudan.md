@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![South Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/South_Sudan/2020-04-11_South_Sudan_cases.png "South Sudan covid-19 cases static chart")   
+![South Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/South_Sudan/2020-04-12_South_Sudan_cases.png "South Sudan covid-19 cases static chart")   
 

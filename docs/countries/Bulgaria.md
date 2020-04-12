@@ -1,6 +1,6 @@
 ## Bulgaria Covid-19 status comparison 
 
-Bulgaria covid-19 deaths are currently doubling each 6.33 days (observed initial average doubling time is 2.2 days across countries).
+Bulgaria covid-19 deaths are currently doubling each 7.31 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Bulgaria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Bulgaria/2020-04-11_Bulgaria_deaths.gif "Bulgaria covid-19 deaths animated chart")   
+![Bulgaria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Bulgaria/2020-04-12_Bulgaria_deaths.gif "Bulgaria covid-19 deaths animated chart")   
  
 #### Static
-![Bulgaria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Bulgaria/2020-04-11_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
+![Bulgaria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Bulgaria/2020-04-12_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Bulgaria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Bulgaria/2020-04-11_Bulgaria_cases.gif "Bulgaria covid-19 cases animated chart")   
+![Bulgaria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Bulgaria/2020-04-12_Bulgaria_cases.gif "Bulgaria covid-19 cases animated chart")   
  
 #### Static
-![Bulgaria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Bulgaria/2020-04-11_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
+![Bulgaria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Bulgaria/2020-04-12_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
 

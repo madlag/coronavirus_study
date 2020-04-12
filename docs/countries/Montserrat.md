@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Montserrat covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Montserrat/2020-04-11_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
+![Montserrat covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Montserrat/2020-04-12_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
 

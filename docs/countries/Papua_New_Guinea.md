@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Papua New Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Papua_New_Guinea/2020-04-11_Papua_New_Guinea_cases.png "Papua New Guinea covid-19 cases static chart")   
+![Papua New Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Papua_New_Guinea/2020-04-12_Papua_New_Guinea_cases.png "Papua New Guinea covid-19 cases static chart")   
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Belize covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Belize/2020-04-11_Belize_deaths.png "Belize covid-19 deaths static chart")   
+![Belize covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Belize/2020-04-12_Belize_deaths.png "Belize covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/countries/Belize/2020-04-11_Belize_cases.png "Belize covid-19 cases static chart")   
+![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Belize/2020-04-12_Belize_cases.png "Belize covid-19 cases static chart")   
 

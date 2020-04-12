@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-11 report
+##  COVID-19 2020-04-12 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-11/2020-04-11_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/2020-04-12_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-11
+### Most Affected Countries as of 2020-04-12
 
 [Afghanistan](countries/Afghanistan)
 
@@ -70,6 +70,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Egypt](countries/Egypt)
 
+[El Salvador](countries/El_Salvador)
+
 [Estonia](countries/Estonia)
 
 [Finland](countries/Finland)
@@ -112,6 +114,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Kenya](countries/Kenya)
 
+[Kosovo](countries/Kosovo)
+
 [Lebanon](countries/Lebanon)
 
 [Lithuania](countries/Lithuania)
@@ -143,6 +147,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Pakistan](countries/Pakistan)
 
 [Panama](countries/Panama)
+
+[Paraguay](countries/Paraguay)
 
 [Peru](countries/Peru)
 
@@ -259,8 +265,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Dominica](countries/Dominica)
 
-[El Salvador](countries/El_Salvador)
-
 [Equatorial Guinea](countries/Equatorial_Guinea)
 
 [Eritrea](countries/Eritrea)
@@ -308,8 +312,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Jamaica](countries/Jamaica)
 
 [Jersey](countries/Jersey)
-
-[Kosovo](countries/Kosovo)
 
 [Kuwait](countries/Kuwait)
 
@@ -364,8 +366,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Palestine](countries/Palestine)
 
 [Papua New Guinea](countries/Papua_New_Guinea)
-
-[Paraguay](countries/Paraguay)
 
 [Rwanda](countries/Rwanda)
 
