@@ -1,6 +1,6 @@
 ## El Salvador Covid-19 status comparison 
 
-El Salvador covid-19 deaths are currently doubling each -9848406802623578.00 days (observed initial average doubling time is 2.2 days across countries).
+El Salvador covid-19 deaths are currently doubling each -3312631107693985.50 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![El Salvador covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/El_Salvador/2020-04-12_El_Salvador_deaths.gif "El Salvador covid-19 deaths animated chart")   
+![El Salvador covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/El_Salvador/2020-04-13_El_Salvador_deaths.gif "El Salvador covid-19 deaths animated chart")   
  
 #### Static
-![El Salvador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/El_Salvador/2020-04-12_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
+![El Salvador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/El_Salvador/2020-04-13_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![El Salvador covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/El_Salvador/2020-04-12_El_Salvador_cases.gif "El Salvador covid-19 cases animated chart")   
+![El Salvador covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/El_Salvador/2020-04-13_El_Salvador_cases.gif "El Salvador covid-19 cases animated chart")   
  
 #### Static
-![El Salvador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/El_Salvador/2020-04-12_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
+![El Salvador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/El_Salvador/2020-04-13_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Nepal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Nepal/2020-04-12_Nepal_cases.png "Nepal covid-19 cases static chart")   
+![Nepal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Nepal/2020-04-13_Nepal_cases.png "Nepal covid-19 cases static chart")   
 

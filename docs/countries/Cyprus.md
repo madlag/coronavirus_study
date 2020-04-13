@@ -1,6 +1,6 @@
 ## Cyprus Covid-19 status comparison 
 
-Cyprus covid-19 deaths are currently doubling each 13.75 days (observed initial average doubling time is 2.2 days across countries).
+Cyprus covid-19 deaths are currently doubling each 18.76 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Cyprus covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Cyprus/2020-04-12_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
+![Cyprus covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Cyprus/2020-04-13_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
  
 #### Static
-![Cyprus covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Cyprus/2020-04-12_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
+![Cyprus covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Cyprus/2020-04-13_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Cyprus covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Cyprus/2020-04-12_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
+![Cyprus covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Cyprus/2020-04-13_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
  
 #### Static
-![Cyprus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Cyprus/2020-04-12_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
+![Cyprus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Cyprus/2020-04-13_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
 

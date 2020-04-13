@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Botswana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Botswana/2020-04-12_Botswana_deaths.png "Botswana covid-19 deaths static chart")   
+![Botswana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Botswana/2020-04-13_Botswana_deaths.png "Botswana covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Botswana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-12/countries/Botswana/2020-04-12_Botswana_cases.png "Botswana covid-19 cases static chart")   
+![Botswana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Botswana/2020-04-13_Botswana_cases.png "Botswana covid-19 cases static chart")   
 
