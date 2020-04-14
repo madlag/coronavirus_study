@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Latvia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Latvia/2020-04-13_Latvia_deaths.png "Latvia covid-19 deaths static chart")   
+![Latvia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Latvia/2020-04-14_Latvia_deaths.png "Latvia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Latvia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Latvia/2020-04-13_Latvia_cases.png "Latvia covid-19 cases static chart")   
+![Latvia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Latvia/2020-04-14_Latvia_cases.png "Latvia covid-19 cases static chart")   
 

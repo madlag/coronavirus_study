@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Bonaire, saint eustatius and saba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Bonaire, saint eustatius and saba/2020-04-13_Bonaire, saint eustatius and saba_cases.png "Bonaire, saint eustatius and saba covid-19 cases static chart")   
+![Bonaire, saint eustatius and saba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Bonaire, saint eustatius and saba/2020-04-14_Bonaire, saint eustatius and saba_cases.png "Bonaire, saint eustatius and saba covid-19 cases static chart")   
 

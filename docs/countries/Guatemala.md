@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Guatemala covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Guatemala/2020-04-13_Guatemala_deaths.png "Guatemala covid-19 deaths static chart")   
+![Guatemala covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Guatemala/2020-04-14_Guatemala_deaths.png "Guatemala covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Guatemala covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Guatemala/2020-04-13_Guatemala_cases.png "Guatemala covid-19 cases static chart")   
+![Guatemala covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Guatemala/2020-04-14_Guatemala_cases.png "Guatemala covid-19 cases static chart")   
 

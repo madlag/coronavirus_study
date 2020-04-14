@@ -1,6 +1,6 @@
 ## Romania Covid-19 status comparison 
 
-Romania covid-19 deaths are currently doubling each 6.98 days (observed initial average doubling time is 2.2 days across countries).
+Romania covid-19 deaths are currently doubling each 6.95 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Romania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Romania/2020-04-13_Romania_deaths.gif "Romania covid-19 deaths animated chart")   
+![Romania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Romania/2020-04-14_Romania_deaths.gif "Romania covid-19 deaths animated chart")   
  
 #### Static
-![Romania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Romania/2020-04-13_Romania_deaths.png "Romania covid-19 deaths static chart")   
+![Romania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Romania/2020-04-14_Romania_deaths.png "Romania covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Romania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Romania/2020-04-13_Romania_cases.gif "Romania covid-19 cases animated chart")   
+![Romania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Romania/2020-04-14_Romania_cases.gif "Romania covid-19 cases animated chart")   
  
 #### Static
-![Romania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Romania/2020-04-13_Romania_cases.png "Romania covid-19 cases static chart")   
+![Romania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Romania/2020-04-14_Romania_cases.png "Romania covid-19 cases static chart")   
 

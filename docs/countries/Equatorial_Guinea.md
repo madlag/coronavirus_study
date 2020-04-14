@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Equatorial Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-13/countries/Equatorial_Guinea/2020-04-13_Equatorial_Guinea_cases.png "Equatorial Guinea covid-19 cases static chart")   
+![Equatorial Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Equatorial_Guinea/2020-04-14_Equatorial_Guinea_cases.png "Equatorial Guinea covid-19 cases static chart")   
 
