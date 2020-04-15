@@ -1,6 +1,6 @@
 ## Albania Covid-19 status comparison 
 
-Albania covid-19 deaths are currently doubling each 41.49 days (observed initial average doubling time is 2.2 days across countries).
+Albania covid-19 deaths are currently doubling each 61.21 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Albania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Albania/2020-04-14_Albania_deaths.gif "Albania covid-19 deaths animated chart")   
+![Albania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Albania/2020-04-15_Albania_deaths.gif "Albania covid-19 deaths animated chart")   
  
 #### Static
-![Albania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Albania/2020-04-14_Albania_deaths.png "Albania covid-19 deaths static chart")   
+![Albania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Albania/2020-04-15_Albania_deaths.png "Albania covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Albania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Albania/2020-04-14_Albania_cases.gif "Albania covid-19 cases animated chart")   
+![Albania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Albania/2020-04-15_Albania_cases.gif "Albania covid-19 cases animated chart")   
  
 #### Static
-![Albania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Albania/2020-04-14_Albania_cases.png "Albania covid-19 cases static chart")   
+![Albania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Albania/2020-04-15_Albania_cases.png "Albania covid-19 cases static chart")   
 

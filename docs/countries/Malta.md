@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Malta covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Malta/2020-04-14_Malta_deaths.png "Malta covid-19 deaths static chart")   
+![Malta covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Malta/2020-04-15_Malta_deaths.png "Malta covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Malta covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Malta/2020-04-14_Malta_cases.png "Malta covid-19 cases static chart")   
+![Malta covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Malta/2020-04-15_Malta_cases.png "Malta covid-19 cases static chart")   
 

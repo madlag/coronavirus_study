@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Anguilla covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Anguilla/2020-04-14_Anguilla_cases.png "Anguilla covid-19 cases static chart")   
+![Anguilla covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Anguilla/2020-04-15_Anguilla_cases.png "Anguilla covid-19 cases static chart")   
 

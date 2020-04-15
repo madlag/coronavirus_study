@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Sudan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Sudan/2020-04-14_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
+![Sudan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Sudan/2020-04-15_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Sudan/2020-04-14_Sudan_cases.png "Sudan covid-19 cases static chart")   
+![Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Sudan/2020-04-15_Sudan_cases.png "Sudan covid-19 cases static chart")   
 

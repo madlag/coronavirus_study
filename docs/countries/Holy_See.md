@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Holy See covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Holy_See/2020-04-14_Holy_See_cases.png "Holy See covid-19 cases static chart")   
+![Holy See covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Holy_See/2020-04-15_Holy_See_cases.png "Holy See covid-19 cases static chart")   
 

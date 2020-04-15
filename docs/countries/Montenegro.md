@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Montenegro covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Montenegro/2020-04-14_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
+![Montenegro covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Montenegro/2020-04-15_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Montenegro covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Montenegro/2020-04-14_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
+![Montenegro covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Montenegro/2020-04-15_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
 

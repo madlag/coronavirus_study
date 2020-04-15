@@ -1,6 +1,6 @@
 ## Mauritius Covid-19 status comparison 
 
-Mauritius covid-19 deaths are currently doubling each 18.96 days (observed initial average doubling time is 2.2 days across countries).
+Mauritius covid-19 deaths are currently doubling each 18.20 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Mauritius covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Mauritius/2020-04-14_Mauritius_deaths.gif "Mauritius covid-19 deaths animated chart")   
+![Mauritius covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Mauritius/2020-04-15_Mauritius_deaths.gif "Mauritius covid-19 deaths animated chart")   
  
 #### Static
-![Mauritius covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Mauritius/2020-04-14_Mauritius_deaths.png "Mauritius covid-19 deaths static chart")   
+![Mauritius covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Mauritius/2020-04-15_Mauritius_deaths.png "Mauritius covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Mauritius covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Mauritius/2020-04-14_Mauritius_cases.gif "Mauritius covid-19 cases animated chart")   
+![Mauritius covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Mauritius/2020-04-15_Mauritius_cases.gif "Mauritius covid-19 cases animated chart")   
  
 #### Static
-![Mauritius covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-14/countries/Mauritius/2020-04-14_Mauritius_cases.png "Mauritius covid-19 cases static chart")   
+![Mauritius covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Mauritius/2020-04-15_Mauritius_cases.png "Mauritius covid-19 cases static chart")   
 
