@@ -1,6 +1,6 @@
 ## Denmark Covid-19 status comparison 
 
-Denmark covid-19 deaths are currently doubling each 11.89 days (observed initial average doubling time is 2.2 days across countries).
+Denmark covid-19 deaths are currently doubling each 12.64 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Denmark covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Denmark/2020-04-15_Denmark_deaths.gif "Denmark covid-19 deaths animated chart")   
+![Denmark covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Denmark/2020-04-16_Denmark_deaths.gif "Denmark covid-19 deaths animated chart")   
  
 #### Static
-![Denmark covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Denmark/2020-04-15_Denmark_deaths.png "Denmark covid-19 deaths static chart")   
+![Denmark covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Denmark/2020-04-16_Denmark_deaths.png "Denmark covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Denmark covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Denmark/2020-04-15_Denmark_cases.gif "Denmark covid-19 cases animated chart")   
+![Denmark covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Denmark/2020-04-16_Denmark_cases.gif "Denmark covid-19 cases animated chart")   
  
 #### Static
-![Denmark covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Denmark/2020-04-15_Denmark_cases.png "Denmark covid-19 cases static chart")   
+![Denmark covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Denmark/2020-04-16_Denmark_cases.png "Denmark covid-19 cases static chart")   
 

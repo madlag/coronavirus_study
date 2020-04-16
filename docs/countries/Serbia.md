@@ -1,6 +1,6 @@
 ## Serbia Covid-19 status comparison 
 
-Serbia covid-19 deaths are currently doubling each 13.36 days (observed initial average doubling time is 2.2 days across countries).
+Serbia covid-19 deaths are currently doubling each 13.13 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Serbia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Serbia/2020-04-15_Serbia_deaths.gif "Serbia covid-19 deaths animated chart")   
+![Serbia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Serbia/2020-04-16_Serbia_deaths.gif "Serbia covid-19 deaths animated chart")   
  
 #### Static
-![Serbia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Serbia/2020-04-15_Serbia_deaths.png "Serbia covid-19 deaths static chart")   
+![Serbia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Serbia/2020-04-16_Serbia_deaths.png "Serbia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Serbia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Serbia/2020-04-15_Serbia_cases.gif "Serbia covid-19 cases animated chart")   
+![Serbia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Serbia/2020-04-16_Serbia_cases.gif "Serbia covid-19 cases animated chart")   
  
 #### Static
-![Serbia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Serbia/2020-04-15_Serbia_cases.png "Serbia covid-19 cases static chart")   
+![Serbia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Serbia/2020-04-16_Serbia_cases.png "Serbia covid-19 cases static chart")   
 

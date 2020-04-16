@@ -1,6 +1,6 @@
 ## Kenya Covid-19 status comparison 
 
-Kenya covid-19 deaths are currently doubling each 11.06 days (observed initial average doubling time is 2.2 days across countries).
+Kenya covid-19 deaths are currently doubling each 10.68 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Kenya covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Kenya/2020-04-15_Kenya_deaths.gif "Kenya covid-19 deaths animated chart")   
+![Kenya covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Kenya/2020-04-16_Kenya_deaths.gif "Kenya covid-19 deaths animated chart")   
  
 #### Static
-![Kenya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Kenya/2020-04-15_Kenya_deaths.png "Kenya covid-19 deaths static chart")   
+![Kenya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Kenya/2020-04-16_Kenya_deaths.png "Kenya covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Kenya covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Kenya/2020-04-15_Kenya_cases.gif "Kenya covid-19 cases animated chart")   
+![Kenya covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Kenya/2020-04-16_Kenya_cases.gif "Kenya covid-19 cases animated chart")   
  
 #### Static
-![Kenya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Kenya/2020-04-15_Kenya_cases.png "Kenya covid-19 cases static chart")   
+![Kenya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Kenya/2020-04-16_Kenya_cases.png "Kenya covid-19 cases static chart")   
 

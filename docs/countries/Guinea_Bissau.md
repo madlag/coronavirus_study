@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Guinea Bissau covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-15/countries/Guinea_Bissau/2020-04-15_Guinea_Bissau_cases.png "Guinea Bissau covid-19 cases static chart")   
+![Guinea Bissau covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Guinea_Bissau/2020-04-16_Guinea_Bissau_cases.png "Guinea Bissau covid-19 cases static chart")   
 
