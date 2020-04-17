@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Aruba covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Aruba/2020-04-16_Aruba_deaths.png "Aruba covid-19 deaths static chart")   
+![Aruba covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Aruba/2020-04-17_Aruba_deaths.png "Aruba covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Aruba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Aruba/2020-04-16_Aruba_cases.png "Aruba covid-19 cases static chart")   
+![Aruba covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Aruba/2020-04-17_Aruba_cases.png "Aruba covid-19 cases static chart")   
 

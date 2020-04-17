@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Benin covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Benin/2020-04-16_Benin_deaths.png "Benin covid-19 deaths static chart")   
+![Benin covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Benin/2020-04-17_Benin_deaths.png "Benin covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Benin covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Benin/2020-04-16_Benin_cases.png "Benin covid-19 cases static chart")   
+![Benin covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Benin/2020-04-17_Benin_cases.png "Benin covid-19 cases static chart")   
 

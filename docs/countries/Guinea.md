@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Guinea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Guinea/2020-04-16_Guinea_deaths.png "Guinea covid-19 deaths static chart")   
+![Guinea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Guinea/2020-04-17_Guinea_deaths.png "Guinea covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Guinea/2020-04-16_Guinea_cases.png "Guinea covid-19 cases static chart")   
+![Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Guinea/2020-04-17_Guinea_cases.png "Guinea covid-19 cases static chart")   
 

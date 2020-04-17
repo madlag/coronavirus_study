@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Isle Of Man covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Isle_Of_Man/2020-04-16_Isle_Of_Man_deaths.png "Isle Of Man covid-19 deaths static chart")   
+![Isle Of Man covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Isle_Of_Man/2020-04-17_Isle_Of_Man_deaths.png "Isle Of Man covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Isle Of Man covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Isle_Of_Man/2020-04-16_Isle_Of_Man_cases.png "Isle Of Man covid-19 cases static chart")   
+![Isle Of Man covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Isle_Of_Man/2020-04-17_Isle_Of_Man_cases.png "Isle Of Man covid-19 cases static chart")   
 

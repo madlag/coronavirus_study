@@ -1,6 +1,6 @@
 ## Paraguay Covid-19 status comparison 
 
-Paraguay covid-19 deaths are currently doubling each 12.19 days (observed initial average doubling time is 2.2 days across countries).
+Paraguay covid-19 deaths are currently doubling each 13.03 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Paraguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Paraguay/2020-04-16_Paraguay_deaths.gif "Paraguay covid-19 deaths animated chart")   
+![Paraguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Paraguay/2020-04-17_Paraguay_deaths.gif "Paraguay covid-19 deaths animated chart")   
  
 #### Static
-![Paraguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Paraguay/2020-04-16_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
+![Paraguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Paraguay/2020-04-17_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Paraguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Paraguay/2020-04-16_Paraguay_cases.gif "Paraguay covid-19 cases animated chart")   
+![Paraguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Paraguay/2020-04-17_Paraguay_cases.gif "Paraguay covid-19 cases animated chart")   
  
 #### Static
-![Paraguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Paraguay/2020-04-16_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
+![Paraguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Paraguay/2020-04-17_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
 

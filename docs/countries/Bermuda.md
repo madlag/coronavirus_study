@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Bermuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Bermuda/2020-04-16_Bermuda_deaths.png "Bermuda covid-19 deaths static chart")   
+![Bermuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bermuda/2020-04-17_Bermuda_deaths.png "Bermuda covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-16/countries/Bermuda/2020-04-16_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
+![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bermuda/2020-04-17_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
 
