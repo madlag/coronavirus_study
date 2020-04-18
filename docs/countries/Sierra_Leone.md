@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Sierra Leone covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Sierra_Leone/2020-04-17_Sierra_Leone_cases.png "Sierra Leone covid-19 cases static chart")   
+![Sierra Leone covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Sierra_Leone/2020-04-18_Sierra_Leone_cases.png "Sierra Leone covid-19 cases static chart")   
 

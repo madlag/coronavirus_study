@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Antigua And Barbuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Antigua_And_Barbuda/2020-04-17_Antigua_And_Barbuda_deaths.png "Antigua And Barbuda covid-19 deaths static chart")   
+![Antigua And Barbuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Antigua_And_Barbuda/2020-04-18_Antigua_And_Barbuda_deaths.png "Antigua And Barbuda covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Antigua And Barbuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Antigua_And_Barbuda/2020-04-17_Antigua_And_Barbuda_cases.png "Antigua And Barbuda covid-19 cases static chart")   
+![Antigua And Barbuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Antigua_And_Barbuda/2020-04-18_Antigua_And_Barbuda_cases.png "Antigua And Barbuda covid-19 cases static chart")   
 

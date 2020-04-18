@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-17 report
+##  COVID-19 2020-04-18 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/2020-04-17_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/2020-04-18_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-17
+### Most Affected Countries as of 2020-04-18
 
 [Afghanistan](countries/Afghanistan)
 
@@ -114,6 +114,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Japan](countries/Japan)
 
+[Jersey](countries/Jersey)
+
 [Jordan](countries/Jordan)
 
 [Kazakhstan](countries/Kazakhstan)
@@ -185,6 +187,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Singapore](countries/Singapore)
 
 [Sint Maarten](countries/Sint_Maarten)
+
+[Slovakia](countries/Slovakia)
 
 [Slovenia](countries/Slovenia)
 
@@ -317,8 +321,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Jamaica](countries/Jamaica)
 
-[Jersey](countries/Jersey)
-
 [Kuwait](countries/Kuwait)
 
 [Kyrgyzstan](countries/Kyrgyzstan)
@@ -384,8 +386,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Seychelles](countries/Seychelles)
 
 [Sierra Leone](countries/Sierra_Leone)
-
-[Slovakia](countries/Slovakia)
 
 [Somalia](countries/Somalia)
 

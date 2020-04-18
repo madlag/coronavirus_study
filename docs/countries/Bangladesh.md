@@ -1,6 +1,6 @@
 ## Bangladesh Covid-19 status comparison 
 
-Bangladesh covid-19 deaths are currently doubling each 4.99 days (observed initial average doubling time is 2.2 days across countries).
+Bangladesh covid-19 deaths are currently doubling each 4.82 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Bangladesh covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bangladesh/2020-04-17_Bangladesh_deaths.gif "Bangladesh covid-19 deaths animated chart")   
+![Bangladesh covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Bangladesh/2020-04-18_Bangladesh_deaths.gif "Bangladesh covid-19 deaths animated chart")   
  
 #### Static
-![Bangladesh covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bangladesh/2020-04-17_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
+![Bangladesh covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Bangladesh/2020-04-18_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Bangladesh covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bangladesh/2020-04-17_Bangladesh_cases.gif "Bangladesh covid-19 cases animated chart")   
+![Bangladesh covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Bangladesh/2020-04-18_Bangladesh_cases.gif "Bangladesh covid-19 cases animated chart")   
  
 #### Static
-![Bangladesh covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Bangladesh/2020-04-17_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
+![Bangladesh covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Bangladesh/2020-04-18_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
 

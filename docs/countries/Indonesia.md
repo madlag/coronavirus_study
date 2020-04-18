@@ -1,6 +1,6 @@
 ## Indonesia Covid-19 status comparison 
 
-Indonesia covid-19 deaths are currently doubling each 7.44 days (observed initial average doubling time is 2.2 days across countries).
+Indonesia covid-19 deaths are currently doubling each 8.06 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Indonesia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Indonesia/2020-04-17_Indonesia_deaths.gif "Indonesia covid-19 deaths animated chart")   
+![Indonesia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Indonesia/2020-04-18_Indonesia_deaths.gif "Indonesia covid-19 deaths animated chart")   
  
 #### Static
-![Indonesia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Indonesia/2020-04-17_Indonesia_deaths.png "Indonesia covid-19 deaths static chart")   
+![Indonesia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Indonesia/2020-04-18_Indonesia_deaths.png "Indonesia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Indonesia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Indonesia/2020-04-17_Indonesia_cases.gif "Indonesia covid-19 cases animated chart")   
+![Indonesia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Indonesia/2020-04-18_Indonesia_cases.gif "Indonesia covid-19 cases animated chart")   
  
 #### Static
-![Indonesia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Indonesia/2020-04-17_Indonesia_cases.png "Indonesia covid-19 cases static chart")   
+![Indonesia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Indonesia/2020-04-18_Indonesia_cases.png "Indonesia covid-19 cases static chart")   
 

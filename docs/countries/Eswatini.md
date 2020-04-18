@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Eswatini covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Eswatini/2020-04-18_Eswatini_deaths.png "Eswatini covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Eswatini covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-17/countries/Eswatini/2020-04-17_Eswatini_cases.png "Eswatini covid-19 cases static chart")   
+![Eswatini covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Eswatini/2020-04-18_Eswatini_cases.png "Eswatini covid-19 cases static chart")   
 
