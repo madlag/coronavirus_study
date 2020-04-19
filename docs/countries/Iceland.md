@@ -1,6 +1,6 @@
 ## Iceland Covid-19 status comparison 
 
-Iceland covid-19 deaths are currently doubling each 21.70 days (observed initial average doubling time is 2.2 days across countries).
+Iceland covid-19 deaths are currently doubling each 24.95 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Iceland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Iceland/2020-04-18_Iceland_deaths.gif "Iceland covid-19 deaths animated chart")   
+![Iceland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Iceland/2020-04-19_Iceland_deaths.gif "Iceland covid-19 deaths animated chart")   
  
 #### Static
-![Iceland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Iceland/2020-04-18_Iceland_deaths.png "Iceland covid-19 deaths static chart")   
+![Iceland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Iceland/2020-04-19_Iceland_deaths.png "Iceland covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Iceland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Iceland/2020-04-18_Iceland_cases.gif "Iceland covid-19 cases animated chart")   
+![Iceland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Iceland/2020-04-19_Iceland_cases.gif "Iceland covid-19 cases animated chart")   
  
 #### Static
-![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Iceland/2020-04-18_Iceland_cases.png "Iceland covid-19 cases static chart")   
+![Iceland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Iceland/2020-04-19_Iceland_cases.png "Iceland covid-19 cases static chart")   
 

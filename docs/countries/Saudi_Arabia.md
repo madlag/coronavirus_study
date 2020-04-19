@@ -1,6 +1,6 @@
 ## Saudi Arabia Covid-19 status comparison 
 
-Saudi Arabia covid-19 deaths are currently doubling each 7.66 days (observed initial average doubling time is 2.2 days across countries).
+Saudi Arabia covid-19 deaths are currently doubling each 8.01 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Saudi Arabia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Saudi_Arabia/2020-04-18_Saudi_Arabia_deaths.gif "Saudi Arabia covid-19 deaths animated chart")   
+![Saudi Arabia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Saudi_Arabia/2020-04-19_Saudi_Arabia_deaths.gif "Saudi Arabia covid-19 deaths animated chart")   
  
 #### Static
-![Saudi Arabia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Saudi_Arabia/2020-04-18_Saudi_Arabia_deaths.png "Saudi Arabia covid-19 deaths static chart")   
+![Saudi Arabia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Saudi_Arabia/2020-04-19_Saudi_Arabia_deaths.png "Saudi Arabia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Saudi Arabia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Saudi_Arabia/2020-04-18_Saudi_Arabia_cases.gif "Saudi Arabia covid-19 cases animated chart")   
+![Saudi Arabia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Saudi_Arabia/2020-04-19_Saudi_Arabia_cases.gif "Saudi Arabia covid-19 cases animated chart")   
  
 #### Static
-![Saudi Arabia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Saudi_Arabia/2020-04-18_Saudi_Arabia_cases.png "Saudi Arabia covid-19 cases static chart")   
+![Saudi Arabia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Saudi_Arabia/2020-04-19_Saudi_Arabia_cases.png "Saudi Arabia covid-19 cases static chart")   
 

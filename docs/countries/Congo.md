@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Congo/2020-04-18_Congo_deaths.png "Congo covid-19 deaths static chart")   
+![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Congo/2020-04-19_Congo_deaths.png "Congo covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Congo/2020-04-18_Congo_cases.png "Congo covid-19 cases static chart")   
+![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Congo/2020-04-19_Congo_cases.png "Congo covid-19 cases static chart")   
 

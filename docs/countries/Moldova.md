@@ -1,6 +1,6 @@
 ## Moldova Covid-19 status comparison 
 
-Moldova covid-19 deaths are currently doubling each 8.05 days (observed initial average doubling time is 2.2 days across countries).
+Moldova covid-19 deaths are currently doubling each 7.48 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Moldova covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Moldova/2020-04-18_Moldova_deaths.gif "Moldova covid-19 deaths animated chart")   
+![Moldova covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Moldova/2020-04-19_Moldova_deaths.gif "Moldova covid-19 deaths animated chart")   
  
 #### Static
-![Moldova covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Moldova/2020-04-18_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
+![Moldova covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Moldova/2020-04-19_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Moldova covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Moldova/2020-04-18_Moldova_cases.gif "Moldova covid-19 cases animated chart")   
+![Moldova covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Moldova/2020-04-19_Moldova_cases.gif "Moldova covid-19 cases animated chart")   
  
 #### Static
-![Moldova covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Moldova/2020-04-18_Moldova_cases.png "Moldova covid-19 cases static chart")   
+![Moldova covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Moldova/2020-04-19_Moldova_cases.png "Moldova covid-19 cases static chart")   
 

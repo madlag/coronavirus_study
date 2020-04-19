@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Myanmar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Myanmar/2020-04-18_Myanmar_deaths.png "Myanmar covid-19 deaths static chart")   
+![Myanmar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Myanmar/2020-04-19_Myanmar_deaths.png "Myanmar covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Myanmar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-18/countries/Myanmar/2020-04-18_Myanmar_cases.png "Myanmar covid-19 cases static chart")   
+![Myanmar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Myanmar/2020-04-19_Myanmar_cases.png "Myanmar covid-19 cases static chart")   
 
