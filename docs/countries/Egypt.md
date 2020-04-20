@@ -1,6 +1,6 @@
 ## Egypt Covid-19 status comparison 
 
-Egypt covid-19 deaths are currently doubling each 10.72 days (observed initial average doubling time is 2.2 days across countries).
+Egypt covid-19 deaths are currently doubling each 11.47 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Egypt covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Egypt/2020-04-19_Egypt_deaths.gif "Egypt covid-19 deaths animated chart")   
+![Egypt covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Egypt/2020-04-20_Egypt_deaths.gif "Egypt covid-19 deaths animated chart")   
  
 #### Static
-![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Egypt/2020-04-19_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
+![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Egypt/2020-04-20_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Egypt covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Egypt/2020-04-19_Egypt_cases.gif "Egypt covid-19 cases animated chart")   
+![Egypt covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Egypt/2020-04-20_Egypt_cases.gif "Egypt covid-19 cases animated chart")   
  
 #### Static
-![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Egypt/2020-04-19_Egypt_cases.png "Egypt covid-19 cases static chart")   
+![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Egypt/2020-04-20_Egypt_cases.png "Egypt covid-19 cases static chart")   
 

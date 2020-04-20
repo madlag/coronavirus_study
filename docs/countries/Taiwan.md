@@ -1,6 +1,6 @@
 ## Taiwan Covid-19 status comparison 
 
-Taiwan covid-19 deaths are currently doubling each -6589151023857217.00 days (observed initial average doubling time is 2.2 days across countries).
+Taiwan covid-19 deaths are currently doubling each 119380790532505264.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Taiwan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Taiwan/2020-04-19_Taiwan_deaths.gif "Taiwan covid-19 deaths animated chart")   
+![Taiwan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Taiwan/2020-04-20_Taiwan_deaths.gif "Taiwan covid-19 deaths animated chart")   
  
 #### Static
-![Taiwan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Taiwan/2020-04-19_Taiwan_deaths.png "Taiwan covid-19 deaths static chart")   
+![Taiwan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Taiwan/2020-04-20_Taiwan_deaths.png "Taiwan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Taiwan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Taiwan/2020-04-19_Taiwan_cases.gif "Taiwan covid-19 cases animated chart")   
+![Taiwan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Taiwan/2020-04-20_Taiwan_cases.gif "Taiwan covid-19 cases animated chart")   
  
 #### Static
-![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Taiwan/2020-04-19_Taiwan_cases.png "Taiwan covid-19 cases static chart")   
+![Taiwan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Taiwan/2020-04-20_Taiwan_cases.png "Taiwan covid-19 cases static chart")   
 

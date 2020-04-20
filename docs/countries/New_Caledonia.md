@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![New Caledonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/New_Caledonia/2020-04-19_New_Caledonia_cases.png "New Caledonia covid-19 cases static chart")   
+![New Caledonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/New_Caledonia/2020-04-20_New_Caledonia_cases.png "New Caledonia covid-19 cases static chart")   
 

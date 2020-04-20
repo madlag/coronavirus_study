@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![United Republic Of Tanzania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/United_Republic_Of_Tanzania/2020-04-19_United_Republic_Of_Tanzania_deaths.png "United Republic Of Tanzania covid-19 deaths static chart")   
+![United Republic Of Tanzania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/United_Republic_Of_Tanzania/2020-04-20_United_Republic_Of_Tanzania_deaths.png "United Republic Of Tanzania covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![United Republic Of Tanzania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/United_Republic_Of_Tanzania/2020-04-19_United_Republic_Of_Tanzania_cases.png "United Republic Of Tanzania covid-19 cases static chart")   
+![United Republic Of Tanzania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/United_Republic_Of_Tanzania/2020-04-20_United_Republic_Of_Tanzania_cases.png "United Republic Of Tanzania covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Mongolia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Mongolia/2020-04-19_Mongolia_cases.png "Mongolia covid-19 cases static chart")   
+![Mongolia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Mongolia/2020-04-20_Mongolia_cases.png "Mongolia covid-19 cases static chart")   
 

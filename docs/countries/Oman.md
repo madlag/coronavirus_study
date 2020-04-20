@@ -1,6 +1,6 @@
 ## Oman Covid-19 status comparison 
 
-Oman
+Oman covid-19 deaths are currently doubling each 8.99 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Oman covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Oman/2020-04-20_Oman_deaths.gif "Oman covid-19 deaths animated chart")   
+ 
 #### Static
-![Oman covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Oman/2020-04-19_Oman_deaths.png "Oman covid-19 deaths static chart")   
+![Oman covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Oman/2020-04-20_Oman_deaths.png "Oman covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Oman covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Oman/2020-04-20_Oman_cases.gif "Oman covid-19 cases animated chart")   
+ 
 #### Static
-![Oman covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Oman/2020-04-19_Oman_cases.png "Oman covid-19 cases static chart")   
+![Oman covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Oman/2020-04-20_Oman_cases.png "Oman covid-19 cases static chart")   
 

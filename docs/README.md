@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-19 report
+##  COVID-19 2020-04-20 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/2020-04-19_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/2020-04-20_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-19
+### Most Affected Countries as of 2020-04-20
 
 [Afghanistan](countries/Afghanistan)
 
@@ -53,6 +53,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [China](countries/China)
 
 [Colombia](countries/Colombia)
+
+[Congo](countries/Congo)
 
 [Cote Divoire](countries/Cote_Divoire)
 
@@ -157,6 +159,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [North Macedonia](countries/North_Macedonia)
 
 [Norway](countries/Norway)
+
+[Oman](countries/Oman)
 
 [Pakistan](countries/Pakistan)
 
@@ -269,8 +273,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Chad](countries/Chad)
 
-[Congo](countries/Congo)
-
 [Costa Rica](countries/Costa_Rica)
 
 [Curaã§ao](countries/Curaã§ao)
@@ -364,8 +366,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Nicaragua](countries/Nicaragua)
 
 [Northern Mariana Islands](countries/Northern_Mariana_Islands)
-
-[Oman](countries/Oman)
 
 [Palestine](countries/Palestine)
 

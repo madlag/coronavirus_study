@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Kyrgyzstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Kyrgyzstan/2020-04-19_Kyrgyzstan_deaths.png "Kyrgyzstan covid-19 deaths static chart")   
+![Kyrgyzstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Kyrgyzstan/2020-04-20_Kyrgyzstan_deaths.png "Kyrgyzstan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Kyrgyzstan/2020-04-19_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
+![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Kyrgyzstan/2020-04-20_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
 

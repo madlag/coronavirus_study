@@ -1,6 +1,6 @@
 ## Tunisia Covid-19 status comparison 
 
-Tunisia covid-19 deaths are currently doubling each 14.24 days (observed initial average doubling time is 2.2 days across countries).
+Tunisia covid-19 deaths are currently doubling each 16.61 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Tunisia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Tunisia/2020-04-19_Tunisia_deaths.gif "Tunisia covid-19 deaths animated chart")   
+![Tunisia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Tunisia/2020-04-20_Tunisia_deaths.gif "Tunisia covid-19 deaths animated chart")   
  
 #### Static
-![Tunisia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Tunisia/2020-04-19_Tunisia_deaths.png "Tunisia covid-19 deaths static chart")   
+![Tunisia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Tunisia/2020-04-20_Tunisia_deaths.png "Tunisia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Tunisia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Tunisia/2020-04-19_Tunisia_cases.gif "Tunisia covid-19 cases animated chart")   
+![Tunisia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Tunisia/2020-04-20_Tunisia_cases.gif "Tunisia covid-19 cases animated chart")   
  
 #### Static
-![Tunisia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Tunisia/2020-04-19_Tunisia_cases.png "Tunisia covid-19 cases static chart")   
+![Tunisia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Tunisia/2020-04-20_Tunisia_cases.png "Tunisia covid-19 cases static chart")   
 

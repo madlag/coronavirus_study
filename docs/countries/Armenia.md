@@ -1,6 +1,6 @@
 ## Armenia Covid-19 status comparison 
 
-Armenia covid-19 deaths are currently doubling each 8.48 days (observed initial average doubling time is 2.2 days across countries).
+Armenia covid-19 deaths are currently doubling each 9.24 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Armenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Armenia/2020-04-19_Armenia_deaths.gif "Armenia covid-19 deaths animated chart")   
+![Armenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Armenia/2020-04-20_Armenia_deaths.gif "Armenia covid-19 deaths animated chart")   
  
 #### Static
-![Armenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Armenia/2020-04-19_Armenia_deaths.png "Armenia covid-19 deaths static chart")   
+![Armenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Armenia/2020-04-20_Armenia_deaths.png "Armenia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Armenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Armenia/2020-04-19_Armenia_cases.gif "Armenia covid-19 cases animated chart")   
+![Armenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Armenia/2020-04-20_Armenia_cases.gif "Armenia covid-19 cases animated chart")   
  
 #### Static
-![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-19/countries/Armenia/2020-04-19_Armenia_cases.png "Armenia covid-19 cases static chart")   
+![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Armenia/2020-04-20_Armenia_cases.png "Armenia covid-19 cases static chart")   
 
