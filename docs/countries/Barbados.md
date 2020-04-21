@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Barbados covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Barbados/2020-04-20_Barbados_deaths.png "Barbados covid-19 deaths static chart")   
+![Barbados covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Barbados/2020-04-21_Barbados_deaths.png "Barbados covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Barbados covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Barbados/2020-04-20_Barbados_cases.png "Barbados covid-19 cases static chart")   
+![Barbados covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Barbados/2020-04-21_Barbados_cases.png "Barbados covid-19 cases static chart")   
 

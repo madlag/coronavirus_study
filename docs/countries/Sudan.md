@@ -1,6 +1,6 @@
 ## Sudan Covid-19 status comparison 
 
-Sudan
+Sudan covid-19 deaths are currently doubling each 7.60 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Sudan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Sudan/2020-04-21_Sudan_deaths.gif "Sudan covid-19 deaths animated chart")   
+ 
 #### Static
-![Sudan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Sudan/2020-04-20_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
+![Sudan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Sudan/2020-04-21_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Sudan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Sudan/2020-04-21_Sudan_cases.gif "Sudan covid-19 cases animated chart")   
+ 
 #### Static
-![Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Sudan/2020-04-20_Sudan_cases.png "Sudan covid-19 cases static chart")   
+![Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Sudan/2020-04-21_Sudan_cases.png "Sudan covid-19 cases static chart")   
 

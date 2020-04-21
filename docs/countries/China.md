@@ -1,6 +1,6 @@
 ## China Covid-19 status comparison 
 
-China covid-19 deaths are currently doubling each 14.58 days (observed initial average doubling time is 2.2 days across countries).
+China covid-19 deaths are currently doubling each 14.01 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![China covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/China/2020-04-20_China_deaths.gif "China covid-19 deaths animated chart")   
+![China covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/China/2020-04-21_China_deaths.gif "China covid-19 deaths animated chart")   
  
 #### Static
-![China covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/China/2020-04-20_China_deaths.png "China covid-19 deaths static chart")   
+![China covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/China/2020-04-21_China_deaths.png "China covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![China covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/China/2020-04-20_China_cases.gif "China covid-19 cases animated chart")   
+![China covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/China/2020-04-21_China_cases.gif "China covid-19 cases animated chart")   
  
 #### Static
-![China covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/China/2020-04-20_China_cases.png "China covid-19 cases static chart")   
+![China covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/China/2020-04-21_China_cases.png "China covid-19 cases static chart")   
 

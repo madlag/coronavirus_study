@@ -1,6 +1,6 @@
 ## Slovakia Covid-19 status comparison 
 
-Slovakia covid-19 deaths are currently doubling each 4.07 days (observed initial average doubling time is 2.2 days across countries).
+Slovakia covid-19 deaths are currently doubling each 4.59 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Slovakia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Slovakia/2020-04-20_Slovakia_deaths.gif "Slovakia covid-19 deaths animated chart")   
+![Slovakia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Slovakia/2020-04-21_Slovakia_deaths.gif "Slovakia covid-19 deaths animated chart")   
  
 #### Static
-![Slovakia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Slovakia/2020-04-20_Slovakia_deaths.png "Slovakia covid-19 deaths static chart")   
+![Slovakia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Slovakia/2020-04-21_Slovakia_deaths.png "Slovakia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Slovakia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Slovakia/2020-04-20_Slovakia_cases.gif "Slovakia covid-19 cases animated chart")   
+![Slovakia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Slovakia/2020-04-21_Slovakia_cases.gif "Slovakia covid-19 cases animated chart")   
  
 #### Static
-![Slovakia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Slovakia/2020-04-20_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
+![Slovakia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Slovakia/2020-04-21_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
 

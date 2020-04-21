@@ -1,6 +1,6 @@
 ## Azerbaijan Covid-19 status comparison 
 
-Azerbaijan covid-19 deaths are currently doubling each 9.99 days (observed initial average doubling time is 2.2 days across countries).
+Azerbaijan covid-19 deaths are currently doubling each 10.08 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Azerbaijan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Azerbaijan/2020-04-20_Azerbaijan_deaths.gif "Azerbaijan covid-19 deaths animated chart")   
+![Azerbaijan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Azerbaijan/2020-04-21_Azerbaijan_deaths.gif "Azerbaijan covid-19 deaths animated chart")   
  
 #### Static
-![Azerbaijan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Azerbaijan/2020-04-20_Azerbaijan_deaths.png "Azerbaijan covid-19 deaths static chart")   
+![Azerbaijan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Azerbaijan/2020-04-21_Azerbaijan_deaths.png "Azerbaijan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Azerbaijan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Azerbaijan/2020-04-20_Azerbaijan_cases.gif "Azerbaijan covid-19 cases animated chart")   
+![Azerbaijan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Azerbaijan/2020-04-21_Azerbaijan_cases.gif "Azerbaijan covid-19 cases animated chart")   
  
 #### Static
-![Azerbaijan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Azerbaijan/2020-04-20_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
+![Azerbaijan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Azerbaijan/2020-04-21_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
 

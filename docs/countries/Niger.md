@@ -1,6 +1,6 @@
 ## Niger Covid-19 status comparison 
 
-Niger covid-19 deaths are currently doubling each 9.81 days (observed initial average doubling time is 2.2 days across countries).
+Niger covid-19 deaths are currently doubling each 9.79 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Niger covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Niger/2020-04-20_Niger_deaths.gif "Niger covid-19 deaths animated chart")   
+![Niger covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Niger/2020-04-21_Niger_deaths.gif "Niger covid-19 deaths animated chart")   
  
 #### Static
-![Niger covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Niger/2020-04-20_Niger_deaths.png "Niger covid-19 deaths static chart")   
+![Niger covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Niger/2020-04-21_Niger_deaths.png "Niger covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Niger covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Niger/2020-04-20_Niger_cases.gif "Niger covid-19 cases animated chart")   
+![Niger covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Niger/2020-04-21_Niger_cases.gif "Niger covid-19 cases animated chart")   
  
 #### Static
-![Niger covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-20/countries/Niger/2020-04-20_Niger_cases.png "Niger covid-19 cases static chart")   
+![Niger covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Niger/2020-04-21_Niger_cases.png "Niger covid-19 cases static chart")   
 
