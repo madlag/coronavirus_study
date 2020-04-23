@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Jamaica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Jamaica/2020-04-21_Jamaica_deaths.png "Jamaica covid-19 deaths static chart")   
+![Jamaica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Jamaica/2020-04-22_Jamaica_deaths.png "Jamaica covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Jamaica/2020-04-21_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
+![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Jamaica/2020-04-22_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
 

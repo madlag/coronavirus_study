@@ -1,6 +1,6 @@
 ## Cote Divoire Covid-19 status comparison 
 
-Cote Divoire covid-19 deaths are currently doubling each 9.00 days (observed initial average doubling time is 2.2 days across countries).
+Cote Divoire covid-19 deaths are currently doubling each 7.27 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Cote Divoire covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Cote_Divoire/2020-04-21_Cote_Divoire_deaths.gif "Cote Divoire covid-19 deaths animated chart")   
+![Cote Divoire covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Cote_Divoire/2020-04-22_Cote_Divoire_deaths.gif "Cote Divoire covid-19 deaths animated chart")   
  
 #### Static
-![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Cote_Divoire/2020-04-21_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
+![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Cote_Divoire/2020-04-22_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Cote Divoire covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Cote_Divoire/2020-04-21_Cote_Divoire_cases.gif "Cote Divoire covid-19 cases animated chart")   
+![Cote Divoire covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Cote_Divoire/2020-04-22_Cote_Divoire_cases.gif "Cote Divoire covid-19 cases animated chart")   
  
 #### Static
-![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-21/countries/Cote_Divoire/2020-04-21_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
+![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Cote_Divoire/2020-04-22_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
 
