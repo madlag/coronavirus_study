@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Senegal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Senegal/2020-04-22_Senegal_deaths.png "Senegal covid-19 deaths static chart")   
+![Senegal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Senegal/2020-04-23_Senegal_deaths.png "Senegal covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Senegal/2020-04-22_Senegal_cases.png "Senegal covid-19 cases static chart")   
+![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Senegal/2020-04-23_Senegal_cases.png "Senegal covid-19 cases static chart")   
 

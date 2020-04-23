@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Brunei Darussalam covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Brunei_Darussalam/2020-04-22_Brunei_Darussalam_deaths.png "Brunei Darussalam covid-19 deaths static chart")   
+![Brunei Darussalam covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Brunei_Darussalam/2020-04-23_Brunei_Darussalam_deaths.png "Brunei Darussalam covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Brunei Darussalam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Brunei_Darussalam/2020-04-22_Brunei_Darussalam_cases.png "Brunei Darussalam covid-19 cases static chart")   
+![Brunei Darussalam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Brunei_Darussalam/2020-04-23_Brunei_Darussalam_cases.png "Brunei Darussalam covid-19 cases static chart")   
 

@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Cambodia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Cambodia/2020-04-22_Cambodia_cases.png "Cambodia covid-19 cases static chart")   
+![Cambodia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Cambodia/2020-04-23_Cambodia_cases.png "Cambodia covid-19 cases static chart")   
 

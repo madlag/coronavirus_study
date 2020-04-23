@@ -1,6 +1,6 @@
 ## Portugal Covid-19 status comparison 
 
-Portugal covid-19 deaths are currently doubling each 15.15 days (observed initial average doubling time is 2.2 days across countries).
+Portugal covid-19 deaths are currently doubling each 16.41 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Portugal covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Portugal/2020-04-22_Portugal_deaths.gif "Portugal covid-19 deaths animated chart")   
+![Portugal covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Portugal/2020-04-23_Portugal_deaths.gif "Portugal covid-19 deaths animated chart")   
  
 #### Static
-![Portugal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Portugal/2020-04-22_Portugal_deaths.png "Portugal covid-19 deaths static chart")   
+![Portugal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Portugal/2020-04-23_Portugal_deaths.png "Portugal covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Portugal covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Portugal/2020-04-22_Portugal_cases.gif "Portugal covid-19 cases animated chart")   
+![Portugal covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Portugal/2020-04-23_Portugal_cases.gif "Portugal covid-19 cases animated chart")   
  
 #### Static
-![Portugal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Portugal/2020-04-22_Portugal_cases.png "Portugal covid-19 cases static chart")   
+![Portugal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Portugal/2020-04-23_Portugal_cases.png "Portugal covid-19 cases static chart")   
 

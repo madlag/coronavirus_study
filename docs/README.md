@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-22 report
+##  COVID-19 2020-04-23 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/2020-04-22_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/2020-04-23_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-22
+### Most Affected Countries as of 2020-04-23
 
 [Afghanistan](countries/Afghanistan)
 
@@ -55,6 +55,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Colombia](countries/Colombia)
 
 [Congo](countries/Congo)
+
+[Costa Rica](countries/Costa_Rica)
 
 [Cote Divoire](countries/Cote_Divoire)
 
@@ -117,6 +119,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Israel](countries/Israel)
 
 [Italy](countries/Italy)
+
+[Jamaica](countries/Jamaica)
 
 [Japan](countries/Japan)
 
@@ -224,6 +228,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Thailand](countries/Thailand)
 
+[Togo](countries/Togo)
+
 [Trinidad And Tobago](countries/Trinidad_And_Tobago)
 
 [Tunisia](countries/Tunisia)
@@ -283,8 +289,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Chad](countries/Chad)
 
-[Costa Rica](countries/Costa_Rica)
-
 [Curaã§ao](countries/Curaã§ao)
 
 [Djibouti](countries/Djibouti)
@@ -328,8 +332,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Haiti](countries/Haiti)
 
 [Holy See](countries/Holy_See)
-
-[Jamaica](countries/Jamaica)
 
 [Laos](countries/Laos)
 
@@ -398,8 +400,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Syria](countries/Syria)
 
 [Timor Leste](countries/Timor_Leste)
-
-[Togo](countries/Togo)
 
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 

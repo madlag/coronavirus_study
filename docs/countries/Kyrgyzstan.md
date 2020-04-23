@@ -1,6 +1,6 @@
 ## Kyrgyzstan Covid-19 status comparison 
 
-Kyrgyzstan covid-19 deaths are currently doubling each -1691161833477655.50 days (observed initial average doubling time is 2.2 days across countries).
+Kyrgyzstan covid-19 deaths are currently doubling each 17.30 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Kyrgyzstan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Kyrgyzstan/2020-04-22_Kyrgyzstan_deaths.gif "Kyrgyzstan covid-19 deaths animated chart")   
+![Kyrgyzstan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Kyrgyzstan/2020-04-23_Kyrgyzstan_deaths.gif "Kyrgyzstan covid-19 deaths animated chart")   
  
 #### Static
-![Kyrgyzstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Kyrgyzstan/2020-04-22_Kyrgyzstan_deaths.png "Kyrgyzstan covid-19 deaths static chart")   
+![Kyrgyzstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Kyrgyzstan/2020-04-23_Kyrgyzstan_deaths.png "Kyrgyzstan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Kyrgyzstan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Kyrgyzstan/2020-04-22_Kyrgyzstan_cases.gif "Kyrgyzstan covid-19 cases animated chart")   
+![Kyrgyzstan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Kyrgyzstan/2020-04-23_Kyrgyzstan_cases.gif "Kyrgyzstan covid-19 cases animated chart")   
  
 #### Static
-![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Kyrgyzstan/2020-04-22_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
+![Kyrgyzstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Kyrgyzstan/2020-04-23_Kyrgyzstan_cases.png "Kyrgyzstan covid-19 cases static chart")   
 

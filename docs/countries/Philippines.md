@@ -1,6 +1,6 @@
 ## Philippines Covid-19 status comparison 
 
-Philippines covid-19 deaths are currently doubling each 16.17 days (observed initial average doubling time is 2.2 days across countries).
+Philippines covid-19 deaths are currently doubling each 17.86 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Philippines covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Philippines/2020-04-22_Philippines_deaths.gif "Philippines covid-19 deaths animated chart")   
+![Philippines covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Philippines/2020-04-23_Philippines_deaths.gif "Philippines covid-19 deaths animated chart")   
  
 #### Static
-![Philippines covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Philippines/2020-04-22_Philippines_deaths.png "Philippines covid-19 deaths static chart")   
+![Philippines covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Philippines/2020-04-23_Philippines_deaths.png "Philippines covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Philippines covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Philippines/2020-04-22_Philippines_cases.gif "Philippines covid-19 cases animated chart")   
+![Philippines covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Philippines/2020-04-23_Philippines_cases.gif "Philippines covid-19 cases animated chart")   
  
 #### Static
-![Philippines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Philippines/2020-04-22_Philippines_cases.png "Philippines covid-19 cases static chart")   
+![Philippines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Philippines/2020-04-23_Philippines_cases.png "Philippines covid-19 cases static chart")   
 

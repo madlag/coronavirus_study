@@ -1,6 +1,6 @@
 ## Thailand Covid-19 status comparison 
 
-Thailand covid-19 deaths are currently doubling each 36.82 days (observed initial average doubling time is 2.2 days across countries).
+Thailand covid-19 deaths are currently doubling each 42.94 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Thailand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Thailand/2020-04-22_Thailand_deaths.gif "Thailand covid-19 deaths animated chart")   
+![Thailand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Thailand/2020-04-23_Thailand_deaths.gif "Thailand covid-19 deaths animated chart")   
  
 #### Static
-![Thailand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Thailand/2020-04-22_Thailand_deaths.png "Thailand covid-19 deaths static chart")   
+![Thailand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Thailand/2020-04-23_Thailand_deaths.png "Thailand covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Thailand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Thailand/2020-04-22_Thailand_cases.gif "Thailand covid-19 cases animated chart")   
+![Thailand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Thailand/2020-04-23_Thailand_cases.gif "Thailand covid-19 cases animated chart")   
  
 #### Static
-![Thailand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-22/countries/Thailand/2020-04-22_Thailand_cases.png "Thailand covid-19 cases static chart")   
+![Thailand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Thailand/2020-04-23_Thailand_cases.png "Thailand covid-19 cases static chart")   
 
