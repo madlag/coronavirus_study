@@ -1,6 +1,6 @@
 ## Lithuania Covid-19 status comparison 
 
-Lithuania covid-19 deaths are currently doubling each 12.82 days (observed initial average doubling time is 2.2 days across countries).
+Lithuania covid-19 deaths are currently doubling each 14.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Lithuania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Lithuania/2020-04-23_Lithuania_deaths.gif "Lithuania covid-19 deaths animated chart")   
+![Lithuania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Lithuania/2020-04-24_Lithuania_deaths.gif "Lithuania covid-19 deaths animated chart")   
  
 #### Static
-![Lithuania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Lithuania/2020-04-23_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
+![Lithuania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Lithuania/2020-04-24_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Lithuania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Lithuania/2020-04-23_Lithuania_cases.gif "Lithuania covid-19 cases animated chart")   
+![Lithuania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Lithuania/2020-04-24_Lithuania_cases.gif "Lithuania covid-19 cases animated chart")   
  
 #### Static
-![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Lithuania/2020-04-23_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
+![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Lithuania/2020-04-24_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
 

@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-23 report
+##  COVID-19 2020-04-24 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/2020-04-23_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/2020-04-24_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-23
+### Most Affected Countries as of 2020-04-24
 
 [Afghanistan](countries/Afghanistan)
 
@@ -96,6 +96,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Guernsey](countries/Guernsey)
 
+[Guinea](countries/Guinea)
+
 [Guyana](countries/Guyana)
 
 [Honduras](countries/Honduras)
@@ -137,6 +139,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Kuwait](countries/Kuwait)
 
 [Kyrgyzstan](countries/Kyrgyzstan)
+
+[Latvia](countries/Latvia)
 
 [Lebanon](countries/Lebanon)
 
@@ -242,9 +246,13 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [United Kingdom](countries/United_Kingdom)
 
+[United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
+
 [United States Of America](countries/United_States_Of_America)
 
 [Uruguay](countries/Uruguay)
+
+[Uzbekistan](countries/Uzbekistan)
 
 [Venezuela](countries/Venezuela)
 
@@ -325,8 +333,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Guam](countries/Guam)
 
-[Guinea](countries/Guinea)
-
 [Guinea Bissau](countries/Guinea_Bissau)
 
 [Haiti](countries/Haiti)
@@ -334,8 +340,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Holy See](countries/Holy_See)
 
 [Laos](countries/Laos)
-
-[Latvia](countries/Latvia)
 
 [Libya](countries/Libya)
 
@@ -405,11 +409,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Uganda](countries/Uganda)
 
-[United Republic Of Tanzania](countries/United_Republic_Of_Tanzania)
-
 [United States Virgin Islands](countries/United_States_Virgin_Islands)
-
-[Uzbekistan](countries/Uzbekistan)
 
 [Vietnam](countries/Vietnam)
 

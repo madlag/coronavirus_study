@@ -1,6 +1,6 @@
 ## Singapore Covid-19 status comparison 
 
-Singapore covid-19 deaths are currently doubling each 28.46 days (observed initial average doubling time is 2.2 days across countries).
+Singapore covid-19 deaths are currently doubling each 33.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Singapore covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Singapore/2020-04-23_Singapore_deaths.gif "Singapore covid-19 deaths animated chart")   
+![Singapore covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Singapore/2020-04-24_Singapore_deaths.gif "Singapore covid-19 deaths animated chart")   
  
 #### Static
-![Singapore covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Singapore/2020-04-23_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
+![Singapore covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Singapore/2020-04-24_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Singapore covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Singapore/2020-04-23_Singapore_cases.gif "Singapore covid-19 cases animated chart")   
+![Singapore covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Singapore/2020-04-24_Singapore_cases.gif "Singapore covid-19 cases animated chart")   
  
 #### Static
-![Singapore covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Singapore/2020-04-23_Singapore_cases.png "Singapore covid-19 cases static chart")   
+![Singapore covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Singapore/2020-04-24_Singapore_cases.png "Singapore covid-19 cases static chart")   
 

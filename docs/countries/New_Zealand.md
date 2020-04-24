@@ -1,6 +1,6 @@
 ## New Zealand Covid-19 status comparison 
 
-New Zealand covid-19 deaths are currently doubling each 10.94 days (observed initial average doubling time is 2.2 days across countries).
+New Zealand covid-19 deaths are currently doubling each 9.98 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![New Zealand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/New_Zealand/2020-04-23_New_Zealand_deaths.gif "New Zealand covid-19 deaths animated chart")   
+![New Zealand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/New_Zealand/2020-04-24_New_Zealand_deaths.gif "New Zealand covid-19 deaths animated chart")   
  
 #### Static
-![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/New_Zealand/2020-04-23_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
+![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/New_Zealand/2020-04-24_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![New Zealand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/New_Zealand/2020-04-23_New_Zealand_cases.gif "New Zealand covid-19 cases animated chart")   
+![New Zealand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/New_Zealand/2020-04-24_New_Zealand_cases.gif "New Zealand covid-19 cases animated chart")   
  
 #### Static
-![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/New_Zealand/2020-04-23_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
+![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/New_Zealand/2020-04-24_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
 

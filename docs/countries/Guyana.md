@@ -1,6 +1,6 @@
 ## Guyana Covid-19 status comparison 
 
-Guyana covid-19 deaths are currently doubling each 29.68 days (observed initial average doubling time is 2.2 days across countries).
+Guyana covid-19 deaths are currently doubling each 30.91 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Guyana covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Guyana/2020-04-23_Guyana_deaths.gif "Guyana covid-19 deaths animated chart")   
+![Guyana covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Guyana/2020-04-24_Guyana_deaths.gif "Guyana covid-19 deaths animated chart")   
  
 #### Static
-![Guyana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Guyana/2020-04-23_Guyana_deaths.png "Guyana covid-19 deaths static chart")   
+![Guyana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Guyana/2020-04-24_Guyana_deaths.png "Guyana covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Guyana covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Guyana/2020-04-23_Guyana_cases.gif "Guyana covid-19 cases animated chart")   
+![Guyana covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Guyana/2020-04-24_Guyana_cases.gif "Guyana covid-19 cases animated chart")   
  
 #### Static
-![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-23/countries/Guyana/2020-04-23_Guyana_cases.png "Guyana covid-19 cases static chart")   
+![Guyana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Guyana/2020-04-24_Guyana_cases.png "Guyana covid-19 cases static chart")   
 
