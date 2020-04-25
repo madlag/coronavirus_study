@@ -1,6 +1,6 @@
 ## Jersey Covid-19 status comparison 
 
-Jersey covid-19 deaths are currently doubling each 5.93 days (observed initial average doubling time is 2.2 days across countries).
+Jersey covid-19 deaths are currently doubling each 6.37 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Jersey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Jersey/2020-04-24_Jersey_deaths.gif "Jersey covid-19 deaths animated chart")   
+![Jersey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jersey/2020-04-25_Jersey_deaths.gif "Jersey covid-19 deaths animated chart")   
  
 #### Static
-![Jersey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Jersey/2020-04-24_Jersey_deaths.png "Jersey covid-19 deaths static chart")   
+![Jersey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jersey/2020-04-25_Jersey_deaths.png "Jersey covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Jersey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Jersey/2020-04-24_Jersey_cases.gif "Jersey covid-19 cases animated chart")   
+![Jersey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jersey/2020-04-25_Jersey_cases.gif "Jersey covid-19 cases animated chart")   
  
 #### Static
-![Jersey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Jersey/2020-04-24_Jersey_cases.png "Jersey covid-19 cases static chart")   
+![Jersey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jersey/2020-04-25_Jersey_cases.png "Jersey covid-19 cases static chart")   
 

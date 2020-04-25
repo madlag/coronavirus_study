@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-24 report
+##  COVID-19 2020-04-25 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/2020-04-24_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/2020-04-25_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-24
+### Most Affected Countries as of 2020-04-25
 
 [Afghanistan](countries/Afghanistan)
 
@@ -29,6 +29,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Bahrain](countries/Bahrain)
 
 [Bangladesh](countries/Bangladesh)
+
+[Barbados](countries/Barbados)
 
 [Belarus](countries/Belarus)
 
@@ -202,6 +204,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Saudi Arabia](countries/Saudi_Arabia)
 
+[Senegal](countries/Senegal)
+
 [Serbia](countries/Serbia)
 
 [Singapore](countries/Singapore)
@@ -266,8 +270,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
 [Aruba](countries/Aruba)
-
-[Barbados](countries/Barbados)
 
 [Belize](countries/Belize)
 
@@ -390,8 +392,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Saint Vincent And The Grenadines](countries/Saint_Vincent_And_The_Grenadines)
 
 [Sao Tome And Principe](countries/Sao_Tome_And_Principe)
-
-[Senegal](countries/Senegal)
 
 [Seychelles](countries/Seychelles)
 

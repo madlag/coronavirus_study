@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Haiti/2020-04-24_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
+![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Haiti/2020-04-25_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-24/countries/Haiti/2020-04-24_Haiti_cases.png "Haiti covid-19 cases static chart")   
+![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Haiti/2020-04-25_Haiti_cases.png "Haiti covid-19 cases static chart")   
 
