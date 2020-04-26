@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Spain covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Spain/2020-04-25_Spain_deaths.gif "Spain covid-19 deaths animated chart")   
+![Spain covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Spain/2020-04-26_Spain_deaths.gif "Spain covid-19 deaths animated chart")   
  
 #### Static
-![Spain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Spain/2020-04-25_Spain_deaths.png "Spain covid-19 deaths static chart")   
+![Spain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Spain/2020-04-26_Spain_deaths.png "Spain covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Spain/2020-04-25_Spain_cases.gif "Spain covid-19 cases animated chart")   
+![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Spain/2020-04-26_Spain_cases.gif "Spain covid-19 cases animated chart")   
  
 #### Static
-![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Spain/2020-04-25_Spain_cases.png "Spain covid-19 cases static chart")   
+![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Spain/2020-04-26_Spain_cases.png "Spain covid-19 cases static chart")   
 

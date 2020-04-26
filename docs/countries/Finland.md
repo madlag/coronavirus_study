@@ -1,6 +1,6 @@
 ## Finland Covid-19 status comparison 
 
-Finland covid-19 deaths are currently doubling each 6.26 days (observed initial average doubling time is 2.2 days across countries).
+Finland covid-19 deaths are currently doubling each 6.17 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Finland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Finland/2020-04-25_Finland_deaths.gif "Finland covid-19 deaths animated chart")   
+![Finland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Finland/2020-04-26_Finland_deaths.gif "Finland covid-19 deaths animated chart")   
  
 #### Static
-![Finland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Finland/2020-04-25_Finland_deaths.png "Finland covid-19 deaths static chart")   
+![Finland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Finland/2020-04-26_Finland_deaths.png "Finland covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Finland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Finland/2020-04-25_Finland_cases.gif "Finland covid-19 cases animated chart")   
+![Finland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Finland/2020-04-26_Finland_cases.gif "Finland covid-19 cases animated chart")   
  
 #### Static
-![Finland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Finland/2020-04-25_Finland_cases.png "Finland covid-19 cases static chart")   
+![Finland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Finland/2020-04-26_Finland_cases.png "Finland covid-19 cases static chart")   
 

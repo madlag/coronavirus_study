@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Montserrat covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Montserrat/2020-04-26_Montserrat_deaths.png "Montserrat covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Montserrat covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Montserrat/2020-04-25_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
+![Montserrat covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Montserrat/2020-04-26_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Jamaica Covid-19 status comparison 
 
-Jamaica covid-19 deaths are currently doubling each 22.48 days (observed initial average doubling time is 2.2 days across countries).
+Jamaica covid-19 deaths are currently doubling each 19.67 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Jamaica covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jamaica/2020-04-25_Jamaica_deaths.gif "Jamaica covid-19 deaths animated chart")   
+![Jamaica covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Jamaica/2020-04-26_Jamaica_deaths.gif "Jamaica covid-19 deaths animated chart")   
  
 #### Static
-![Jamaica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jamaica/2020-04-25_Jamaica_deaths.png "Jamaica covid-19 deaths static chart")   
+![Jamaica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Jamaica/2020-04-26_Jamaica_deaths.png "Jamaica covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Jamaica covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jamaica/2020-04-25_Jamaica_cases.gif "Jamaica covid-19 cases animated chart")   
+![Jamaica covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Jamaica/2020-04-26_Jamaica_cases.gif "Jamaica covid-19 cases animated chart")   
  
 #### Static
-![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Jamaica/2020-04-25_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
+![Jamaica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Jamaica/2020-04-26_Jamaica_cases.png "Jamaica covid-19 cases static chart")   
 

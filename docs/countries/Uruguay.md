@@ -1,6 +1,6 @@
 ## Uruguay Covid-19 status comparison 
 
-Uruguay covid-19 deaths are currently doubling each 16.56 days (observed initial average doubling time is 2.2 days across countries).
+Uruguay covid-19 deaths are currently doubling each 14.02 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Uruguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Uruguay/2020-04-25_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
+![Uruguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Uruguay/2020-04-26_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
  
 #### Static
-![Uruguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Uruguay/2020-04-25_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
+![Uruguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Uruguay/2020-04-26_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Uruguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Uruguay/2020-04-25_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
+![Uruguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Uruguay/2020-04-26_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
  
 #### Static
-![Uruguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-25/countries/Uruguay/2020-04-25_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
+![Uruguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Uruguay/2020-04-26_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
 
