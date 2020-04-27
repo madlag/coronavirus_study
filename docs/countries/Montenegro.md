@@ -1,6 +1,6 @@
 ## Montenegro Covid-19 status comparison 
 
-Montenegro
+Montenegro covid-19 deaths are currently doubling each 8.99 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Montenegro covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Montenegro/2020-04-27_Montenegro_deaths.gif "Montenegro covid-19 deaths animated chart")   
+ 
 #### Static
-![Montenegro covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Montenegro/2020-04-26_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
+![Montenegro covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Montenegro/2020-04-27_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Montenegro covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Montenegro/2020-04-27_Montenegro_cases.gif "Montenegro covid-19 cases animated chart")   
+ 
 #### Static
-![Montenegro covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Montenegro/2020-04-26_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
+![Montenegro covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Montenegro/2020-04-27_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
 

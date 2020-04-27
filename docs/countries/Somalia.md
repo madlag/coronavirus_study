@@ -1,6 +1,6 @@
 ## Somalia Covid-19 status comparison 
 
-Somalia covid-19 deaths are currently doubling each 4.48 days (observed initial average doubling time is 2.2 days across countries).
+Somalia covid-19 deaths are currently doubling each 4.36 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Somalia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Somalia/2020-04-26_Somalia_deaths.gif "Somalia covid-19 deaths animated chart")   
+![Somalia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Somalia/2020-04-27_Somalia_deaths.gif "Somalia covid-19 deaths animated chart")   
  
 #### Static
-![Somalia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Somalia/2020-04-26_Somalia_deaths.png "Somalia covid-19 deaths static chart")   
+![Somalia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Somalia/2020-04-27_Somalia_deaths.png "Somalia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Somalia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Somalia/2020-04-26_Somalia_cases.gif "Somalia covid-19 cases animated chart")   
+![Somalia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Somalia/2020-04-27_Somalia_cases.gif "Somalia covid-19 cases animated chart")   
  
 #### Static
-![Somalia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Somalia/2020-04-26_Somalia_cases.png "Somalia covid-19 cases static chart")   
+![Somalia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Somalia/2020-04-27_Somalia_cases.png "Somalia covid-19 cases static chart")   
 

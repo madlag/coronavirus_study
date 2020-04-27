@@ -1,6 +1,6 @@
 ## Kuwait Covid-19 status comparison 
 
-Kuwait covid-19 deaths are currently doubling each 4.35 days (observed initial average doubling time is 2.2 days across countries).
+Kuwait covid-19 deaths are currently doubling each 4.58 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Kuwait covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Kuwait/2020-04-26_Kuwait_deaths.gif "Kuwait covid-19 deaths animated chart")   
+![Kuwait covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Kuwait/2020-04-27_Kuwait_deaths.gif "Kuwait covid-19 deaths animated chart")   
  
 #### Static
-![Kuwait covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Kuwait/2020-04-26_Kuwait_deaths.png "Kuwait covid-19 deaths static chart")   
+![Kuwait covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Kuwait/2020-04-27_Kuwait_deaths.png "Kuwait covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Kuwait covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Kuwait/2020-04-26_Kuwait_cases.gif "Kuwait covid-19 cases animated chart")   
+![Kuwait covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Kuwait/2020-04-27_Kuwait_cases.gif "Kuwait covid-19 cases animated chart")   
  
 #### Static
-![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Kuwait/2020-04-26_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
+![Kuwait covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Kuwait/2020-04-27_Kuwait_cases.png "Kuwait covid-19 cases static chart")   
 

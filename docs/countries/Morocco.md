@@ -1,6 +1,6 @@
 ## Morocco Covid-19 status comparison 
 
-Morocco covid-19 deaths are currently doubling each 30.83 days (observed initial average doubling time is 2.2 days across countries).
+Morocco covid-19 deaths are currently doubling each 33.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Morocco covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Morocco/2020-04-26_Morocco_deaths.gif "Morocco covid-19 deaths animated chart")   
+![Morocco covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Morocco/2020-04-27_Morocco_deaths.gif "Morocco covid-19 deaths animated chart")   
  
 #### Static
-![Morocco covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Morocco/2020-04-26_Morocco_deaths.png "Morocco covid-19 deaths static chart")   
+![Morocco covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Morocco/2020-04-27_Morocco_deaths.png "Morocco covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Morocco covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Morocco/2020-04-26_Morocco_cases.gif "Morocco covid-19 cases animated chart")   
+![Morocco covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Morocco/2020-04-27_Morocco_cases.gif "Morocco covid-19 cases animated chart")   
  
 #### Static
-![Morocco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Morocco/2020-04-26_Morocco_cases.png "Morocco covid-19 cases static chart")   
+![Morocco covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Morocco/2020-04-27_Morocco_cases.png "Morocco covid-19 cases static chart")   
 

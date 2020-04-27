@@ -1,6 +1,6 @@
 ## Colombia Covid-19 status comparison 
 
-Colombia covid-19 deaths are currently doubling each 13.02 days (observed initial average doubling time is 2.2 days across countries).
+Colombia covid-19 deaths are currently doubling each 14.09 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Colombia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Colombia/2020-04-26_Colombia_deaths.gif "Colombia covid-19 deaths animated chart")   
+![Colombia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Colombia/2020-04-27_Colombia_deaths.gif "Colombia covid-19 deaths animated chart")   
  
 #### Static
-![Colombia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Colombia/2020-04-26_Colombia_deaths.png "Colombia covid-19 deaths static chart")   
+![Colombia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Colombia/2020-04-27_Colombia_deaths.png "Colombia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Colombia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Colombia/2020-04-26_Colombia_cases.gif "Colombia covid-19 cases animated chart")   
+![Colombia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Colombia/2020-04-27_Colombia_cases.gif "Colombia covid-19 cases animated chart")   
  
 #### Static
-![Colombia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-26/countries/Colombia/2020-04-26_Colombia_cases.png "Colombia covid-19 cases static chart")   
+![Colombia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Colombia/2020-04-27_Colombia_cases.png "Colombia covid-19 cases static chart")   
 
