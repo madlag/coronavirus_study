@@ -1,6 +1,6 @@
 ## Costa Rica Covid-19 status comparison 
 
-Costa Rica covid-19 deaths are currently doubling each 7226410386313592.00 days (observed initial average doubling time is 2.2 days across countries).
+Costa Rica covid-19 deaths are currently doubling each -6512521582731549.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Costa Rica covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Costa_Rica/2020-04-27_Costa_Rica_deaths.gif "Costa Rica covid-19 deaths animated chart")   
+![Costa Rica covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Costa_Rica/2020-04-28_Costa_Rica_deaths.gif "Costa Rica covid-19 deaths animated chart")   
  
 #### Static
-![Costa Rica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Costa_Rica/2020-04-27_Costa_Rica_deaths.png "Costa Rica covid-19 deaths static chart")   
+![Costa Rica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Costa_Rica/2020-04-28_Costa_Rica_deaths.png "Costa Rica covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Costa Rica covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Costa_Rica/2020-04-27_Costa_Rica_cases.gif "Costa Rica covid-19 cases animated chart")   
+![Costa Rica covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Costa_Rica/2020-04-28_Costa_Rica_cases.gif "Costa Rica covid-19 cases animated chart")   
  
 #### Static
-![Costa Rica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Costa_Rica/2020-04-27_Costa_Rica_cases.png "Costa Rica covid-19 cases static chart")   
+![Costa Rica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Costa_Rica/2020-04-28_Costa_Rica_cases.png "Costa Rica covid-19 cases static chart")   
 

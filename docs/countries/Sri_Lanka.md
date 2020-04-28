@@ -1,6 +1,6 @@
 ## Sri Lanka Covid-19 status comparison 
 
-Sri Lanka covid-19 deaths are currently doubling each -133558813622357296.00 days (observed initial average doubling time is 2.2 days across countries).
+Sri Lanka covid-19 deaths are currently doubling each 12632365604433792.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Sri Lanka covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Sri_Lanka/2020-04-27_Sri_Lanka_deaths.gif "Sri Lanka covid-19 deaths animated chart")   
+![Sri Lanka covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Sri_Lanka/2020-04-28_Sri_Lanka_deaths.gif "Sri Lanka covid-19 deaths animated chart")   
  
 #### Static
-![Sri Lanka covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Sri_Lanka/2020-04-27_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
+![Sri Lanka covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Sri_Lanka/2020-04-28_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Sri Lanka covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Sri_Lanka/2020-04-27_Sri_Lanka_cases.gif "Sri Lanka covid-19 cases animated chart")   
+![Sri Lanka covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Sri_Lanka/2020-04-28_Sri_Lanka_cases.gif "Sri Lanka covid-19 cases animated chart")   
  
 #### Static
-![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Sri_Lanka/2020-04-27_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
+![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Sri_Lanka/2020-04-28_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
 

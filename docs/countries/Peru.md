@@ -1,6 +1,6 @@
 ## Peru Covid-19 status comparison 
 
-Peru covid-19 deaths are currently doubling each 7.14 days (observed initial average doubling time is 2.2 days across countries).
+Peru covid-19 deaths are currently doubling each 7.82 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Peru covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Peru/2020-04-27_Peru_deaths.gif "Peru covid-19 deaths animated chart")   
+![Peru covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Peru/2020-04-28_Peru_deaths.gif "Peru covid-19 deaths animated chart")   
  
 #### Static
-![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Peru/2020-04-27_Peru_deaths.png "Peru covid-19 deaths static chart")   
+![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Peru/2020-04-28_Peru_deaths.png "Peru covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Peru covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Peru/2020-04-27_Peru_cases.gif "Peru covid-19 cases animated chart")   
+![Peru covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Peru/2020-04-28_Peru_cases.gif "Peru covid-19 cases animated chart")   
  
 #### Static
-![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/Peru/2020-04-27_Peru_cases.png "Peru covid-19 cases static chart")   
+![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Peru/2020-04-28_Peru_cases.png "Peru covid-19 cases static chart")   
 

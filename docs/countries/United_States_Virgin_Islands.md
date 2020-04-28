@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![United States Virgin Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/United_States_Virgin_Islands/2020-04-27_United_States_Virgin_Islands_deaths.png "United States Virgin Islands covid-19 deaths static chart")   
+![United States Virgin Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/United_States_Virgin_Islands/2020-04-28_United_States_Virgin_Islands_deaths.png "United States Virgin Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![United States Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-27/countries/United_States_Virgin_Islands/2020-04-27_United_States_Virgin_Islands_cases.png "United States Virgin Islands covid-19 cases static chart")   
+![United States Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/United_States_Virgin_Islands/2020-04-28_United_States_Virgin_Islands_cases.png "United States Virgin Islands covid-19 cases static chart")   
 
