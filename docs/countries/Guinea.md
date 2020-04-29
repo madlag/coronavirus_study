@@ -1,6 +1,6 @@
 ## Guinea Covid-19 status comparison 
 
-Guinea covid-19 deaths are currently doubling each 20.98 days (observed initial average doubling time is 2.2 days across countries).
+Guinea covid-19 deaths are currently doubling each 23.61 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Guinea covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Guinea/2020-04-28_Guinea_deaths.gif "Guinea covid-19 deaths animated chart")   
+![Guinea covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Guinea/2020-04-29_Guinea_deaths.gif "Guinea covid-19 deaths animated chart")   
  
 #### Static
-![Guinea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Guinea/2020-04-28_Guinea_deaths.png "Guinea covid-19 deaths static chart")   
+![Guinea covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Guinea/2020-04-29_Guinea_deaths.png "Guinea covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Guinea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Guinea/2020-04-28_Guinea_cases.gif "Guinea covid-19 cases animated chart")   
+![Guinea covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Guinea/2020-04-29_Guinea_cases.gif "Guinea covid-19 cases animated chart")   
  
 #### Static
-![Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Guinea/2020-04-28_Guinea_cases.png "Guinea covid-19 cases static chart")   
+![Guinea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Guinea/2020-04-29_Guinea_cases.png "Guinea covid-19 cases static chart")   
 

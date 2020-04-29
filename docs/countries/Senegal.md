@@ -1,6 +1,6 @@
 ## Senegal Covid-19 status comparison 
 
-Senegal covid-19 deaths are currently doubling each 7.48 days (observed initial average doubling time is 2.2 days across countries).
+Senegal covid-19 deaths are currently doubling each 8.52 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Senegal covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Senegal/2020-04-28_Senegal_deaths.gif "Senegal covid-19 deaths animated chart")   
+![Senegal covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Senegal/2020-04-29_Senegal_deaths.gif "Senegal covid-19 deaths animated chart")   
  
 #### Static
-![Senegal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Senegal/2020-04-28_Senegal_deaths.png "Senegal covid-19 deaths static chart")   
+![Senegal covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Senegal/2020-04-29_Senegal_deaths.png "Senegal covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Senegal covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Senegal/2020-04-28_Senegal_cases.gif "Senegal covid-19 cases animated chart")   
+![Senegal covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Senegal/2020-04-29_Senegal_cases.gif "Senegal covid-19 cases animated chart")   
  
 #### Static
-![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Senegal/2020-04-28_Senegal_cases.png "Senegal covid-19 cases static chart")   
+![Senegal covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Senegal/2020-04-29_Senegal_cases.png "Senegal covid-19 cases static chart")   
 

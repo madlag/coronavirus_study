@@ -1,6 +1,6 @@
 ## Oman Covid-19 status comparison 
 
-Oman covid-19 deaths are currently doubling each 12.71 days (observed initial average doubling time is 2.2 days across countries).
+Oman covid-19 deaths are currently doubling each 17.17 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Oman covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Oman/2020-04-28_Oman_deaths.gif "Oman covid-19 deaths animated chart")   
+![Oman covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Oman/2020-04-29_Oman_deaths.gif "Oman covid-19 deaths animated chart")   
  
 #### Static
-![Oman covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Oman/2020-04-28_Oman_deaths.png "Oman covid-19 deaths static chart")   
+![Oman covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Oman/2020-04-29_Oman_deaths.png "Oman covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Oman covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Oman/2020-04-28_Oman_cases.gif "Oman covid-19 cases animated chart")   
+![Oman covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Oman/2020-04-29_Oman_cases.gif "Oman covid-19 cases animated chart")   
  
 #### Static
-![Oman covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Oman/2020-04-28_Oman_cases.png "Oman covid-19 cases static chart")   
+![Oman covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Oman/2020-04-29_Oman_cases.png "Oman covid-19 cases static chart")   
 

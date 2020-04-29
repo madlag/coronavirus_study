@@ -1,6 +1,6 @@
 ## North Macedonia Covid-19 status comparison 
 
-North Macedonia covid-19 deaths are currently doubling each 26.31 days (observed initial average doubling time is 2.2 days across countries).
+North Macedonia covid-19 deaths are currently doubling each 23.02 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![North Macedonia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/North_Macedonia/2020-04-28_North_Macedonia_deaths.gif "North Macedonia covid-19 deaths animated chart")   
+![North Macedonia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/North_Macedonia/2020-04-29_North_Macedonia_deaths.gif "North Macedonia covid-19 deaths animated chart")   
  
 #### Static
-![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/North_Macedonia/2020-04-28_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
+![North Macedonia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/North_Macedonia/2020-04-29_North_Macedonia_deaths.png "North Macedonia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![North Macedonia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/North_Macedonia/2020-04-28_North_Macedonia_cases.gif "North Macedonia covid-19 cases animated chart")   
+![North Macedonia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/North_Macedonia/2020-04-29_North_Macedonia_cases.gif "North Macedonia covid-19 cases animated chart")   
  
 #### Static
-![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/North_Macedonia/2020-04-28_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
+![North Macedonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/North_Macedonia/2020-04-29_North_Macedonia_cases.png "North Macedonia covid-19 cases static chart")   
 

@@ -1,10 +1,10 @@
-##  COVID-19 2020-04-28 report
+##  COVID-19 2020-04-29 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/2020-04-28_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/2020-04-29_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-04-28
+### Most Affected Countries as of 2020-04-29
 
 [Afghanistan](countries/Afghanistan)
 
@@ -87,6 +87,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Finland](countries/Finland)
 
 [France](countries/France)
+
+[Georgia](countries/Georgia)
 
 [Germany](countries/Germany)
 
@@ -328,8 +330,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Gabon](countries/Gabon)
 
 [Gambia](countries/Gambia)
-
-[Georgia](countries/Georgia)
 
 [Gibraltar](countries/Gibraltar)
 

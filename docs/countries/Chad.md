@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Chad covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Chad/2020-04-29_Chad_deaths.png "Chad covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-28/countries/Chad/2020-04-28_Chad_cases.png "Chad covid-19 cases static chart")   
+![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Chad/2020-04-29_Chad_cases.png "Chad covid-19 cases static chart")   
 
