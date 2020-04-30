@@ -1,6 +1,6 @@
 ## Nigeria Covid-19 status comparison 
 
-Nigeria covid-19 deaths are currently doubling each 8.23 days (observed initial average doubling time is 2.2 days across countries).
+Nigeria covid-19 deaths are currently doubling each 8.08 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Nigeria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Nigeria/2020-04-29_Nigeria_deaths.gif "Nigeria covid-19 deaths animated chart")   
+![Nigeria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Nigeria/2020-04-30_Nigeria_deaths.gif "Nigeria covid-19 deaths animated chart")   
  
 #### Static
-![Nigeria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Nigeria/2020-04-29_Nigeria_deaths.png "Nigeria covid-19 deaths static chart")   
+![Nigeria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Nigeria/2020-04-30_Nigeria_deaths.png "Nigeria covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Nigeria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Nigeria/2020-04-29_Nigeria_cases.gif "Nigeria covid-19 cases animated chart")   
+![Nigeria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Nigeria/2020-04-30_Nigeria_cases.gif "Nigeria covid-19 cases animated chart")   
  
 #### Static
-![Nigeria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Nigeria/2020-04-29_Nigeria_cases.png "Nigeria covid-19 cases static chart")   
+![Nigeria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Nigeria/2020-04-30_Nigeria_cases.png "Nigeria covid-19 cases static chart")   
 

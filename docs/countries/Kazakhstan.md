@@ -1,6 +1,6 @@
 ## Kazakhstan Covid-19 status comparison 
 
-Kazakhstan covid-19 deaths are currently doubling each 17.03 days (observed initial average doubling time is 2.2 days across countries).
+Kazakhstan covid-19 deaths are currently doubling each 18.61 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Kazakhstan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Kazakhstan/2020-04-29_Kazakhstan_deaths.gif "Kazakhstan covid-19 deaths animated chart")   
+![Kazakhstan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Kazakhstan/2020-04-30_Kazakhstan_deaths.gif "Kazakhstan covid-19 deaths animated chart")   
  
 #### Static
-![Kazakhstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Kazakhstan/2020-04-29_Kazakhstan_deaths.png "Kazakhstan covid-19 deaths static chart")   
+![Kazakhstan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Kazakhstan/2020-04-30_Kazakhstan_deaths.png "Kazakhstan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Kazakhstan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Kazakhstan/2020-04-29_Kazakhstan_cases.gif "Kazakhstan covid-19 cases animated chart")   
+![Kazakhstan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Kazakhstan/2020-04-30_Kazakhstan_cases.gif "Kazakhstan covid-19 cases animated chart")   
  
 #### Static
-![Kazakhstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Kazakhstan/2020-04-29_Kazakhstan_cases.png "Kazakhstan covid-19 cases static chart")   
+![Kazakhstan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Kazakhstan/2020-04-30_Kazakhstan_cases.png "Kazakhstan covid-19 cases static chart")   
 

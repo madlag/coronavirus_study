@@ -1,6 +1,6 @@
 ## Ghana Covid-19 status comparison 
 
-Ghana covid-19 deaths are currently doubling each 14.28 days (observed initial average doubling time is 2.2 days across countries).
+Ghana covid-19 deaths are currently doubling each 10.58 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Ghana covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Ghana/2020-04-29_Ghana_deaths.gif "Ghana covid-19 deaths animated chart")   
+![Ghana covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Ghana/2020-04-30_Ghana_deaths.gif "Ghana covid-19 deaths animated chart")   
  
 #### Static
-![Ghana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Ghana/2020-04-29_Ghana_deaths.png "Ghana covid-19 deaths static chart")   
+![Ghana covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Ghana/2020-04-30_Ghana_deaths.png "Ghana covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Ghana covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Ghana/2020-04-29_Ghana_cases.gif "Ghana covid-19 cases animated chart")   
+![Ghana covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Ghana/2020-04-30_Ghana_cases.gif "Ghana covid-19 cases animated chart")   
  
 #### Static
-![Ghana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-29/countries/Ghana/2020-04-29_Ghana_cases.png "Ghana covid-19 cases static chart")   
+![Ghana covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Ghana/2020-04-30_Ghana_cases.png "Ghana covid-19 cases static chart")   
 
