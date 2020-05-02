@@ -18,8 +18,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Static
+![Yemen covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Yemen/2020-05-02_Yemen_deaths.png "Yemen covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Static
-![Yemen covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Yemen/2020-04-30_Yemen_cases.png "Yemen covid-19 cases static chart")   
+![Yemen covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Yemen/2020-05-02_Yemen_cases.png "Yemen covid-19 cases static chart")   
 

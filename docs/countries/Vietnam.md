@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Vietnam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Vietnam/2020-04-30_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
+![Vietnam covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Vietnam/2020-05-02_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
 

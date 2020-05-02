@@ -1,6 +1,6 @@
 ## Sweden Covid-19 status comparison 
 
-Sweden covid-19 deaths are currently doubling each 16.16 days (observed initial average doubling time is 2.2 days across countries).
+Sweden covid-19 deaths are currently doubling each 20.87 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Sweden covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Sweden/2020-04-30_Sweden_deaths.gif "Sweden covid-19 deaths animated chart")   
+![Sweden covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Sweden/2020-05-02_Sweden_deaths.gif "Sweden covid-19 deaths animated chart")   
  
 #### Static
-![Sweden covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Sweden/2020-04-30_Sweden_deaths.png "Sweden covid-19 deaths static chart")   
+![Sweden covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Sweden/2020-05-02_Sweden_deaths.png "Sweden covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Sweden covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Sweden/2020-04-30_Sweden_cases.gif "Sweden covid-19 cases animated chart")   
+![Sweden covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Sweden/2020-05-02_Sweden_cases.gif "Sweden covid-19 cases animated chart")   
  
 #### Static
-![Sweden covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-04-30/countries/Sweden/2020-04-30_Sweden_cases.png "Sweden covid-19 cases static chart")   
+![Sweden covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Sweden/2020-05-02_Sweden_cases.png "Sweden covid-19 cases static chart")   
 
