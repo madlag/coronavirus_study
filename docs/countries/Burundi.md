@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Burundi covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Burundi/2020-05-02_Burundi_deaths.png "Burundi covid-19 deaths static chart")   
+![Burundi covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Burundi/2020-05-03_Burundi_deaths.png "Burundi covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Burundi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Burundi/2020-05-02_Burundi_cases.png "Burundi covid-19 cases static chart")   
+![Burundi covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Burundi/2020-05-03_Burundi_cases.png "Burundi covid-19 cases static chart")   
 

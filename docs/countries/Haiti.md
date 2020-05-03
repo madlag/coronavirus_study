@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Haiti covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Haiti/2020-05-02_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
+![Haiti covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Haiti/2020-05-03_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
  
 #### Static
-![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Haiti/2020-05-02_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
+![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Haiti/2020-05-03_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Haiti covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Haiti/2020-05-02_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
+![Haiti covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Haiti/2020-05-03_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
  
 #### Static
-![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Haiti/2020-05-02_Haiti_cases.png "Haiti covid-19 cases static chart")   
+![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Haiti/2020-05-03_Haiti_cases.png "Haiti covid-19 cases static chart")   
 

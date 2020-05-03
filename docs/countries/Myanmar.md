@@ -1,6 +1,6 @@
 ## Myanmar Covid-19 status comparison 
 
-Myanmar covid-19 deaths are currently doubling each 7260596589178664.00 days (observed initial average doubling time is 2.2 days across countries).
+Myanmar covid-19 deaths are currently doubling each -4637377295761644.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Myanmar covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Myanmar/2020-05-02_Myanmar_deaths.gif "Myanmar covid-19 deaths animated chart")   
+![Myanmar covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Myanmar/2020-05-03_Myanmar_deaths.gif "Myanmar covid-19 deaths animated chart")   
  
 #### Static
-![Myanmar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Myanmar/2020-05-02_Myanmar_deaths.png "Myanmar covid-19 deaths static chart")   
+![Myanmar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Myanmar/2020-05-03_Myanmar_deaths.png "Myanmar covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Myanmar covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Myanmar/2020-05-02_Myanmar_cases.gif "Myanmar covid-19 cases animated chart")   
+![Myanmar covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Myanmar/2020-05-03_Myanmar_cases.gif "Myanmar covid-19 cases animated chart")   
  
 #### Static
-![Myanmar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Myanmar/2020-05-02_Myanmar_cases.png "Myanmar covid-19 cases static chart")   
+![Myanmar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Myanmar/2020-05-03_Myanmar_cases.png "Myanmar covid-19 cases static chart")   
 

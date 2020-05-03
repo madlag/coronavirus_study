@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Djibouti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Djibouti/2020-05-02_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
+![Djibouti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Djibouti/2020-05-03_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Djibouti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/countries/Djibouti/2020-05-02_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
+![Djibouti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Djibouti/2020-05-03_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
 

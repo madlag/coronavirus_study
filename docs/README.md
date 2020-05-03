@@ -1,10 +1,10 @@
-##  COVID-19 2020-05-02 report
+##  COVID-19 2020-05-03 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-02/2020-05-02_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/2020-05-03_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-05-02
+### Most Affected Countries as of 2020-05-03
 
 [Afghanistan](countries/Afghanistan)
 
@@ -218,6 +218,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Serbia](countries/Serbia)
 
+[Sierra Leone](countries/Sierra_Leone)
+
 [Singapore](countries/Singapore)
 
 [Sint Maarten](countries/Sint_Maarten)
@@ -396,8 +398,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Sao Tome And Principe](countries/Sao_Tome_And_Principe)
 
 [Seychelles](countries/Seychelles)
-
-[Sierra Leone](countries/Sierra_Leone)
 
 [South Sudan](countries/South_Sudan)
 
