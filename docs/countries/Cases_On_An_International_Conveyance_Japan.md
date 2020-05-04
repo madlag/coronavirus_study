@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Cases On An International Conveyance Japan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Cases_On_An_International_Conveyance_Japan/2020-05-03_Cases_On_An_International_Conveyance_Japan_deaths.gif "Cases On An International Conveyance Japan covid-19 deaths animated chart")   
+![Cases On An International Conveyance Japan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Cases_On_An_International_Conveyance_Japan/2020-05-04_Cases_On_An_International_Conveyance_Japan_deaths.gif "Cases On An International Conveyance Japan covid-19 deaths animated chart")   
  
 #### Static
-![Cases On An International Conveyance Japan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Cases_On_An_International_Conveyance_Japan/2020-05-03_Cases_On_An_International_Conveyance_Japan_deaths.png "Cases On An International Conveyance Japan covid-19 deaths static chart")   
+![Cases On An International Conveyance Japan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Cases_On_An_International_Conveyance_Japan/2020-05-04_Cases_On_An_International_Conveyance_Japan_deaths.png "Cases On An International Conveyance Japan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Cases On An International Conveyance Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Cases_On_An_International_Conveyance_Japan/2020-05-03_Cases_On_An_International_Conveyance_Japan_cases.gif "Cases On An International Conveyance Japan covid-19 cases animated chart")   
+![Cases On An International Conveyance Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Cases_On_An_International_Conveyance_Japan/2020-05-04_Cases_On_An_International_Conveyance_Japan_cases.gif "Cases On An International Conveyance Japan covid-19 cases animated chart")   
  
 #### Static
-![Cases On An International Conveyance Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Cases_On_An_International_Conveyance_Japan/2020-05-03_Cases_On_An_International_Conveyance_Japan_cases.png "Cases On An International Conveyance Japan covid-19 cases static chart")   
+![Cases On An International Conveyance Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Cases_On_An_International_Conveyance_Japan/2020-05-04_Cases_On_An_International_Conveyance_Japan_cases.png "Cases On An International Conveyance Japan covid-19 cases static chart")   
 

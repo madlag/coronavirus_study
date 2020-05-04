@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Zambia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Zambia/2020-05-03_Zambia_deaths.png "Zambia covid-19 deaths static chart")   
+![Zambia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Zambia/2020-05-04_Zambia_deaths.png "Zambia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Zambia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Zambia/2020-05-03_Zambia_cases.png "Zambia covid-19 cases static chart")   
+![Zambia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Zambia/2020-05-04_Zambia_cases.png "Zambia covid-19 cases static chart")   
 

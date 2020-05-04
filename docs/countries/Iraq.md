@@ -1,6 +1,6 @@
 ## Iraq Covid-19 status comparison 
 
-Iraq covid-19 deaths are currently doubling each 47.72 days (observed initial average doubling time is 2.2 days across countries).
+Iraq covid-19 deaths are currently doubling each 48.11 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Iraq covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Iraq/2020-05-03_Iraq_deaths.gif "Iraq covid-19 deaths animated chart")   
+![Iraq covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Iraq/2020-05-04_Iraq_deaths.gif "Iraq covid-19 deaths animated chart")   
  
 #### Static
-![Iraq covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Iraq/2020-05-03_Iraq_deaths.png "Iraq covid-19 deaths static chart")   
+![Iraq covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Iraq/2020-05-04_Iraq_deaths.png "Iraq covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Iraq covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Iraq/2020-05-03_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
+![Iraq covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Iraq/2020-05-04_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
  
 #### Static
-![Iraq covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Iraq/2020-05-03_Iraq_cases.png "Iraq covid-19 cases static chart")   
+![Iraq covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Iraq/2020-05-04_Iraq_cases.png "Iraq covid-19 cases static chart")   
 

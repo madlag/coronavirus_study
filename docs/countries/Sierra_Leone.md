@@ -1,6 +1,6 @@
 ## Sierra Leone Covid-19 status comparison 
 
-Sierra Leone covid-19 deaths are currently doubling each 10.38 days (observed initial average doubling time is 2.2 days across countries).
+Sierra Leone covid-19 deaths are currently doubling each 12.98 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Sierra Leone covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Sierra_Leone/2020-05-03_Sierra_Leone_deaths.gif "Sierra Leone covid-19 deaths animated chart")   
+![Sierra Leone covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Sierra_Leone/2020-05-04_Sierra_Leone_deaths.gif "Sierra Leone covid-19 deaths animated chart")   
  
 #### Static
-![Sierra Leone covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Sierra_Leone/2020-05-03_Sierra_Leone_deaths.png "Sierra Leone covid-19 deaths static chart")   
+![Sierra Leone covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Sierra_Leone/2020-05-04_Sierra_Leone_deaths.png "Sierra Leone covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Sierra Leone covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Sierra_Leone/2020-05-03_Sierra_Leone_cases.gif "Sierra Leone covid-19 cases animated chart")   
+![Sierra Leone covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Sierra_Leone/2020-05-04_Sierra_Leone_cases.gif "Sierra Leone covid-19 cases animated chart")   
  
 #### Static
-![Sierra Leone covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-03/countries/Sierra_Leone/2020-05-03_Sierra_Leone_cases.png "Sierra Leone covid-19 cases static chart")   
+![Sierra Leone covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Sierra_Leone/2020-05-04_Sierra_Leone_cases.png "Sierra Leone covid-19 cases static chart")   
 
