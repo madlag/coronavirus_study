@@ -1,6 +1,6 @@
 ## Chad Covid-19 status comparison 
 
-Chad
+Chad covid-19 deaths are currently doubling each 4.35 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Chad covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Chad/2020-05-06_Chad_deaths.gif "Chad covid-19 deaths animated chart")   
+ 
 #### Static
-![Chad covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Chad/2020-05-04_Chad_deaths.png "Chad covid-19 deaths static chart")   
+![Chad covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Chad/2020-05-06_Chad_deaths.png "Chad covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Chad covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Chad/2020-05-06_Chad_cases.gif "Chad covid-19 cases animated chart")   
+ 
 #### Static
-![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Chad/2020-05-04_Chad_cases.png "Chad covid-19 cases static chart")   
+![Chad covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Chad/2020-05-06_Chad_cases.png "Chad covid-19 cases static chart")   
 

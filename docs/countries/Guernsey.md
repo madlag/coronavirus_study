@@ -1,6 +1,6 @@
 ## Guernsey Covid-19 status comparison 
 
-Guernsey covid-19 deaths are currently doubling each 55.42 days (observed initial average doubling time is 2.2 days across countries).
+Guernsey covid-19 deaths are currently doubling each -8164348077615928.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Guernsey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Guernsey/2020-05-04_Guernsey_deaths.gif "Guernsey covid-19 deaths animated chart")   
+![Guernsey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Guernsey/2020-05-06_Guernsey_deaths.gif "Guernsey covid-19 deaths animated chart")   
  
 #### Static
-![Guernsey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Guernsey/2020-05-04_Guernsey_deaths.png "Guernsey covid-19 deaths static chart")   
+![Guernsey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Guernsey/2020-05-06_Guernsey_deaths.png "Guernsey covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Guernsey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Guernsey/2020-05-04_Guernsey_cases.gif "Guernsey covid-19 cases animated chart")   
+![Guernsey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Guernsey/2020-05-06_Guernsey_cases.gif "Guernsey covid-19 cases animated chart")   
  
 #### Static
-![Guernsey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Guernsey/2020-05-04_Guernsey_cases.png "Guernsey covid-19 cases static chart")   
+![Guernsey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Guernsey/2020-05-06_Guernsey_cases.png "Guernsey covid-19 cases static chart")   
 

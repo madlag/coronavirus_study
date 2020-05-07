@@ -1,6 +1,6 @@
 ## Japan Covid-19 status comparison 
 
-Japan covid-19 deaths are currently doubling each 14.22 days (observed initial average doubling time is 2.2 days across countries).
+Japan covid-19 deaths are currently doubling each 14.06 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Japan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Japan/2020-05-04_Japan_deaths.gif "Japan covid-19 deaths animated chart")   
+![Japan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Japan/2020-05-06_Japan_deaths.gif "Japan covid-19 deaths animated chart")   
  
 #### Static
-![Japan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Japan/2020-05-04_Japan_deaths.png "Japan covid-19 deaths static chart")   
+![Japan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Japan/2020-05-06_Japan_deaths.png "Japan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Japan/2020-05-04_Japan_cases.gif "Japan covid-19 cases animated chart")   
+![Japan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Japan/2020-05-06_Japan_cases.gif "Japan covid-19 cases animated chart")   
  
 #### Static
-![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/Japan/2020-05-04_Japan_cases.png "Japan covid-19 cases static chart")   
+![Japan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Japan/2020-05-06_Japan_cases.png "Japan covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## South Africa Covid-19 status comparison 
 
-South Africa covid-19 deaths are currently doubling each 12.71 days (observed initial average doubling time is 2.2 days across countries).
+South Africa covid-19 deaths are currently doubling each 11.28 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![South Africa covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/South_Africa/2020-05-04_South_Africa_deaths.gif "South Africa covid-19 deaths animated chart")   
+![South Africa covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/South_Africa/2020-05-06_South_Africa_deaths.gif "South Africa covid-19 deaths animated chart")   
  
 #### Static
-![South Africa covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/South_Africa/2020-05-04_South_Africa_deaths.png "South Africa covid-19 deaths static chart")   
+![South Africa covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/South_Africa/2020-05-06_South_Africa_deaths.png "South Africa covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![South Africa covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/South_Africa/2020-05-04_South_Africa_cases.gif "South Africa covid-19 cases animated chart")   
+![South Africa covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/South_Africa/2020-05-06_South_Africa_cases.gif "South Africa covid-19 cases animated chart")   
  
 #### Static
-![South Africa covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-04/countries/South_Africa/2020-05-04_South_Africa_cases.png "South Africa covid-19 cases static chart")   
+![South Africa covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/South_Africa/2020-05-06_South_Africa_cases.png "South Africa covid-19 cases static chart")   
 
