@@ -1,6 +1,6 @@
 ## Greece Covid-19 status comparison 
 
-Greece covid-19 deaths are currently doubling each 59.81 days (observed initial average doubling time is 2.2 days across countries).
+Greece covid-19 deaths are currently doubling each 73.88 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Greece covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Greece/2020-05-06_Greece_deaths.gif "Greece covid-19 deaths animated chart")   
+![Greece covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Greece/2020-05-07_Greece_deaths.gif "Greece covid-19 deaths animated chart")   
  
 #### Static
-![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Greece/2020-05-06_Greece_deaths.png "Greece covid-19 deaths static chart")   
+![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Greece/2020-05-07_Greece_deaths.png "Greece covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Greece covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Greece/2020-05-06_Greece_cases.gif "Greece covid-19 cases animated chart")   
+![Greece covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Greece/2020-05-07_Greece_cases.gif "Greece covid-19 cases animated chart")   
  
 #### Static
-![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Greece/2020-05-06_Greece_cases.png "Greece covid-19 cases static chart")   
+![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Greece/2020-05-07_Greece_cases.png "Greece covid-19 cases static chart")   
 

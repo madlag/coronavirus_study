@@ -1,6 +1,6 @@
 ## Liberia Covid-19 status comparison 
 
-Liberia covid-19 deaths are currently doubling each 17.64 days (observed initial average doubling time is 2.2 days across countries).
+Liberia covid-19 deaths are currently doubling each 25.34 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Liberia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Liberia/2020-05-06_Liberia_deaths.gif "Liberia covid-19 deaths animated chart")   
+![Liberia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Liberia/2020-05-07_Liberia_deaths.gif "Liberia covid-19 deaths animated chart")   
  
 #### Static
-![Liberia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Liberia/2020-05-06_Liberia_deaths.png "Liberia covid-19 deaths static chart")   
+![Liberia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Liberia/2020-05-07_Liberia_deaths.png "Liberia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Liberia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Liberia/2020-05-06_Liberia_cases.gif "Liberia covid-19 cases animated chart")   
+![Liberia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Liberia/2020-05-07_Liberia_cases.gif "Liberia covid-19 cases animated chart")   
  
 #### Static
-![Liberia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Liberia/2020-05-06_Liberia_cases.png "Liberia covid-19 cases static chart")   
+![Liberia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Liberia/2020-05-07_Liberia_cases.png "Liberia covid-19 cases static chart")   
 

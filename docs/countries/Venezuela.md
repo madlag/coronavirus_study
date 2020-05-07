@@ -1,6 +1,6 @@
 ## Venezuela Covid-19 status comparison 
 
-Venezuela covid-19 deaths are currently doubling each -24039469339646896.00 days (observed initial average doubling time is 2.2 days across countries).
+Venezuela covid-19 deaths are currently doubling each 17450794795482182.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Venezuela covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Venezuela/2020-05-06_Venezuela_deaths.gif "Venezuela covid-19 deaths animated chart")   
+![Venezuela covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Venezuela/2020-05-07_Venezuela_deaths.gif "Venezuela covid-19 deaths animated chart")   
  
 #### Static
-![Venezuela covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Venezuela/2020-05-06_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
+![Venezuela covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Venezuela/2020-05-07_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Venezuela covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Venezuela/2020-05-06_Venezuela_cases.gif "Venezuela covid-19 cases animated chart")   
+![Venezuela covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Venezuela/2020-05-07_Venezuela_cases.gif "Venezuela covid-19 cases animated chart")   
  
 #### Static
-![Venezuela covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Venezuela/2020-05-06_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
+![Venezuela covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Venezuela/2020-05-07_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
 

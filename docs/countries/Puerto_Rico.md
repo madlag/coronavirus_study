@@ -1,6 +1,6 @@
 ## Puerto Rico Covid-19 status comparison 
 
-Puerto Rico covid-19 deaths are currently doubling each 33.56 days (observed initial average doubling time is 2.2 days across countries).
+Puerto Rico covid-19 deaths are currently doubling each 35.35 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Puerto Rico covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Puerto_Rico/2020-05-06_Puerto_Rico_deaths.gif "Puerto Rico covid-19 deaths animated chart")   
+![Puerto Rico covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Puerto_Rico/2020-05-07_Puerto_Rico_deaths.gif "Puerto Rico covid-19 deaths animated chart")   
  
 #### Static
-![Puerto Rico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Puerto_Rico/2020-05-06_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
+![Puerto Rico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Puerto_Rico/2020-05-07_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Puerto Rico covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Puerto_Rico/2020-05-06_Puerto_Rico_cases.gif "Puerto Rico covid-19 cases animated chart")   
+![Puerto Rico covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Puerto_Rico/2020-05-07_Puerto_Rico_cases.gif "Puerto Rico covid-19 cases animated chart")   
  
 #### Static
-![Puerto Rico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-06/countries/Puerto_Rico/2020-05-06_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
+![Puerto Rico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Puerto_Rico/2020-05-07_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
 
