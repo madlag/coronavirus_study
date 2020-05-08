@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Western Sahara covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Western_Sahara/2020-05-07_Western_Sahara_cases.png "Western Sahara covid-19 cases static chart")   
+![Western Sahara covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Western_Sahara/2020-05-08_Western_Sahara_cases.png "Western Sahara covid-19 cases static chart")   
 

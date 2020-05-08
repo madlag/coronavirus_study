@@ -1,10 +1,10 @@
-##  COVID-19 2020-05-07 report
+##  COVID-19 2020-05-08 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/2020-05-07_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/2020-05-08_main_comparison.png "Covid-19 Chart for China, South Korea, United Kingdom, France, Italy, Spain, United States Of America")
 
-### Most Affected Countries as of 2020-05-07
+### Most Affected Countries as of 2020-05-08
 
 [Afghanistan](countries/Afghanistan)
 

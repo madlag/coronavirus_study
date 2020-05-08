@@ -1,6 +1,6 @@
 ## Haiti Covid-19 status comparison 
 
-Haiti covid-19 deaths are currently doubling each 8.10 days (observed initial average doubling time is 2.2 days across countries).
+Haiti covid-19 deaths are currently doubling each 8.13 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Haiti covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Haiti/2020-05-07_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
+![Haiti covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Haiti/2020-05-08_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
  
 #### Static
-![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Haiti/2020-05-07_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
+![Haiti covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Haiti/2020-05-08_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Haiti covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Haiti/2020-05-07_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
+![Haiti covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Haiti/2020-05-08_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
  
 #### Static
-![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Haiti/2020-05-07_Haiti_cases.png "Haiti covid-19 cases static chart")   
+![Haiti covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Haiti/2020-05-08_Haiti_cases.png "Haiti covid-19 cases static chart")   
 

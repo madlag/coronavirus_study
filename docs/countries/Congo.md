@@ -1,6 +1,6 @@
 ## Congo Covid-19 status comparison 
 
-Congo covid-19 deaths are currently doubling each 25.92 days (observed initial average doubling time is 2.2 days across countries).
+Congo covid-19 deaths are currently doubling each 34.95 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Congo/2020-05-07_Congo_deaths.gif "Congo covid-19 deaths animated chart")   
+![Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Congo/2020-05-08_Congo_deaths.gif "Congo covid-19 deaths animated chart")   
  
 #### Static
-![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Congo/2020-05-07_Congo_deaths.png "Congo covid-19 deaths static chart")   
+![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Congo/2020-05-08_Congo_deaths.png "Congo covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Congo/2020-05-07_Congo_cases.gif "Congo covid-19 cases animated chart")   
+![Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Congo/2020-05-08_Congo_cases.gif "Congo covid-19 cases animated chart")   
  
 #### Static
-![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Congo/2020-05-07_Congo_cases.png "Congo covid-19 cases static chart")   
+![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Congo/2020-05-08_Congo_cases.png "Congo covid-19 cases static chart")   
 

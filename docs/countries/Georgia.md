@@ -1,6 +1,6 @@
 ## Georgia Covid-19 status comparison 
 
-Georgia covid-19 deaths are currently doubling each 11.75 days (observed initial average doubling time is 2.2 days across countries).
+Georgia covid-19 deaths are currently doubling each 12.73 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Georgia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Georgia/2020-05-07_Georgia_deaths.gif "Georgia covid-19 deaths animated chart")   
+![Georgia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Georgia/2020-05-08_Georgia_deaths.gif "Georgia covid-19 deaths animated chart")   
  
 #### Static
-![Georgia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Georgia/2020-05-07_Georgia_deaths.png "Georgia covid-19 deaths static chart")   
+![Georgia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Georgia/2020-05-08_Georgia_deaths.png "Georgia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Georgia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Georgia/2020-05-07_Georgia_cases.gif "Georgia covid-19 cases animated chart")   
+![Georgia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Georgia/2020-05-08_Georgia_cases.gif "Georgia covid-19 cases animated chart")   
  
 #### Static
-![Georgia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-07/countries/Georgia/2020-05-07_Georgia_cases.png "Georgia covid-19 cases static chart")   
+![Georgia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Georgia/2020-05-08_Georgia_cases.png "Georgia covid-19 cases static chart")   
 
