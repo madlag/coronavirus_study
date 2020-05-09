@@ -1,6 +1,6 @@
 ## Ukraine Covid-19 status comparison 
 
-Ukraine covid-19 deaths are currently doubling each 17.59 days (observed initial average doubling time is 2.2 days across countries).
+Ukraine covid-19 deaths are currently doubling each 17.13 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Ukraine covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Ukraine/2020-05-08_Ukraine_deaths.gif "Ukraine covid-19 deaths animated chart")   
+![Ukraine covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Ukraine/2020-05-09_Ukraine_deaths.gif "Ukraine covid-19 deaths animated chart")   
  
 #### Static
-![Ukraine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Ukraine/2020-05-08_Ukraine_deaths.png "Ukraine covid-19 deaths static chart")   
+![Ukraine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Ukraine/2020-05-09_Ukraine_deaths.png "Ukraine covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Ukraine covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Ukraine/2020-05-08_Ukraine_cases.gif "Ukraine covid-19 cases animated chart")   
+![Ukraine covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Ukraine/2020-05-09_Ukraine_cases.gif "Ukraine covid-19 cases animated chart")   
  
 #### Static
-![Ukraine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Ukraine/2020-05-08_Ukraine_cases.png "Ukraine covid-19 cases static chart")   
+![Ukraine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Ukraine/2020-05-09_Ukraine_cases.png "Ukraine covid-19 cases static chart")   
 

@@ -1,6 +1,6 @@
 ## Argentina Covid-19 status comparison 
 
-Argentina covid-19 deaths are currently doubling each 19.33 days (observed initial average doubling time is 2.2 days across countries).
+Argentina covid-19 deaths are currently doubling each 19.14 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Argentina covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Argentina/2020-05-08_Argentina_deaths.gif "Argentina covid-19 deaths animated chart")   
+![Argentina covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Argentina/2020-05-09_Argentina_deaths.gif "Argentina covid-19 deaths animated chart")   
  
 #### Static
-![Argentina covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Argentina/2020-05-08_Argentina_deaths.png "Argentina covid-19 deaths static chart")   
+![Argentina covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Argentina/2020-05-09_Argentina_deaths.png "Argentina covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Argentina covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Argentina/2020-05-08_Argentina_cases.gif "Argentina covid-19 cases animated chart")   
+![Argentina covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Argentina/2020-05-09_Argentina_cases.gif "Argentina covid-19 cases animated chart")   
  
 #### Static
-![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Argentina/2020-05-08_Argentina_cases.png "Argentina covid-19 cases static chart")   
+![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Argentina/2020-05-09_Argentina_cases.png "Argentina covid-19 cases static chart")   
 

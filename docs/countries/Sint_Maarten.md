@@ -1,6 +1,6 @@
 ## Sint Maarten Covid-19 status comparison 
 
-Sint Maarten covid-19 deaths are currently doubling each 73.49 days (observed initial average doubling time is 2.2 days across countries).
+Sint Maarten covid-19 deaths are currently doubling each 47.66 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Sint Maarten covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Sint_Maarten/2020-05-08_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
+![Sint Maarten covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sint_Maarten/2020-05-09_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
  
 #### Static
-![Sint Maarten covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Sint_Maarten/2020-05-08_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
+![Sint Maarten covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sint_Maarten/2020-05-09_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Sint Maarten covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Sint_Maarten/2020-05-08_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
+![Sint Maarten covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sint_Maarten/2020-05-09_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
  
 #### Static
-![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Sint_Maarten/2020-05-08_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
+![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sint_Maarten/2020-05-09_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
 

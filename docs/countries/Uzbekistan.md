@@ -1,6 +1,6 @@
 ## Uzbekistan Covid-19 status comparison 
 
-Uzbekistan covid-19 deaths are currently doubling each 30.96 days (observed initial average doubling time is 2.2 days across countries).
+Uzbekistan covid-19 deaths are currently doubling each 45.23 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Uzbekistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Uzbekistan/2020-05-08_Uzbekistan_deaths.gif "Uzbekistan covid-19 deaths animated chart")   
+![Uzbekistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Uzbekistan/2020-05-09_Uzbekistan_deaths.gif "Uzbekistan covid-19 deaths animated chart")   
  
 #### Static
-![Uzbekistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Uzbekistan/2020-05-08_Uzbekistan_deaths.png "Uzbekistan covid-19 deaths static chart")   
+![Uzbekistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Uzbekistan/2020-05-09_Uzbekistan_deaths.png "Uzbekistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Uzbekistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Uzbekistan/2020-05-08_Uzbekistan_cases.gif "Uzbekistan covid-19 cases animated chart")   
+![Uzbekistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Uzbekistan/2020-05-09_Uzbekistan_cases.gif "Uzbekistan covid-19 cases animated chart")   
  
 #### Static
-![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Uzbekistan/2020-05-08_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
+![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Uzbekistan/2020-05-09_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
 

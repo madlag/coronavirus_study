@@ -1,6 +1,6 @@
 ## Bermuda Covid-19 status comparison 
 
-Bermuda covid-19 deaths are currently doubling each 30.91 days (observed initial average doubling time is 2.2 days across countries).
+Bermuda covid-19 deaths are currently doubling each 35.33 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Bermuda covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Bermuda/2020-05-08_Bermuda_deaths.gif "Bermuda covid-19 deaths animated chart")   
+![Bermuda covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bermuda/2020-05-09_Bermuda_deaths.gif "Bermuda covid-19 deaths animated chart")   
  
 #### Static
-![Bermuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Bermuda/2020-05-08_Bermuda_deaths.png "Bermuda covid-19 deaths static chart")   
+![Bermuda covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bermuda/2020-05-09_Bermuda_deaths.png "Bermuda covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Bermuda covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Bermuda/2020-05-08_Bermuda_cases.gif "Bermuda covid-19 cases animated chart")   
+![Bermuda covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bermuda/2020-05-09_Bermuda_cases.gif "Bermuda covid-19 cases animated chart")   
  
 #### Static
-![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Bermuda/2020-05-08_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
+![Bermuda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bermuda/2020-05-09_Bermuda_cases.png "Bermuda covid-19 cases static chart")   
 

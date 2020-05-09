@@ -1,6 +1,6 @@
 ## Tajikistan Covid-19 status comparison 
 
-Tajikistan
+Tajikistan covid-19 deaths are currently doubling each 3.42 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -20,12 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
+#### Animated
+![Tajikistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Tajikistan/2020-05-09_Tajikistan_deaths.gif "Tajikistan covid-19 deaths animated chart")   
+ 
 #### Static
-![Tajikistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Tajikistan/2020-05-08_Tajikistan_deaths.png "Tajikistan covid-19 deaths static chart")   
+![Tajikistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Tajikistan/2020-05-09_Tajikistan_deaths.png "Tajikistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
+#### Animated
+![Tajikistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Tajikistan/2020-05-09_Tajikistan_cases.gif "Tajikistan covid-19 cases animated chart")   
+ 
 #### Static
-![Tajikistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Tajikistan/2020-05-08_Tajikistan_cases.png "Tajikistan covid-19 cases static chart")   
+![Tajikistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Tajikistan/2020-05-09_Tajikistan_cases.png "Tajikistan covid-19 cases static chart")   
 

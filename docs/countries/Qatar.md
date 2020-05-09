@@ -1,6 +1,6 @@
 ## Qatar Covid-19 status comparison 
 
-Qatar covid-19 deaths are currently doubling each 29.87 days (observed initial average doubling time is 2.2 days across countries).
+Qatar covid-19 deaths are currently doubling each 39.21 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Qatar covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Qatar/2020-05-08_Qatar_deaths.gif "Qatar covid-19 deaths animated chart")   
+![Qatar covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Qatar/2020-05-09_Qatar_deaths.gif "Qatar covid-19 deaths animated chart")   
  
 #### Static
-![Qatar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Qatar/2020-05-08_Qatar_deaths.png "Qatar covid-19 deaths static chart")   
+![Qatar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Qatar/2020-05-09_Qatar_deaths.png "Qatar covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Qatar covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Qatar/2020-05-08_Qatar_cases.gif "Qatar covid-19 cases animated chart")   
+![Qatar covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Qatar/2020-05-09_Qatar_cases.gif "Qatar covid-19 cases animated chart")   
  
 #### Static
-![Qatar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-08/countries/Qatar/2020-05-08_Qatar_cases.png "Qatar covid-19 cases static chart")   
+![Qatar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Qatar/2020-05-09_Qatar_cases.png "Qatar covid-19 cases static chart")   
 
