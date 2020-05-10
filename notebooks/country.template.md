@@ -23,6 +23,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### {{data_type.capitalize()}} over time
 {% for ci in chart_infos %} 
 #### {{ci.chart_type.capitalize()}}
-![{{country.name}} covid-19 {{ci.data_type}} {{ci.chart_type}} chart]({{url_prefix}}_{{ci.data_type}}.{{ci.chart_suffix}} "{{country.name}} covid-19 {{ci.data_type}} {{ci.chart_type}} chart")   
+![{{country.name}} covid-19 {{ci.data_type_string}} {{ci.chart_type}} chart]({{url_prefix}}_{{ci.data_type}}.{{ci.chart_suffix}} "{{country.name}} covid-19 {{ci.data_type}} {{ci.chart_type}} chart")   
 {% endfor %}
 {% endfor %}
