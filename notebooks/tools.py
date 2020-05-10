@@ -318,6 +318,10 @@ class CountryGraph:
         
         if self.log_axis:
             plt.yscale("log")
+        else:
+            print("linear")
+            plt.yscale("linear")
+
         label = self.country 
         offset = self.offset
         if offset != 0:
@@ -513,7 +517,7 @@ def run():
             g = MultiCountryGraph(data_provider,
                                   country_info_store,
                                    main_chart_countries,
-                                  log_axis = False,
+                                  log_axis = True,
                                   data_type = "day_deaths",
                                   visually_impaired = True,
                                   china_comparison = False,
@@ -551,7 +555,6 @@ def run():
                 if "day" in dt:
                     growth_reference = False
                     average_data_length = 7
-                    log_axis = False
 
                 g = MultiCountryGraph(data_provider,
                                       country_info_store,
