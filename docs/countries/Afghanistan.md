@@ -1,6 +1,6 @@
 ## Afghanistan Covid-19 status comparison 
 
-Afghanistan covid-19 deaths are currently doubling each 9.60 days (observed initial average doubling time is 2.2 days across countries).
+Afghanistan covid-19 deaths are currently doubling each 10.24 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Afghanistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Afghanistan/2020-05-09_Afghanistan_deaths.gif "Afghanistan covid-19 deaths animated chart")   
+![Afghanistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Afghanistan/2020-05-10_Afghanistan_deaths.gif "Afghanistan covid-19 deaths animated chart")   
  
 #### Static
-![Afghanistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Afghanistan/2020-05-09_Afghanistan_deaths.png "Afghanistan covid-19 deaths static chart")   
+![Afghanistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Afghanistan/2020-05-10_Afghanistan_deaths.png "Afghanistan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Afghanistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Afghanistan/2020-05-09_Afghanistan_cases.gif "Afghanistan covid-19 cases animated chart")   
+![Afghanistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Afghanistan/2020-05-10_Afghanistan_cases.gif "Afghanistan covid-19 cases animated chart")   
  
 #### Static
-![Afghanistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Afghanistan/2020-05-09_Afghanistan_cases.png "Afghanistan covid-19 cases static chart")   
+![Afghanistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Afghanistan/2020-05-10_Afghanistan_cases.png "Afghanistan covid-19 cases static chart")   
 

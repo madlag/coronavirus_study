@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Sao Tome And Principe covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sao_Tome_And_Principe/2020-05-09_Sao_Tome_And_Principe_deaths.png "Sao Tome And Principe covid-19 deaths static chart")   
+![Sao Tome And Principe covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sao_Tome_And_Principe/2020-05-10_Sao_Tome_And_Principe_deaths.png "Sao Tome And Principe covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Sao Tome And Principe covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Sao_Tome_And_Principe/2020-05-09_Sao_Tome_And_Principe_cases.png "Sao Tome And Principe covid-19 cases static chart")   
+![Sao Tome And Principe covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sao_Tome_And_Principe/2020-05-10_Sao_Tome_And_Principe_cases.png "Sao Tome And Principe covid-19 cases static chart")   
 

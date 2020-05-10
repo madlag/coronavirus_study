@@ -21,5 +21,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Static
-![Mozambique covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Mozambique/2020-05-09_Mozambique_cases.png "Mozambique covid-19 cases static chart")   
+![Mozambique covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mozambique/2020-05-10_Mozambique_cases.png "Mozambique covid-19 cases static chart")   
 

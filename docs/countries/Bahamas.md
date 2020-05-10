@@ -1,6 +1,6 @@
 ## Bahamas Covid-19 status comparison 
 
-Bahamas covid-19 deaths are currently doubling each 63341251564224296.00 days (observed initial average doubling time is 2.2 days across countries).
+Bahamas covid-19 deaths are currently doubling each -446948229481855616.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Animated
-![Bahamas covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bahamas/2020-05-09_Bahamas_deaths.gif "Bahamas covid-19 deaths animated chart")   
+![Bahamas covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.gif "Bahamas covid-19 deaths animated chart")   
  
 #### Static
-![Bahamas covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bahamas/2020-05-09_Bahamas_deaths.png "Bahamas covid-19 deaths static chart")   
+![Bahamas covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.png "Bahamas covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Animated
-![Bahamas covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bahamas/2020-05-09_Bahamas_cases.gif "Bahamas covid-19 cases animated chart")   
+![Bahamas covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.gif "Bahamas covid-19 cases animated chart")   
  
 #### Static
-![Bahamas covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Bahamas/2020-05-09_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
+![Bahamas covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![Maldives covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Maldives/2020-05-09_Maldives_deaths.png "Maldives covid-19 deaths static chart")   
+![Maldives covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Maldives/2020-05-10_Maldives_deaths.png "Maldives covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![Maldives covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/Maldives/2020-05-09_Maldives_cases.png "Maldives covid-19 cases static chart")   
+![Maldives covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Maldives/2020-05-10_Maldives_cases.png "Maldives covid-19 cases static chart")   
 

@@ -21,11 +21,11 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Static
-![British Virgin Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/British_Virgin_Islands/2020-05-09_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
+![British Virgin Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
-![British Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-09/countries/British_Virgin_Islands/2020-05-09_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
+![British Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
 
