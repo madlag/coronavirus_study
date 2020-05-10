@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![New Caledonia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Caledonia/2020-05-10_New_Caledonia_cases.png "New Caledonia covid-19 cases static chart")   
+ 
+#### Static
+![New Caledonia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Caledonia/2020-05-10_New_Caledonia_day_cases.png "New Caledonia covid-19 day_cases static chart")   
 

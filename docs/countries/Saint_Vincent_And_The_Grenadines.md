@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Saint Vincent And The Grenadines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Saint_Vincent_And_The_Grenadines/2020-05-10_Saint_Vincent_And_The_Grenadines_cases.png "Saint Vincent And The Grenadines covid-19 cases static chart")   
+ 
+#### Static
+![Saint Vincent And The Grenadines covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Saint_Vincent_And_The_Grenadines/2020-05-10_Saint_Vincent_And_The_Grenadines_day_cases.png "Saint Vincent And The Grenadines covid-19 day_cases static chart")   
 

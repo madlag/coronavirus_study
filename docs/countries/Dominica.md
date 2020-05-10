@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Dominica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominica/2020-05-10_Dominica_cases.png "Dominica covid-19 cases static chart")   
+ 
+#### Static
+![Dominica covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominica/2020-05-10_Dominica_day_cases.png "Dominica covid-19 day_cases static chart")   
 

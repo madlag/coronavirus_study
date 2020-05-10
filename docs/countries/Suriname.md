@@ -22,10 +22,16 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Suriname covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Suriname/2020-05-10_Suriname_deaths.png "Suriname covid-19 deaths static chart")   
+ 
+#### Static
+![Suriname covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Suriname/2020-05-10_Suriname_day_deaths.png "Suriname covid-19 day_deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
 ![Suriname covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Suriname/2020-05-10_Suriname_cases.png "Suriname covid-19 cases static chart")   
+ 
+#### Static
+![Suriname covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Suriname/2020-05-10_Suriname_day_cases.png "Suriname covid-19 day_cases static chart")   
 

@@ -22,10 +22,16 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Cayman Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cayman_Islands/2020-05-10_Cayman_Islands_deaths.png "Cayman Islands covid-19 deaths static chart")   
+ 
+#### Static
+![Cayman Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cayman_Islands/2020-05-10_Cayman_Islands_day_deaths.png "Cayman Islands covid-19 day_deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
 ![Cayman Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cayman_Islands/2020-05-10_Cayman_Islands_cases.png "Cayman Islands covid-19 cases static chart")   
+ 
+#### Static
+![Cayman Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cayman_Islands/2020-05-10_Cayman_Islands_day_cases.png "Cayman Islands covid-19 day_cases static chart")   
 

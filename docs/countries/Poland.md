@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Poland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_deaths.gif "Poland covid-19 deaths animated chart")   
  
+#### Animated
+![Poland covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_day_deaths.gif "Poland covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Poland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_deaths.png "Poland covid-19 deaths static chart")   
+ 
+#### Static
+![Poland covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_day_deaths.png "Poland covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Poland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_cases.gif "Poland covid-19 cases animated chart")   
  
+#### Animated
+![Poland covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_day_cases.gif "Poland covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Poland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_cases.png "Poland covid-19 cases static chart")   
+ 
+#### Static
+![Poland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Poland/2020-05-10_Poland_day_cases.png "Poland covid-19 day_cases static chart")   
 

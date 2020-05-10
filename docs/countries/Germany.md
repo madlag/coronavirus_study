@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Germany covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_deaths.gif "Germany covid-19 deaths animated chart")   
  
+#### Animated
+![Germany covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_day_deaths.gif "Germany covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Germany covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_deaths.png "Germany covid-19 deaths static chart")   
+ 
+#### Static
+![Germany covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_day_deaths.png "Germany covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Germany covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_cases.gif "Germany covid-19 cases animated chart")   
  
+#### Animated
+![Germany covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_day_cases.gif "Germany covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Germany covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_cases.png "Germany covid-19 cases static chart")   
+ 
+#### Static
+![Germany covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Germany/2020-05-10_Germany_day_cases.png "Germany covid-19 day_cases static chart")   
 

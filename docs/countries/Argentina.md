@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Argentina covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.gif "Argentina covid-19 deaths animated chart")   
  
+#### Animated
+![Argentina covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_deaths.gif "Argentina covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Argentina covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.png "Argentina covid-19 deaths static chart")   
+ 
+#### Static
+![Argentina covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_deaths.png "Argentina covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Argentina covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.gif "Argentina covid-19 cases animated chart")   
  
+#### Animated
+![Argentina covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_cases.gif "Argentina covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.png "Argentina covid-19 cases static chart")   
+ 
+#### Static
+![Argentina covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_cases.png "Argentina covid-19 day_cases static chart")   
 

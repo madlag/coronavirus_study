@@ -22,10 +22,16 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Syria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Syria/2020-05-10_Syria_deaths.png "Syria covid-19 deaths static chart")   
+ 
+#### Static
+![Syria covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Syria/2020-05-10_Syria_day_deaths.png "Syria covid-19 day_deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
 ![Syria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Syria/2020-05-10_Syria_cases.png "Syria covid-19 cases static chart")   
+ 
+#### Static
+![Syria covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Syria/2020-05-10_Syria_day_cases.png "Syria covid-19 day_cases static chart")   
 

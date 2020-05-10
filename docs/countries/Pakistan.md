@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Pakistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_deaths.gif "Pakistan covid-19 deaths animated chart")   
  
+#### Animated
+![Pakistan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_day_deaths.gif "Pakistan covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Pakistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
+ 
+#### Static
+![Pakistan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_day_deaths.png "Pakistan covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Pakistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_cases.gif "Pakistan covid-19 cases animated chart")   
  
+#### Animated
+![Pakistan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_day_cases.gif "Pakistan covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Pakistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
+ 
+#### Static
+![Pakistan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Pakistan/2020-05-10_Pakistan_day_cases.png "Pakistan covid-19 day_cases static chart")   
 

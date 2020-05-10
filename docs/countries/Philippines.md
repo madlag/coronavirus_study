@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Philippines covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_deaths.gif "Philippines covid-19 deaths animated chart")   
  
+#### Animated
+![Philippines covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_day_deaths.gif "Philippines covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Philippines covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_deaths.png "Philippines covid-19 deaths static chart")   
+ 
+#### Static
+![Philippines covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_day_deaths.png "Philippines covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Philippines covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_cases.gif "Philippines covid-19 cases animated chart")   
  
+#### Animated
+![Philippines covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_day_cases.gif "Philippines covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Philippines covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_cases.png "Philippines covid-19 cases static chart")   
+ 
+#### Static
+![Philippines covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Philippines/2020-05-10_Philippines_day_cases.png "Philippines covid-19 day_cases static chart")   
 

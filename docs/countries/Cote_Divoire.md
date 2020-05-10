@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Cote Divoire covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.gif "Cote Divoire covid-19 deaths animated chart")   
  
+#### Animated
+![Cote Divoire covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_deaths.gif "Cote Divoire covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
+ 
+#### Static
+![Cote Divoire covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_deaths.png "Cote Divoire covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Cote Divoire covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.gif "Cote Divoire covid-19 cases animated chart")   
  
+#### Animated
+![Cote Divoire covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_cases.gif "Cote Divoire covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
+ 
+#### Static
+![Cote Divoire covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_cases.png "Cote Divoire covid-19 day_cases static chart")   
 

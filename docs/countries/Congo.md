@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.gif "Congo covid-19 deaths animated chart")   
  
+#### Animated
+![Congo covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_deaths.gif "Congo covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.png "Congo covid-19 deaths static chart")   
+ 
+#### Static
+![Congo covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_deaths.png "Congo covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.gif "Congo covid-19 cases animated chart")   
  
+#### Animated
+![Congo covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_cases.gif "Congo covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.png "Congo covid-19 cases static chart")   
+ 
+#### Static
+![Congo covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_cases.png "Congo covid-19 day_cases static chart")   
 

@@ -22,10 +22,16 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Zimbabwe covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Zimbabwe/2020-05-10_Zimbabwe_deaths.png "Zimbabwe covid-19 deaths static chart")   
+ 
+#### Static
+![Zimbabwe covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Zimbabwe/2020-05-10_Zimbabwe_day_deaths.png "Zimbabwe covid-19 day_deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
 ![Zimbabwe covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Zimbabwe/2020-05-10_Zimbabwe_cases.png "Zimbabwe covid-19 cases static chart")   
+ 
+#### Static
+![Zimbabwe covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Zimbabwe/2020-05-10_Zimbabwe_day_cases.png "Zimbabwe covid-19 day_cases static chart")   
 

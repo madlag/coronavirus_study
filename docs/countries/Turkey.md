@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Turkey covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_deaths.gif "Turkey covid-19 deaths animated chart")   
  
+#### Animated
+![Turkey covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_day_deaths.gif "Turkey covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Turkey covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_deaths.png "Turkey covid-19 deaths static chart")   
+ 
+#### Static
+![Turkey covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_day_deaths.png "Turkey covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Turkey covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_cases.gif "Turkey covid-19 cases animated chart")   
  
+#### Animated
+![Turkey covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_day_cases.gif "Turkey covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Turkey covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_cases.png "Turkey covid-19 cases static chart")   
+ 
+#### Static
+![Turkey covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Turkey/2020-05-10_Turkey_day_cases.png "Turkey covid-19 day_cases static chart")   
 

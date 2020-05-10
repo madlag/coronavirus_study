@@ -22,10 +22,16 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Belize covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belize/2020-05-10_Belize_deaths.png "Belize covid-19 deaths static chart")   
+ 
+#### Static
+![Belize covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belize/2020-05-10_Belize_day_deaths.png "Belize covid-19 day_deaths static chart")   
 
  
 ### Cases over time
  
 #### Static
 ![Belize covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belize/2020-05-10_Belize_cases.png "Belize covid-19 cases static chart")   
+ 
+#### Static
+![Belize covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belize/2020-05-10_Belize_day_cases.png "Belize covid-19 day_cases static chart")   
 

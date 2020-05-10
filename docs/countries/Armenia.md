@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Armenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_deaths.gif "Armenia covid-19 deaths animated chart")   
  
+#### Animated
+![Armenia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_day_deaths.gif "Armenia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Armenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_deaths.png "Armenia covid-19 deaths static chart")   
+ 
+#### Static
+![Armenia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_day_deaths.png "Armenia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Armenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_cases.gif "Armenia covid-19 cases animated chart")   
  
+#### Animated
+![Armenia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_day_cases.gif "Armenia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Armenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_cases.png "Armenia covid-19 cases static chart")   
+ 
+#### Static
+![Armenia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Armenia/2020-05-10_Armenia_day_cases.png "Armenia covid-19 day_cases static chart")   
 

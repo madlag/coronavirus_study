@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![United Arab Emirates covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_deaths.gif "United Arab Emirates covid-19 deaths animated chart")   
  
+#### Animated
+![United Arab Emirates covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_day_deaths.gif "United Arab Emirates covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![United Arab Emirates covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_deaths.png "United Arab Emirates covid-19 deaths static chart")   
+ 
+#### Static
+![United Arab Emirates covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_day_deaths.png "United Arab Emirates covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![United Arab Emirates covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_cases.gif "United Arab Emirates covid-19 cases animated chart")   
  
+#### Animated
+![United Arab Emirates covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_day_cases.gif "United Arab Emirates covid-19 day_cases animated chart")   
+ 
 #### Static
 ![United Arab Emirates covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_cases.png "United Arab Emirates covid-19 cases static chart")   
+ 
+#### Static
+![United Arab Emirates covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_Arab_Emirates/2020-05-10_United_Arab_Emirates_day_cases.png "United Arab Emirates covid-19 day_cases static chart")   
 

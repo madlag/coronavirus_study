@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Slovenia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_deaths.gif "Slovenia covid-19 deaths animated chart")   
  
+#### Animated
+![Slovenia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_day_deaths.gif "Slovenia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Slovenia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_deaths.png "Slovenia covid-19 deaths static chart")   
+ 
+#### Static
+![Slovenia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_day_deaths.png "Slovenia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Slovenia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_cases.gif "Slovenia covid-19 cases animated chart")   
  
+#### Animated
+![Slovenia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_day_cases.gif "Slovenia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Slovenia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_cases.png "Slovenia covid-19 cases static chart")   
+ 
+#### Static
+![Slovenia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovenia/2020-05-10_Slovenia_day_cases.png "Slovenia covid-19 day_cases static chart")   
 

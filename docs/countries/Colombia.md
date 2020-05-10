@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Colombia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_deaths.gif "Colombia covid-19 deaths animated chart")   
  
+#### Animated
+![Colombia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_day_deaths.gif "Colombia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Colombia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_deaths.png "Colombia covid-19 deaths static chart")   
+ 
+#### Static
+![Colombia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_day_deaths.png "Colombia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Colombia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_cases.gif "Colombia covid-19 cases animated chart")   
  
+#### Animated
+![Colombia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_day_cases.gif "Colombia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Colombia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_cases.png "Colombia covid-19 cases static chart")   
+ 
+#### Static
+![Colombia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Colombia/2020-05-10_Colombia_day_cases.png "Colombia covid-19 day_cases static chart")   
 

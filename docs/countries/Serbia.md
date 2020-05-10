@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Serbia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_deaths.gif "Serbia covid-19 deaths animated chart")   
  
+#### Animated
+![Serbia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_day_deaths.gif "Serbia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Serbia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_deaths.png "Serbia covid-19 deaths static chart")   
+ 
+#### Static
+![Serbia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_day_deaths.png "Serbia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Serbia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_cases.gif "Serbia covid-19 cases animated chart")   
  
+#### Animated
+![Serbia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_day_cases.gif "Serbia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Serbia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_cases.png "Serbia covid-19 cases static chart")   
+ 
+#### Static
+![Serbia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Serbia/2020-05-10_Serbia_day_cases.png "Serbia covid-19 day_cases static chart")   
 

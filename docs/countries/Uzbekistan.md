@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Uzbekistan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_deaths.gif "Uzbekistan covid-19 deaths animated chart")   
  
+#### Animated
+![Uzbekistan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_day_deaths.gif "Uzbekistan covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Uzbekistan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_deaths.png "Uzbekistan covid-19 deaths static chart")   
+ 
+#### Static
+![Uzbekistan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_day_deaths.png "Uzbekistan covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Uzbekistan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_cases.gif "Uzbekistan covid-19 cases animated chart")   
  
+#### Animated
+![Uzbekistan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_day_cases.gif "Uzbekistan covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Uzbekistan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_cases.png "Uzbekistan covid-19 cases static chart")   
+ 
+#### Static
+![Uzbekistan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uzbekistan/2020-05-10_Uzbekistan_day_cases.png "Uzbekistan covid-19 day_cases static chart")   
 

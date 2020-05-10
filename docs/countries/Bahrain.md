@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Bahrain covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_deaths.gif "Bahrain covid-19 deaths animated chart")   
  
+#### Animated
+![Bahrain covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_day_deaths.gif "Bahrain covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Bahrain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_deaths.png "Bahrain covid-19 deaths static chart")   
+ 
+#### Static
+![Bahrain covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_day_deaths.png "Bahrain covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Bahrain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_cases.gif "Bahrain covid-19 cases animated chart")   
  
+#### Animated
+![Bahrain covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_day_cases.gif "Bahrain covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Bahrain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_cases.png "Bahrain covid-19 cases static chart")   
+ 
+#### Static
+![Bahrain covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahrain/2020-05-10_Bahrain_day_cases.png "Bahrain covid-19 day_cases static chart")   
 

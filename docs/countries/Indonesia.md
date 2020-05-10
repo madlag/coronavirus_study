@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Indonesia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_deaths.gif "Indonesia covid-19 deaths animated chart")   
  
+#### Animated
+![Indonesia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_day_deaths.gif "Indonesia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Indonesia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_deaths.png "Indonesia covid-19 deaths static chart")   
+ 
+#### Static
+![Indonesia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_day_deaths.png "Indonesia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Indonesia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_cases.gif "Indonesia covid-19 cases animated chart")   
  
+#### Animated
+![Indonesia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_day_cases.gif "Indonesia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Indonesia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_cases.png "Indonesia covid-19 cases static chart")   
+ 
+#### Static
+![Indonesia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Indonesia/2020-05-10_Indonesia_day_cases.png "Indonesia covid-19 day_cases static chart")   
 

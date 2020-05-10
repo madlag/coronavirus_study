@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![San Marino covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_deaths.gif "San Marino covid-19 deaths animated chart")   
  
+#### Animated
+![San Marino covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_day_deaths.gif "San Marino covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![San Marino covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_deaths.png "San Marino covid-19 deaths static chart")   
+ 
+#### Static
+![San Marino covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_day_deaths.png "San Marino covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![San Marino covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_cases.gif "San Marino covid-19 cases animated chart")   
  
+#### Animated
+![San Marino covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_day_cases.gif "San Marino covid-19 day_cases animated chart")   
+ 
 #### Static
 ![San Marino covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_cases.png "San Marino covid-19 cases static chart")   
+ 
+#### Static
+![San Marino covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/San_Marino/2020-05-10_San_Marino_day_cases.png "San Marino covid-19 day_cases static chart")   
 

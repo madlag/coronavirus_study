@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Eritrea covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Eritrea/2020-05-10_Eritrea_cases.png "Eritrea covid-19 cases static chart")   
+ 
+#### Static
+![Eritrea covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Eritrea/2020-05-10_Eritrea_day_cases.png "Eritrea covid-19 day_cases static chart")   
 

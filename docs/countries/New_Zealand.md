@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![New Zealand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.gif "New Zealand covid-19 deaths animated chart")   
  
+#### Animated
+![New Zealand covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_deaths.gif "New Zealand covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
+ 
+#### Static
+![New Zealand covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_deaths.png "New Zealand covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![New Zealand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.gif "New Zealand covid-19 cases animated chart")   
  
+#### Animated
+![New Zealand covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_cases.gif "New Zealand covid-19 day_cases animated chart")   
+ 
 #### Static
 ![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
+ 
+#### Static
+![New Zealand covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_cases.png "New Zealand covid-19 day_cases static chart")   
 

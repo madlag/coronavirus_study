@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Iraq covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_deaths.gif "Iraq covid-19 deaths animated chart")   
  
+#### Animated
+![Iraq covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_day_deaths.gif "Iraq covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Iraq covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_deaths.png "Iraq covid-19 deaths static chart")   
+ 
+#### Static
+![Iraq covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_day_deaths.png "Iraq covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Iraq covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
  
+#### Animated
+![Iraq covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_day_cases.gif "Iraq covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Iraq covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_cases.png "Iraq covid-19 cases static chart")   
+ 
+#### Static
+![Iraq covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Iraq/2020-05-10_Iraq_day_cases.png "Iraq covid-19 day_cases static chart")   
 

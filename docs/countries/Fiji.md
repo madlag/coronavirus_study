@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Fiji covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Fiji/2020-05-10_Fiji_cases.png "Fiji covid-19 cases static chart")   
+ 
+#### Static
+![Fiji covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Fiji/2020-05-10_Fiji_day_cases.png "Fiji covid-19 day_cases static chart")   
 

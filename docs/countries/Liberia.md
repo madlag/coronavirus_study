@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Liberia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_deaths.gif "Liberia covid-19 deaths animated chart")   
  
+#### Animated
+![Liberia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_day_deaths.gif "Liberia covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Liberia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_deaths.png "Liberia covid-19 deaths static chart")   
+ 
+#### Static
+![Liberia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_day_deaths.png "Liberia covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Liberia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_cases.gif "Liberia covid-19 cases animated chart")   
  
+#### Animated
+![Liberia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_day_cases.gif "Liberia covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Liberia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_cases.png "Liberia covid-19 cases static chart")   
+ 
+#### Static
+![Liberia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Liberia/2020-05-10_Liberia_day_cases.png "Liberia covid-19 day_cases static chart")   
 

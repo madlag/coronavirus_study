@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Bosnia And Herzegovina covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_deaths.gif "Bosnia And Herzegovina covid-19 deaths animated chart")   
  
+#### Animated
+![Bosnia And Herzegovina covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_day_deaths.gif "Bosnia And Herzegovina covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Bosnia And Herzegovina covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_deaths.png "Bosnia And Herzegovina covid-19 deaths static chart")   
+ 
+#### Static
+![Bosnia And Herzegovina covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_day_deaths.png "Bosnia And Herzegovina covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Bosnia And Herzegovina covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_cases.gif "Bosnia And Herzegovina covid-19 cases animated chart")   
  
+#### Animated
+![Bosnia And Herzegovina covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_day_cases.gif "Bosnia And Herzegovina covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Bosnia And Herzegovina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_cases.png "Bosnia And Herzegovina covid-19 cases static chart")   
+ 
+#### Static
+![Bosnia And Herzegovina covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bosnia_And_Herzegovina/2020-05-10_Bosnia_And_Herzegovina_day_cases.png "Bosnia And Herzegovina covid-19 day_cases static chart")   
 

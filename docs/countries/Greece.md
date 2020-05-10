@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Greece covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_deaths.gif "Greece covid-19 deaths animated chart")   
  
+#### Animated
+![Greece covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_day_deaths.gif "Greece covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Greece covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_deaths.png "Greece covid-19 deaths static chart")   
+ 
+#### Static
+![Greece covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_day_deaths.png "Greece covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Greece covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_cases.gif "Greece covid-19 cases animated chart")   
  
+#### Animated
+![Greece covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_day_cases.gif "Greece covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Greece covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_cases.png "Greece covid-19 cases static chart")   
+ 
+#### Static
+![Greece covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Greece/2020-05-10_Greece_day_cases.png "Greece covid-19 day_cases static chart")   
 

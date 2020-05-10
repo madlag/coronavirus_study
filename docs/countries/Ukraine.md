@@ -23,8 +23,14 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Ukraine covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_deaths.gif "Ukraine covid-19 deaths animated chart")   
  
+#### Animated
+![Ukraine covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_day_deaths.gif "Ukraine covid-19 day_deaths animated chart")   
+ 
 #### Static
 ![Ukraine covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_deaths.png "Ukraine covid-19 deaths static chart")   
+ 
+#### Static
+![Ukraine covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_day_deaths.png "Ukraine covid-19 day_deaths static chart")   
 
  
 ### Cases over time
@@ -32,6 +38,12 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 #### Animated
 ![Ukraine covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_cases.gif "Ukraine covid-19 cases animated chart")   
  
+#### Animated
+![Ukraine covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_day_cases.gif "Ukraine covid-19 day_cases animated chart")   
+ 
 #### Static
 ![Ukraine covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_cases.png "Ukraine covid-19 cases static chart")   
+ 
+#### Static
+![Ukraine covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ukraine/2020-05-10_Ukraine_day_cases.png "Ukraine covid-19 day_cases static chart")   
 

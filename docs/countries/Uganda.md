@@ -22,4 +22,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 #### Static
 ![Uganda covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uganda/2020-05-10_Uganda_cases.png "Uganda covid-19 cases static chart")   
+ 
+#### Static
+![Uganda covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uganda/2020-05-10_Uganda_day_cases.png "Uganda covid-19 day_cases static chart")   
 
