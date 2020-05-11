@@ -1,6 +1,6 @@
 ## Barbados Covid-19 status comparison 
 
-Barbados covid-19 deaths are currently doubling each 24830457193436428.00 days (observed initial average doubling time is 2.2 days across countries).
+Barbados covid-19 deaths are currently doubling each 40955246623958472.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Barbados covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_day_deaths.png "Barbados covid-19 day_deaths static chart")   
+![Barbados covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_day_deaths.png "Barbados covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Barbados covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_deaths.png "Barbados covid-19 deaths static chart")   
+![Barbados covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_deaths.png "Barbados covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Barbados covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_day_deaths.gif "Barbados covid-19 day_deaths animated chart")   
+![Barbados covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_day_deaths.gif "Barbados covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Barbados covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_deaths.gif "Barbados covid-19 deaths animated chart")   
+![Barbados covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_deaths.gif "Barbados covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Barbados covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_day_cases.png "Barbados covid-19 day_cases static chart")   
+![Barbados covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_day_cases.png "Barbados covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Barbados covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_cases.png "Barbados covid-19 cases static chart")   
+![Barbados covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_cases.png "Barbados covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Barbados covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_day_cases.gif "Barbados covid-19 day_cases animated chart")   
+![Barbados covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_day_cases.gif "Barbados covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Barbados covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Barbados/2020-05-10_Barbados_cases.gif "Barbados covid-19 cases animated chart")   
+![Barbados covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Barbados/2020-05-11_Barbados_cases.gif "Barbados covid-19 cases animated chart")   
 

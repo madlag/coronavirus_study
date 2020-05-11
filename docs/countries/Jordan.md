@@ -1,6 +1,6 @@
 ## Jordan Covid-19 status comparison 
 
-Jordan covid-19 deaths are currently doubling each 60.69 days (observed initial average doubling time is 2.2 days across countries).
+Jordan covid-19 deaths are currently doubling each 107.89 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Jordan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_day_deaths.png "Jordan covid-19 day_deaths static chart")   
+![Jordan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_day_deaths.png "Jordan covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Jordan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
+![Jordan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_deaths.png "Jordan covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Jordan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_day_deaths.gif "Jordan covid-19 day_deaths animated chart")   
+![Jordan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_day_deaths.gif "Jordan covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Jordan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_deaths.gif "Jordan covid-19 deaths animated chart")   
+![Jordan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_deaths.gif "Jordan covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Jordan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_day_cases.png "Jordan covid-19 day_cases static chart")   
+![Jordan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_day_cases.png "Jordan covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Jordan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_cases.png "Jordan covid-19 cases static chart")   
+![Jordan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_cases.png "Jordan covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Jordan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_day_cases.gif "Jordan covid-19 day_cases animated chart")   
+![Jordan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_day_cases.gif "Jordan covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Jordan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Jordan/2020-05-10_Jordan_cases.gif "Jordan covid-19 cases animated chart")   
+![Jordan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Jordan/2020-05-11_Jordan_cases.gif "Jordan covid-19 cases animated chart")   
 
