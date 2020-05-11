@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Spain covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_deaths.gif "Spain covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Spain covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_deaths.png "Spain covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Spain covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_deaths.png "Spain covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Spain covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_deaths.gif "Spain covid-19 day_deaths animated chart")   
  
-#### Static
-![Spain covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_deaths.png "Spain covid-19 deaths static chart")   
- 
-#### Static
-![Spain covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_deaths.png "Spain covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Spain covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_deaths.gif "Spain covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Spain covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_cases.gif "Spain covid-19 cases animated chart")   
+#### Daily cases (static)
+![Spain covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_cases.png "Spain covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Spain covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_cases.png "Spain covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Spain covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_cases.gif "Spain covid-19 day_cases animated chart")   
  
-#### Static
-![Spain covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_cases.png "Spain covid-19 cases static chart")   
- 
-#### Static
-![Spain covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_day_cases.png "Spain covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Spain covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Spain/2020-05-10_Spain_cases.gif "Spain covid-19 cases animated chart")   
 

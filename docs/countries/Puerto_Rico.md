@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Puerto Rico covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_deaths.gif "Puerto Rico covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Puerto Rico covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_deaths.png "Puerto Rico covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Puerto Rico covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Puerto Rico covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_deaths.gif "Puerto Rico covid-19 day_deaths animated chart")   
  
-#### Static
-![Puerto Rico covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_deaths.png "Puerto Rico covid-19 deaths static chart")   
- 
-#### Static
-![Puerto Rico covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_deaths.png "Puerto Rico covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Puerto Rico covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_deaths.gif "Puerto Rico covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Puerto Rico covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_cases.gif "Puerto Rico covid-19 cases animated chart")   
+#### Daily cases (static)
+![Puerto Rico covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_cases.png "Puerto Rico covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Puerto Rico covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Puerto Rico covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_cases.gif "Puerto Rico covid-19 day_cases animated chart")   
  
-#### Static
-![Puerto Rico covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_cases.png "Puerto Rico covid-19 cases static chart")   
- 
-#### Static
-![Puerto Rico covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_day_cases.png "Puerto Rico covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Puerto Rico covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Puerto_Rico/2020-05-10_Puerto_Rico_cases.gif "Puerto Rico covid-19 cases animated chart")   
 

@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Slovakia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_deaths.gif "Slovakia covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Slovakia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_deaths.png "Slovakia covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Slovakia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_deaths.png "Slovakia covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Slovakia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_deaths.gif "Slovakia covid-19 day_deaths animated chart")   
  
-#### Static
-![Slovakia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_deaths.png "Slovakia covid-19 deaths static chart")   
- 
-#### Static
-![Slovakia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_deaths.png "Slovakia covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Slovakia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_deaths.gif "Slovakia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Slovakia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_cases.gif "Slovakia covid-19 cases animated chart")   
+#### Daily cases (static)
+![Slovakia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_cases.png "Slovakia covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Slovakia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Slovakia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_cases.gif "Slovakia covid-19 day_cases animated chart")   
  
-#### Static
-![Slovakia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_cases.png "Slovakia covid-19 cases static chart")   
- 
-#### Static
-![Slovakia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_day_cases.png "Slovakia covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Slovakia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Slovakia/2020-05-10_Slovakia_cases.gif "Slovakia covid-19 cases animated chart")   
 

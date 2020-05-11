@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Bahamas covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.gif "Bahamas covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Bahamas covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_deaths.png "Bahamas covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Bahamas covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.png "Bahamas covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Bahamas covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_deaths.gif "Bahamas covid-19 day_deaths animated chart")   
  
-#### Static
-![Bahamas covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.png "Bahamas covid-19 deaths static chart")   
- 
-#### Static
-![Bahamas covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_deaths.png "Bahamas covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Bahamas covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_deaths.gif "Bahamas covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Bahamas covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.gif "Bahamas covid-19 cases animated chart")   
+#### Daily cases (static)
+![Bahamas covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_cases.png "Bahamas covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Bahamas covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Bahamas covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_cases.gif "Bahamas covid-19 day_cases animated chart")   
  
-#### Static
-![Bahamas covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.png "Bahamas covid-19 cases static chart")   
- 
-#### Static
-![Bahamas covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_day_cases.png "Bahamas covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Bahamas covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bahamas/2020-05-10_Bahamas_cases.gif "Bahamas covid-19 cases animated chart")   
 

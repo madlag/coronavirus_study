@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Moldova covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_deaths.gif "Moldova covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Moldova covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_deaths.png "Moldova covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Moldova covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Moldova covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_deaths.gif "Moldova covid-19 day_deaths animated chart")   
  
-#### Static
-![Moldova covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_deaths.png "Moldova covid-19 deaths static chart")   
- 
-#### Static
-![Moldova covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_deaths.png "Moldova covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Moldova covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_deaths.gif "Moldova covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Moldova covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_cases.gif "Moldova covid-19 cases animated chart")   
+#### Daily cases (static)
+![Moldova covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_cases.png "Moldova covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Moldova covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_cases.png "Moldova covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Moldova covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_cases.gif "Moldova covid-19 day_cases animated chart")   
  
-#### Static
-![Moldova covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_cases.png "Moldova covid-19 cases static chart")   
- 
-#### Static
-![Moldova covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_day_cases.png "Moldova covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Moldova covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Moldova/2020-05-10_Moldova_cases.gif "Moldova covid-19 cases animated chart")   
 

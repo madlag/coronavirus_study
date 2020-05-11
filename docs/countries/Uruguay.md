@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Uruguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Uruguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_deaths.png "Uruguay covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Uruguay covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Uruguay covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_deaths.gif "Uruguay covid-19 day_deaths animated chart")   
  
-#### Static
-![Uruguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
- 
-#### Static
-![Uruguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_deaths.png "Uruguay covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Uruguay covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Uruguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
+#### Daily cases (static)
+![Uruguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_cases.png "Uruguay covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Uruguay covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Uruguay covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_cases.gif "Uruguay covid-19 day_cases animated chart")   
  
-#### Static
-![Uruguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
- 
-#### Static
-![Uruguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_day_cases.png "Uruguay covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Uruguay covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Uruguay/2020-05-10_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
 

@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Peru covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_deaths.gif "Peru covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Peru covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_deaths.png "Peru covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Peru covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_deaths.png "Peru covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Peru covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_deaths.gif "Peru covid-19 day_deaths animated chart")   
  
-#### Static
-![Peru covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_deaths.png "Peru covid-19 deaths static chart")   
- 
-#### Static
-![Peru covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_deaths.png "Peru covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Peru covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_deaths.gif "Peru covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Peru covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_cases.gif "Peru covid-19 cases animated chart")   
+#### Daily cases (static)
+![Peru covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_cases.png "Peru covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Peru covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_cases.png "Peru covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Peru covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_cases.gif "Peru covid-19 day_cases animated chart")   
  
-#### Static
-![Peru covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_cases.png "Peru covid-19 cases static chart")   
- 
-#### Static
-![Peru covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_day_cases.png "Peru covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Peru covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Peru/2020-05-10_Peru_cases.gif "Peru covid-19 cases animated chart")   
 

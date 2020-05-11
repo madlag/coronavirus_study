@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Sri Lanka covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_deaths.gif "Sri Lanka covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Sri Lanka covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_deaths.png "Sri Lanka covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Sri Lanka covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Sri Lanka covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_deaths.gif "Sri Lanka covid-19 day_deaths animated chart")   
  
-#### Static
-![Sri Lanka covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_deaths.png "Sri Lanka covid-19 deaths static chart")   
- 
-#### Static
-![Sri Lanka covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_deaths.png "Sri Lanka covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Sri Lanka covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_deaths.gif "Sri Lanka covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Sri Lanka covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_cases.gif "Sri Lanka covid-19 cases animated chart")   
+#### Daily cases (static)
+![Sri Lanka covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_cases.png "Sri Lanka covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Sri Lanka covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Sri Lanka covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_cases.gif "Sri Lanka covid-19 day_cases animated chart")   
  
-#### Static
-![Sri Lanka covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_cases.png "Sri Lanka covid-19 cases static chart")   
- 
-#### Static
-![Sri Lanka covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_day_cases.png "Sri Lanka covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Sri Lanka covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sri_Lanka/2020-05-10_Sri_Lanka_cases.gif "Sri Lanka covid-19 cases animated chart")   
 

@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Congo covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.gif "Congo covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Congo covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_deaths.png "Congo covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Congo covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.png "Congo covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Congo covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_deaths.gif "Congo covid-19 day_deaths animated chart")   
  
-#### Static
-![Congo covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.png "Congo covid-19 deaths static chart")   
- 
-#### Static
-![Congo covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_deaths.png "Congo covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Congo covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_deaths.gif "Congo covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Congo covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.gif "Congo covid-19 cases animated chart")   
+#### Daily cases (static)
+![Congo covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_cases.png "Congo covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Congo covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.png "Congo covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Congo covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_cases.gif "Congo covid-19 day_cases animated chart")   
  
-#### Static
-![Congo covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.png "Congo covid-19 cases static chart")   
- 
-#### Static
-![Congo covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_day_cases.png "Congo covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Congo covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Congo/2020-05-10_Congo_cases.gif "Congo covid-19 cases animated chart")   
 

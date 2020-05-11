@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Kenya covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_deaths.gif "Kenya covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Kenya covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_deaths.png "Kenya covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Kenya covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_deaths.png "Kenya covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Kenya covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_deaths.gif "Kenya covid-19 day_deaths animated chart")   
  
-#### Static
-![Kenya covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_deaths.png "Kenya covid-19 deaths static chart")   
- 
-#### Static
-![Kenya covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_deaths.png "Kenya covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Kenya covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_deaths.gif "Kenya covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Kenya covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_cases.gif "Kenya covid-19 cases animated chart")   
+#### Daily cases (static)
+![Kenya covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_cases.png "Kenya covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Kenya covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_cases.png "Kenya covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Kenya covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_cases.gif "Kenya covid-19 day_cases animated chart")   
  
-#### Static
-![Kenya covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_cases.png "Kenya covid-19 cases static chart")   
- 
-#### Static
-![Kenya covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_day_cases.png "Kenya covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Kenya covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Kenya/2020-05-10_Kenya_cases.gif "Kenya covid-19 cases animated chart")   
 

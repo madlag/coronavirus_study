@@ -20,9 +20,9 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Cases over time
  
-#### Static
-![Saint Kitts And Nevis covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Saint_Kitts_And_Nevis/2020-05-10_Saint_Kitts_And_Nevis_cases.png "Saint Kitts And Nevis covid-19 cases static chart")   
- 
-#### Static
+#### Daily cases (static)
 ![Saint Kitts And Nevis covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Saint_Kitts_And_Nevis/2020-05-10_Saint_Kitts_And_Nevis_day_cases.png "Saint Kitts And Nevis covid-19 day_cases static chart")   
+ 
+#### Cumulated cases (static)
+![Saint Kitts And Nevis covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Saint_Kitts_And_Nevis/2020-05-10_Saint_Kitts_And_Nevis_cases.png "Saint Kitts And Nevis covid-19 cases static chart")   
 

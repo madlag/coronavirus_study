@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Cyprus covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Cyprus covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_deaths.png "Cyprus covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Cyprus covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Cyprus covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_deaths.gif "Cyprus covid-19 day_deaths animated chart")   
  
-#### Static
-![Cyprus covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
- 
-#### Static
-![Cyprus covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_deaths.png "Cyprus covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Cyprus covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Cyprus covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
+#### Daily cases (static)
+![Cyprus covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_cases.png "Cyprus covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Cyprus covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Cyprus covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_cases.gif "Cyprus covid-19 day_cases animated chart")   
  
-#### Static
-![Cyprus covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
- 
-#### Static
-![Cyprus covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_day_cases.png "Cyprus covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Cyprus covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cyprus/2020-05-10_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
 

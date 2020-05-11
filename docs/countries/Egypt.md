@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Egypt covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_deaths.gif "Egypt covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Egypt covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_deaths.png "Egypt covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Egypt covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Egypt covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_deaths.gif "Egypt covid-19 day_deaths animated chart")   
  
-#### Static
-![Egypt covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_deaths.png "Egypt covid-19 deaths static chart")   
- 
-#### Static
-![Egypt covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_deaths.png "Egypt covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Egypt covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_deaths.gif "Egypt covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Egypt covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_cases.gif "Egypt covid-19 cases animated chart")   
+#### Daily cases (static)
+![Egypt covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_cases.png "Egypt covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Egypt covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_cases.png "Egypt covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Egypt covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_cases.gif "Egypt covid-19 day_cases animated chart")   
  
-#### Static
-![Egypt covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_cases.png "Egypt covid-19 cases static chart")   
- 
-#### Static
-![Egypt covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_day_cases.png "Egypt covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Egypt covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Egypt/2020-05-10_Egypt_cases.gif "Egypt covid-19 cases animated chart")   
 

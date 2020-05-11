@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Bulgaria covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_deaths.gif "Bulgaria covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Bulgaria covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_deaths.png "Bulgaria covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Bulgaria covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Bulgaria covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_deaths.gif "Bulgaria covid-19 day_deaths animated chart")   
  
-#### Static
-![Bulgaria covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_deaths.png "Bulgaria covid-19 deaths static chart")   
- 
-#### Static
-![Bulgaria covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_deaths.png "Bulgaria covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Bulgaria covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_deaths.gif "Bulgaria covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Bulgaria covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_cases.gif "Bulgaria covid-19 cases animated chart")   
+#### Daily cases (static)
+![Bulgaria covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_cases.png "Bulgaria covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Bulgaria covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Bulgaria covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_cases.gif "Bulgaria covid-19 day_cases animated chart")   
  
-#### Static
-![Bulgaria covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_cases.png "Bulgaria covid-19 cases static chart")   
- 
-#### Static
-![Bulgaria covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_day_cases.png "Bulgaria covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Bulgaria covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bulgaria/2020-05-10_Bulgaria_cases.gif "Bulgaria covid-19 cases animated chart")   
 

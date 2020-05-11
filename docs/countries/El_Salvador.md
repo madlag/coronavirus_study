@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![El Salvador covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_deaths.gif "El Salvador covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![El Salvador covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_deaths.png "El Salvador covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![El Salvador covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![El Salvador covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_deaths.gif "El Salvador covid-19 day_deaths animated chart")   
  
-#### Static
-![El Salvador covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_deaths.png "El Salvador covid-19 deaths static chart")   
- 
-#### Static
-![El Salvador covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_deaths.png "El Salvador covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![El Salvador covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_deaths.gif "El Salvador covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![El Salvador covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_cases.gif "El Salvador covid-19 cases animated chart")   
+#### Daily cases (static)
+![El Salvador covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_cases.png "El Salvador covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![El Salvador covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![El Salvador covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_cases.gif "El Salvador covid-19 day_cases animated chart")   
  
-#### Static
-![El Salvador covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_cases.png "El Salvador covid-19 cases static chart")   
- 
-#### Static
-![El Salvador covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_day_cases.png "El Salvador covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![El Salvador covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/El_Salvador/2020-05-10_El_Salvador_cases.gif "El Salvador covid-19 cases animated chart")   
 

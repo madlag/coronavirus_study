@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Ireland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_deaths.gif "Ireland covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Ireland covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_deaths.png "Ireland covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Ireland covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_deaths.png "Ireland covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Ireland covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_deaths.gif "Ireland covid-19 day_deaths animated chart")   
  
-#### Static
-![Ireland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_deaths.png "Ireland covid-19 deaths static chart")   
- 
-#### Static
-![Ireland covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_deaths.png "Ireland covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Ireland covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_deaths.gif "Ireland covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Ireland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_cases.gif "Ireland covid-19 cases animated chart")   
+#### Daily cases (static)
+![Ireland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_cases.png "Ireland covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Ireland covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_cases.png "Ireland covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Ireland covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_cases.gif "Ireland covid-19 day_cases animated chart")   
  
-#### Static
-![Ireland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_cases.png "Ireland covid-19 cases static chart")   
- 
-#### Static
-![Ireland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_day_cases.png "Ireland covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Ireland covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ireland/2020-05-10_Ireland_cases.gif "Ireland covid-19 cases animated chart")   
 

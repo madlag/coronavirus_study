@@ -20,18 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Static
-![Ethiopia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_deaths.png "Ethiopia covid-19 deaths static chart")   
- 
-#### Static
+#### Daily deaths (static)
 ![Ethiopia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_day_deaths.png "Ethiopia covid-19 day_deaths static chart")   
+ 
+#### Cumulated deaths (static)
+![Ethiopia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_deaths.png "Ethiopia covid-19 deaths static chart")   
 
  
 ### Cases over time
  
-#### Static
-![Ethiopia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
- 
-#### Static
+#### Daily cases (static)
 ![Ethiopia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_day_cases.png "Ethiopia covid-19 day_cases static chart")   
+ 
+#### Cumulated cases (static)
+![Ethiopia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Ethiopia/2020-05-10_Ethiopia_cases.png "Ethiopia covid-19 cases static chart")   
 

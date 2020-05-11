@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Bolivia covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_deaths.gif "Bolivia covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Bolivia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_deaths.png "Bolivia covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Bolivia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Bolivia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_deaths.gif "Bolivia covid-19 day_deaths animated chart")   
  
-#### Static
-![Bolivia covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_deaths.png "Bolivia covid-19 deaths static chart")   
- 
-#### Static
-![Bolivia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_deaths.png "Bolivia covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Bolivia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_deaths.gif "Bolivia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Bolivia covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_cases.gif "Bolivia covid-19 cases animated chart")   
+#### Daily cases (static)
+![Bolivia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_cases.png "Bolivia covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Bolivia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Bolivia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_cases.gif "Bolivia covid-19 day_cases animated chart")   
  
-#### Static
-![Bolivia covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_cases.png "Bolivia covid-19 cases static chart")   
- 
-#### Static
-![Bolivia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_day_cases.png "Bolivia covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Bolivia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Bolivia/2020-05-10_Bolivia_cases.gif "Bolivia covid-19 cases animated chart")   
 

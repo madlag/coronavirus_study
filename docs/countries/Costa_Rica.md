@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Costa Rica covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_deaths.gif "Costa Rica covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Costa Rica covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_deaths.png "Costa Rica covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Costa Rica covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_deaths.png "Costa Rica covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Costa Rica covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_deaths.gif "Costa Rica covid-19 day_deaths animated chart")   
  
-#### Static
-![Costa Rica covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_deaths.png "Costa Rica covid-19 deaths static chart")   
- 
-#### Static
-![Costa Rica covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_deaths.png "Costa Rica covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Costa Rica covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_deaths.gif "Costa Rica covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Costa Rica covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_cases.gif "Costa Rica covid-19 cases animated chart")   
+#### Daily cases (static)
+![Costa Rica covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_cases.png "Costa Rica covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Costa Rica covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_cases.png "Costa Rica covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Costa Rica covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_cases.gif "Costa Rica covid-19 day_cases animated chart")   
  
-#### Static
-![Costa Rica covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_cases.png "Costa Rica covid-19 cases static chart")   
- 
-#### Static
-![Costa Rica covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_day_cases.png "Costa Rica covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Costa Rica covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Costa_Rica/2020-05-10_Costa_Rica_cases.gif "Costa Rica covid-19 cases animated chart")   
 

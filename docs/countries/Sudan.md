@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Sudan covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_deaths.gif "Sudan covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Sudan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_deaths.png "Sudan covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Sudan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Sudan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_deaths.gif "Sudan covid-19 day_deaths animated chart")   
  
-#### Static
-![Sudan covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_deaths.png "Sudan covid-19 deaths static chart")   
- 
-#### Static
-![Sudan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_deaths.png "Sudan covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Sudan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_deaths.gif "Sudan covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Sudan covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_cases.gif "Sudan covid-19 cases animated chart")   
+#### Daily cases (static)
+![Sudan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_cases.png "Sudan covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Sudan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_cases.png "Sudan covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Sudan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_cases.gif "Sudan covid-19 day_cases animated chart")   
  
-#### Static
-![Sudan covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_cases.png "Sudan covid-19 cases static chart")   
- 
-#### Static
-![Sudan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_day_cases.png "Sudan covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Sudan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sudan/2020-05-10_Sudan_cases.gif "Sudan covid-19 cases animated chart")   
 

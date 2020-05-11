@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Cote Divoire covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.gif "Cote Divoire covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Cote Divoire covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_deaths.png "Cote Divoire covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Cote Divoire covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Cote Divoire covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_deaths.gif "Cote Divoire covid-19 day_deaths animated chart")   
  
-#### Static
-![Cote Divoire covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.png "Cote Divoire covid-19 deaths static chart")   
- 
-#### Static
-![Cote Divoire covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_deaths.png "Cote Divoire covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Cote Divoire covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_deaths.gif "Cote Divoire covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Cote Divoire covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.gif "Cote Divoire covid-19 cases animated chart")   
+#### Daily cases (static)
+![Cote Divoire covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_cases.png "Cote Divoire covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Cote Divoire covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Cote Divoire covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_cases.gif "Cote Divoire covid-19 day_cases animated chart")   
  
-#### Static
-![Cote Divoire covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.png "Cote Divoire covid-19 cases static chart")   
- 
-#### Static
-![Cote Divoire covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_day_cases.png "Cote Divoire covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Cote Divoire covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Cote_Divoire/2020-05-10_Cote_Divoire_cases.gif "Cote Divoire covid-19 cases animated chart")   
 

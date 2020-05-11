@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Sint Maarten covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Sint Maarten covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_deaths.png "Sint Maarten covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Sint Maarten covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Sint Maarten covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_deaths.gif "Sint Maarten covid-19 day_deaths animated chart")   
  
-#### Static
-![Sint Maarten covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
- 
-#### Static
-![Sint Maarten covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_deaths.png "Sint Maarten covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Sint Maarten covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Sint Maarten covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
+#### Daily cases (static)
+![Sint Maarten covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_cases.png "Sint Maarten covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Sint Maarten covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Sint Maarten covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_cases.gif "Sint Maarten covid-19 day_cases animated chart")   
  
-#### Static
-![Sint Maarten covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
- 
-#### Static
-![Sint Maarten covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_day_cases.png "Sint Maarten covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Sint Maarten covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sint_Maarten/2020-05-10_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
 

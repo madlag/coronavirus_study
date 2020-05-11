@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Argentina covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.gif "Argentina covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Argentina covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_deaths.png "Argentina covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Argentina covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.png "Argentina covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Argentina covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_deaths.gif "Argentina covid-19 day_deaths animated chart")   
  
-#### Static
-![Argentina covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.png "Argentina covid-19 deaths static chart")   
- 
-#### Static
-![Argentina covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_deaths.png "Argentina covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Argentina covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_deaths.gif "Argentina covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Argentina covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.gif "Argentina covid-19 cases animated chart")   
+#### Daily cases (static)
+![Argentina covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_cases.png "Argentina covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Argentina covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.png "Argentina covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Argentina covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_cases.gif "Argentina covid-19 day_cases animated chart")   
  
-#### Static
-![Argentina covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.png "Argentina covid-19 cases static chart")   
- 
-#### Static
-![Argentina covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_day_cases.png "Argentina covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Argentina covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Argentina/2020-05-10_Argentina_cases.gif "Argentina covid-19 cases animated chart")   
 

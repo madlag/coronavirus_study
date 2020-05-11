@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Lithuania covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_deaths.gif "Lithuania covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Lithuania covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_deaths.png "Lithuania covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Lithuania covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Lithuania covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_deaths.gif "Lithuania covid-19 day_deaths animated chart")   
  
-#### Static
-![Lithuania covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_deaths.png "Lithuania covid-19 deaths static chart")   
- 
-#### Static
-![Lithuania covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_deaths.png "Lithuania covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Lithuania covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_deaths.gif "Lithuania covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Lithuania covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_cases.gif "Lithuania covid-19 cases animated chart")   
+#### Daily cases (static)
+![Lithuania covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_cases.png "Lithuania covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Lithuania covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Lithuania covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_cases.gif "Lithuania covid-19 day_cases animated chart")   
  
-#### Static
-![Lithuania covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_cases.png "Lithuania covid-19 cases static chart")   
- 
-#### Static
-![Lithuania covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_day_cases.png "Lithuania covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Lithuania covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Lithuania/2020-05-10_Lithuania_cases.gif "Lithuania covid-19 cases animated chart")   
 

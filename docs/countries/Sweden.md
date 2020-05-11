@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Sweden covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_deaths.gif "Sweden covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Sweden covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_deaths.png "Sweden covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Sweden covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_deaths.png "Sweden covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Sweden covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_deaths.gif "Sweden covid-19 day_deaths animated chart")   
  
-#### Static
-![Sweden covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_deaths.png "Sweden covid-19 deaths static chart")   
- 
-#### Static
-![Sweden covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_deaths.png "Sweden covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Sweden covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_deaths.gif "Sweden covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Sweden covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_cases.gif "Sweden covid-19 cases animated chart")   
+#### Daily cases (static)
+![Sweden covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_cases.png "Sweden covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Sweden covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_cases.png "Sweden covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Sweden covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_cases.gif "Sweden covid-19 day_cases animated chart")   
  
-#### Static
-![Sweden covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_cases.png "Sweden covid-19 cases static chart")   
- 
-#### Static
-![Sweden covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_day_cases.png "Sweden covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Sweden covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Sweden/2020-05-10_Sweden_cases.gif "Sweden covid-19 cases animated chart")   
 

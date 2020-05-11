@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Burkina Faso covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_deaths.gif "Burkina Faso covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Burkina Faso covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_deaths.png "Burkina Faso covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Burkina Faso covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Burkina Faso covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_deaths.gif "Burkina Faso covid-19 day_deaths animated chart")   
  
-#### Static
-![Burkina Faso covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_deaths.png "Burkina Faso covid-19 deaths static chart")   
- 
-#### Static
-![Burkina Faso covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_deaths.png "Burkina Faso covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Burkina Faso covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_deaths.gif "Burkina Faso covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Burkina Faso covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_cases.gif "Burkina Faso covid-19 cases animated chart")   
+#### Daily cases (static)
+![Burkina Faso covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_cases.png "Burkina Faso covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Burkina Faso covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Burkina Faso covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_cases.gif "Burkina Faso covid-19 day_cases animated chart")   
  
-#### Static
-![Burkina Faso covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_cases.png "Burkina Faso covid-19 cases static chart")   
- 
-#### Static
-![Burkina Faso covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_day_cases.png "Burkina Faso covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Burkina Faso covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Burkina_Faso/2020-05-10_Burkina_Faso_cases.gif "Burkina Faso covid-19 cases animated chart")   
 

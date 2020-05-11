@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Venezuela covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_deaths.gif "Venezuela covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Venezuela covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_deaths.png "Venezuela covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Venezuela covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Venezuela covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_deaths.gif "Venezuela covid-19 day_deaths animated chart")   
  
-#### Static
-![Venezuela covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_deaths.png "Venezuela covid-19 deaths static chart")   
- 
-#### Static
-![Venezuela covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_deaths.png "Venezuela covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Venezuela covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_deaths.gif "Venezuela covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Venezuela covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_cases.gif "Venezuela covid-19 cases animated chart")   
+#### Daily cases (static)
+![Venezuela covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_cases.png "Venezuela covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Venezuela covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Venezuela covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_cases.gif "Venezuela covid-19 day_cases animated chart")   
  
-#### Static
-![Venezuela covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_cases.png "Venezuela covid-19 cases static chart")   
- 
-#### Static
-![Venezuela covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_day_cases.png "Venezuela covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Venezuela covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Venezuela/2020-05-10_Venezuela_cases.gif "Venezuela covid-19 cases animated chart")   
 

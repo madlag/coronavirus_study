@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Belgium covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_deaths.gif "Belgium covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Belgium covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_deaths.png "Belgium covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Belgium covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_deaths.png "Belgium covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Belgium covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_deaths.gif "Belgium covid-19 day_deaths animated chart")   
  
-#### Static
-![Belgium covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_deaths.png "Belgium covid-19 deaths static chart")   
- 
-#### Static
-![Belgium covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_deaths.png "Belgium covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Belgium covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_deaths.gif "Belgium covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Belgium covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_cases.gif "Belgium covid-19 cases animated chart")   
+#### Daily cases (static)
+![Belgium covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_cases.png "Belgium covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Belgium covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_cases.png "Belgium covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Belgium covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_cases.gif "Belgium covid-19 day_cases animated chart")   
  
-#### Static
-![Belgium covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_cases.png "Belgium covid-19 cases static chart")   
- 
-#### Static
-![Belgium covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_day_cases.png "Belgium covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Belgium covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Belgium/2020-05-10_Belgium_cases.gif "Belgium covid-19 cases animated chart")   
 

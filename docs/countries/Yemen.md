@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Yemen covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_deaths.gif "Yemen covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Yemen covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_deaths.png "Yemen covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Yemen covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_deaths.png "Yemen covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Yemen covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_deaths.gif "Yemen covid-19 day_deaths animated chart")   
  
-#### Static
-![Yemen covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_deaths.png "Yemen covid-19 deaths static chart")   
- 
-#### Static
-![Yemen covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_deaths.png "Yemen covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Yemen covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_deaths.gif "Yemen covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Yemen covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_cases.gif "Yemen covid-19 cases animated chart")   
+#### Daily cases (static)
+![Yemen covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_cases.png "Yemen covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Yemen covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_cases.png "Yemen covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Yemen covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_cases.gif "Yemen covid-19 day_cases animated chart")   
  
-#### Static
-![Yemen covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_cases.png "Yemen covid-19 cases static chart")   
- 
-#### Static
-![Yemen covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_day_cases.png "Yemen covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Yemen covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Yemen/2020-05-10_Yemen_cases.gif "Yemen covid-19 cases animated chart")   
 

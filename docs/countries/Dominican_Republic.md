@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Dominican Republic covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_deaths.gif "Dominican Republic covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Dominican Republic covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_deaths.png "Dominican Republic covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Dominican Republic covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_deaths.png "Dominican Republic covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Dominican Republic covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_deaths.gif "Dominican Republic covid-19 day_deaths animated chart")   
  
-#### Static
-![Dominican Republic covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_deaths.png "Dominican Republic covid-19 deaths static chart")   
- 
-#### Static
-![Dominican Republic covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_deaths.png "Dominican Republic covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Dominican Republic covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_deaths.gif "Dominican Republic covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Dominican Republic covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_cases.gif "Dominican Republic covid-19 cases animated chart")   
+#### Daily cases (static)
+![Dominican Republic covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_cases.png "Dominican Republic covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Dominican Republic covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_cases.png "Dominican Republic covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Dominican Republic covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_cases.gif "Dominican Republic covid-19 day_cases animated chart")   
  
-#### Static
-![Dominican Republic covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_cases.png "Dominican Republic covid-19 cases static chart")   
- 
-#### Static
-![Dominican Republic covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_day_cases.png "Dominican Republic covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Dominican Republic covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Dominican_Republic/2020-05-10_Dominican_Republic_cases.gif "Dominican Republic covid-19 cases animated chart")   
 

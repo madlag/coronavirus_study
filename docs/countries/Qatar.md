@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Qatar covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_deaths.gif "Qatar covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Qatar covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_deaths.png "Qatar covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Qatar covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_deaths.png "Qatar covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Qatar covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_deaths.gif "Qatar covid-19 day_deaths animated chart")   
  
-#### Static
-![Qatar covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_deaths.png "Qatar covid-19 deaths static chart")   
- 
-#### Static
-![Qatar covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_deaths.png "Qatar covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Qatar covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_deaths.gif "Qatar covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Qatar covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_cases.gif "Qatar covid-19 cases animated chart")   
+#### Daily cases (static)
+![Qatar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_cases.png "Qatar covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Qatar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_cases.png "Qatar covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Qatar covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_cases.gif "Qatar covid-19 day_cases animated chart")   
  
-#### Static
-![Qatar covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_cases.png "Qatar covid-19 cases static chart")   
- 
-#### Static
-![Qatar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_day_cases.png "Qatar covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Qatar covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Qatar/2020-05-10_Qatar_cases.gif "Qatar covid-19 cases animated chart")   
 

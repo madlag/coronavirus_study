@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![New Zealand covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.gif "New Zealand covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![New Zealand covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_deaths.png "New Zealand covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![New Zealand covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![New Zealand covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_deaths.gif "New Zealand covid-19 day_deaths animated chart")   
  
-#### Static
-![New Zealand covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.png "New Zealand covid-19 deaths static chart")   
- 
-#### Static
-![New Zealand covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_deaths.png "New Zealand covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![New Zealand covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_deaths.gif "New Zealand covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![New Zealand covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.gif "New Zealand covid-19 cases animated chart")   
+#### Daily cases (static)
+![New Zealand covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_cases.png "New Zealand covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![New Zealand covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![New Zealand covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_cases.gif "New Zealand covid-19 day_cases animated chart")   
  
-#### Static
-![New Zealand covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.png "New Zealand covid-19 cases static chart")   
- 
-#### Static
-![New Zealand covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_day_cases.png "New Zealand covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![New Zealand covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/New_Zealand/2020-05-10_New_Zealand_cases.gif "New Zealand covid-19 cases animated chart")   
 

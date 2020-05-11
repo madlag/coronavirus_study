@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Italy covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_deaths.gif "Italy covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Italy covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_deaths.png "Italy covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Italy covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_deaths.png "Italy covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Italy covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_deaths.gif "Italy covid-19 day_deaths animated chart")   
  
-#### Static
-![Italy covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_deaths.png "Italy covid-19 deaths static chart")   
- 
-#### Static
-![Italy covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_deaths.png "Italy covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Italy covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_deaths.gif "Italy covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Italy covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_cases.gif "Italy covid-19 cases animated chart")   
+#### Daily cases (static)
+![Italy covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_cases.png "Italy covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Italy covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_cases.png "Italy covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Italy covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_cases.gif "Italy covid-19 day_cases animated chart")   
  
-#### Static
-![Italy covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_cases.png "Italy covid-19 cases static chart")   
- 
-#### Static
-![Italy covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_day_cases.png "Italy covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Italy covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Italy/2020-05-10_Italy_cases.gif "Italy covid-19 cases animated chart")   
 

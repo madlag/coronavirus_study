@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Paraguay covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_deaths.gif "Paraguay covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Paraguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_deaths.png "Paraguay covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Paraguay covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Paraguay covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_deaths.gif "Paraguay covid-19 day_deaths animated chart")   
  
-#### Static
-![Paraguay covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_deaths.png "Paraguay covid-19 deaths static chart")   
- 
-#### Static
-![Paraguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_deaths.png "Paraguay covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Paraguay covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_deaths.gif "Paraguay covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Paraguay covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_cases.gif "Paraguay covid-19 cases animated chart")   
+#### Daily cases (static)
+![Paraguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_cases.png "Paraguay covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Paraguay covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Paraguay covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_cases.gif "Paraguay covid-19 day_cases animated chart")   
  
-#### Static
-![Paraguay covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_cases.png "Paraguay covid-19 cases static chart")   
- 
-#### Static
-![Paraguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_day_cases.png "Paraguay covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Paraguay covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Paraguay/2020-05-10_Paraguay_cases.gif "Paraguay covid-19 cases animated chart")   
 

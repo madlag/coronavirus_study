@@ -20,18 +20,18 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Static
-![British Virgin Islands covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
- 
-#### Static
+#### Daily deaths (static)
 ![British Virgin Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_day_deaths.png "British Virgin Islands covid-19 day_deaths static chart")   
+ 
+#### Cumulated deaths (static)
+![British Virgin Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
-#### Static
-![British Virgin Islands covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
- 
-#### Static
+#### Daily cases (static)
 ![British Virgin Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_day_cases.png "British Virgin Islands covid-19 day_cases static chart")   
+ 
+#### Cumulated cases (static)
+![British Virgin Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/British_Virgin_Islands/2020-05-10_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
 

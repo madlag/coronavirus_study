@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![United States Of America covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_deaths.gif "United States Of America covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![United States Of America covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_deaths.png "United States Of America covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![United States Of America covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_deaths.png "United States Of America covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![United States Of America covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_deaths.gif "United States Of America covid-19 day_deaths animated chart")   
  
-#### Static
-![United States Of America covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_deaths.png "United States Of America covid-19 deaths static chart")   
- 
-#### Static
-![United States Of America covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_deaths.png "United States Of America covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![United States Of America covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_deaths.gif "United States Of America covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![United States Of America covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_cases.gif "United States Of America covid-19 cases animated chart")   
+#### Daily cases (static)
+![United States Of America covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_cases.png "United States Of America covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![United States Of America covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_cases.png "United States Of America covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![United States Of America covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_cases.gif "United States Of America covid-19 day_cases animated chart")   
  
-#### Static
-![United States Of America covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_cases.png "United States Of America covid-19 cases static chart")   
- 
-#### Static
-![United States Of America covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_day_cases.png "United States Of America covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![United States Of America covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/United_States_Of_America/2020-05-10_United_States_Of_America_cases.gif "United States Of America covid-19 cases animated chart")   
 

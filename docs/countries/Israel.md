@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Israel covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_deaths.gif "Israel covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Israel covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_deaths.png "Israel covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Israel covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_deaths.png "Israel covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Israel covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_deaths.gif "Israel covid-19 day_deaths animated chart")   
  
-#### Static
-![Israel covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_deaths.png "Israel covid-19 deaths static chart")   
- 
-#### Static
-![Israel covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_deaths.png "Israel covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Israel covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_deaths.gif "Israel covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Israel covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_cases.gif "Israel covid-19 cases animated chart")   
+#### Daily cases (static)
+![Israel covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_cases.png "Israel covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Israel covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_cases.png "Israel covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Israel covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_cases.gif "Israel covid-19 day_cases animated chart")   
  
-#### Static
-![Israel covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_cases.png "Israel covid-19 cases static chart")   
- 
-#### Static
-![Israel covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_day_cases.png "Israel covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Israel covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Israel/2020-05-10_Israel_cases.gif "Israel covid-19 cases animated chart")   
 

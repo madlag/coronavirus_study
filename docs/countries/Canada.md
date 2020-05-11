@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Canada covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_deaths.gif "Canada covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Canada covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_deaths.png "Canada covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Canada covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_deaths.png "Canada covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Canada covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_deaths.gif "Canada covid-19 day_deaths animated chart")   
  
-#### Static
-![Canada covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_deaths.png "Canada covid-19 deaths static chart")   
- 
-#### Static
-![Canada covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_deaths.png "Canada covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Canada covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_deaths.gif "Canada covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Canada covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_cases.gif "Canada covid-19 cases animated chart")   
+#### Daily cases (static)
+![Canada covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_cases.png "Canada covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Canada covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_cases.png "Canada covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Canada covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_cases.gif "Canada covid-19 day_cases animated chart")   
  
-#### Static
-![Canada covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_cases.png "Canada covid-19 cases static chart")   
- 
-#### Static
-![Canada covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_day_cases.png "Canada covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Canada covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Canada/2020-05-10_Canada_cases.gif "Canada covid-19 cases animated chart")   
 

@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Mali covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_deaths.gif "Mali covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Mali covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_deaths.png "Mali covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Mali covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_deaths.png "Mali covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Mali covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_deaths.gif "Mali covid-19 day_deaths animated chart")   
  
-#### Static
-![Mali covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_deaths.png "Mali covid-19 deaths static chart")   
- 
-#### Static
-![Mali covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_deaths.png "Mali covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Mali covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_deaths.gif "Mali covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Mali covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_cases.gif "Mali covid-19 cases animated chart")   
+#### Daily cases (static)
+![Mali covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_cases.png "Mali covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Mali covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_cases.png "Mali covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Mali covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_cases.gif "Mali covid-19 day_cases animated chart")   
  
-#### Static
-![Mali covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_cases.png "Mali covid-19 cases static chart")   
- 
-#### Static
-![Mali covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_day_cases.png "Mali covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Mali covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Mali/2020-05-10_Mali_cases.gif "Mali covid-19 cases animated chart")   
 

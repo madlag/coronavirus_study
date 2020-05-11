@@ -20,30 +20,30 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
  
 ### Deaths over time
  
-#### Animated
-![Switzerland covid-19 deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_deaths.gif "Switzerland covid-19 deaths animated chart")   
+#### Daily deaths (static)
+![Switzerland covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_deaths.png "Switzerland covid-19 day_deaths static chart")   
  
-#### Animated
+#### Cumulated deaths (static)
+![Switzerland covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_deaths.png "Switzerland covid-19 deaths static chart")   
+ 
+#### Daily deaths (animated)
 ![Switzerland covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_deaths.gif "Switzerland covid-19 day_deaths animated chart")   
  
-#### Static
-![Switzerland covid-19 deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_deaths.png "Switzerland covid-19 deaths static chart")   
- 
-#### Static
-![Switzerland covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_deaths.png "Switzerland covid-19 day_deaths static chart")   
+#### Cumulated deaths (animated)
+![Switzerland covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_deaths.gif "Switzerland covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
-#### Animated
-![Switzerland covid-19 cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_cases.gif "Switzerland covid-19 cases animated chart")   
+#### Daily cases (static)
+![Switzerland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_cases.png "Switzerland covid-19 day_cases static chart")   
  
-#### Animated
+#### Cumulated cases (static)
+![Switzerland covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_cases.png "Switzerland covid-19 cases static chart")   
+ 
+#### Daily cases (animated)
 ![Switzerland covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_cases.gif "Switzerland covid-19 day_cases animated chart")   
  
-#### Static
-![Switzerland covid-19 cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_cases.png "Switzerland covid-19 cases static chart")   
- 
-#### Static
-![Switzerland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_day_cases.png "Switzerland covid-19 day_cases static chart")   
+#### Cumulated cases (animated)
+![Switzerland covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-10/countries/Switzerland/2020-05-10_Switzerland_cases.gif "Switzerland covid-19 cases animated chart")   
 
