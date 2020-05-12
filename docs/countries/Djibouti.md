@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Djibouti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Djibouti/2020-05-11_Djibouti_day_deaths.png "Djibouti covid-19 day_deaths static chart")   
+![Djibouti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Djibouti/2020-05-12_Djibouti_day_deaths.png "Djibouti covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Djibouti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Djibouti/2020-05-11_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
+![Djibouti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Djibouti/2020-05-12_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Djibouti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Djibouti/2020-05-11_Djibouti_day_cases.png "Djibouti covid-19 day_cases static chart")   
+![Djibouti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Djibouti/2020-05-12_Djibouti_day_cases.png "Djibouti covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Djibouti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-11/countries/Djibouti/2020-05-11_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
+![Djibouti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Djibouti/2020-05-12_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
 
