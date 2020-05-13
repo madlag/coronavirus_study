@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Bonaire, saint eustatius and saba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Bonaire, saint eustatius and saba/2020-05-12_Bonaire, saint eustatius and saba_day_cases.png "Bonaire, saint eustatius and saba covid-19 day_cases static chart")   
+![Bonaire, saint eustatius and saba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Bonaire, saint eustatius and saba/2020-05-13_Bonaire, saint eustatius and saba_day_cases.png "Bonaire, saint eustatius and saba covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Bonaire, saint eustatius and saba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Bonaire, saint eustatius and saba/2020-05-12_Bonaire, saint eustatius and saba_cases.png "Bonaire, saint eustatius and saba covid-19 cases static chart")   
+![Bonaire, saint eustatius and saba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Bonaire, saint eustatius and saba/2020-05-13_Bonaire, saint eustatius and saba_cases.png "Bonaire, saint eustatius and saba covid-19 cases static chart")   
 

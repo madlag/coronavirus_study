@@ -1,6 +1,6 @@
 ## Luxembourg Covid-19 status comparison 
 
-Luxembourg covid-19 deaths are currently doubling each 71.84 days (observed initial average doubling time is 2.2 days across countries).
+Luxembourg covid-19 deaths are currently doubling each 91.84 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Luxembourg covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_day_deaths.png "Luxembourg covid-19 day_deaths static chart")   
+![Luxembourg covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_day_deaths.png "Luxembourg covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Luxembourg covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
+![Luxembourg covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_deaths.png "Luxembourg covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Luxembourg covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_day_deaths.gif "Luxembourg covid-19 day_deaths animated chart")   
+![Luxembourg covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_day_deaths.gif "Luxembourg covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Luxembourg covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_deaths.gif "Luxembourg covid-19 deaths animated chart")   
+![Luxembourg covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_deaths.gif "Luxembourg covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Luxembourg covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_day_cases.png "Luxembourg covid-19 day_cases static chart")   
+![Luxembourg covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_day_cases.png "Luxembourg covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Luxembourg covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
+![Luxembourg covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_cases.png "Luxembourg covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Luxembourg covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_day_cases.gif "Luxembourg covid-19 day_cases animated chart")   
+![Luxembourg covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_day_cases.gif "Luxembourg covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Luxembourg covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-12/countries/Luxembourg/2020-05-12_Luxembourg_cases.gif "Luxembourg covid-19 cases animated chart")   
+![Luxembourg covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Luxembourg/2020-05-13_Luxembourg_cases.gif "Luxembourg covid-19 cases animated chart")   
 
