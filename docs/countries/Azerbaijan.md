@@ -1,6 +1,6 @@
 ## Azerbaijan Covid-19 status comparison 
 
-Azerbaijan covid-19 deaths are currently doubling each 21.60 days (observed initial average doubling time is 2.2 days across countries).
+Azerbaijan covid-19 deaths are currently doubling each 20.74 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Azerbaijan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_day_deaths.png "Azerbaijan covid-19 day_deaths static chart")   
+![Azerbaijan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_day_deaths.png "Azerbaijan covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Azerbaijan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_deaths.png "Azerbaijan covid-19 deaths static chart")   
+![Azerbaijan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_deaths.png "Azerbaijan covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Azerbaijan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_day_deaths.gif "Azerbaijan covid-19 day_deaths animated chart")   
+![Azerbaijan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_day_deaths.gif "Azerbaijan covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Azerbaijan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_deaths.gif "Azerbaijan covid-19 deaths animated chart")   
+![Azerbaijan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_deaths.gif "Azerbaijan covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Azerbaijan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_day_cases.png "Azerbaijan covid-19 day_cases static chart")   
+![Azerbaijan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_day_cases.png "Azerbaijan covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Azerbaijan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
+![Azerbaijan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_cases.png "Azerbaijan covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Azerbaijan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_day_cases.gif "Azerbaijan covid-19 day_cases animated chart")   
+![Azerbaijan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_day_cases.gif "Azerbaijan covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Azerbaijan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Azerbaijan/2020-05-13_Azerbaijan_cases.gif "Azerbaijan covid-19 cases animated chart")   
+![Azerbaijan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Azerbaijan/2020-05-14_Azerbaijan_cases.gif "Azerbaijan covid-19 cases animated chart")   
 

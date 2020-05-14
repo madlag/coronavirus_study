@@ -1,6 +1,6 @@
 ## Iraq Covid-19 status comparison 
 
-Iraq covid-19 deaths are currently doubling each 44.03 days (observed initial average doubling time is 2.2 days across countries).
+Iraq covid-19 deaths are currently doubling each 42.37 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Iraq covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_day_deaths.png "Iraq covid-19 day_deaths static chart")   
+![Iraq covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_day_deaths.png "Iraq covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Iraq covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_deaths.png "Iraq covid-19 deaths static chart")   
+![Iraq covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_deaths.png "Iraq covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Iraq covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_day_deaths.gif "Iraq covid-19 day_deaths animated chart")   
+![Iraq covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_day_deaths.gif "Iraq covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Iraq covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_deaths.gif "Iraq covid-19 deaths animated chart")   
+![Iraq covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_deaths.gif "Iraq covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Iraq covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_day_cases.png "Iraq covid-19 day_cases static chart")   
+![Iraq covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_day_cases.png "Iraq covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Iraq covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_cases.png "Iraq covid-19 cases static chart")   
+![Iraq covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_cases.png "Iraq covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Iraq covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_day_cases.gif "Iraq covid-19 day_cases animated chart")   
+![Iraq covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_day_cases.gif "Iraq covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Iraq covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-13/countries/Iraq/2020-05-13_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
+![Iraq covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Iraq/2020-05-14_Iraq_cases.gif "Iraq covid-19 cases animated chart")   
 
