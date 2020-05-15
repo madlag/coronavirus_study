@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Grenada covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Grenada/2020-05-14_Grenada_day_cases.png "Grenada covid-19 day_cases static chart")   
+![Grenada covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Grenada/2020-05-15_Grenada_day_cases.png "Grenada covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Grenada covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Grenada/2020-05-14_Grenada_cases.png "Grenada covid-19 cases static chart")   
+![Grenada covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Grenada/2020-05-15_Grenada_cases.png "Grenada covid-19 cases static chart")   
 

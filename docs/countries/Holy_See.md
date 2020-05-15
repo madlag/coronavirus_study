@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Holy See covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Holy_See/2020-05-14_Holy_See_day_cases.png "Holy See covid-19 day_cases static chart")   
+![Holy See covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Holy_See/2020-05-15_Holy_See_day_cases.png "Holy See covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Holy See covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Holy_See/2020-05-14_Holy_See_cases.png "Holy See covid-19 cases static chart")   
+![Holy See covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Holy_See/2020-05-15_Holy_See_cases.png "Holy See covid-19 cases static chart")   
 

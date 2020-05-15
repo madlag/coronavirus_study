@@ -1,6 +1,6 @@
 ## Guatemala Covid-19 status comparison 
 
-Guatemala covid-19 deaths are currently doubling each 14.85 days (observed initial average doubling time is 2.2 days across countries).
+Guatemala covid-19 deaths are currently doubling each 15.91 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Guatemala covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_day_deaths.png "Guatemala covid-19 day_deaths static chart")   
+![Guatemala covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_day_deaths.png "Guatemala covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Guatemala covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_deaths.png "Guatemala covid-19 deaths static chart")   
+![Guatemala covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_deaths.png "Guatemala covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Guatemala covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_day_deaths.gif "Guatemala covid-19 day_deaths animated chart")   
+![Guatemala covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_day_deaths.gif "Guatemala covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Guatemala covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_deaths.gif "Guatemala covid-19 deaths animated chart")   
+![Guatemala covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_deaths.gif "Guatemala covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Guatemala covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_day_cases.png "Guatemala covid-19 day_cases static chart")   
+![Guatemala covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_day_cases.png "Guatemala covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Guatemala covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_cases.png "Guatemala covid-19 cases static chart")   
+![Guatemala covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_cases.png "Guatemala covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Guatemala covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_day_cases.gif "Guatemala covid-19 day_cases animated chart")   
+![Guatemala covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_day_cases.gif "Guatemala covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Guatemala covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Guatemala/2020-05-14_Guatemala_cases.gif "Guatemala covid-19 cases animated chart")   
+![Guatemala covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Guatemala/2020-05-15_Guatemala_cases.gif "Guatemala covid-19 cases animated chart")   
 

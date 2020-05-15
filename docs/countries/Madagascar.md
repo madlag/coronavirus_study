@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Madagascar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Madagascar/2020-05-14_Madagascar_day_cases.png "Madagascar covid-19 day_cases static chart")   
+![Madagascar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Madagascar/2020-05-15_Madagascar_day_cases.png "Madagascar covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Madagascar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-14/countries/Madagascar/2020-05-14_Madagascar_cases.png "Madagascar covid-19 cases static chart")   
+![Madagascar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Madagascar/2020-05-15_Madagascar_cases.png "Madagascar covid-19 cases static chart")   
 
