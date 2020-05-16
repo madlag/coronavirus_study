@@ -1,6 +1,6 @@
 ## Sint Maarten Covid-19 status comparison 
 
-Sint Maarten covid-19 deaths are currently doubling each 1187.22 days (observed initial average doubling time is 2.2 days across countries).
+Sint Maarten covid-19 deaths are currently doubling each 103.61 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

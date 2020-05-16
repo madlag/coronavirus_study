@@ -1,6 +1,6 @@
 ## Dominican Republic Covid-19 status comparison 
 
-Dominican Republic covid-19 deaths are currently doubling each 15642.17 days (observed initial average doubling time is 2.2 days across countries).
+Dominican Republic covid-19 deaths are currently doubling each 40.89 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

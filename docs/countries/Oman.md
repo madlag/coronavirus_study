@@ -1,6 +1,6 @@
 ## Oman Covid-19 status comparison 
 
-Oman covid-19 deaths are currently doubling each -271929885196742016.00 days (observed initial average doubling time is 2.2 days across countries).
+Oman covid-19 deaths are currently doubling each 18.51 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -144,6 +144,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Jersey](countries/Jersey)
 
+[Jordan](countries/Jordan)
+
 [Kazakhstan](countries/Kazakhstan)
 
 [Kenya](countries/Kenya)
@@ -179,6 +181,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Montenegro](countries/Montenegro)
 
 [Morocco](countries/Morocco)
+
+[Myanmar](countries/Myanmar)
 
 [Netherlands](countries/Netherlands)
 
@@ -361,8 +365,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Holy See](countries/Holy_See)
 
-[Jordan](countries/Jordan)
-
 [Laos](countries/Laos)
 
 [Lesotho](countries/Lesotho)
@@ -386,8 +388,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Montserrat](countries/Montserrat)
 
 [Mozambique](countries/Mozambique)
-
-[Myanmar](countries/Myanmar)
 
 [Namibia](countries/Namibia)
 

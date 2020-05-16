@@ -1,6 +1,6 @@
 ## Mauritius Covid-19 status comparison 
 
-Mauritius covid-19 deaths are currently doubling each -4535.64 days (observed initial average doubling time is 2.2 days across countries).
+Mauritius covid-19 deaths are currently doubling each 7095535464574674.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

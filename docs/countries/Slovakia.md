@@ -1,6 +1,6 @@
 ## Slovakia Covid-19 status comparison 
 
-Slovakia covid-19 deaths are currently doubling each 1595.88 days (observed initial average doubling time is 2.2 days across countries).
+Slovakia covid-19 deaths are currently doubling each 90.86 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Liberia Covid-19 status comparison 
 
-Liberia covid-19 deaths are currently doubling each 985.24 days (observed initial average doubling time is 2.2 days across countries).
+Liberia covid-19 deaths are currently doubling each 9366106813238568.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

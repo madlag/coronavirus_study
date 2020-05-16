@@ -1,6 +1,6 @@
 ## Equatorial Guinea Covid-19 status comparison 
 
-Equatorial Guinea covid-19 deaths are currently doubling each 92656158403236640.00 days (observed initial average doubling time is 2.2 days across countries).
+Equatorial Guinea covid-19 deaths are currently doubling each 8.99 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

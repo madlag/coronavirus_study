@@ -1,6 +1,6 @@
 ## Senegal Covid-19 status comparison 
 
-Senegal covid-19 deaths are currently doubling each 4717.60 days (observed initial average doubling time is 2.2 days across countries).
+Senegal covid-19 deaths are currently doubling each 8.67 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## United Republic Of Tanzania Covid-19 status comparison 
 
-United Republic Of Tanzania covid-19 deaths are currently doubling each 2170.41 days (observed initial average doubling time is 2.2 days across countries).
+United Republic Of Tanzania covid-19 deaths are currently doubling each 82.44 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

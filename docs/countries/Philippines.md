@@ -1,6 +1,6 @@
 ## Philippines Covid-19 status comparison 
 
-Philippines covid-19 deaths are currently doubling each -36850.60 days (observed initial average doubling time is 2.2 days across countries).
+Philippines covid-19 deaths are currently doubling each 32.25 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

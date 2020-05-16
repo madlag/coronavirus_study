@@ -1,6 +1,6 @@
 ## Congo Covid-19 status comparison 
 
-Congo covid-19 deaths are currently doubling each 5701.47 days (observed initial average doubling time is 2.2 days across countries).
+Congo covid-19 deaths are currently doubling each 15.57 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

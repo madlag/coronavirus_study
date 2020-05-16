@@ -1,6 +1,6 @@
 ## Cyprus Covid-19 status comparison 
 
-Cyprus covid-19 deaths are currently doubling each -614.37 days (observed initial average doubling time is 2.2 days across countries).
+Cyprus covid-19 deaths are currently doubling each 40.53 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

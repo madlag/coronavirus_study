@@ -1,6 +1,6 @@
 ## Bermuda Covid-19 status comparison 
 
-Bermuda covid-19 deaths are currently doubling each 2226.47 days (observed initial average doubling time is 2.2 days across countries).
+Bermuda covid-19 deaths are currently doubling each 21.90 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

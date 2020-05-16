@@ -1,6 +1,6 @@
 ## New Zealand Covid-19 status comparison 
 
-New Zealand covid-19 deaths are currently doubling each 5246.25 days (observed initial average doubling time is 2.2 days across countries).
+New Zealand covid-19 deaths are currently doubling each 7677136732162761.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

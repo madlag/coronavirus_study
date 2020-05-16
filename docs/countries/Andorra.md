@@ -1,6 +1,6 @@
 ## Andorra Covid-19 status comparison 
 
-Andorra covid-19 deaths are currently doubling each -812.11 days (observed initial average doubling time is 2.2 days across countries).
+Andorra covid-19 deaths are currently doubling each 107.02 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

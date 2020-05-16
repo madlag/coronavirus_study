@@ -1,6 +1,6 @@
 ## Egypt Covid-19 status comparison 
 
-Egypt covid-19 deaths are currently doubling each 41774.37 days (observed initial average doubling time is 2.2 days across countries).
+Egypt covid-19 deaths are currently doubling each 28.82 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

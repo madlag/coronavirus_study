@@ -1,6 +1,6 @@
 ## Chad Covid-19 status comparison 
 
-Chad covid-19 deaths are currently doubling each 6161.73 days (observed initial average doubling time is 2.2 days across countries).
+Chad covid-19 deaths are currently doubling each 7.21 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

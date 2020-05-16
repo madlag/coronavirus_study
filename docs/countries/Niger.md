@@ -1,6 +1,6 @@
 ## Niger Covid-19 status comparison 
 
-Niger covid-19 deaths are currently doubling each -355382.67 days (observed initial average doubling time is 2.2 days across countries).
+Niger covid-19 deaths are currently doubling each 25.21 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

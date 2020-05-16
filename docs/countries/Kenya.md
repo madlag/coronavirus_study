@@ -1,6 +1,6 @@
 ## Kenya Covid-19 status comparison 
 
-Kenya covid-19 deaths are currently doubling each -7529.44 days (observed initial average doubling time is 2.2 days across countries).
+Kenya covid-19 deaths are currently doubling each 11.77 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Peru Covid-19 status comparison 
 
-Peru covid-19 deaths are currently doubling each 3375.31 days (observed initial average doubling time is 2.2 days across countries).
+Peru covid-19 deaths are currently doubling each 14.44 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

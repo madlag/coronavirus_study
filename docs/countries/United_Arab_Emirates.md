@@ -1,6 +1,6 @@
 ## United Arab Emirates Covid-19 status comparison 
 
-United Arab Emirates covid-19 deaths are currently doubling each -13594.20 days (observed initial average doubling time is 2.2 days across countries).
+United Arab Emirates covid-19 deaths are currently doubling each 21.27 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

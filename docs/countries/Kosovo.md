@@ -1,6 +1,6 @@
 ## Kosovo Covid-19 status comparison 
 
-Kosovo covid-19 deaths are currently doubling each 4419.56 days (observed initial average doubling time is 2.2 days across countries).
+Kosovo covid-19 deaths are currently doubling each 64.84 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Bahrain Covid-19 status comparison 
 
-Bahrain covid-19 deaths are currently doubling each inf days (observed initial average doubling time is 2.2 days across countries).
+Bahrain covid-19 deaths are currently doubling each 17.12 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

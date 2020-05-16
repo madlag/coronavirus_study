@@ -1,6 +1,6 @@
 ## Azerbaijan Covid-19 status comparison 
 
-Azerbaijan covid-19 deaths are currently doubling each 17027.45 days (observed initial average doubling time is 2.2 days across countries).
+Azerbaijan covid-19 deaths are currently doubling each 22.31 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

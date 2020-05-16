@@ -1,6 +1,6 @@
 ## Somalia Covid-19 status comparison 
 
-Somalia covid-19 deaths are currently doubling each 1520.90 days (observed initial average doubling time is 2.2 days across countries).
+Somalia covid-19 deaths are currently doubling each 22.17 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

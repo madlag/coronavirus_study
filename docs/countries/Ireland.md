@@ -1,6 +1,6 @@
 ## Ireland Covid-19 status comparison 
 
-Ireland covid-19 deaths are currently doubling each 18767.89 days (observed initial average doubling time is 2.2 days across countries).
+Ireland covid-19 deaths are currently doubling each 66.85 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

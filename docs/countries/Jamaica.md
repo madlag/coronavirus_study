@@ -1,6 +1,6 @@
 ## Jamaica Covid-19 status comparison 
 
-Jamaica covid-19 deaths are currently doubling each 92656158403236640.00 days (observed initial average doubling time is 2.2 days across countries).
+Jamaica covid-19 deaths are currently doubling each 16148460022825118.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

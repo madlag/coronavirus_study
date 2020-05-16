@@ -1,6 +1,6 @@
 ## Guernsey Covid-19 status comparison 
 
-Guernsey covid-19 deaths are currently doubling each 4914.39 days (observed initial average doubling time is 2.2 days across countries).
+Guernsey covid-19 deaths are currently doubling each 9557251850243438.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

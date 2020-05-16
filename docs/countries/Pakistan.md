@@ -1,6 +1,6 @@
 ## Pakistan Covid-19 status comparison 
 
-Pakistan covid-19 deaths are currently doubling each 300136.33 days (observed initial average doubling time is 2.2 days across countries).
+Pakistan covid-19 deaths are currently doubling each 15.85 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

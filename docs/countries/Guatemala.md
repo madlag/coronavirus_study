@@ -1,6 +1,6 @@
 ## Guatemala Covid-19 status comparison 
 
-Guatemala covid-19 deaths are currently doubling each 3216.06 days (observed initial average doubling time is 2.2 days across countries).
+Guatemala covid-19 deaths are currently doubling each 18.65 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

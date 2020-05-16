@@ -1,6 +1,6 @@
 ## Russia Covid-19 status comparison 
 
-Russia covid-19 deaths are currently doubling each -34661.35 days (observed initial average doubling time is 2.2 days across countries).
+Russia covid-19 deaths are currently doubling each 13.84 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

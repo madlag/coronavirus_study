@@ -1,6 +1,6 @@
 ## Yemen Covid-19 status comparison 
 
-Yemen covid-19 deaths are currently doubling each -17884968521103956.00 days (observed initial average doubling time is 2.2 days across countries).
+Yemen covid-19 deaths are currently doubling each 6.01 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

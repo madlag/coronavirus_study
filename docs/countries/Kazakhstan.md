@@ -1,6 +1,6 @@
 ## Kazakhstan Covid-19 status comparison 
 
-Kazakhstan covid-19 deaths are currently doubling each -5270.65 days (observed initial average doubling time is 2.2 days across countries).
+Kazakhstan covid-19 deaths are currently doubling each 69.97 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

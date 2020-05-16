@@ -1,6 +1,6 @@
 ## Sierra Leone Covid-19 status comparison 
 
-Sierra Leone covid-19 deaths are currently doubling each 30.74 days (observed initial average doubling time is 2.2 days across countries).
+Sierra Leone covid-19 deaths are currently doubling each 10.65 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

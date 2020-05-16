@@ -1,6 +1,6 @@
 ## Paraguay Covid-19 status comparison 
 
-Paraguay covid-19 deaths are currently doubling each -370624633612946560.00 days (observed initial average doubling time is 2.2 days across countries).
+Paraguay covid-19 deaths are currently doubling each 57.14 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

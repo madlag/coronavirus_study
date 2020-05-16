@@ -1,6 +1,6 @@
 ## Belgium Covid-19 status comparison 
 
-Belgium covid-19 deaths are currently doubling each -73720.73 days (observed initial average doubling time is 2.2 days across countries).
+Belgium covid-19 deaths are currently doubling each 88.41 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

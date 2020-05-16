@@ -1,6 +1,6 @@
 ## Bolivia Covid-19 status comparison 
 
-Bolivia covid-19 deaths are currently doubling each -61906.22 days (observed initial average doubling time is 2.2 days across countries).
+Bolivia covid-19 deaths are currently doubling each 11.51 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

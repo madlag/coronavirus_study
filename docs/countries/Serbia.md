@@ -1,6 +1,6 @@
 ## Serbia Covid-19 status comparison 
 
-Serbia covid-19 deaths are currently doubling each 166501.33 days (observed initial average doubling time is 2.2 days across countries).
+Serbia covid-19 deaths are currently doubling each 59.41 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

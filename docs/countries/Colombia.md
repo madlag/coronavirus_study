@@ -1,6 +1,6 @@
 ## Colombia Covid-19 status comparison 
 
-Colombia covid-19 deaths are currently doubling each 6964.37 days (observed initial average doubling time is 2.2 days across countries).
+Colombia covid-19 deaths are currently doubling each 19.52 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

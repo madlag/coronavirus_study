@@ -1,6 +1,6 @@
 ## Malta Covid-19 status comparison 
 
-Malta covid-19 deaths are currently doubling each 92656158403236640.00 days (observed initial average doubling time is 2.2 days across countries).
+Malta covid-19 deaths are currently doubling each 14626136324819988.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

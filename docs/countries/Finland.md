@@ -1,6 +1,6 @@
 ## Finland Covid-19 status comparison 
 
-Finland covid-19 deaths are currently doubling each -317430.80 days (observed initial average doubling time is 2.2 days across countries).
+Finland covid-19 deaths are currently doubling each 41.56 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

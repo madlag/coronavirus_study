@@ -1,6 +1,6 @@
 ## Sao Tome And Principe Covid-19 status comparison 
 
-Sao Tome And Principe covid-19 deaths are currently doubling each -25709642249086936.00 days (observed initial average doubling time is 2.2 days across countries).
+Sao Tome And Principe covid-19 deaths are currently doubling each 14.99 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

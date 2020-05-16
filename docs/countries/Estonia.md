@@ -1,6 +1,6 @@
 ## Estonia Covid-19 status comparison 
 
-Estonia covid-19 deaths are currently doubling each 137103.68 days (observed initial average doubling time is 2.2 days across countries).
+Estonia covid-19 deaths are currently doubling each 47.10 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

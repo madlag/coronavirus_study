@@ -1,6 +1,6 @@
 ## Kyrgyzstan Covid-19 status comparison 
 
-Kyrgyzstan covid-19 deaths are currently doubling each 46328079201618320.00 days (observed initial average doubling time is 2.2 days across countries).
+Kyrgyzstan covid-19 deaths are currently doubling each 46.37 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

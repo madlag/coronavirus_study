@@ -1,6 +1,6 @@
 ## Democratic Republic Of The Congo Covid-19 status comparison 
 
-Democratic Republic Of The Congo covid-19 deaths are currently doubling each -2564.65 days (observed initial average doubling time is 2.2 days across countries).
+Democratic Republic Of The Congo covid-19 deaths are currently doubling each 12.77 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

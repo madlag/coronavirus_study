@@ -1,6 +1,6 @@
 ## Croatia Covid-19 status comparison 
 
-Croatia covid-19 deaths are currently doubling each 10566.81 days (observed initial average doubling time is 2.2 days across countries).
+Croatia covid-19 deaths are currently doubling each 51.65 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

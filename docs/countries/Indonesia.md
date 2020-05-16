@@ -1,6 +1,6 @@
 ## Indonesia Covid-19 status comparison 
 
-Indonesia covid-19 deaths are currently doubling each 38802.65 days (observed initial average doubling time is 2.2 days across countries).
+Indonesia covid-19 deaths are currently doubling each 37.42 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

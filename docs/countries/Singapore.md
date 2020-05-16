@@ -1,6 +1,6 @@
 ## Singapore Covid-19 status comparison 
 
-Singapore covid-19 deaths are currently doubling each 5246.25 days (observed initial average doubling time is 2.2 days across countries).
+Singapore covid-19 deaths are currently doubling each 93.76 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

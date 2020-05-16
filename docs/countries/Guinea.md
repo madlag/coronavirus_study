@@ -1,6 +1,6 @@
 ## Guinea Covid-19 status comparison 
 
-Guinea covid-19 deaths are currently doubling each 123541544537648848.00 days (observed initial average doubling time is 2.2 days across countries).
+Guinea covid-19 deaths are currently doubling each 20.12 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

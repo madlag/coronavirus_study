@@ -1,6 +1,6 @@
 ## Greece Covid-19 status comparison 
 
-Greece covid-19 deaths are currently doubling each -25985.19 days (observed initial average doubling time is 2.2 days across countries).
+Greece covid-19 deaths are currently doubling each 86.98 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Uruguay Covid-19 status comparison 
 
-Uruguay covid-19 deaths are currently doubling each -5042.47 days (observed initial average doubling time is 2.2 days across countries).
+Uruguay covid-19 deaths are currently doubling each 51.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

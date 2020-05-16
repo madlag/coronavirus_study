@@ -1,6 +1,6 @@
 ## Barbados Covid-19 status comparison 
 
-Barbados covid-19 deaths are currently doubling each 2551.80 days (observed initial average doubling time is 2.2 days across countries).
+Barbados covid-19 deaths are currently doubling each 16725190737926018.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Qatar Covid-19 status comparison 
 
-Qatar covid-19 deaths are currently doubling each 3453.95 days (observed initial average doubling time is 2.2 days across countries).
+Qatar covid-19 deaths are currently doubling each 33.06 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

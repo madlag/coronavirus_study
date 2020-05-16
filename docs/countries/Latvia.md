@@ -1,6 +1,6 @@
 ## Latvia Covid-19 status comparison 
 
-Latvia covid-19 deaths are currently doubling each 1945.77 days (observed initial average doubling time is 2.2 days across countries).
+Latvia covid-19 deaths are currently doubling each 69.32 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

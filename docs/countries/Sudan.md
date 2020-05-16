@@ -1,6 +1,6 @@
 ## Sudan Covid-19 status comparison 
 
-Sudan covid-19 deaths are currently doubling each 3334.03 days (observed initial average doubling time is 2.2 days across countries).
+Sudan covid-19 deaths are currently doubling each 9.28 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

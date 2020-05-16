@@ -1,6 +1,6 @@
 ## Bahamas Covid-19 status comparison 
 
-Bahamas covid-19 deaths are currently doubling each -370624633612946560.00 days (observed initial average doubling time is 2.2 days across countries).
+Bahamas covid-19 deaths are currently doubling each 46830534066192840.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

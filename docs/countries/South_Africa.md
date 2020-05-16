@@ -1,6 +1,6 @@
 ## South Africa Covid-19 status comparison 
 
-South Africa covid-19 deaths are currently doubling each 9192.35 days (observed initial average doubling time is 2.2 days across countries).
+South Africa covid-19 deaths are currently doubling each 13.54 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

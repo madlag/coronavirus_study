@@ -1,6 +1,6 @@
 ## Albania Covid-19 status comparison 
 
-Albania covid-19 deaths are currently doubling each -666.29 days (observed initial average doubling time is 2.2 days across countries).
+Albania covid-19 deaths are currently doubling each 7433418105744896.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

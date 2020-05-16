@@ -1,6 +1,6 @@
 ## Cuba Covid-19 status comparison 
 
-Cuba covid-19 deaths are currently doubling each 112278.30 days (observed initial average doubling time is 2.2 days across countries).
+Cuba covid-19 deaths are currently doubling each 50.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

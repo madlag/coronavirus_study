@@ -1,6 +1,6 @@
 ## Ecuador Covid-19 status comparison 
 
-Ecuador covid-19 deaths are currently doubling each 6544.04 days (observed initial average doubling time is 2.2 days across countries).
+Ecuador covid-19 deaths are currently doubling each 12.48 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

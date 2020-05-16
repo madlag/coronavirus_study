@@ -1,6 +1,6 @@
 ## Togo Covid-19 status comparison 
 
-Togo covid-19 deaths are currently doubling each -2340.17 days (observed initial average doubling time is 2.2 days across countries).
+Togo covid-19 deaths are currently doubling each 28.79 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

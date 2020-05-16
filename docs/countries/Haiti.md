@@ -1,6 +1,6 @@
 ## Haiti Covid-19 status comparison 
 
-Haiti covid-19 deaths are currently doubling each -37062463361294656.00 days (observed initial average doubling time is 2.2 days across countries).
+Haiti covid-19 deaths are currently doubling each 9.96 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Germany Covid-19 status comparison 
 
-Germany covid-19 deaths are currently doubling each -54543.87 days (observed initial average doubling time is 2.2 days across countries).
+Germany covid-19 deaths are currently doubling each 64.30 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

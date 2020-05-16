@@ -1,6 +1,6 @@
 ## Armenia Covid-19 status comparison 
 
-Armenia covid-19 deaths are currently doubling each 6526.28 days (observed initial average doubling time is 2.2 days across countries).
+Armenia covid-19 deaths are currently doubling each 27.16 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

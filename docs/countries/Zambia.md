@@ -1,6 +1,6 @@
 ## Zambia Covid-19 status comparison 
 
-Zambia covid-19 deaths are currently doubling each 92656158403236640.00 days (observed initial average doubling time is 2.2 days across countries).
+Zambia covid-19 deaths are currently doubling each 88051554620319632.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

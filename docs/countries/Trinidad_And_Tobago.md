@@ -1,6 +1,6 @@
 ## Trinidad And Tobago Covid-19 status comparison 
 
-Trinidad And Tobago covid-19 deaths are currently doubling each -546.94 days (observed initial average doubling time is 2.2 days across countries).
+Trinidad And Tobago covid-19 deaths are currently doubling each 9366106813238568.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

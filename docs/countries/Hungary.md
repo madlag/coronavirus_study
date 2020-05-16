@@ -1,6 +1,6 @@
 ## Hungary Covid-19 status comparison 
 
-Hungary covid-19 deaths are currently doubling each 4766.26 days (observed initial average doubling time is 2.2 days across countries).
+Hungary covid-19 deaths are currently doubling each 41.58 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Cameroon Covid-19 status comparison 
 
-Cameroon covid-19 deaths are currently doubling each 7327.97 days (observed initial average doubling time is 2.2 days across countries).
+Cameroon covid-19 deaths are currently doubling each 19.77 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

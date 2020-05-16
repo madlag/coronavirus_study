@@ -1,6 +1,6 @@
 ## Cases On An International Conveyance Japan Covid-19 status comparison 
 
-Cases On An International Conveyance Japan covid-19 deaths are currently doubling each -16273830630791316.00 days (observed initial average doubling time is 2.2 days across countries).
+Cases On An International Conveyance Japan covid-19 deaths are currently doubling each 41.80 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

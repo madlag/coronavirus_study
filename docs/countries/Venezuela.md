@@ -1,6 +1,6 @@
 ## Venezuela Covid-19 status comparison 
 
-Venezuela covid-19 deaths are currently doubling each -339.34 days (observed initial average doubling time is 2.2 days across countries).
+Venezuela covid-19 deaths are currently doubling each 7095535464574674.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

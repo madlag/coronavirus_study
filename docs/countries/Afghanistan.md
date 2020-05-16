@@ -1,6 +1,6 @@
 ## Afghanistan Covid-19 status comparison 
 
-Afghanistan covid-19 deaths are currently doubling each 17087.24 days (observed initial average doubling time is 2.2 days across countries).
+Afghanistan covid-19 deaths are currently doubling each 15.76 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

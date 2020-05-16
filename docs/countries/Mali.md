@@ -1,6 +1,6 @@
 ## Mali Covid-19 status comparison 
 
-Mali covid-19 deaths are currently doubling each 3848.62 days (observed initial average doubling time is 2.2 days across countries).
+Mali covid-19 deaths are currently doubling each 15.86 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

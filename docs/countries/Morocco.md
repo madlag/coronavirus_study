@@ -1,6 +1,6 @@
 ## Morocco Covid-19 status comparison 
 
-Morocco covid-19 deaths are currently doubling each -1037.20 days (observed initial average doubling time is 2.2 days across countries).
+Morocco covid-19 deaths are currently doubling each 166.68 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

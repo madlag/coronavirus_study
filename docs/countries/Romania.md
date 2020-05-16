@@ -1,6 +1,6 @@
 ## Romania Covid-19 status comparison 
 
-Romania covid-19 deaths are currently doubling each -252948.55 days (observed initial average doubling time is 2.2 days across countries).
+Romania covid-19 deaths are currently doubling each 28.70 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

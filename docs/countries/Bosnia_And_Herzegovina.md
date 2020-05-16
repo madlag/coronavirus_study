@@ -1,6 +1,6 @@
 ## Bosnia And Herzegovina Covid-19 status comparison 
 
-Bosnia And Herzegovina covid-19 deaths are currently doubling each -9329.34 days (observed initial average doubling time is 2.2 days across countries).
+Bosnia And Herzegovina covid-19 deaths are currently doubling each 15.60 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

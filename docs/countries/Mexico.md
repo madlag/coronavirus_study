@@ -1,6 +1,6 @@
 ## Mexico Covid-19 status comparison 
 
-Mexico covid-19 deaths are currently doubling each -65700.82 days (observed initial average doubling time is 2.2 days across countries).
+Mexico covid-19 deaths are currently doubling each 11.50 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

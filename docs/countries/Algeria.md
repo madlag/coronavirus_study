@@ -1,6 +1,6 @@
 ## Algeria Covid-19 status comparison 
 
-Algeria covid-19 deaths are currently doubling each -80952.58 days (observed initial average doubling time is 2.2 days across countries).
+Algeria covid-19 deaths are currently doubling each 52.54 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

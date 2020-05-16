@@ -1,6 +1,6 @@
 ## Nigeria Covid-19 status comparison 
 
-Nigeria covid-19 deaths are currently doubling each -17356.28 days (observed initial average doubling time is 2.2 days across countries).
+Nigeria covid-19 deaths are currently doubling each 11.38 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## India Covid-19 status comparison 
 
-India covid-19 deaths are currently doubling each 120955.27 days (observed initial average doubling time is 2.2 days across countries).
+India covid-19 deaths are currently doubling each 14.31 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Lebanon Covid-19 status comparison 
 
-Lebanon covid-19 deaths are currently doubling each 21560.16 days (observed initial average doubling time is 2.2 days across countries).
+Lebanon covid-19 deaths are currently doubling each 182.25 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

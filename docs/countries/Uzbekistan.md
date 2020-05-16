@@ -1,6 +1,6 @@
 ## Uzbekistan Covid-19 status comparison 
 
-Uzbekistan covid-19 deaths are currently doubling each -837.99 days (observed initial average doubling time is 2.2 days across countries).
+Uzbekistan covid-19 deaths are currently doubling each 57.14 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

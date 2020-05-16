@@ -1,6 +1,6 @@
 ## Ghana Covid-19 status comparison 
 
-Ghana covid-19 deaths are currently doubling each 2826.50 days (observed initial average doubling time is 2.2 days across countries).
+Ghana covid-19 deaths are currently doubling each 15.40 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

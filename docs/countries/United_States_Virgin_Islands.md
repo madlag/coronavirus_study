@@ -1,6 +1,6 @@
 ## United States Virgin Islands Covid-19 status comparison 
 
-United States Virgin Islands covid-19 deaths are currently doubling each 135751503125445632.00 days (observed initial average doubling time is 2.2 days across countries).
+United States Virgin Islands covid-19 deaths are currently doubling each 14626136324819988.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

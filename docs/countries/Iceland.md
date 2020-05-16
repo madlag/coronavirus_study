@@ -1,6 +1,6 @@
 ## Iceland Covid-19 status comparison 
 
-Iceland covid-19 deaths are currently doubling each -135964942598371008.00 days (observed initial average doubling time is 2.2 days across countries).
+Iceland covid-19 deaths are currently doubling each 7095535464574674.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

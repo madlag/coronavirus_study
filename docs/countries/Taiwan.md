@@ -1,6 +1,6 @@
 ## Taiwan Covid-19 status comparison 
 
-Taiwan covid-19 deaths are currently doubling each -132841345806606768.00 days (observed initial average doubling time is 2.2 days across countries).
+Taiwan covid-19 deaths are currently doubling each 29.68 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

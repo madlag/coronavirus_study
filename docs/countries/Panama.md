@@ -1,6 +1,6 @@
 ## Panama Covid-19 status comparison 
 
-Panama covid-19 deaths are currently doubling each -3412.53 days (observed initial average doubling time is 2.2 days across countries).
+Panama covid-19 deaths are currently doubling each 32.48 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

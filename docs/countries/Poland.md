@@ -1,6 +1,6 @@
 ## Poland Covid-19 status comparison 
 
-Poland covid-19 deaths are currently doubling each 4030.68 days (observed initial average doubling time is 2.2 days across countries).
+Poland covid-19 deaths are currently doubling each 30.53 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

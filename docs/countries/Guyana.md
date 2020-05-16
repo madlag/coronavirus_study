@@ -1,6 +1,6 @@
 ## Guyana Covid-19 status comparison 
 
-Guyana covid-19 deaths are currently doubling each -123541544537648848.00 days (observed initial average doubling time is 2.2 days across countries).
+Guyana covid-19 deaths are currently doubling each 7095535464574674.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

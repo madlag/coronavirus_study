@@ -1,6 +1,6 @@
 ## Israel Covid-19 status comparison 
 
-Israel covid-19 deaths are currently doubling each -512135.70 days (observed initial average doubling time is 2.2 days across countries).
+Israel covid-19 deaths are currently doubling each 51.80 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

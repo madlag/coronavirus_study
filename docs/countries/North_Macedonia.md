@@ -1,6 +1,6 @@
 ## North Macedonia Covid-19 status comparison 
 
-North Macedonia covid-19 deaths are currently doubling each 10525.11 days (observed initial average doubling time is 2.2 days across countries).
+North Macedonia covid-19 deaths are currently doubling each 69.90 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

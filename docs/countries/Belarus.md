@@ -1,6 +1,6 @@
 ## Belarus Covid-19 status comparison 
 
-Belarus covid-19 deaths are currently doubling each -72685.49 days (observed initial average doubling time is 2.2 days across countries).
+Belarus covid-19 deaths are currently doubling each 18.58 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

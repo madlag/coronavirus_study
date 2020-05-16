@@ -1,6 +1,6 @@
 ## Canada Covid-19 status comparison 
 
-Canada covid-19 deaths are currently doubling each -104149.47 days (observed initial average doubling time is 2.2 days across countries).
+Canada covid-19 deaths are currently doubling each 22.72 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

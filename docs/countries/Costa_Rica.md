@@ -1,6 +1,6 @@
 ## Costa Rica Covid-19 status comparison 
 
-Costa Rica covid-19 deaths are currently doubling each 370624633612946560.00 days (observed initial average doubling time is 2.2 days across countries).
+Costa Rica covid-19 deaths are currently doubling each 19.09 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Ukraine Covid-19 status comparison 
 
-Ukraine covid-19 deaths are currently doubling each 5720.74 days (observed initial average doubling time is 2.2 days across countries).
+Ukraine covid-19 deaths are currently doubling each 16.45 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

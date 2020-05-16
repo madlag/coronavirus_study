@@ -1,6 +1,6 @@
 ## Montenegro Covid-19 status comparison 
 
-Montenegro covid-19 deaths are currently doubling each -1244.05 days (observed initial average doubling time is 2.2 days across countries).
+Montenegro covid-19 deaths are currently doubling each 40.46 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

@@ -1,6 +1,6 @@
 ## Nicaragua Covid-19 status comparison 
 
-Nicaragua covid-19 deaths are currently doubling each -1561.92 days (observed initial average doubling time is 2.2 days across countries).
+Nicaragua covid-19 deaths are currently doubling each -12888405894199876.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

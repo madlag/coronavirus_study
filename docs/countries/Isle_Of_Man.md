@@ -1,6 +1,6 @@
 ## Isle Of Man Covid-19 status comparison 
 
-Isle Of Man covid-19 deaths are currently doubling each 1963.89 days (observed initial average doubling time is 2.2 days across countries).
+Isle Of Man covid-19 deaths are currently doubling each 298.59 days (observed initial average doubling time is 2.2 days across countries).
 
 
 

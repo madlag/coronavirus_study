@@ -1,6 +1,6 @@
 ## Bangladesh Covid-19 status comparison 
 
-Bangladesh covid-19 deaths are currently doubling each 4019.30 days (observed initial average doubling time is 2.2 days across countries).
+Bangladesh covid-19 deaths are currently doubling each 13.37 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
