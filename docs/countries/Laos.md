@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Laos covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Laos/2020-05-15_Laos_day_cases.png "Laos covid-19 day_cases static chart")   
+![Laos covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-16/countries/Laos/2020-05-16_Laos_day_cases.png "Laos covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Laos covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-15/countries/Laos/2020-05-15_Laos_cases.png "Laos covid-19 cases static chart")   
+![Laos covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-16/countries/Laos/2020-05-16_Laos_cases.png "Laos covid-19 cases static chart")   
 
