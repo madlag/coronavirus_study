@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Western Sahara covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-16/countries/Western_Sahara/2020-05-16_Western_Sahara_day_cases.png "Western Sahara covid-19 day_cases static chart")   
+![Western Sahara covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-17/countries/Western_Sahara/2020-05-17_Western_Sahara_day_cases.png "Western Sahara covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Western Sahara covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-16/countries/Western_Sahara/2020-05-16_Western_Sahara_cases.png "Western Sahara covid-19 cases static chart")   
+![Western Sahara covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-17/countries/Western_Sahara/2020-05-17_Western_Sahara_cases.png "Western Sahara covid-19 cases static chart")   
 
