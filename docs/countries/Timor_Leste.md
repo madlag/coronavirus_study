@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Timor Leste covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-17/countries/Timor_Leste/2020-05-17_Timor_Leste_day_cases.png "Timor Leste covid-19 day_cases static chart")   
+![Timor Leste covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-18/countries/Timor_Leste/2020-05-18_Timor_Leste_day_cases.png "Timor Leste covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Timor Leste covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-17/countries/Timor_Leste/2020-05-17_Timor_Leste_cases.png "Timor Leste covid-19 cases static chart")   
+![Timor Leste covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-18/countries/Timor_Leste/2020-05-18_Timor_Leste_cases.png "Timor Leste covid-19 cases static chart")   
 
