@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Vietnam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-18/countries/Vietnam/2020-05-18_Vietnam_day_cases.png "Vietnam covid-19 day_cases static chart")   
+![Vietnam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Vietnam/2020-05-19_Vietnam_day_cases.png "Vietnam covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Vietnam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-18/countries/Vietnam/2020-05-18_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
+![Vietnam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Vietnam/2020-05-19_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
 
