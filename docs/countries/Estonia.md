@@ -1,6 +1,6 @@
 ## Estonia Covid-19 status comparison 
 
-Estonia covid-19 deaths are currently doubling each 95.57 days (observed initial average doubling time is 2.2 days across countries).
+Estonia covid-19 deaths are currently doubling each 96.03 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Estonia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_day_deaths.png "Estonia covid-19 day_deaths static chart")   
+![Estonia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_day_deaths.png "Estonia covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Estonia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_deaths.png "Estonia covid-19 deaths static chart")   
+![Estonia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_deaths.png "Estonia covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Estonia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_day_deaths.gif "Estonia covid-19 day_deaths animated chart")   
+![Estonia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_day_deaths.gif "Estonia covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Estonia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_deaths.gif "Estonia covid-19 deaths animated chart")   
+![Estonia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_deaths.gif "Estonia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Estonia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_day_cases.png "Estonia covid-19 day_cases static chart")   
+![Estonia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_day_cases.png "Estonia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Estonia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_cases.png "Estonia covid-19 cases static chart")   
+![Estonia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_cases.png "Estonia covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Estonia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_day_cases.gif "Estonia covid-19 day_cases animated chart")   
+![Estonia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_day_cases.gif "Estonia covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Estonia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Estonia/2020-05-19_Estonia_cases.gif "Estonia covid-19 cases animated chart")   
+![Estonia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Estonia/2020-05-20_Estonia_cases.gif "Estonia covid-19 cases animated chart")   
 

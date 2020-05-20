@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Central African Republic covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Central_African_Republic/2020-05-19_Central_African_Republic_day_cases.png "Central African Republic covid-19 day_cases static chart")   
+![Central African Republic covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Central_African_Republic/2020-05-20_Central_African_Republic_day_cases.png "Central African Republic covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Central African Republic covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-19/countries/Central_African_Republic/2020-05-19_Central_African_Republic_cases.png "Central African Republic covid-19 cases static chart")   
+![Central African Republic covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Central_African_Republic/2020-05-20_Central_African_Republic_cases.png "Central African Republic covid-19 cases static chart")   
 
