@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![South Sudan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/South_Sudan/2020-05-20_South_Sudan_day_deaths.png "South Sudan covid-19 day_deaths static chart")   
+![South Sudan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/South_Sudan/2020-05-21_South_Sudan_day_deaths.png "South Sudan covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![South Sudan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/South_Sudan/2020-05-20_South_Sudan_deaths.png "South Sudan covid-19 deaths static chart")   
+![South Sudan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/South_Sudan/2020-05-21_South_Sudan_deaths.png "South Sudan covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![South Sudan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/South_Sudan/2020-05-20_South_Sudan_day_cases.png "South Sudan covid-19 day_cases static chart")   
+![South Sudan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/South_Sudan/2020-05-21_South_Sudan_day_cases.png "South Sudan covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![South Sudan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/South_Sudan/2020-05-20_South_Sudan_cases.png "South Sudan covid-19 cases static chart")   
+![South Sudan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/South_Sudan/2020-05-21_South_Sudan_cases.png "South Sudan covid-19 cases static chart")   
 

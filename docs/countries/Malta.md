@@ -1,6 +1,6 @@
 ## Malta Covid-19 status comparison 
 
-Malta covid-19 deaths are currently doubling each -14074003198254752.00 days (observed initial average doubling time is 2.2 days across countries).
+Malta covid-19 deaths are currently doubling each 291955395839637888.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Malta covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_day_deaths.png "Malta covid-19 day_deaths static chart")   
+![Malta covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_day_deaths.png "Malta covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Malta covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_deaths.png "Malta covid-19 deaths static chart")   
+![Malta covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_deaths.png "Malta covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Malta covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_day_deaths.gif "Malta covid-19 day_deaths animated chart")   
+![Malta covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_day_deaths.gif "Malta covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Malta covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_deaths.gif "Malta covid-19 deaths animated chart")   
+![Malta covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_deaths.gif "Malta covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Malta covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_day_cases.png "Malta covid-19 day_cases static chart")   
+![Malta covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_day_cases.png "Malta covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Malta covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_cases.png "Malta covid-19 cases static chart")   
+![Malta covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_cases.png "Malta covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Malta covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_day_cases.gif "Malta covid-19 day_cases animated chart")   
+![Malta covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_day_cases.gif "Malta covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Malta covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-20/countries/Malta/2020-05-20_Malta_cases.gif "Malta covid-19 cases animated chart")   
+![Malta covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/Malta/2020-05-21_Malta_cases.gif "Malta covid-19 cases animated chart")   
 
