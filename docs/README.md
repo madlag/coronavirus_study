@@ -1,12 +1,12 @@
-##  COVID-19 2020-05-21 report
+##  COVID-19 2020-05-22 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/2020-05-21_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/2020-05-22_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/2020-05-21_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/2020-05-22_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-05-21
+### Most Affected Countries as of 2020-05-22
 
 [Afghanistan](countries/Afghanistan)
 
@@ -113,6 +113,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Guernsey](countries/Guernsey)
 
 [Guinea](countries/Guinea)
+
+[Guinea Bissau](countries/Guinea_Bissau)
 
 [Guyana](countries/Guyana)
 
@@ -250,6 +252,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [South Korea](countries/South_Korea)
 
+[South Sudan](countries/South_Sudan)
+
 [Spain](countries/Spain)
 
 [Sri Lanka](countries/Sri_Lanka)
@@ -361,8 +365,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Guam](countries/Guam)
 
-[Guinea Bissau](countries/Guinea_Bissau)
-
 [Holy See](countries/Holy_See)
 
 [Laos](countries/Laos)
@@ -410,8 +412,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Saint Vincent And The Grenadines](countries/Saint_Vincent_And_The_Grenadines)
 
 [Seychelles](countries/Seychelles)
-
-[South Sudan](countries/South_Sudan)
 
 [Suriname](countries/Suriname)
 

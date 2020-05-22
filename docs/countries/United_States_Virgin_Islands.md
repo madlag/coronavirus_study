@@ -1,6 +1,6 @@
 ## United States Virgin Islands Covid-19 status comparison 
 
-United States Virgin Islands covid-19 deaths are currently doubling each 291955395839637888.00 days (observed initial average doubling time is 2.2 days across countries).
+United States Virgin Islands covid-19 deaths are currently doubling each -18648165649746092.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![United States Virgin Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_day_deaths.png "United States Virgin Islands covid-19 day_deaths static chart")   
+![United States Virgin Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_day_deaths.png "United States Virgin Islands covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![United States Virgin Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_deaths.png "United States Virgin Islands covid-19 deaths static chart")   
+![United States Virgin Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_deaths.png "United States Virgin Islands covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![United States Virgin Islands covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_day_deaths.gif "United States Virgin Islands covid-19 day_deaths animated chart")   
+![United States Virgin Islands covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_day_deaths.gif "United States Virgin Islands covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![United States Virgin Islands covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_deaths.gif "United States Virgin Islands covid-19 deaths animated chart")   
+![United States Virgin Islands covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_deaths.gif "United States Virgin Islands covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![United States Virgin Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_day_cases.png "United States Virgin Islands covid-19 day_cases static chart")   
+![United States Virgin Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_day_cases.png "United States Virgin Islands covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![United States Virgin Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_cases.png "United States Virgin Islands covid-19 cases static chart")   
+![United States Virgin Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_cases.png "United States Virgin Islands covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![United States Virgin Islands covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_day_cases.gif "United States Virgin Islands covid-19 day_cases animated chart")   
+![United States Virgin Islands covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_day_cases.gif "United States Virgin Islands covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![United States Virgin Islands covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-21/countries/United_States_Virgin_Islands/2020-05-21_United_States_Virgin_Islands_cases.gif "United States Virgin Islands covid-19 cases animated chart")   
+![United States Virgin Islands covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/United_States_Virgin_Islands/2020-05-22_United_States_Virgin_Islands_cases.gif "United States Virgin Islands covid-19 cases animated chart")   
 
