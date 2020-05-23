@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![British Virgin Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/British_Virgin_Islands/2020-05-22_British_Virgin_Islands_day_deaths.png "British Virgin Islands covid-19 day_deaths static chart")   
+![British Virgin Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/British_Virgin_Islands/2020-05-23_British_Virgin_Islands_day_deaths.png "British Virgin Islands covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![British Virgin Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/British_Virgin_Islands/2020-05-22_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
+![British Virgin Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/British_Virgin_Islands/2020-05-23_British_Virgin_Islands_deaths.png "British Virgin Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![British Virgin Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/British_Virgin_Islands/2020-05-22_British_Virgin_Islands_day_cases.png "British Virgin Islands covid-19 day_cases static chart")   
+![British Virgin Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/British_Virgin_Islands/2020-05-23_British_Virgin_Islands_day_cases.png "British Virgin Islands covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![British Virgin Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-22/countries/British_Virgin_Islands/2020-05-22_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
+![British Virgin Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/British_Virgin_Islands/2020-05-23_British_Virgin_Islands_cases.png "British Virgin Islands covid-19 cases static chart")   
 
