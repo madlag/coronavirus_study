@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Mozambique covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Mozambique/2020-05-23_Mozambique_day_cases.png "Mozambique covid-19 day_cases static chart")   
+![Mozambique covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Mozambique/2020-05-24_Mozambique_day_cases.png "Mozambique covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Mozambique covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Mozambique/2020-05-23_Mozambique_cases.png "Mozambique covid-19 cases static chart")   
+![Mozambique covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Mozambique/2020-05-24_Mozambique_cases.png "Mozambique covid-19 cases static chart")   
 

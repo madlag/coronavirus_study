@@ -1,6 +1,6 @@
 ## Djibouti Covid-19 status comparison 
 
-Djibouti covid-19 deaths are currently doubling each 6.48 days (observed initial average doubling time is 2.2 days across countries).
+Djibouti covid-19 deaths are currently doubling each 8.20 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Djibouti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_day_deaths.png "Djibouti covid-19 day_deaths static chart")   
+![Djibouti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_day_deaths.png "Djibouti covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Djibouti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
+![Djibouti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_deaths.png "Djibouti covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Djibouti covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_day_deaths.gif "Djibouti covid-19 day_deaths animated chart")   
+![Djibouti covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_day_deaths.gif "Djibouti covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Djibouti covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_deaths.gif "Djibouti covid-19 deaths animated chart")   
+![Djibouti covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_deaths.gif "Djibouti covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Djibouti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_day_cases.png "Djibouti covid-19 day_cases static chart")   
+![Djibouti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_day_cases.png "Djibouti covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Djibouti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
+![Djibouti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_cases.png "Djibouti covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Djibouti covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_day_cases.gif "Djibouti covid-19 day_cases animated chart")   
+![Djibouti covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_day_cases.gif "Djibouti covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Djibouti covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Djibouti/2020-05-23_Djibouti_cases.gif "Djibouti covid-19 cases animated chart")   
+![Djibouti covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Djibouti/2020-05-24_Djibouti_cases.gif "Djibouti covid-19 cases animated chart")   
 

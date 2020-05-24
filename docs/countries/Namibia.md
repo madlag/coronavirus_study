@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Namibia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Namibia/2020-05-23_Namibia_day_cases.png "Namibia covid-19 day_cases static chart")   
+![Namibia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Namibia/2020-05-24_Namibia_day_cases.png "Namibia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Namibia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Namibia/2020-05-23_Namibia_cases.png "Namibia covid-19 cases static chart")   
+![Namibia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Namibia/2020-05-24_Namibia_cases.png "Namibia covid-19 cases static chart")   
 

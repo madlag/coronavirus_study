@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Nepal covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Nepal/2020-05-23_Nepal_day_deaths.png "Nepal covid-19 day_deaths static chart")   
+![Nepal covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Nepal/2020-05-24_Nepal_day_deaths.png "Nepal covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Nepal covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Nepal/2020-05-23_Nepal_deaths.png "Nepal covid-19 deaths static chart")   
+![Nepal covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Nepal/2020-05-24_Nepal_deaths.png "Nepal covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Nepal covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Nepal/2020-05-23_Nepal_day_cases.png "Nepal covid-19 day_cases static chart")   
+![Nepal covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Nepal/2020-05-24_Nepal_day_cases.png "Nepal covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Nepal covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-23/countries/Nepal/2020-05-23_Nepal_cases.png "Nepal covid-19 cases static chart")   
+![Nepal covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Nepal/2020-05-24_Nepal_cases.png "Nepal covid-19 cases static chart")   
 
