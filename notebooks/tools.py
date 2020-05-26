@@ -45,6 +45,9 @@ def to_gif_impl(src, width, dest, src_frame_rate = None):
         except:
             pass
 
+def convert_date(date):
+    return datetime.datetime.strptime(date[:10], '%Y-%m-%d')
+
 class DataProvider:
     def __init__(self, max_date = None):
         self.max_date = max_date
@@ -108,7 +111,7 @@ class DataProvider:
                 country_data[country].append(entry)
 
             for country, data in country_data.items():
-                data.sort(key = lambda x : x["date"])
+                data.sort(key = lambda x : convert_date(x["date"]))
 
                 cases = 0
                 deaths = 0
@@ -152,7 +155,7 @@ class DataProcessor:
         values_for_china, data_date = self.data_provider.get_data_for_country("China")
         mapping_for_china = {}
         for v in values_for_china:
-            d = datetime.datetime.fromisoformat(v["date"]) + datetime.timedelta(days = -self.offset + self.china_italy_offset)
+            d = convert_date(v["date"]) + datetime.timedelta(days = -self.offset + self.china_italy_offset)
             d = d.isoformat()[:10]
             mapping_for_china[d] = v[data_type] + epsilon
         return mapping_for_china
@@ -202,8 +205,8 @@ class DataProcessor:
         new_date = (update_date + datetime.timedelta(days = 1)).isoformat()
         if country in self.new_daily_points:
             values += [{"date":new_date, data_type:self.new_daily_points[country][self.data_type]}]
-
-        dates = [(datetime.datetime.fromisoformat(v["date"]) - self.START_DATE).days + self.offset for v in values]
+                
+        dates = [(convert_date(v["date"]) - self.START_DATE).days + self.offset for v in values]
         
         if china_comparison:
             y = [v[data_type]/mapping_for_china.get(v["date"][:10], epsilon) for v in values]
@@ -314,12 +317,24 @@ class CountryGraph:
         assert(len(dates) == len(values))
         max_data = max(values)
         dates = dates[:len(dates) - clip]
+
+        if self.average_data_length != 1:
+            if False:
+                from scipy.ndimage.filters import convolve1d
+                adl = self.average_data_length
+                filter_len = int(adl) * 6
+                weights = numpy.array([(math.exp(t / adl)) for t in range(filter_len)] + [0.0] * (filter_len - 1))
+                weights /= sum(weights)
+                values = convolve1d(values, weights, mode='nearest')
+
+            from scipy.ndimage.filters import uniform_filter1d
+            values = uniform_filter1d(values, size=self.average_data_length)
+
         values = values[:len(values) - clip]
         
         if self.log_axis:
             plt.yscale("log")
         else:
-            print("linear")
             plt.yscale("linear")
 
         label = self.country 
@@ -327,14 +342,10 @@ class CountryGraph:
         if offset != 0:
             label += " (%+d days)" % (offset)
 
-        if self.average_data_length != 1:
-            import numpy as np
-            from scipy.ndimage.filters import uniform_filter1d
-            values = uniform_filter1d(values, size=self.average_data_length)
-
         plt.plot(dates,
                 values,
                 label = label,
+                markevery=7,
                 ** self.plot_kwargs)
 
         if self.draw_reference:
@@ -418,22 +429,28 @@ class MultiCountryGraph:
             
         _ = plt.legend()
         data_date = self.data_provider.max_date or self.data_provider.data_date
-        title = "%s by country over time, %s data from ECDC.\n" % (self.data_type.capitalize(), data_date)
+        data_type_base = self.data_type.replace("day_", "")
+        if "day" not in self.data_type:
+            data_type_string = "Cumulated " + data_type_base
+        else:
+            data_type_string = "Daily " + data_type_base
+
+        title = "%s by country over time, %s data from ECDC.\n" % (data_type_string, data_date)
         if self.average_data_length != 1:
             title += "Data is averaged over %d days.\n" % self.average_data_length
-
-        title += "Dates are shifted for each country to facilitate comparison."
+            
+        title += "Dates are shifted for each country to facilitate comparison.\n"
 
         if self.log_axis:
             title += " Logarithmic scale.\n"
 
         plt.title(title,
                   fontdict = {'fontweight' : "bold", 'verticalalignment': 'baseline'})
-        plt.xlabel("Days since 01-01-2020 for Italy (use offset for other countries).%s\n Produced by https://github.com/madlag/coronavirus_study/")
+        plt.xlabel("Days since 01-01-2020 for Italy (use offset for other countries).\n Produced by https://github.com/madlag/coronavirus_study/")
         plt.ylabel(self.data_type)
 
-        data_type_offset = 0 if self.data_type == "deaths" else - 14
-        plt.xlim(40 + data_type_offset, 150 + data_type_offset)
+        data_type_offset = 0 if "deaths" in self.data_type else - 14
+        plt.xlim(35 + data_type_offset, 165 + data_type_offset)
         plt.ylim(0.5, max_data * 1.2)
 
         if filename is not None:
@@ -506,33 +523,34 @@ def run():
     if not root.exists():
         root.mkdir(parents= True)
 
-    main_chart_countries_set = [("main", ["China", "South_Korea", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]),
+    main_chart_countries_set = [("main", ["South_Korea", "Germany", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]),
                                 ("scandinavia", ["Italy", "Sweden", "Denmark", "Norway", "Finland"])]
 
-    step = 2
+    step = 0
 
-    if step <= 0 or True:
+    if step <= 0:
         for name, main_chart_countries in main_chart_countries_set:
             print(name, main_chart_countries)
-            g = MultiCountryGraph(data_provider,
-                                  country_info_store,
-                                   main_chart_countries,
-                                  log_axis = True,
-                                  data_type = "day_deaths",
-                                  visually_impaired = True,
-                                  china_comparison = False,
-                                  average_data_length=7)
-            g.plot(root/("%s_%s.png" % (data_date, name + "_comparison_day")))
 
-            g = MultiCountryGraph(data_provider,
-                                  country_info_store,
-                                   main_chart_countries,
-                                  log_axis = True,
-                                  data_type = "deaths",
-                                  visually_impaired = True,
-                                  china_comparison = False,
-                                  growth_reference=True)
-            g.plot(root/("%s_%s.png" % (data_date, name + "_comparison")))
+            for data_type in ["day_deaths", "deaths", "day_cases", "cases"]:
+                if "day" in data_type:
+                    average_data_length = 7
+                    growth_reference = False
+                else:
+                    average_data_length = 1
+                    growth_reference = True                                    
+                
+                g = MultiCountryGraph(data_provider,
+                                      country_info_store,
+                                      main_chart_countries,
+                                      log_axis = True,
+                                      data_type = data_type,
+                                      visually_impaired = True,
+                                      china_comparison = False,
+                                      growth_reference=growth_reference,
+                                      average_data_length=average_data_length)
+                g.plot(root/("%s_%s.png" % (data_date, name + "_comparison_%s" % data_type)))
+                
 
 
     if step <= 1:
@@ -541,7 +559,7 @@ def run():
             for dt in ["deaths", "cases", "day_deaths", "day_cases"]:
                 if country_info_store.get_country_info(c)["deaths"] == 0 and dt == "deaths":
                     continue
-                countries = ["China", "Italy", "South_Korea"]
+                countries = ["Italy", "South_Korea", "Germany"]
                 references = []
 
                 if c not in countries:
@@ -590,7 +608,7 @@ def run():
 
     if step <= 3 and False:
         g = MultiCountryGraph(data_provider,
-                              country_info_store,
+                              country_info_store
                               ["China", "South_Korea", "Italy", "Switzerland", "Sweden"],
                               reference_for_countries = ["Switzerland", "Sweden"],
                               log_axis = True,

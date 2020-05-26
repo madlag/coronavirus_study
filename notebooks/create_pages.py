@@ -37,7 +37,7 @@ def create_pages(date, main_chart_countries_set, countries):
         most_impacted = country_information["most_impacted"]
         if most_impacted:
             growth_rate = "%02.2f" % country_information["trend_time_base"]
-            sections = (("animated", "gif"), ("static", "png"))
+            sections = (("static", "png"), ("animated", "gif"))
         else:
             growth_rate = None
             sections = (("static", "png"),)
@@ -50,9 +50,11 @@ def create_pages(date, main_chart_countries_set, countries):
         chart_sections = {}
         for data_type in data_types:
             chart_sections[data_type] = []
-            for chart_type, chart_suffix in sections:
-                chart_sections[data_type].append(dict(data_type=data_type, data_type_string=data_type, chart_type=chart_type, chart_suffix=chart_suffix))
+
+        for chart_type, chart_suffix in sections:
+            for data_type in data_types:
                 chart_sections[data_type].append(dict(data_type="day_" + data_type, data_type_string="daily " + data_type, chart_type=chart_type, chart_suffix=chart_suffix))
+                chart_sections[data_type].append(dict(data_type=data_type, data_type_string="cumulated " + data_type, chart_type=chart_type, chart_suffix=chart_suffix))
 
         country_information = dict(date=date,
                                    country=dict(name=hr_cname(c),
