@@ -1,6 +1,6 @@
 ## United Kingdom Covid-19 status comparison 
 
-United Kingdom covid-19 deaths are currently doubling each 69.61 days (observed initial average doubling time is 2.2 days across countries).
+United Kingdom covid-19 deaths are currently doubling each 81.64 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![United Kingdom covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_day_deaths.png "United Kingdom covid-19 day_deaths static chart")   
+![United Kingdom covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_day_deaths.png "United Kingdom covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![United Kingdom covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_deaths.png "United Kingdom covid-19 deaths static chart")   
+![United Kingdom covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_deaths.png "United Kingdom covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![United Kingdom covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_day_deaths.gif "United Kingdom covid-19 day_deaths animated chart")   
+![United Kingdom covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_day_deaths.gif "United Kingdom covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![United Kingdom covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_deaths.gif "United Kingdom covid-19 deaths animated chart")   
+![United Kingdom covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_deaths.gif "United Kingdom covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![United Kingdom covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_day_cases.png "United Kingdom covid-19 day_cases static chart")   
+![United Kingdom covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_day_cases.png "United Kingdom covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![United Kingdom covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_cases.png "United Kingdom covid-19 cases static chart")   
+![United Kingdom covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_cases.png "United Kingdom covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![United Kingdom covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_day_cases.gif "United Kingdom covid-19 day_cases animated chart")   
+![United Kingdom covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_day_cases.gif "United Kingdom covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![United Kingdom covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/United_Kingdom/2020-05-24_United_Kingdom_cases.gif "United Kingdom covid-19 cases animated chart")   
+![United Kingdom covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/United_Kingdom/2020-05-26_United_Kingdom_cases.gif "United Kingdom covid-19 cases animated chart")   
 

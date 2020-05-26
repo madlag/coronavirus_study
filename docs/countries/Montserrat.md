@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Montserrat covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Montserrat/2020-05-24_Montserrat_day_deaths.png "Montserrat covid-19 day_deaths static chart")   
+![Montserrat covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Montserrat/2020-05-26_Montserrat_day_deaths.png "Montserrat covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Montserrat covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Montserrat/2020-05-24_Montserrat_deaths.png "Montserrat covid-19 deaths static chart")   
+![Montserrat covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Montserrat/2020-05-26_Montserrat_deaths.png "Montserrat covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Montserrat covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Montserrat/2020-05-24_Montserrat_day_cases.png "Montserrat covid-19 day_cases static chart")   
+![Montserrat covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Montserrat/2020-05-26_Montserrat_day_cases.png "Montserrat covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Montserrat covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-24/countries/Montserrat/2020-05-24_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
+![Montserrat covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Montserrat/2020-05-26_Montserrat_cases.png "Montserrat covid-19 cases static chart")   
 
