@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Bhutan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Bhutan/2020-05-26_Bhutan_day_cases.png "Bhutan covid-19 day_cases static chart")   
+![Bhutan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Bhutan/2020-05-27_Bhutan_day_cases.png "Bhutan covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Bhutan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-26/countries/Bhutan/2020-05-26_Bhutan_cases.png "Bhutan covid-19 cases static chart")   
+![Bhutan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Bhutan/2020-05-27_Bhutan_cases.png "Bhutan covid-19 cases static chart")   
 
