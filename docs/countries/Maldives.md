@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Maldives covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Maldives/2020-05-27_Maldives_day_deaths.png "Maldives covid-19 day_deaths static chart")   
+![Maldives covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Maldives/2020-05-28_Maldives_day_deaths.png "Maldives covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Maldives covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Maldives/2020-05-27_Maldives_deaths.png "Maldives covid-19 deaths static chart")   
+![Maldives covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Maldives/2020-05-28_Maldives_deaths.png "Maldives covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Maldives covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Maldives/2020-05-27_Maldives_day_cases.png "Maldives covid-19 day_cases static chart")   
+![Maldives covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Maldives/2020-05-28_Maldives_day_cases.png "Maldives covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Maldives covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-27/countries/Maldives/2020-05-27_Maldives_cases.png "Maldives covid-19 cases static chart")   
+![Maldives covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Maldives/2020-05-28_Maldives_cases.png "Maldives covid-19 cases static chart")   
 
