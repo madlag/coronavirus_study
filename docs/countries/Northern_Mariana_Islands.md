@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Northern Mariana Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Northern_Mariana_Islands/2020-05-28_Northern_Mariana_Islands_day_deaths.png "Northern Mariana Islands covid-19 day_deaths static chart")   
+![Northern Mariana Islands covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Northern_Mariana_Islands/2020-05-29_Northern_Mariana_Islands_day_deaths.png "Northern Mariana Islands covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Northern Mariana Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Northern_Mariana_Islands/2020-05-28_Northern_Mariana_Islands_deaths.png "Northern Mariana Islands covid-19 deaths static chart")   
+![Northern Mariana Islands covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Northern_Mariana_Islands/2020-05-29_Northern_Mariana_Islands_deaths.png "Northern Mariana Islands covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Northern Mariana Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Northern_Mariana_Islands/2020-05-28_Northern_Mariana_Islands_day_cases.png "Northern Mariana Islands covid-19 day_cases static chart")   
+![Northern Mariana Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Northern_Mariana_Islands/2020-05-29_Northern_Mariana_Islands_day_cases.png "Northern Mariana Islands covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Northern Mariana Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Northern_Mariana_Islands/2020-05-28_Northern_Mariana_Islands_cases.png "Northern Mariana Islands covid-19 cases static chart")   
+![Northern Mariana Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Northern_Mariana_Islands/2020-05-29_Northern_Mariana_Islands_cases.png "Northern Mariana Islands covid-19 cases static chart")   
 

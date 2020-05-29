@@ -1,12 +1,12 @@
-##  COVID-19 2020-05-28 report
+##  COVID-19 2020-05-29 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/2020-05-28_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/2020-05-29_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/2020-05-28_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/2020-05-29_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-05-28
+### Most Affected Countries as of 2020-05-29
 
 [Afghanistan](countries/Afghanistan)
 
@@ -93,6 +93,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Equatorial Guinea](countries/Equatorial_Guinea)
 
 [Estonia](countries/Estonia)
+
+[Ethiopia](countries/Ethiopia)
 
 [Finland](countries/Finland)
 
@@ -346,8 +348,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Eritrea](countries/Eritrea)
 
 [Eswatini](countries/Eswatini)
-
-[Ethiopia](countries/Ethiopia)
 
 [Falkland Islands (malvinas)](countries/Falkland_Islands_(malvinas))
 

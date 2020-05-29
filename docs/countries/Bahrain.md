@@ -1,6 +1,6 @@
 ## Bahrain Covid-19 status comparison 
 
-Bahrain covid-19 deaths are currently doubling each 25.99 days (observed initial average doubling time is 2.2 days across countries).
+Bahrain covid-19 deaths are currently doubling each 23.45 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Bahrain covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_day_deaths.png "Bahrain covid-19 day_deaths static chart")   
+![Bahrain covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_day_deaths.png "Bahrain covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Bahrain covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_deaths.png "Bahrain covid-19 deaths static chart")   
+![Bahrain covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_deaths.png "Bahrain covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Bahrain covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_day_deaths.gif "Bahrain covid-19 day_deaths animated chart")   
+![Bahrain covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_day_deaths.gif "Bahrain covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Bahrain covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_deaths.gif "Bahrain covid-19 deaths animated chart")   
+![Bahrain covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_deaths.gif "Bahrain covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Bahrain covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_day_cases.png "Bahrain covid-19 day_cases static chart")   
+![Bahrain covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_day_cases.png "Bahrain covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Bahrain covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_cases.png "Bahrain covid-19 cases static chart")   
+![Bahrain covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_cases.png "Bahrain covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Bahrain covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_day_cases.gif "Bahrain covid-19 day_cases animated chart")   
+![Bahrain covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_day_cases.gif "Bahrain covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Bahrain covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-28/countries/Bahrain/2020-05-28_Bahrain_cases.gif "Bahrain covid-19 cases animated chart")   
+![Bahrain covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Bahrain/2020-05-29_Bahrain_cases.gif "Bahrain covid-19 cases animated chart")   
 
