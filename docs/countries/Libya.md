@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Libya covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Libya/2020-05-29_Libya_day_deaths.png "Libya covid-19 day_deaths static chart")   
+![Libya covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Libya/2020-05-30_Libya_day_deaths.png "Libya covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Libya covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Libya/2020-05-29_Libya_deaths.png "Libya covid-19 deaths static chart")   
+![Libya covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Libya/2020-05-30_Libya_deaths.png "Libya covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Libya covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Libya/2020-05-29_Libya_day_cases.png "Libya covid-19 day_cases static chart")   
+![Libya covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Libya/2020-05-30_Libya_day_cases.png "Libya covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Libya covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-29/countries/Libya/2020-05-29_Libya_cases.png "Libya covid-19 cases static chart")   
+![Libya covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Libya/2020-05-30_Libya_cases.png "Libya covid-19 cases static chart")   
 
