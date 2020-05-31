@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Greenland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Greenland/2020-05-30_Greenland_day_cases.png "Greenland covid-19 day_cases static chart")   
+![Greenland covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Greenland/2020-05-31_Greenland_day_cases.png "Greenland covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Greenland covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Greenland/2020-05-30_Greenland_cases.png "Greenland covid-19 cases static chart")   
+![Greenland covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Greenland/2020-05-31_Greenland_cases.png "Greenland covid-19 cases static chart")   
 

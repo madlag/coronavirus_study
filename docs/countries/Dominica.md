@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Dominica covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Dominica/2020-05-30_Dominica_day_cases.png "Dominica covid-19 day_cases static chart")   
+![Dominica covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Dominica/2020-05-31_Dominica_day_cases.png "Dominica covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Dominica covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Dominica/2020-05-30_Dominica_cases.png "Dominica covid-19 cases static chart")   
+![Dominica covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Dominica/2020-05-31_Dominica_cases.png "Dominica covid-19 cases static chart")   
 

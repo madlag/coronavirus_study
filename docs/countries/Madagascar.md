@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Madagascar covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Madagascar/2020-05-30_Madagascar_day_deaths.png "Madagascar covid-19 day_deaths static chart")   
+![Madagascar covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Madagascar/2020-05-31_Madagascar_day_deaths.png "Madagascar covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Madagascar covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Madagascar/2020-05-30_Madagascar_deaths.png "Madagascar covid-19 deaths static chart")   
+![Madagascar covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Madagascar/2020-05-31_Madagascar_deaths.png "Madagascar covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Madagascar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Madagascar/2020-05-30_Madagascar_day_cases.png "Madagascar covid-19 day_cases static chart")   
+![Madagascar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Madagascar/2020-05-31_Madagascar_day_cases.png "Madagascar covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Madagascar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-30/countries/Madagascar/2020-05-30_Madagascar_cases.png "Madagascar covid-19 cases static chart")   
+![Madagascar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-05-31/countries/Madagascar/2020-05-31_Madagascar_cases.png "Madagascar covid-19 cases static chart")   
 
