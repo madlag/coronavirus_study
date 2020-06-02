@@ -1,12 +1,12 @@
-##  COVID-19 2020-06-01 report
+##  COVID-19 2020-06-02 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/2020-06-01_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/2020-06-02_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/2020-06-01_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/2020-06-02_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-06-01
+### Most Affected Countries as of 2020-06-02
 
 [Afghanistan](countries/Afghanistan)
 
@@ -171,6 +171,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Lithuania](countries/Lithuania)
 
 [Luxembourg](countries/Luxembourg)
+
+[Madagascar](countries/Madagascar)
 
 [Malaysia](countries/Malaysia)
 
@@ -378,8 +380,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Libya](countries/Libya)
 
 [Liechtenstein](countries/Liechtenstein)
-
-[Madagascar](countries/Madagascar)
 
 [Malawi](countries/Malawi)
 

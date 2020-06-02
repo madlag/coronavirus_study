@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Lesotho covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Lesotho/2020-06-01_Lesotho_day_cases.png "Lesotho covid-19 day_cases static chart")   
+![Lesotho covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Lesotho/2020-06-02_Lesotho_day_cases.png "Lesotho covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Lesotho covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Lesotho/2020-06-01_Lesotho_cases.png "Lesotho covid-19 cases static chart")   
+![Lesotho covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Lesotho/2020-06-02_Lesotho_cases.png "Lesotho covid-19 cases static chart")   
 

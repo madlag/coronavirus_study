@@ -1,6 +1,6 @@
 ## Czechia Covid-19 status comparison 
 
-Czechia covid-19 deaths are currently doubling each 272.04 days (observed initial average doubling time is 2.2 days across countries).
+Czechia covid-19 deaths are currently doubling each 313.10 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Czechia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_day_deaths.png "Czechia covid-19 day_deaths static chart")   
+![Czechia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_day_deaths.png "Czechia covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Czechia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_deaths.png "Czechia covid-19 deaths static chart")   
+![Czechia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_deaths.png "Czechia covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Czechia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_day_deaths.gif "Czechia covid-19 day_deaths animated chart")   
+![Czechia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_day_deaths.gif "Czechia covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Czechia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_deaths.gif "Czechia covid-19 deaths animated chart")   
+![Czechia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_deaths.gif "Czechia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Czechia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_day_cases.png "Czechia covid-19 day_cases static chart")   
+![Czechia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_day_cases.png "Czechia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Czechia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_cases.png "Czechia covid-19 cases static chart")   
+![Czechia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_cases.png "Czechia covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Czechia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_day_cases.gif "Czechia covid-19 day_cases animated chart")   
+![Czechia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_day_cases.gif "Czechia covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Czechia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-01/countries/Czechia/2020-06-01_Czechia_cases.gif "Czechia covid-19 cases animated chart")   
+![Czechia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Czechia/2020-06-02_Czechia_cases.gif "Czechia covid-19 cases animated chart")   
 
