@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Mongolia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Mongolia/2020-06-02_Mongolia_day_cases.png "Mongolia covid-19 day_cases static chart")   
+![Mongolia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Mongolia/2020-06-03_Mongolia_day_cases.png "Mongolia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Mongolia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-02/countries/Mongolia/2020-06-02_Mongolia_cases.png "Mongolia covid-19 cases static chart")   
+![Mongolia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Mongolia/2020-06-03_Mongolia_cases.png "Mongolia covid-19 cases static chart")   
 
