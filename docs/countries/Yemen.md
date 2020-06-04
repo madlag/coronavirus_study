@@ -1,6 +1,6 @@
 ## Yemen Covid-19 status comparison 
 
-Yemen covid-19 deaths are currently doubling each 7.81 days (observed initial average doubling time is 2.2 days across countries).
+Yemen covid-19 deaths are currently doubling each 8.45 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Yemen covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_day_deaths.png "Yemen covid-19 day_deaths static chart")   
+![Yemen covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_day_deaths.png "Yemen covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Yemen covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_deaths.png "Yemen covid-19 deaths static chart")   
+![Yemen covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_deaths.png "Yemen covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Yemen covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_day_deaths.gif "Yemen covid-19 day_deaths animated chart")   
+![Yemen covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_day_deaths.gif "Yemen covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Yemen covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_deaths.gif "Yemen covid-19 deaths animated chart")   
+![Yemen covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_deaths.gif "Yemen covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Yemen covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_day_cases.png "Yemen covid-19 day_cases static chart")   
+![Yemen covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_day_cases.png "Yemen covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Yemen covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_cases.png "Yemen covid-19 cases static chart")   
+![Yemen covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_cases.png "Yemen covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Yemen covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_day_cases.gif "Yemen covid-19 day_cases animated chart")   
+![Yemen covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_day_cases.gif "Yemen covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Yemen covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Yemen/2020-06-03_Yemen_cases.gif "Yemen covid-19 cases animated chart")   
+![Yemen covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Yemen/2020-06-04_Yemen_cases.gif "Yemen covid-19 cases animated chart")   
 

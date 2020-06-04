@@ -1,6 +1,6 @@
 ## Nigeria Covid-19 status comparison 
 
-Nigeria covid-19 deaths are currently doubling each 20.28 days (observed initial average doubling time is 2.2 days across countries).
+Nigeria covid-19 deaths are currently doubling each 20.77 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Nigeria covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_day_deaths.png "Nigeria covid-19 day_deaths static chart")   
+![Nigeria covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_day_deaths.png "Nigeria covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Nigeria covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_deaths.png "Nigeria covid-19 deaths static chart")   
+![Nigeria covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_deaths.png "Nigeria covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Nigeria covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_day_deaths.gif "Nigeria covid-19 day_deaths animated chart")   
+![Nigeria covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_day_deaths.gif "Nigeria covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Nigeria covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_deaths.gif "Nigeria covid-19 deaths animated chart")   
+![Nigeria covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_deaths.gif "Nigeria covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Nigeria covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_day_cases.png "Nigeria covid-19 day_cases static chart")   
+![Nigeria covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_day_cases.png "Nigeria covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Nigeria covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_cases.png "Nigeria covid-19 cases static chart")   
+![Nigeria covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_cases.png "Nigeria covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Nigeria covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_day_cases.gif "Nigeria covid-19 day_cases animated chart")   
+![Nigeria covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_day_cases.gif "Nigeria covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Nigeria covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-03/countries/Nigeria/2020-06-03_Nigeria_cases.gif "Nigeria covid-19 cases animated chart")   
+![Nigeria covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Nigeria/2020-06-04_Nigeria_cases.gif "Nigeria covid-19 cases animated chart")   
 
