@@ -1,12 +1,12 @@
-##  COVID-19 2020-06-04 report
+##  COVID-19 2020-06-06 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/2020-06-04_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/2020-06-06_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/2020-06-04_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/2020-06-06_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-06-04
+### Most Affected Countries as of 2020-06-06
 
 [Afghanistan](countries/Afghanistan)
 
@@ -274,6 +274,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Switzerland](countries/Switzerland)
 
+[Syria](countries/Syria)
+
 [Taiwan](countries/Taiwan)
 
 [Tajikistan](countries/Tajikistan)
@@ -414,8 +416,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Seychelles](countries/Seychelles)
 
 [Suriname](countries/Suriname)
-
-[Syria](countries/Syria)
 
 [Timor Leste](countries/Timor_Leste)
 

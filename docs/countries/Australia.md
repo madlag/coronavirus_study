@@ -1,6 +1,6 @@
 ## Australia Covid-19 status comparison 
 
-Australia covid-19 deaths are currently doubling each -3883615938863158.50 days (observed initial average doubling time is 2.2 days across countries).
+Australia covid-19 deaths are currently doubling each -18101951211282792.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Australia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_day_deaths.png "Australia covid-19 day_deaths static chart")   
+![Australia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_day_deaths.png "Australia covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Australia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_deaths.png "Australia covid-19 deaths static chart")   
+![Australia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_deaths.png "Australia covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Australia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_day_deaths.gif "Australia covid-19 day_deaths animated chart")   
+![Australia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_day_deaths.gif "Australia covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Australia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_deaths.gif "Australia covid-19 deaths animated chart")   
+![Australia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_deaths.gif "Australia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Australia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_day_cases.png "Australia covid-19 day_cases static chart")   
+![Australia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_day_cases.png "Australia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Australia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_cases.png "Australia covid-19 cases static chart")   
+![Australia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_cases.png "Australia covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Australia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_day_cases.gif "Australia covid-19 day_cases animated chart")   
+![Australia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_day_cases.gif "Australia covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Australia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-04/countries/Australia/2020-06-04_Australia_cases.gif "Australia covid-19 cases animated chart")   
+![Australia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Australia/2020-06-06_Australia_cases.gif "Australia covid-19 cases animated chart")   
 
