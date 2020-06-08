@@ -1,6 +1,6 @@
 ## South Africa Covid-19 status comparison 
 
-South Africa covid-19 deaths are currently doubling each 12.73 days (observed initial average doubling time is 2.2 days across countries).
+South Africa covid-19 deaths are currently doubling each 12.46 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![South Africa covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_day_deaths.png "South Africa covid-19 day_deaths static chart")   
+![South Africa covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_day_deaths.png "South Africa covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![South Africa covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_deaths.png "South Africa covid-19 deaths static chart")   
+![South Africa covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_deaths.png "South Africa covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![South Africa covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_day_deaths.gif "South Africa covid-19 day_deaths animated chart")   
+![South Africa covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_day_deaths.gif "South Africa covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![South Africa covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_deaths.gif "South Africa covid-19 deaths animated chart")   
+![South Africa covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_deaths.gif "South Africa covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![South Africa covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_day_cases.png "South Africa covid-19 day_cases static chart")   
+![South Africa covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_day_cases.png "South Africa covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![South Africa covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_cases.png "South Africa covid-19 cases static chart")   
+![South Africa covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_cases.png "South Africa covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![South Africa covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_day_cases.gif "South Africa covid-19 day_cases animated chart")   
+![South Africa covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_day_cases.gif "South Africa covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![South Africa covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/South_Africa/2020-06-06_South_Africa_cases.gif "South Africa covid-19 cases animated chart")   
+![South Africa covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/South_Africa/2020-06-07_South_Africa_cases.gif "South Africa covid-19 cases animated chart")   
 

@@ -1,6 +1,6 @@
 ## Montenegro Covid-19 status comparison 
 
-Montenegro covid-19 deaths are currently doubling each 135764634084620944.00 days (observed initial average doubling time is 2.2 days across countries).
+Montenegro covid-19 deaths are currently doubling each -68327289653228384.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Montenegro covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_day_deaths.png "Montenegro covid-19 day_deaths static chart")   
+![Montenegro covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_day_deaths.png "Montenegro covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Montenegro covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
+![Montenegro covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_deaths.png "Montenegro covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Montenegro covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_day_deaths.gif "Montenegro covid-19 day_deaths animated chart")   
+![Montenegro covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_day_deaths.gif "Montenegro covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Montenegro covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_deaths.gif "Montenegro covid-19 deaths animated chart")   
+![Montenegro covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_deaths.gif "Montenegro covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Montenegro covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_day_cases.png "Montenegro covid-19 day_cases static chart")   
+![Montenegro covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_day_cases.png "Montenegro covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Montenegro covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
+![Montenegro covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_cases.png "Montenegro covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Montenegro covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_day_cases.gif "Montenegro covid-19 day_cases animated chart")   
+![Montenegro covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_day_cases.gif "Montenegro covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Montenegro covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Montenegro/2020-06-06_Montenegro_cases.gif "Montenegro covid-19 cases animated chart")   
+![Montenegro covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Montenegro/2020-06-07_Montenegro_cases.gif "Montenegro covid-19 cases animated chart")   
 

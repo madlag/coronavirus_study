@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Cape Verde covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Cape_Verde/2020-06-06_Cape_Verde_day_deaths.png "Cape Verde covid-19 day_deaths static chart")   
+![Cape Verde covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Cape_Verde/2020-06-07_Cape_Verde_day_deaths.png "Cape Verde covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Cape Verde covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Cape_Verde/2020-06-06_Cape_Verde_deaths.png "Cape Verde covid-19 deaths static chart")   
+![Cape Verde covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Cape_Verde/2020-06-07_Cape_Verde_deaths.png "Cape Verde covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Cape Verde covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Cape_Verde/2020-06-06_Cape_Verde_day_cases.png "Cape Verde covid-19 day_cases static chart")   
+![Cape Verde covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Cape_Verde/2020-06-07_Cape_Verde_day_cases.png "Cape Verde covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Cape Verde covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Cape_Verde/2020-06-06_Cape_Verde_cases.png "Cape Verde covid-19 cases static chart")   
+![Cape Verde covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Cape_Verde/2020-06-07_Cape_Verde_cases.png "Cape Verde covid-19 cases static chart")   
 

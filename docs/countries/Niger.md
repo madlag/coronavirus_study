@@ -1,6 +1,6 @@
 ## Niger Covid-19 status comparison 
 
-Niger covid-19 deaths are currently doubling each 295.07 days (observed initial average doubling time is 2.2 days across countries).
+Niger covid-19 deaths are currently doubling each 307.36 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Niger covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_day_deaths.png "Niger covid-19 day_deaths static chart")   
+![Niger covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_day_deaths.png "Niger covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Niger covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_deaths.png "Niger covid-19 deaths static chart")   
+![Niger covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_deaths.png "Niger covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Niger covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_day_deaths.gif "Niger covid-19 day_deaths animated chart")   
+![Niger covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_day_deaths.gif "Niger covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Niger covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_deaths.gif "Niger covid-19 deaths animated chart")   
+![Niger covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_deaths.gif "Niger covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Niger covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_day_cases.png "Niger covid-19 day_cases static chart")   
+![Niger covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_day_cases.png "Niger covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Niger covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_cases.png "Niger covid-19 cases static chart")   
+![Niger covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_cases.png "Niger covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Niger covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_day_cases.gif "Niger covid-19 day_cases animated chart")   
+![Niger covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_day_cases.gif "Niger covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Niger covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-06/countries/Niger/2020-06-06_Niger_cases.gif "Niger covid-19 cases animated chart")   
+![Niger covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Niger/2020-06-07_Niger_cases.gif "Niger covid-19 cases animated chart")   
 
