@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Seychelles covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Seychelles/2020-06-15_Seychelles_day_cases.png "Seychelles covid-19 day_cases static chart")   
+![Seychelles covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Seychelles/2020-06-16_Seychelles_day_cases.png "Seychelles covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Seychelles covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Seychelles/2020-06-15_Seychelles_cases.png "Seychelles covid-19 cases static chart")   
+![Seychelles covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Seychelles/2020-06-16_Seychelles_cases.png "Seychelles covid-19 cases static chart")   
 
