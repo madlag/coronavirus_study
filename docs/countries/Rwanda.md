@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Rwanda covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Rwanda/2020-06-07_Rwanda_day_deaths.png "Rwanda covid-19 day_deaths static chart")   
+![Rwanda covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Rwanda/2020-06-15_Rwanda_day_deaths.png "Rwanda covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Rwanda covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Rwanda/2020-06-07_Rwanda_deaths.png "Rwanda covid-19 deaths static chart")   
+![Rwanda covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Rwanda/2020-06-15_Rwanda_deaths.png "Rwanda covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Rwanda covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Rwanda/2020-06-07_Rwanda_day_cases.png "Rwanda covid-19 day_cases static chart")   
+![Rwanda covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Rwanda/2020-06-15_Rwanda_day_cases.png "Rwanda covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Rwanda covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Rwanda/2020-06-07_Rwanda_cases.png "Rwanda covid-19 cases static chart")   
+![Rwanda covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Rwanda/2020-06-15_Rwanda_cases.png "Rwanda covid-19 cases static chart")   
 

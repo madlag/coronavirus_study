@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Guam covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Guam/2020-06-07_Guam_day_deaths.png "Guam covid-19 day_deaths static chart")   
+![Guam covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Guam/2020-06-15_Guam_day_deaths.png "Guam covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Guam covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Guam/2020-06-07_Guam_deaths.png "Guam covid-19 deaths static chart")   
+![Guam covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Guam/2020-06-15_Guam_deaths.png "Guam covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Guam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Guam/2020-06-07_Guam_day_cases.png "Guam covid-19 day_cases static chart")   
+![Guam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Guam/2020-06-15_Guam_day_cases.png "Guam covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Guam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Guam/2020-06-07_Guam_cases.png "Guam covid-19 cases static chart")   
+![Guam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Guam/2020-06-15_Guam_cases.png "Guam covid-19 cases static chart")   
 

@@ -1,12 +1,12 @@
-##  COVID-19 2020-06-07 report
+##  COVID-19 2020-06-15 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/2020-06-07_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Spain, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/2020-06-15_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/2020-06-07_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/2020-06-15_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-06-07
+### Most Affected Countries as of 2020-06-15
 
 [Afghanistan](countries/Afghanistan)
 
@@ -53,6 +53,10 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Cameroon](countries/Cameroon)
 
 [Canada](countries/Canada)
+
+[Cape Verde](countries/Cape_Verde)
+
+[Central African Republic](countries/Central_African_Republic)
 
 [Chad](countries/Chad)
 
@@ -167,6 +171,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Lebanon](countries/Lebanon)
 
 [Liberia](countries/Liberia)
+
+[Libya](countries/Libya)
 
 [Lithuania](countries/Lithuania)
 
@@ -341,11 +347,7 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Cambodia](countries/Cambodia)
 
-[Cape Verde](countries/Cape_Verde)
-
 [Cayman Islands](countries/Cayman_Islands)
-
-[Central African Republic](countries/Central_African_Republic)
 
 [Comoros](countries/Comoros)
 
@@ -380,8 +382,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Laos](countries/Laos)
 
 [Lesotho](countries/Lesotho)
-
-[Libya](countries/Libya)
 
 [Liechtenstein](countries/Liechtenstein)
 

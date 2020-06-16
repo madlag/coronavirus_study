@@ -21,17 +21,17 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Suriname covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Suriname/2020-06-07_Suriname_day_deaths.png "Suriname covid-19 day_deaths static chart")   
+![Suriname covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Suriname/2020-06-15_Suriname_day_deaths.png "Suriname covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Suriname covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Suriname/2020-06-07_Suriname_deaths.png "Suriname covid-19 deaths static chart")   
+![Suriname covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Suriname/2020-06-15_Suriname_deaths.png "Suriname covid-19 deaths static chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Suriname covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Suriname/2020-06-07_Suriname_day_cases.png "Suriname covid-19 day_cases static chart")   
+![Suriname covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Suriname/2020-06-15_Suriname_day_cases.png "Suriname covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Suriname covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Suriname/2020-06-07_Suriname_cases.png "Suriname covid-19 cases static chart")   
+![Suriname covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Suriname/2020-06-15_Suriname_cases.png "Suriname covid-19 cases static chart")   
 

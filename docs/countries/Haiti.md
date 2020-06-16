@@ -1,6 +1,6 @@
 ## Haiti Covid-19 status comparison 
 
-Haiti covid-19 deaths are currently doubling each 16.00 days (observed initial average doubling time is 2.2 days across countries).
+Haiti covid-19 deaths are currently doubling each 15.37 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Haiti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_day_deaths.png "Haiti covid-19 day_deaths static chart")   
+![Haiti covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_day_deaths.png "Haiti covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Haiti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
+![Haiti covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_deaths.png "Haiti covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Haiti covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_day_deaths.gif "Haiti covid-19 day_deaths animated chart")   
+![Haiti covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_day_deaths.gif "Haiti covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Haiti covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
+![Haiti covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_deaths.gif "Haiti covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Haiti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_day_cases.png "Haiti covid-19 day_cases static chart")   
+![Haiti covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_day_cases.png "Haiti covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Haiti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_cases.png "Haiti covid-19 cases static chart")   
+![Haiti covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_cases.png "Haiti covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Haiti covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_day_cases.gif "Haiti covid-19 day_cases animated chart")   
+![Haiti covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_day_cases.gif "Haiti covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Haiti covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-07/countries/Haiti/2020-06-07_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
+![Haiti covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-15/countries/Haiti/2020-06-15_Haiti_cases.gif "Haiti covid-19 cases animated chart")   
 
