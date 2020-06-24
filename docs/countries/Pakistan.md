@@ -1,6 +1,6 @@
 ## Pakistan Covid-19 status comparison 
 
-Pakistan covid-19 deaths are currently doubling each 17.69 days (observed initial average doubling time is 2.2 days across countries).
+Pakistan covid-19 deaths are currently doubling each 18.83 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Pakistan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_day_deaths.png "Pakistan covid-19 day_deaths static chart")   
+![Pakistan covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_day_deaths.png "Pakistan covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Pakistan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
+![Pakistan covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_deaths.png "Pakistan covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Pakistan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_day_deaths.gif "Pakistan covid-19 day_deaths animated chart")   
+![Pakistan covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_day_deaths.gif "Pakistan covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Pakistan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_deaths.gif "Pakistan covid-19 deaths animated chart")   
+![Pakistan covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_deaths.gif "Pakistan covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Pakistan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_day_cases.png "Pakistan covid-19 day_cases static chart")   
+![Pakistan covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_day_cases.png "Pakistan covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Pakistan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
+![Pakistan covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_cases.png "Pakistan covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Pakistan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_day_cases.gif "Pakistan covid-19 day_cases animated chart")   
+![Pakistan covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_day_cases.gif "Pakistan covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Pakistan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/countries/Pakistan/2020-06-16_Pakistan_cases.gif "Pakistan covid-19 cases animated chart")   
+![Pakistan covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/countries/Pakistan/2020-06-24_Pakistan_cases.gif "Pakistan covid-19 cases animated chart")   
 

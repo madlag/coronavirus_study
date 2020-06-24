@@ -1,12 +1,12 @@
-##  COVID-19 2020-06-16 report
+##  COVID-19 2020-06-24 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/2020-06-16_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/2020-06-24_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-16/2020-06-16_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-24/2020-06-24_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-06-16
+### Most Affected Countries as of 2020-06-24
 
 [Afghanistan](countries/Afghanistan)
 
@@ -184,6 +184,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Madagascar](countries/Madagascar)
 
+[Malawi](countries/Malawi)
+
 [Malaysia](countries/Malaysia)
 
 [Maldives](countries/Maldives)
@@ -280,6 +282,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Sudan](countries/Sudan)
 
+[Suriname](countries/Suriname)
+
 [Sweden](countries/Sweden)
 
 [Switzerland](countries/Switzerland)
@@ -321,6 +325,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Yemen](countries/Yemen)
 
 [Zambia](countries/Zambia)
+
+[Zimbabwe](countries/Zimbabwe)
 
 
 ### Other Affected Countries
@@ -385,8 +391,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Liechtenstein](countries/Liechtenstein)
 
-[Malawi](countries/Malawi)
-
 [Monaco](countries/Monaco)
 
 [Mongolia](countries/Mongolia)
@@ -415,8 +419,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Seychelles](countries/Seychelles)
 
-[Suriname](countries/Suriname)
-
 [Timor Leste](countries/Timor_Leste)
 
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
@@ -426,5 +428,3 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Vietnam](countries/Vietnam)
 
 [Western Sahara](countries/Western_Sahara)
-
-[Zimbabwe](countries/Zimbabwe)
