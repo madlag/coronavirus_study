@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Saint Lucia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-28/countries/Saint_Lucia/2020-06-28_Saint_Lucia_day_cases.png "Saint Lucia covid-19 day_cases static chart")   
+![Saint Lucia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Saint_Lucia/2020-06-29_Saint_Lucia_day_cases.png "Saint Lucia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Saint Lucia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-28/countries/Saint_Lucia/2020-06-28_Saint_Lucia_cases.png "Saint Lucia covid-19 cases static chart")   
+![Saint Lucia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Saint_Lucia/2020-06-29_Saint_Lucia_cases.png "Saint Lucia covid-19 cases static chart")   
 
