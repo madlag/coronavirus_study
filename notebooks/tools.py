@@ -385,12 +385,12 @@ class MultiCountryGraph:
         self.average_data_length = average_data_length
 
         
-    def plot_(self, filename = None, clip = 0):
+    def plot_(self, filename = None, clip = 0, legend = True, callback = None):
         if filename != None:     
             matplotlib.use("Agg")  # Prevent showing stuff
             dpi = 160
         else:
-            dpi = 80
+            dpi = 160
             
         fig=plt.figure(figsize=(12, 8), dpi=dpi, facecolor='w', edgecolor='k')
 
@@ -424,10 +424,14 @@ class MultiCountryGraph:
             max_data = max(max_data, c_max_data)
             self.country_graphs.append(g)
             
+        if callback is not None:
+            callback()
+            
         if self.growth_reference:
             self.growth_reference_plot()
             
-        _ = plt.legend()
+        if legend:
+            _ = plt.legend()
         data_date = self.data_provider.max_date or self.data_provider.data_date
         data_type_base = self.data_type.replace("day_", "")
         if "day" not in self.data_type:
@@ -450,16 +454,16 @@ class MultiCountryGraph:
         plt.ylabel(self.data_type)
 
         data_type_offset = 0 if "deaths" in self.data_type else - 14
-        plt.xlim(35 + data_type_offset, 165 + data_type_offset)
+        plt.xlim(35 + data_type_offset, 195 + data_type_offset)
         plt.ylim(0.5, max_data * 1.2)
 
         if filename is not None:
             fig.savefig(filename)           
             
-    def plot(self, filename = None, clip = 0):
+    def plot(self, filename = None, clip = 0, legend = True):
         try:
             backend_ =  matplotlib.get_backend() 
-            self.plot_(filename, clip = clip)
+            self.plot_(filename, clip = clip, legend = legend)
         finally:
             matplotlib.use(backend_) # Reset backend
 
@@ -523,7 +527,7 @@ def run():
     if not root.exists():
         root.mkdir(parents= True)
 
-    main_chart_countries_set = [("main", ["South_Korea", "Germany", "United_Kingdom", "France", "Italy", "Spain", "United_States_Of_America"]),
+    main_chart_countries_set = [("main", ["South_Korea", "Germany", "United_Kingdom", "France", "Italy", "Brazil", "United_States_Of_America"]),
                                 ("scandinavia", ["Italy", "Sweden", "Denmark", "Norway", "Finland"])]
 
     step = 0
