@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Uganda covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Uganda/2020-06-29_Uganda_day_cases.png "Uganda covid-19 day_cases static chart")   
+![Uganda covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Uganda/2020-07-05_Uganda_day_cases.png "Uganda covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Uganda covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Uganda/2020-06-29_Uganda_cases.png "Uganda covid-19 cases static chart")   
+![Uganda covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Uganda/2020-07-05_Uganda_cases.png "Uganda covid-19 cases static chart")   
 

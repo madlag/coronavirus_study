@@ -1,6 +1,6 @@
 ## Angola Covid-19 status comparison 
 
-Angola covid-19 deaths are currently doubling each 21.70 days (observed initial average doubling time is 2.2 days across countries).
+Angola covid-19 deaths are currently doubling each 8.38 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Angola covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_day_deaths.png "Angola covid-19 day_deaths static chart")   
+![Angola covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_day_deaths.png "Angola covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Angola covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_deaths.png "Angola covid-19 deaths static chart")   
+![Angola covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_deaths.png "Angola covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Angola covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_day_deaths.gif "Angola covid-19 day_deaths animated chart")   
+![Angola covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_day_deaths.gif "Angola covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Angola covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_deaths.gif "Angola covid-19 deaths animated chart")   
+![Angola covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_deaths.gif "Angola covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Angola covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_day_cases.png "Angola covid-19 day_cases static chart")   
+![Angola covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_day_cases.png "Angola covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Angola covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_cases.png "Angola covid-19 cases static chart")   
+![Angola covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_cases.png "Angola covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Angola covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_day_cases.gif "Angola covid-19 day_cases animated chart")   
+![Angola covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_day_cases.gif "Angola covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Angola covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-06-29/countries/Angola/2020-06-29_Angola_cases.gif "Angola covid-19 cases animated chart")   
+![Angola covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Angola/2020-07-05_Angola_cases.gif "Angola covid-19 cases animated chart")   
 
