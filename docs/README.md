@@ -1,12 +1,12 @@
-##  COVID-19 2020-07-05 report
+##  COVID-19 2020-08-05 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/2020-07-05_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/2020-08-05_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/2020-07-05_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/2020-08-05_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-07-05
+### Most Affected Countries as of 2020-08-05
 
 [Afghanistan](countries/Afghanistan)
 
@@ -114,6 +114,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Gabon](countries/Gabon)
 
+[Gambia](countries/Gambia)
+
 [Georgia](countries/Georgia)
 
 [Germany](countries/Germany)
@@ -178,6 +180,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Lebanon](countries/Lebanon)
 
+[Lesotho](countries/Lesotho)
+
 [Liberia](countries/Liberia)
 
 [Libya](countries/Libya)
@@ -213,6 +217,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Mozambique](countries/Mozambique)
 
 [Myanmar](countries/Myanmar)
+
+[Namibia](countries/Namibia)
 
 [Nepal](countries/Nepal)
 
@@ -330,6 +336,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Venezuela](countries/Venezuela)
 
+[Vietnam](countries/Vietnam)
+
 [Yemen](countries/Yemen)
 
 [Zambia](countries/Zambia)
@@ -377,8 +385,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [French Polynesia](countries/French_Polynesia)
 
-[Gambia](countries/Gambia)
-
 [Gibraltar](countries/Gibraltar)
 
 [Greenland](countries/Greenland)
@@ -391,8 +397,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Laos](countries/Laos)
 
-[Lesotho](countries/Lesotho)
-
 [Liechtenstein](countries/Liechtenstein)
 
 [Monaco](countries/Monaco)
@@ -400,8 +404,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Mongolia](countries/Mongolia)
 
 [Montserrat](countries/Montserrat)
-
-[Namibia](countries/Namibia)
 
 [New Caledonia](countries/New_Caledonia)
 
@@ -424,7 +426,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 
 [Uganda](countries/Uganda)
-
-[Vietnam](countries/Vietnam)
 
 [Western Sahara](countries/Western_Sahara)

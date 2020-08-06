@@ -1,6 +1,6 @@
 ## Sint Maarten Covid-19 status comparison 
 
-Sint Maarten covid-19 deaths are currently doubling each -29377044892010424.00 days (observed initial average doubling time is 2.2 days across countries).
+Sint Maarten covid-19 deaths are currently doubling each 84.39 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Sint Maarten covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_day_deaths.png "Sint Maarten covid-19 day_deaths static chart")   
+![Sint Maarten covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_day_deaths.png "Sint Maarten covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Sint Maarten covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
+![Sint Maarten covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_deaths.png "Sint Maarten covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Sint Maarten covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_day_deaths.gif "Sint Maarten covid-19 day_deaths animated chart")   
+![Sint Maarten covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_day_deaths.gif "Sint Maarten covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Sint Maarten covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
+![Sint Maarten covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_deaths.gif "Sint Maarten covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Sint Maarten covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_day_cases.png "Sint Maarten covid-19 day_cases static chart")   
+![Sint Maarten covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_day_cases.png "Sint Maarten covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Sint Maarten covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
+![Sint Maarten covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_cases.png "Sint Maarten covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Sint Maarten covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_day_cases.gif "Sint Maarten covid-19 day_cases animated chart")   
+![Sint Maarten covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_day_cases.gif "Sint Maarten covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Sint Maarten covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Sint_Maarten/2020-07-05_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
+![Sint Maarten covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Sint_Maarten/2020-08-05_Sint_Maarten_cases.gif "Sint Maarten covid-19 cases animated chart")   
 

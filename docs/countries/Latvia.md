@@ -1,6 +1,6 @@
 ## Latvia Covid-19 status comparison 
 
-Latvia covid-19 deaths are currently doubling each 34015525664433128.00 days (observed initial average doubling time is 2.2 days across countries).
+Latvia covid-19 deaths are currently doubling each 144.09 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Latvia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_day_deaths.png "Latvia covid-19 day_deaths static chart")   
+![Latvia covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_day_deaths.png "Latvia covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Latvia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_deaths.png "Latvia covid-19 deaths static chart")   
+![Latvia covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_deaths.png "Latvia covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Latvia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_day_deaths.gif "Latvia covid-19 day_deaths animated chart")   
+![Latvia covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_day_deaths.gif "Latvia covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Latvia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_deaths.gif "Latvia covid-19 deaths animated chart")   
+![Latvia covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_deaths.gif "Latvia covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Latvia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_day_cases.png "Latvia covid-19 day_cases static chart")   
+![Latvia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_day_cases.png "Latvia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Latvia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_cases.png "Latvia covid-19 cases static chart")   
+![Latvia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_cases.png "Latvia covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Latvia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_day_cases.gif "Latvia covid-19 day_cases animated chart")   
+![Latvia covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_day_cases.gif "Latvia covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Latvia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-07-05/countries/Latvia/2020-07-05_Latvia_cases.gif "Latvia covid-19 cases animated chart")   
+![Latvia covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/countries/Latvia/2020-08-05_Latvia_cases.gif "Latvia covid-19 cases animated chart")   
 
