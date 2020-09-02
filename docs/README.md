@@ -1,12 +1,12 @@
-##  COVID-19 2020-08-05 report
+##  COVID-19 2020-09-01 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/2020-08-05_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/2020-09-01_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-08-05/2020-08-05_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/2020-09-01_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-08-05
+### Most Affected Countries as of 2020-09-01
 
 [Afghanistan](countries/Afghanistan)
 
@@ -21,6 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Argentina](countries/Argentina)
 
 [Armenia](countries/Armenia)
+
+[Aruba](countries/Aruba)
 
 [Australia](countries/Australia)
 
@@ -40,6 +42,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Belgium](countries/Belgium)
 
+[Belize](countries/Belize)
+
 [Benin](countries/Benin)
 
 [Bermuda](countries/Bermuda)
@@ -47,6 +51,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Bolivia](countries/Bolivia)
 
 [Bosnia And Herzegovina](countries/Bosnia_And_Herzegovina)
+
+[Botswana](countries/Botswana)
 
 [Brazil](countries/Brazil)
 
@@ -123,6 +129,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Ghana](countries/Ghana)
 
 [Greece](countries/Greece)
+
+[Guam](countries/Guam)
 
 [Guatemala](countries/Guatemala)
 
@@ -262,6 +270,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Russia](countries/Russia)
 
+[Rwanda](countries/Rwanda)
+
 [San Marino](countries/San_Marino)
 
 [Sao Tome And Principe](countries/Sao_Tome_And_Principe)
@@ -318,6 +328,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Turkey](countries/Turkey)
 
+[Uganda](countries/Uganda)
+
 [Ukraine](countries/Ukraine)
 
 [United Arab Emirates](countries/United_Arab_Emirates)
@@ -351,15 +363,9 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Antigua And Barbuda](countries/Antigua_And_Barbuda)
 
-[Aruba](countries/Aruba)
-
-[Belize](countries/Belize)
-
 [Bhutan](countries/Bhutan)
 
 [Bonaire, saint eustatius and saba](countries/Bonaire, saint eustatius and saba)
-
-[Botswana](countries/Botswana)
 
 [British Virgin Islands](countries/British_Virgin_Islands)
 
@@ -391,8 +397,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Grenada](countries/Grenada)
 
-[Guam](countries/Guam)
-
 [Holy See](countries/Holy_See)
 
 [Laos](countries/Laos)
@@ -411,8 +415,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Papua New Guinea](countries/Papua_New_Guinea)
 
-[Rwanda](countries/Rwanda)
-
 [Saint Kitts And Nevis](countries/Saint_Kitts_And_Nevis)
 
 [Saint Lucia](countries/Saint_Lucia)
@@ -424,7 +426,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Timor Leste](countries/Timor_Leste)
 
 [Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
-
-[Uganda](countries/Uganda)
 
 [Western Sahara](countries/Western_Sahara)
