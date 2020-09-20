@@ -1,6 +1,6 @@
 ## Aruba Covid-19 status comparison 
 
-Aruba covid-19 deaths are currently doubling each 14.58 days (observed initial average doubling time is 2.2 days across countries).
+Aruba covid-19 deaths are currently doubling each 16.56 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Aruba covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_day_deaths.png "Aruba covid-19 day_deaths static chart")   
+![Aruba covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_day_deaths.png "Aruba covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Aruba covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_deaths.png "Aruba covid-19 deaths static chart")   
+![Aruba covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_deaths.png "Aruba covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Aruba covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_day_deaths.gif "Aruba covid-19 day_deaths animated chart")   
+![Aruba covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_day_deaths.gif "Aruba covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Aruba covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_deaths.gif "Aruba covid-19 deaths animated chart")   
+![Aruba covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_deaths.gif "Aruba covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Aruba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_day_cases.png "Aruba covid-19 day_cases static chart")   
+![Aruba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_day_cases.png "Aruba covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Aruba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_cases.png "Aruba covid-19 cases static chart")   
+![Aruba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_cases.png "Aruba covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Aruba covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_day_cases.gif "Aruba covid-19 day_cases animated chart")   
+![Aruba covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_day_cases.gif "Aruba covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Aruba covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Aruba/2020-09-01_Aruba_cases.gif "Aruba covid-19 cases animated chart")   
+![Aruba covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Aruba/2020-09-20_Aruba_cases.gif "Aruba covid-19 cases animated chart")   
 

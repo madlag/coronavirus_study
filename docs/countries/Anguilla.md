@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Anguilla covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Anguilla/2020-09-01_Anguilla_day_cases.png "Anguilla covid-19 day_cases static chart")   
+![Anguilla covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Anguilla/2020-09-20_Anguilla_day_cases.png "Anguilla covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Anguilla covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-01/countries/Anguilla/2020-09-01_Anguilla_cases.png "Anguilla covid-19 cases static chart")   
+![Anguilla covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Anguilla/2020-09-20_Anguilla_cases.png "Anguilla covid-19 cases static chart")   
 
