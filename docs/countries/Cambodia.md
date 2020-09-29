@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Cambodia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Cambodia/2020-09-20_Cambodia_day_cases.png "Cambodia covid-19 day_cases static chart")   
+![Cambodia covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cambodia/2020-09-28_Cambodia_day_cases.png "Cambodia covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Cambodia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-20/countries/Cambodia/2020-09-20_Cambodia_cases.png "Cambodia covid-19 cases static chart")   
+![Cambodia covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cambodia/2020-09-28_Cambodia_cases.png "Cambodia covid-19 cases static chart")   
 
