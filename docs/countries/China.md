@@ -1,6 +1,6 @@
 ## China Covid-19 status comparison 
 
-China covid-19 deaths are currently doubling each 11779.93 days (observed initial average doubling time is 2.2 days across countries).
+China covid-19 deaths are currently doubling each -3126791701579206.50 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![China covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_day_deaths.png "China covid-19 day_deaths static chart")   
+![China covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_day_deaths.png "China covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![China covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_deaths.png "China covid-19 deaths static chart")   
+![China covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_deaths.png "China covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![China covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_day_deaths.gif "China covid-19 day_deaths animated chart")   
+![China covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_day_deaths.gif "China covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![China covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_deaths.gif "China covid-19 deaths animated chart")   
+![China covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_deaths.gif "China covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![China covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_day_cases.png "China covid-19 day_cases static chart")   
+![China covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_day_cases.png "China covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![China covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_cases.png "China covid-19 cases static chart")   
+![China covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_cases.png "China covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![China covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_day_cases.gif "China covid-19 day_cases animated chart")   
+![China covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_day_cases.gif "China covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![China covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/China/2020-09-28_China_cases.gif "China covid-19 cases animated chart")   
+![China covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/China/2020-10-09_China_cases.gif "China covid-19 cases animated chart")   
 

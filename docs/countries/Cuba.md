@@ -1,6 +1,6 @@
 ## Cuba Covid-19 status comparison 
 
-Cuba covid-19 deaths are currently doubling each 78.35 days (observed initial average doubling time is 2.2 days across countries).
+Cuba covid-19 deaths are currently doubling each 583.76 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Cuba covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_day_deaths.png "Cuba covid-19 day_deaths static chart")   
+![Cuba covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_day_deaths.png "Cuba covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Cuba covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_deaths.png "Cuba covid-19 deaths static chart")   
+![Cuba covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_deaths.png "Cuba covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Cuba covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_day_deaths.gif "Cuba covid-19 day_deaths animated chart")   
+![Cuba covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_day_deaths.gif "Cuba covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Cuba covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_deaths.gif "Cuba covid-19 deaths animated chart")   
+![Cuba covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_deaths.gif "Cuba covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Cuba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_day_cases.png "Cuba covid-19 day_cases static chart")   
+![Cuba covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_day_cases.png "Cuba covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Cuba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_cases.png "Cuba covid-19 cases static chart")   
+![Cuba covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_cases.png "Cuba covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Cuba covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_day_cases.gif "Cuba covid-19 day_cases animated chart")   
+![Cuba covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_day_cases.gif "Cuba covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Cuba covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Cuba/2020-09-28_Cuba_cases.gif "Cuba covid-19 cases animated chart")   
+![Cuba covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Cuba/2020-10-09_Cuba_cases.gif "Cuba covid-19 cases animated chart")   
 

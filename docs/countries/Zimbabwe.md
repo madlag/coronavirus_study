@@ -1,6 +1,6 @@
 ## Zimbabwe Covid-19 status comparison 
 
-Zimbabwe covid-19 deaths are currently doubling each 469.51 days (observed initial average doubling time is 2.2 days across countries).
+Zimbabwe covid-19 deaths are currently doubling each 1244.44 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Zimbabwe covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_day_deaths.png "Zimbabwe covid-19 day_deaths static chart")   
+![Zimbabwe covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_day_deaths.png "Zimbabwe covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Zimbabwe covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_deaths.png "Zimbabwe covid-19 deaths static chart")   
+![Zimbabwe covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_deaths.png "Zimbabwe covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Zimbabwe covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_day_deaths.gif "Zimbabwe covid-19 day_deaths animated chart")   
+![Zimbabwe covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_day_deaths.gif "Zimbabwe covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Zimbabwe covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_deaths.gif "Zimbabwe covid-19 deaths animated chart")   
+![Zimbabwe covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_deaths.gif "Zimbabwe covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Zimbabwe covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_day_cases.png "Zimbabwe covid-19 day_cases static chart")   
+![Zimbabwe covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_day_cases.png "Zimbabwe covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Zimbabwe covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_cases.png "Zimbabwe covid-19 cases static chart")   
+![Zimbabwe covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_cases.png "Zimbabwe covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Zimbabwe covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_day_cases.gif "Zimbabwe covid-19 day_cases animated chart")   
+![Zimbabwe covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_day_cases.gif "Zimbabwe covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Zimbabwe covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Zimbabwe/2020-09-28_Zimbabwe_cases.gif "Zimbabwe covid-19 cases animated chart")   
+![Zimbabwe covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Zimbabwe/2020-10-09_Zimbabwe_cases.gif "Zimbabwe covid-19 cases animated chart")   
 

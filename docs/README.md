@@ -1,12 +1,12 @@
-##  COVID-19 2020-09-28 report
+##  COVID-19 2020-10-09 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/2020-09-28_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/2020-10-09_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/2020-09-28_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/2020-10-09_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-09-28
+### Most Affected Countries as of 2020-10-09
 
 [Afghanistan](countries/Afghanistan)
 
@@ -117,6 +117,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Finland](countries/Finland)
 
 [France](countries/France)
+
+[French Polynesia](countries/French_Polynesia)
 
 [Gabon](countries/Gabon)
 
@@ -330,6 +332,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Turkey](countries/Turkey)
 
+[Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
+
 [Uganda](countries/Uganda)
 
 [Ukraine](countries/Ukraine)
@@ -391,8 +395,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Fiji](countries/Fiji)
 
-[French Polynesia](countries/French_Polynesia)
-
 [Gibraltar](countries/Gibraltar)
 
 [Greenland](countries/Greenland)
@@ -424,7 +426,5 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Seychelles](countries/Seychelles)
 
 [Timor Leste](countries/Timor_Leste)
-
-[Turks And Caicos Islands](countries/Turks_And_Caicos_Islands)
 
 [Western Sahara](countries/Western_Sahara)

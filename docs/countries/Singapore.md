@@ -1,6 +1,6 @@
 ## Singapore Covid-19 status comparison 
 
-Singapore covid-19 deaths are currently doubling each 10906941065335876.00 days (observed initial average doubling time is 2.2 days across countries).
+Singapore covid-19 deaths are currently doubling each -12049587532914990.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Singapore covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_day_deaths.png "Singapore covid-19 day_deaths static chart")   
+![Singapore covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_day_deaths.png "Singapore covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Singapore covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
+![Singapore covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_deaths.png "Singapore covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Singapore covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_day_deaths.gif "Singapore covid-19 day_deaths animated chart")   
+![Singapore covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_day_deaths.gif "Singapore covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Singapore covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_deaths.gif "Singapore covid-19 deaths animated chart")   
+![Singapore covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_deaths.gif "Singapore covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Singapore covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_day_cases.png "Singapore covid-19 day_cases static chart")   
+![Singapore covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_day_cases.png "Singapore covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Singapore covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_cases.png "Singapore covid-19 cases static chart")   
+![Singapore covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_cases.png "Singapore covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Singapore covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_day_cases.gif "Singapore covid-19 day_cases animated chart")   
+![Singapore covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_day_cases.gif "Singapore covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Singapore covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-09-28/countries/Singapore/2020-09-28_Singapore_cases.gif "Singapore covid-19 cases animated chart")   
+![Singapore covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Singapore/2020-10-09_Singapore_cases.gif "Singapore covid-19 cases animated chart")   
 
