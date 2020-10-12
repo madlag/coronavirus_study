@@ -1,6 +1,6 @@
 ## Bangladesh Covid-19 status comparison 
 
-Bangladesh covid-19 deaths are currently doubling each 139.13 days (observed initial average doubling time is 2.2 days across countries).
+Bangladesh covid-19 deaths are currently doubling each 145.45 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Bangladesh covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_day_deaths.png "Bangladesh covid-19 day_deaths static chart")   
+![Bangladesh covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_day_deaths.png "Bangladesh covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Bangladesh covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
+![Bangladesh covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_deaths.png "Bangladesh covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Bangladesh covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_day_deaths.gif "Bangladesh covid-19 day_deaths animated chart")   
+![Bangladesh covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_day_deaths.gif "Bangladesh covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Bangladesh covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_deaths.gif "Bangladesh covid-19 deaths animated chart")   
+![Bangladesh covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_deaths.gif "Bangladesh covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Bangladesh covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_day_cases.png "Bangladesh covid-19 day_cases static chart")   
+![Bangladesh covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_day_cases.png "Bangladesh covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Bangladesh covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
+![Bangladesh covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_cases.png "Bangladesh covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Bangladesh covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_day_cases.gif "Bangladesh covid-19 day_cases animated chart")   
+![Bangladesh covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_day_cases.gif "Bangladesh covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Bangladesh covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-09/countries/Bangladesh/2020-10-09_Bangladesh_cases.gif "Bangladesh covid-19 cases animated chart")   
+![Bangladesh covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-11/countries/Bangladesh/2020-10-11_Bangladesh_cases.gif "Bangladesh covid-19 cases animated chart")   
 
