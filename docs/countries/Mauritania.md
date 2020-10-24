@@ -1,6 +1,6 @@
 ## Mauritania Covid-19 status comparison 
 
-Mauritania covid-19 deaths are currently doubling each 2064.99 days (observed initial average doubling time is 2.2 days across countries).
+Mauritania covid-19 deaths are currently doubling each 86789132137432016.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Mauritania covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_day_deaths.png "Mauritania covid-19 day_deaths static chart")   
+![Mauritania covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_day_deaths.png "Mauritania covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Mauritania covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_deaths.png "Mauritania covid-19 deaths static chart")   
+![Mauritania covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_deaths.png "Mauritania covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Mauritania covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_day_deaths.gif "Mauritania covid-19 day_deaths animated chart")   
+![Mauritania covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_day_deaths.gif "Mauritania covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Mauritania covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_deaths.gif "Mauritania covid-19 deaths animated chart")   
+![Mauritania covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_deaths.gif "Mauritania covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Mauritania covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_day_cases.png "Mauritania covid-19 day_cases static chart")   
+![Mauritania covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_day_cases.png "Mauritania covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Mauritania covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_cases.png "Mauritania covid-19 cases static chart")   
+![Mauritania covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_cases.png "Mauritania covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Mauritania covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_day_cases.gif "Mauritania covid-19 day_cases animated chart")   
+![Mauritania covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_day_cases.gif "Mauritania covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Mauritania covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-20/countries/Mauritania/2020-10-20_Mauritania_cases.gif "Mauritania covid-19 cases animated chart")   
+![Mauritania covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Mauritania/2020-10-24_Mauritania_cases.gif "Mauritania covid-19 cases animated chart")   
 
