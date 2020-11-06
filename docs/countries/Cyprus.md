@@ -1,6 +1,6 @@
 ## Cyprus Covid-19 status comparison 
 
-Cyprus covid-19 deaths are currently doubling each 34715652854972804.00 days (observed initial average doubling time is 2.2 days across countries).
+Cyprus covid-19 deaths are currently doubling each 65.96 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Cyprus covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_day_deaths.png "Cyprus covid-19 day_deaths static chart")   
+![Cyprus covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_day_deaths.png "Cyprus covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Cyprus covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
+![Cyprus covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_deaths.png "Cyprus covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Cyprus covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_day_deaths.gif "Cyprus covid-19 day_deaths animated chart")   
+![Cyprus covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_day_deaths.gif "Cyprus covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Cyprus covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
+![Cyprus covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_deaths.gif "Cyprus covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Cyprus covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_day_cases.png "Cyprus covid-19 day_cases static chart")   
+![Cyprus covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_day_cases.png "Cyprus covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Cyprus covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
+![Cyprus covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_cases.png "Cyprus covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Cyprus covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_day_cases.gif "Cyprus covid-19 day_cases animated chart")   
+![Cyprus covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_day_cases.gif "Cyprus covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Cyprus covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Cyprus/2020-10-24_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
+![Cyprus covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Cyprus/2020-11-06_Cyprus_cases.gif "Cyprus covid-19 cases animated chart")   
 

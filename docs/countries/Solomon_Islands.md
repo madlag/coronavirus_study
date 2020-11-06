@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Solomon Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Solomon_Islands/2020-10-24_Solomon_Islands_day_cases.png "Solomon Islands covid-19 day_cases static chart")   
+![Solomon Islands covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Solomon_Islands/2020-11-06_Solomon_Islands_day_cases.png "Solomon Islands covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Solomon Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-10-24/countries/Solomon_Islands/2020-10-24_Solomon_Islands_cases.png "Solomon Islands covid-19 cases static chart")   
+![Solomon Islands covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Solomon_Islands/2020-11-06_Solomon_Islands_cases.png "Solomon Islands covid-19 cases static chart")   
 
