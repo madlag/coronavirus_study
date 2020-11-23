@@ -1,6 +1,6 @@
 ## Vietnam Covid-19 status comparison 
 
-Vietnam covid-19 deaths are currently doubling each -9064606289689872.00 days (observed initial average doubling time is 2.2 days across countries).
+Vietnam covid-19 deaths are currently doubling each -13008146504361848.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Vietnam covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_day_deaths.png "Vietnam covid-19 day_deaths static chart")   
+![Vietnam covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_day_deaths.png "Vietnam covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Vietnam covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_deaths.png "Vietnam covid-19 deaths static chart")   
+![Vietnam covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_deaths.png "Vietnam covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Vietnam covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_day_deaths.gif "Vietnam covid-19 day_deaths animated chart")   
+![Vietnam covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_day_deaths.gif "Vietnam covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Vietnam covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_deaths.gif "Vietnam covid-19 deaths animated chart")   
+![Vietnam covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_deaths.gif "Vietnam covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Vietnam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_day_cases.png "Vietnam covid-19 day_cases static chart")   
+![Vietnam covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_day_cases.png "Vietnam covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Vietnam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
+![Vietnam covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_cases.png "Vietnam covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Vietnam covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_day_cases.gif "Vietnam covid-19 day_cases animated chart")   
+![Vietnam covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_day_cases.gif "Vietnam covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Vietnam covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Vietnam/2020-11-06_Vietnam_cases.gif "Vietnam covid-19 cases animated chart")   
+![Vietnam covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vietnam/2020-11-22_Vietnam_cases.gif "Vietnam covid-19 cases animated chart")   
 

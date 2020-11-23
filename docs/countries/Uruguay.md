@@ -1,6 +1,6 @@
 ## Uruguay Covid-19 status comparison 
 
-Uruguay covid-19 deaths are currently doubling each 50.17 days (observed initial average doubling time is 2.2 days across countries).
+Uruguay covid-19 deaths are currently doubling each 61.11 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Uruguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_day_deaths.png "Uruguay covid-19 day_deaths static chart")   
+![Uruguay covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_day_deaths.png "Uruguay covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Uruguay covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
+![Uruguay covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_deaths.png "Uruguay covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Uruguay covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_day_deaths.gif "Uruguay covid-19 day_deaths animated chart")   
+![Uruguay covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_day_deaths.gif "Uruguay covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Uruguay covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
+![Uruguay covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_deaths.gif "Uruguay covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Uruguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_day_cases.png "Uruguay covid-19 day_cases static chart")   
+![Uruguay covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_day_cases.png "Uruguay covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Uruguay covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
+![Uruguay covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_cases.png "Uruguay covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Uruguay covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_day_cases.gif "Uruguay covid-19 day_cases animated chart")   
+![Uruguay covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_day_cases.gif "Uruguay covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Uruguay covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Uruguay/2020-11-06_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
+![Uruguay covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Uruguay/2020-11-22_Uruguay_cases.gif "Uruguay covid-19 cases animated chart")   
 

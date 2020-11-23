@@ -18,11 +18,20 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 
  
+### Deaths over time
+ 
+#### Daily deaths (static)
+![Gibraltar covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Gibraltar/2020-11-22_Gibraltar_day_deaths.png "Gibraltar covid-19 day_deaths static chart")   
+ 
+#### Cumulated deaths (static)
+![Gibraltar covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Gibraltar/2020-11-22_Gibraltar_deaths.png "Gibraltar covid-19 deaths static chart")   
+
+ 
 ### Cases over time
  
 #### Daily cases (static)
-![Gibraltar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Gibraltar/2020-11-06_Gibraltar_day_cases.png "Gibraltar covid-19 day_cases static chart")   
+![Gibraltar covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Gibraltar/2020-11-22_Gibraltar_day_cases.png "Gibraltar covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Gibraltar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/countries/Gibraltar/2020-11-06_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
+![Gibraltar covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Gibraltar/2020-11-22_Gibraltar_cases.png "Gibraltar covid-19 cases static chart")   
 

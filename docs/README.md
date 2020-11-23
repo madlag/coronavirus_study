@@ -1,12 +1,12 @@
-##  COVID-19 2020-11-06 report
+##  COVID-19 2020-11-22 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/2020-11-06_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/2020-11-22_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-06/2020-11-06_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/2020-11-22_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-11-06
+### Most Affected Countries as of 2020-11-22
 
 [Afghanistan](countries/Afghanistan)
 
@@ -195,6 +195,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Liberia](countries/Liberia)
 
 [Libya](countries/Libya)
+
+[Liechtenstein](countries/Liechtenstein)
 
 [Lithuania](countries/Lithuania)
 
@@ -405,8 +407,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 
 [Laos](countries/Laos)
 
-[Liechtenstein](countries/Liechtenstein)
-
 [Marshall Islands](countries/Marshall_Islands)
 
 [Monaco](countries/Monaco)
@@ -430,6 +430,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Solomon Islands](countries/Solomon_Islands)
 
 [Timor Leste](countries/Timor_Leste)
+
+[Vanuatu](countries/Vanuatu)
 
 [Wallis And Futuna](countries/Wallis_And_Futuna)
 
