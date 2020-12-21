@@ -1,12 +1,12 @@
-##  COVID-19 2020-11-22 report
+##  COVID-19 2020-12-14 report
 Feel free to use these charts to raise awareness about the danger Covid-19 represents. 
 
 
-![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/2020-11-22_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
+![Covid-19 Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/2020-12-14_main_comparison_day_deaths.png "Covid-19 Cumulated Chart for South Korea, Germany, United Kingdom, France, Italy, Brazil, United States Of America")
 
-![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/2020-11-22_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
+![Covid-19 Chart for Italy, Sweden, Denmark, Norway, Finland](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/2020-12-14_scandinavia_comparison_day_deaths.png "Covid-19 Daily Chart for Italy, Sweden, Denmark, Norway, Finland")
 
-### Most Affected Countries as of 2020-11-22
+### Most Affected Countries as of 2020-12-14
 
 [Afghanistan](countries/Afghanistan)
 
@@ -87,6 +87,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Croatia](countries/Croatia)
 
 [Cuba](countries/Cuba)
+
+[Curaã§ao](countries/Curaã§ao)
 
 [Cyprus](countries/Cyprus)
 
@@ -384,8 +386,6 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 [Cambodia](countries/Cambodia)
 
 [Cayman Islands](countries/Cayman_Islands)
-
-[Curaã§ao](countries/Curaã§ao)
 
 [Dominica](countries/Dominica)
 

@@ -1,6 +1,6 @@
 ## Equatorial Guinea Covid-19 status comparison 
 
-Equatorial Guinea covid-19 deaths are currently doubling each -9085054701459070.00 days (observed initial average doubling time is 2.2 days across countries).
+Equatorial Guinea covid-19 deaths are currently doubling each -4632738429901008.00 days (observed initial average doubling time is 2.2 days across countries).
 
 
 
@@ -21,29 +21,29 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Deaths over time
  
 #### Daily deaths (static)
-![Equatorial Guinea covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_day_deaths.png "Equatorial Guinea covid-19 day_deaths static chart")   
+![Equatorial Guinea covid-19 daily deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_day_deaths.png "Equatorial Guinea covid-19 day_deaths static chart")   
  
 #### Cumulated deaths (static)
-![Equatorial Guinea covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_deaths.png "Equatorial Guinea covid-19 deaths static chart")   
+![Equatorial Guinea covid-19 cumulated deaths static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_deaths.png "Equatorial Guinea covid-19 deaths static chart")   
  
 #### Daily deaths (animated)
-![Equatorial Guinea covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_day_deaths.gif "Equatorial Guinea covid-19 day_deaths animated chart")   
+![Equatorial Guinea covid-19 daily deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_day_deaths.gif "Equatorial Guinea covid-19 day_deaths animated chart")   
  
 #### Cumulated deaths (animated)
-![Equatorial Guinea covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_deaths.gif "Equatorial Guinea covid-19 deaths animated chart")   
+![Equatorial Guinea covid-19 cumulated deaths animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_deaths.gif "Equatorial Guinea covid-19 deaths animated chart")   
 
  
 ### Cases over time
  
 #### Daily cases (static)
-![Equatorial Guinea covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_day_cases.png "Equatorial Guinea covid-19 day_cases static chart")   
+![Equatorial Guinea covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_day_cases.png "Equatorial Guinea covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Equatorial Guinea covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_cases.png "Equatorial Guinea covid-19 cases static chart")   
+![Equatorial Guinea covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_cases.png "Equatorial Guinea covid-19 cases static chart")   
  
 #### Daily cases (animated)
-![Equatorial Guinea covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_day_cases.gif "Equatorial Guinea covid-19 day_cases animated chart")   
+![Equatorial Guinea covid-19 daily cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_day_cases.gif "Equatorial Guinea covid-19 day_cases animated chart")   
  
 #### Cumulated cases (animated)
-![Equatorial Guinea covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Equatorial_Guinea/2020-11-22_Equatorial_Guinea_cases.gif "Equatorial Guinea covid-19 cases animated chart")   
+![Equatorial Guinea covid-19 cumulated cases animated chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Equatorial_Guinea/2020-12-14_Equatorial_Guinea_cases.gif "Equatorial Guinea covid-19 cases animated chart")   
 

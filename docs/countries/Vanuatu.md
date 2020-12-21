@@ -21,8 +21,8 @@ Feel free to use these charts to raise awareness about the danger Covid-19 repre
 ### Cases over time
  
 #### Daily cases (static)
-![Vanuatu covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vanuatu/2020-11-22_Vanuatu_day_cases.png "Vanuatu covid-19 day_cases static chart")   
+![Vanuatu covid-19 daily cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Vanuatu/2020-12-14_Vanuatu_day_cases.png "Vanuatu covid-19 day_cases static chart")   
  
 #### Cumulated cases (static)
-![Vanuatu covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-11-22/countries/Vanuatu/2020-11-22_Vanuatu_cases.png "Vanuatu covid-19 cases static chart")   
+![Vanuatu covid-19 cumulated cases static chart](https://raw.githubusercontent.com/madlag/coronavirus_study/master/notebooks/graphs/2020-12-14/countries/Vanuatu/2020-12-14_Vanuatu_cases.png "Vanuatu covid-19 cases static chart")   
 
